@@ -1,0 +1,116 @@
+# Banning ChatGPT
+
+### PLUS: an email summariser and draft reply writer.
+
+![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+
+[Ben Tossell](https://www.twitter.com/bentossell)  
+January 16, 2023
+
+Hello and welcome to the 2,151 new readers joining since last week. This is Ben's Bites.
+
+Hope you all had a great weekend. My parents visited so lots of eating and drinking was involved. My highlight? My dad confidently saying "Drop Mic" instead of "Mic drop". He tried so hard to get a recent reference in and tripped at the finish line.
+
+Let's get to it.
+
+p.s. if you find interesting things that I should include, tweet me 'tip [@bentossell](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JlbnRvc3NlbGwiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjgsImlzcyI6Im9yY2hpZCJ9.LXJ3YokXzOeOQjVZzEYqX6ud79kMokdCAhBy8ppctYA)' 😊
+
+[Sponsor](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Nwb25zb3IuYmVuc2JpdGVzLmNvLyIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ1Ljk2OCwiaXNzIjoib3JjaGlkIn0.pXxvGzN3JMebJyzPgkXFSfS3wV5X5flI91VK7WU9A8w) | [Join Discord](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvcWQ5Mk5LakRkRSIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ1Ljk2OCwiaXNzIjoib3JjaGlkIn0.U_9fYCvBsDW0GimxmafHSqw4Uw-Vfae7JFJdwXB8y_Q) | [Host or join a meetup](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZXR1cHMuYmVuc2JpdGVzLmNvLyIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ1Ljk2OCwiaXNzIjoib3JjaGlkIn0.dqPeywkOhwWEw3Mvjkp3GzsX1kRqIy8IC-ismfRZBHg)
+
+### 🤌 Ben's Picks
+
+#### 1/
+
+I built a simple tool for email. Get **emails summarised and a draft reply written**, using AI. I saw a tweet that was asking for this and knew it could be done with Zapier + OpenAI so I built it in like 10 minutes. You could build this out and make it better or more accurate but it's a great step. I may do similar for organising my emails too. ([link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JlbnRvc3NlbGwvc3RhdHVzLzE2MTQ1ODM5NjQyODIyODE5ODQiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjgsImlzcyI6Im9yY2hpZCJ9.U8KY6zjzTXbaM51o1eFigsG-F1-dk6RO8Z517DwCg5U))
+
+#### 2/
+
+I'm loving how much Dan Shipper is diving into AI and running a bunch of experiments. "**GPT-3 is the best journal** I’ve ever used". Some key takeaways: GPT-3 can be used to create a written record, and can provide support similar to that of an empathic friend, Chatbots can be great for journaling, as they can help you get your thoughts out of your head, increase self-awareness, and create a record of your journey, and GPT-3 can be used to take on the persona of a compassionate figure, or to act as a bot well-versed in various therapy modalities. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2V2ZXJ5LnRvL3N1cGVyb3JnYW5pemVycy9ncHQtMy1pcy10aGUtYmVzdC1qb3VybmFsLXlvdS12ZS1ldmVyLXVzZWQiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjksImlzcyI6Im9yY2hpZCJ9.8rw07z3qqZuur-uTS1phO-H094JhHk29vwtUw2CLPMY))
+
+#### 3/
+
+**"Don’t ban ChatGPT** in schools. Teach with it." A new article from the New York Times looking into the recent debate around AI and students. Personally I think it's just a new thing that people don't understand fully, so they're scared. Schools should definitely embrace this and try and include it in their lessons. Kids will always have access to these tools through their phones, denying its existence and ignoring its potential would be like not allowing kids to use computers in school. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIzLzAxLzEyL3RlY2hub2xvZ3kvY2hhdGdwdC1zY2hvb2xzLXRlYWNoZXJzLmh0bWwiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjksImlzcyI6Im9yY2hpZCJ9.PJqPkG2ggIK4XoPpVaJpNmfT7jYsrT5IxVarPQ6OSPQ))
+
+Today's email is brought to you by **[SatPost](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RydW5ncGhhbi5zdWJzdGFjay5jb20vc3Vic2NyaWJlIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDUuOTY5LCJpc3MiOiJvcmNoaWQifQ.H67yW78T0MLEYp9f2BpjWM63-_vqKoqONqoxL0lOooU)** - a weekly (Saturday) newsletter from my mate, Trung Phan.  
+It's packed with all **the latest tech, business, and media news, plus a healthy dose of really dumb memes**.  
+If you're looking to start your weekend off on the right foot, stay informed and entertained, SatPost is the newsletter for you. Trust me, Trung is a master at finding the best memes out there, let him guide you through the weekend.  
+  
+**[Check out SatPost](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RydW5ncGhhbi5zdWJzdGFjay5jb20vc3Vic2NyaWJlIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDUuOTY5LCJpc3MiOiJvcmNoaWQifQ.H67yW78T0MLEYp9f2BpjWM63-_vqKoqONqoxL0lOooU)**
+
+### 🛠️ Cool Tools
+
+* Albus for MS Teams - Your GPT-3 powered personal **AI teammate inside MS Teams.** ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5wcm9kdWN0aHVudC5jb20vcG9zdHMvYWxidXMtZm9yLW1zLXRlYW1zIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDUuOTY5LCJpc3MiOiJvcmNoaWQifQ.ZscCfUm2sqiXWWlVgavK3LR08UB6XfzY14SjDMPxM7U))
+* Getaiway - **Plan your dream trip** in 1 minute. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dldGFpd2F5LmNvbS8iLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjksImlzcyI6Im9yY2hpZCJ9.Hbnq_V-yJ1TmAilFwWVVXPDl6kX0jibqvp_njkkiA1M))
+* Blubi - Transform the way you **showcase your content**from static to engaging with an AI-powered chatbot. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vYmx1YmkuYWkvIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDUuOTY5LCJpc3MiOiJvcmNoaWQifQ.hTYa3-EO9V56uKBl2R1j7brI70buq6PQBVDUSCM4fjI))
+* TableTalk - A better way to **interact with your database**in a familiar chat-like interface. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50YWJsZXRhbGsuYWkvIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDUuOTY5LCJpc3MiOiJvcmNoaWQifQ.i8irqrwNFRdZ872-9UNHdfPcqw28Iq4ESp7irqCGiBs))
+* Operand for Teams - Adds extra results to Google by **searching through the apps your team uses** for work. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL29wZXJhbmQuYWkvdGVhbXMiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjksImlzcyI6Im9yY2hpZCJ9.F5qaOy01y8Svp3cvSfRX6gSfMhmKmFutN4SNfn7KF8U))
+* Scribble AI - Effortlessly **generate** **text** with Open AI's GPT. *iOS app only*. ([link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FwcHMuYXBwbGUuY29tL3VzL2FwcC9zY3JpYmJsZS1haS9pZDE2NjIwODEwMTgiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0NS45NjksImlzcyI6Im9yY2hpZCJ9.rDZpWlWz4eILeCyAgb1VmhoknCcAgloCfEJ-1dJ9ffM))
+* PaperBrain - A platform to access and **understand research papers.**([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL25hd2VkMjYxMS9zdGF0dXMvMTYxMzk5MDQ1OTczNDYyNjMwNCIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ1Ljk2OSwiaXNzIjoib3JjaGlkIn0.XVQum8ZKH81Z5wKGlDU07zjNJhM4Jy29h0DbB3OjYao))
+* Magic Thumbnails - Just put in a video title and description, and let the AI generate **Youtube thumbnails.** ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3JveGNvZGVzL3N0YXR1cy8xNjE0NDg0NDc5ODU0NDExNzc2IiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA0LCJpc3MiOiJvcmNoaWQifQ.ewVUTu3-gXposHjPrcGNqYT97evX4jV2kQ6h8n9Yt1k))
+* Dr Doc Search - A fully open-source pipeline and web app for **conversing with PDFs.**([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbmFtdWFuL2RyLWRvYy1zZWFyY2giLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDQsImlzcyI6Im9yY2hpZCJ9._h19poRmKz_TgSSdj2AxCsByR6Qw93IsU5ZMLc6cgLY))
+* **GPT for Sheets** - Get help with inspiration, categorisation, translation, correction, and summarisation with the GPT function. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3dvcmtzcGFjZS5nb29nbGUuY29tL21hcmtldHBsYWNlL2FwcC9ncHRfZm9yX3NoZWV0cy82NzczMTgwNTQ2NTQiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDQsImlzcyI6Im9yY2hpZCJ9.Ufs7-JGCwzhBTr2kO9Cov-v-CN59Mcvc0ddPAfh4WpY))
+
+![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/ba51eaf8-a164-45dd-9855-249e209f5c7a/New_slide__01.png)
+
+### 🤓 Miscellaneous
+
+* Google Cloud introduces shelf inventory **AI tool for retailers.**([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53c2ouY29tL2FydGljbGVzL2dvb2dsZS1jbG91ZC1pbnRyb2R1Y2VzLXNoZWxmLWludmVudG9yeS1haS10b29sLWZvci1yZXRhaWxlcnMtMTE2NzM1NDk0NDIiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDQsImlzcyI6Im9yY2hpZCJ9.DUivUAYeMc4RDk2C9mtljxJ8Ilw6fhZXdNb8b8GjiPM))
+* **Scientists, please** don’t let your chatbots grow up to be co-authors. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dhcnltYXJjdXMuc3Vic3RhY2suY29tL3Avc2NpZW50aXN0cy1wbGVhc2UtZG9udC1sZXQteW91ci1jaGF0Ym90cyIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.98NkcDpNsUogkze_igaTClz1EauIGZRA2Hg19xV39dk))
+* **This model does not exist**\- An AI-generated Model posts daily photos on Instagram based on upvotes. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGlzbW9kZWxkb2Vzbm90ZXhpc3QuY28vIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA0LCJpc3MiOiJvcmNoaWQifQ.wM5x3tAETiapVXHpSMejewU536C1D-Xo_cylotQ5u7c))
+* Every **Google** **vs** **OpenAI** argument, dissected**.** ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2xzcGFjZS5zd3l4LmlvL3AvZ29vZ2xlLXZzLW9wZW5haSIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.2lhT28voISaWQjcmkQqIx9nuCfABN1zlkQRlQJkgWIs))
+* **Co-writing with AI -**A guide for curious authors. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JpZ2tpZGxhYi5ndW1yb2FkLmNvbS9sL2NvLXdyaXRpbmctd2l0aC1BSSIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.VVLVFbecuXGKBi8t0qhJqYXAHSsvdPBitCtElxT3k9Y))
+* Are large language models (LLMs) going to **kill Google?**Probably not. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2N3b2xmZXJlc2VhcmNoL3N0YXR1cy8xNjE0Mjk2Njc2MzQwMjMyMTkzIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA0LCJpc3MiOiJvcmNoaWQifQ.P4jKSC8V_CgpHKcl3v1l7lubUkQnZZQmdTQQTXBcgig))
+* What is the **self-driving car of NLP?** ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0cmVhbS50aGVzZXBoaXN0LmNvbS91cGRhdGVzLzE2NzMzOTA2NzQiLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDQsImlzcyI6Im9yY2hpZCJ9.rmoYmx9YqRp-aNDmKy5YOLdXMdjqagV7PTmyCAdafH8))
+* Apply for **Replit’s first machine learning hackathon.** ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Jsb2cucmVwbGl0LmNvbS9tbC1oYWNrYXRob24iLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDQsImlzcyI6Im9yY2hpZCJ9.EnwaXXnZAsngMQRYuY-3D_VmEijnZq_Fvu8u2j1POIg))
+
+### 🎓 Learn
+
+* **Using ChatGPT to take action.** Generate tasks based on prompts and save to Notion. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL25pY2tzY2FtYXJhXy9zdGF0dXMvMTYxNDExOTAzNDE5NDEwMDIyNCIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.vbg-rnnv4I8cjRu0DMjwQ8EooSmLjw3B38cLnZw85G8))
+
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.c9RV5fyBE75565Icj2IbrioZt2za0zdrPZaamiz4jn0) and I'll send over the link database.
+
+### 🔬 Research
+
+* Region-aware diffusion for zero-shot **text-driven image editing.**([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vaGFoYS1saXNhL1JETS1SZWdpb24tQXdhcmUtRGlmZnVzaW9uLU1vZGVsIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA0LCJpc3MiOiJvcmNoaWQifQ.ck7iN7wCPJK_CJPp5YikGacnWYv5UvhaJVnRXIMEIW8))
+* DIRAC -**Neural image compression**with a diffusion-based decoder. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjMwMS4wNTQ4OSIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0._Sw79aBWxgbnOsXlSaVoWpN7uKm_wN7VdIYiCZzYbU4))
+* **Rock guitar tablature generation** via natural language processing. ([<u>link</u>](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjMwMS4wNTI5NSIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNCwiaXNzIjoib3JjaGlkIn0.WCz_U4GonRKgpXUOOs34IqXUWxipLdJNfxG2mHG9Yl0))
+
+## 📰 Unclassifieds
+
+Want to reach over 20k subscribers? [Get a short unclassified ad included here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RhbGx5LnNvL3IvbVo5WDkwIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA1LCJpc3MiOiJvcmNoaWQifQ.foxE-qOCJxP33Ngq_K0UA8W4Sp308rU9RX5G56Vnfmw).
+
+## 🖼 AI images of the day
+
+Selfie, El Dorado
+
+![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/2d40737a-619f-4119-b8a5-5d25e4371e08/l0qa0q567vba1.png)
+
+[https://www.reddit.com/r/StableDiffusion/comments/10b3lef/stelfie\_log\_19\_el\_dorado\_gate\_1541/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzLzEwYjNsZWYvc3RlbGZpZV9sb2dfMTlfZWxfZG9yYWRvX2dhdGVfMTU0MS8iLCJwb3N0X2lkIjoiYWNlNTM4ZDUtYjFiOC00MThmLWI4ZmQtZDhiMGUyMjRlMGY5IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjBlZGUwNjliLTY1NTctNGQ5Ny05NTg2LWRjZTRlNDdlNDQ0YyIsImlhdCI6MTY3NDAzMTg0Ni4wMDUsImlzcyI6Im9yY2hpZCJ9.nvyZBzkjb8BjTs5ifjI0cWZhaTw6DLMtgqTURpaLTSw)
+
+World's most expensive burger
+
+![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/41a65126-4d2f-4d48-9957-962d89be9b62/6slqiursraca1.png)
+
+[https://www.reddit.com/r/weirddalle/comments/10crzl1/worlds\_most\_expensive\_burger/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy8xMGNyemwxL3dvcmxkc19tb3N0X2V4cGVuc2l2ZV9idXJnZXIvIiwicG9zdF9pZCI6ImFjZTUzOGQ1LWIxYjgtNDE4Zi1iOGZkLWQ4YjBlMjI0ZTBmOSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwZWRlMDY5Yi02NTU3LTRkOTctOTU4Ni1kY2U0ZTQ3ZTQ0NGMiLCJpYXQiOjE2NzQwMzE4NDYuMDA1LCJpc3MiOiJvcmNoaWQifQ.BK3hBh6PXCZe9lDQ_O4ZkXCbD6vf0ZlVl9nhA4J3utU)
+
+## 🤗 Share Ben's Bites
+
+Send this to 1 AI-curious friend and receive my AI project tracker database!
+
+[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJhY2U1MzhkNS1iMWI4LTQxOGYtYjhmZC1kOGIwZTIyNGUwZjkiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMGVkZTA2OWItNjU1Ny00ZDk3LTk1ODYtZGNlNGU0N2U0NDRjIiwiaWF0IjoxNjc0MDMxODQ2LjAwNSwiaXNzIjoib3JjaGlkIn0.U4yIrf18puihYieHuRh1QUIFQwx8w4jRm5Q9RS9Dnxo)
+
+or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
+
+## ⭐️ How did we do?
+
+||
+|:---|
+|### How was today's email?|
+|* [Loved it](/login)
+* [Meh](/login)
+* [Hate you, hate this = ruin my week 🥹](/login)|
+|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+
+## ⭐️ REAL REVIEWS
+
+![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/c8a91ecd-5477-493e-bb9d-9ed8f04bde24/Screenshot_2022-12-13_at_14.55.58.png)

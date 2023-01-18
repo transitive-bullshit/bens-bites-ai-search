@@ -1,0 +1,2912 @@
+{
+  "domain": "www.bensbites.co",
+  "baseUrl": "https://www.bensbites.co",
+  "publication": {
+    "id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+    "name": "Ben's Bites",
+    "description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+    "tags": [
+      {
+        "id": 61,
+        "name": "machine learning",
+        "created_at": "2021-06-15T00:05:24.116Z",
+        "updated_at": "2021-06-15T00:05:24.116Z"
+      },
+      {
+        "id": 90,
+        "name": "artificial intelligence",
+        "created_at": "2021-06-15T00:05:24.893Z",
+        "updated_at": "2021-06-15T00:05:24.893Z"
+      },
+      {
+        "id": 98,
+        "name": "technology",
+        "created_at": "2021-06-15T00:05:25.036Z",
+        "updated_at": "2021-06-15T00:05:25.036Z"
+      }
+    ],
+    "url": "https://www.bensbites.co/",
+    "web_theme": {
+      "primary_color": "#1177eb",
+      "text_on_primary_color": "#FFFFFF",
+      "secondary_color": "#ededed",
+      "text_on_secondary_color": "#222222",
+      "tertiary_color": "#FFFFFF",
+      "text_on_tertiary_color": "#222222",
+      "background_color": "#FFFFFF",
+      "text_on_background_color": "#222222",
+      "subscribe_background_color": "#FFFFFF",
+      "text_on_subscribe_background_color": "#222222",
+      "subscribe_theme": "light",
+      "content_theme": "light",
+      "border_style": "round",
+      "border_radius": "6px",
+      "header_font": "Poppins",
+      "body_font": "Open Sans",
+      "button_font": "Open Sans",
+      "logo_shadow": "md",
+      "name": null,
+      "purpose": "web",
+      "owner_id": "447f6e60-e36a-4642-b6f8-46beb19045ec"
+    },
+    "cta_text": "Subscribe",
+    "noindex_enabled": false,
+    "double_opt_required": false,
+    "premium_enabled": false,
+    "premium_offering_name": "Premium Membership",
+    "premium_summary": null,
+    "premium_features": [],
+    "stripe_user_id": null,
+    "facebook_url": "",
+    "instagram_url": "",
+    "linkedin_url": "",
+    "tiktok_url": "",
+    "twitter_url": "https://twitter.com/bentossell/",
+    "youtube_url": "",
+    "tiktok_pixel": "",
+    "facebook_pixel": "640950221164719",
+    "google_analytics_4_pixel": "",
+    "twitter_pixel": "",
+    "google_analytics_pixel": "",
+    "gtm_pixel": "",
+    "post_subscribe_form_id": null,
+    "email_sender_name": "Ben from Ben's Bites",
+    "render_authors_widget": true,
+    "has_referral_program": true,
+    "has_recommendations": true,
+    "beehiiv_branding": true,
+    "has_polls": true,
+    "thumbnail": {
+      "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg"
+    },
+    "web_template": {
+      "id": 13319,
+      "theme": "default",
+      "enable_featured_post_badges": false
+    },
+    "logo": {
+      "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg",
+      "thumb": {
+        "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg"
+      }
+    },
+    "content_tags": [],
+    "authors": [
+      {
+        "id": "38ea1154-9c89-4c2d-9065-d426803a5c1a",
+        "name": "Matt McGarry",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/PXL_20220427_175223949.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/thumb_PXL_20220427_175223949.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/landscape_PXL_20220427_175223949.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "e61240d5-f2f9-4f3b-aba0-1236b1226a5c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft stepping up a gear",
+      "web_subtitle": "PLUS: a lawsuit and universities revamping how they teach",
+      "status": "published",
+      "override_scheduled_at": "2023-01-17T14:00:00.000Z",
+      "slug": "microsoft-stepping-gear",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5be404ab-12ef-41fa-922e-cdd3aade6e72/ssj8yiuo8hca1.png",
+      "meta_default_title": "Microsoft stepping up a gear",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Microsoft stepping up a gear",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Microsoft stepping up a gear",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-17T12:40:28Z",
+      "updated_at": "2023-01-17T14:00:19Z",
+      "url": "https://www.bensbites.co/p/microsoft-stepping-gear"
+    },
+    {
+      "id": "ace538d5-b1b8-418f-b8fd-d8b0e224e0f9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Banning ChatGPT",
+      "web_subtitle": "PLUS: an email summariser and draft reply writer.",
+      "status": "published",
+      "override_scheduled_at": "2023-01-16T14:00:00.000Z",
+      "slug": "banning-chatgpt",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2d40737a-619f-4119-b8a5-5d25e4371e08/l0qa0q567vba1.png",
+      "meta_default_title": "Banning ChatGPT",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Banning ChatGPT",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Banning ChatGPT",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-16T10:45:59Z",
+      "updated_at": "2023-01-17T12:39:15Z",
+      "url": "https://www.bensbites.co/p/banning-chatgpt"
+    },
+    {
+      "id": "4d5286b9-f4f8-4d66-83f7-299072d72774",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Sparrow",
+      "web_subtitle": "DeepMind's chatbot to rival ChatGPT",
+      "status": "published",
+      "override_scheduled_at": "2023-01-13T14:30:01.511Z",
+      "slug": "sparrow",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1310f04e-c42d-4def-bb14-4b32ac58f1e9/FmWF8SeacAE6Yyz.jpeg",
+      "meta_default_title": "Sparrow",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Sparrow",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Sparrow",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-13T10:24:37Z",
+      "updated_at": "2023-01-13T14:30:06Z",
+      "url": "https://www.bensbites.co/p/sparrow"
+    },
+    {
+      "id": "32ab9890-0ce9-4b38-b4a4-e1a6bea73a94",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Update on MSFT + OpenAI",
+      "web_subtitle": "PLUS: the simplest, fastest repository for training",
+      "status": "published",
+      "override_scheduled_at": "2023-01-12T14:00:00.000Z",
+      "slug": "update-msft-openai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6390a9ce-b995-4891-8970-28f7bb18d9c1/FmNKhvrXkAE0VlW.jpeg",
+      "meta_default_title": "Update on MSFT + OpenAI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Update on MSFT + OpenAI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Update on MSFT + OpenAI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-12T12:25:43Z",
+      "updated_at": "2023-01-12T14:00:08Z",
+      "url": "https://www.bensbites.co/p/update-msft-openai"
+    },
+    {
+      "id": "832a8e42-5feb-4d4b-bafd-20238b18e13f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "ChatGPT upgrades, Spotify playlists, and AI checklists",
+      "web_subtitle": "And how zero-shot Generative AI can create de novo antibodies from scratch",
+      "status": "published",
+      "override_scheduled_at": "2023-01-11T14:00:00.000Z",
+      "slug": "chatgpt-upgrades-spotify-playlists-ai-checklists",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b1d920b7-6cb9-4532-993d-680180906162/oelaonelf7ba1.png",
+      "meta_default_title": "ChatGPT upgrades, Spotify playlists, and AI checklists",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "ChatGPT upgrades, Spotify playlists, and AI checklists",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "ChatGPT upgrades, Spotify playlists, and AI checklists",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-11T12:19:31Z",
+      "updated_at": "2023-01-11T14:00:08Z",
+      "url": "https://www.bensbites.co/p/chatgpt-upgrades-spotify-playlists-ai-checklists"
+    },
+    {
+      "id": "e5be3cff-7963-4364-82c2-5a138e599253",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The real winner in AI",
+      "web_subtitle": "and the wolf of GPT street",
+      "status": "published",
+      "override_scheduled_at": "2023-01-10T14:00:23.000Z",
+      "slug": "real-winner-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea9dd545-39b9-4219-8c36-1274d07821ba/iiq4azz8x1ba1.jpg",
+      "meta_default_title": "The real winner in AI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "The real winner in AI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "The real winner in AI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-10T10:15:14Z",
+      "updated_at": "2023-01-10T14:01:07Z",
+      "url": "https://www.bensbites.co/p/real-winner-ai"
+    },
+    {
+      "id": "9c820bba-e9d4-4d1a-93d4-37cefc8d295a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "LLMs vs search engines",
+      "web_subtitle": "Plus uploading your own data and using AI with it.",
+      "status": "published",
+      "override_scheduled_at": "2023-01-09T14:00:00.000Z",
+      "slug": "llms-vs-search-engines",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fd2e03a9-66b0-488a-ad8c-bdb104eeef50/0x846s4a4zaa1.png",
+      "meta_default_title": "LLMs vs search engines",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "LLMs vs search engines",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "LLMs vs search engines",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-09T10:16:37Z",
+      "updated_at": "2023-01-09T14:00:29Z",
+      "url": "https://www.bensbites.co/p/llms-vs-search-engines"
+    },
+    {
+      "id": "999c8c8b-e9d5-4ee4-89c8-4ed13764c9e6",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "A $29Bn offer",
+      "web_subtitle": "That's quite a lot innit?",
+      "status": "published",
+      "override_scheduled_at": "2023-01-06T14:56:32.539Z",
+      "slug": "29bn-offer",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/198277a3-d572-42f4-bfeb-861c30a23276/amyepudhn9aa1.png",
+      "meta_default_title": "A $29Bn offer",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "A $29Bn offer",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "A $29Bn offer",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-06T14:15:15Z",
+      "updated_at": "2023-01-06T14:57:05Z",
+      "url": "https://www.bensbites.co/p/29bn-offer"
+    },
+    {
+      "id": "6d36cb54-622e-43ec-bdb0-f96bdf13f413",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Apple's AI service",
+      "web_subtitle": "Plus AI negotiating refunds, curing loneliness and OpenAI's 7th birthday. ",
+      "status": "published",
+      "override_scheduled_at": "2023-01-05T14:00:00.000Z",
+      "slug": "apples-ai-service",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7e2fdeb1-5454-4b87-90df-d83edea22aca/mrkdnuu831aa1.png",
+      "meta_default_title": "Apple's AI service",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Apple's AI service",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Apple's AI service",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-05T11:56:06Z",
+      "updated_at": "2023-01-05T14:00:09Z",
+      "url": "https://www.bensbites.co/p/apples-ai-service"
+    },
+    {
+      "id": "1e364bec-f7ee-4c65-a3a6-f312a7e4b7c0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "(Bada) Bing",
+      "web_subtitle": "The least shocking news of the year so far: Microsoft using GPT power for Bing.",
+      "status": "published",
+      "override_scheduled_at": "2023-01-04T14:00:00.000Z",
+      "slug": "bada-bing",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/94b25fa1-276a-4f5f-ae91-54af39d72dba/wyoclseg6u9a1__2_.png",
+      "meta_default_title": "(Bada) Bing",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "(Bada) Bing",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "(Bada) Bing",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-04T11:46:10Z",
+      "updated_at": "2023-01-04T15:08:46Z",
+      "url": "https://www.bensbites.co/p/bada-bing"
+    },
+    {
+      "id": "c012cf38-954a-4f78-b073-b529d0219b19",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI replacing programming",
+      "web_subtitle": "What does the future of programming actually look like?",
+      "status": "published",
+      "override_scheduled_at": "2023-01-03T14:00:00.000Z",
+      "slug": "ai-replacing-programming",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1ac963b8-beb2-4c38-bee7-d054118adc40/l6wdqp0kdl9a1.jpg",
+      "meta_default_title": "AI replacing programming",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI replacing programming",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI replacing programming",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-03T09:48:44Z",
+      "updated_at": "2023-01-03T16:31:52Z",
+      "url": "https://www.bensbites.co/p/ai-replacing-programming"
+    },
+    {
+      "id": "16a9340d-b093-4ff7-9d96-18a6758263e5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Interviewing the CEO of Scale",
+      "web_subtitle": "We recently sat down with AI infrastructure wunderkind, Alexandr Wang, CEO and Founder of Scale AI, to discuss the current state of the industry and what is on the horizon",
+      "status": "published",
+      "override_scheduled_at": "2023-01-02T14:00:00.000Z",
+      "slug": "interviewing-ceo-scale",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c060cc4c-48d7-4682-9828-dbbdb38d7b54/ngwpgggwyg9a1.png",
+      "meta_default_title": "Interviewing the CEO of Scale",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Interviewing the CEO of Scale",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Interviewing the CEO of Scale",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-02T12:35:55Z",
+      "updated_at": "2023-01-02T14:00:08Z",
+      "url": "https://www.bensbites.co/p/interviewing-ceo-scale"
+    },
+    {
+      "id": "62caa301-50b0-4fef-8a98-e502c510acea",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Database of AI tools for every use case",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-30T14:00:00.000Z",
+      "slug": "database-ai-tools-every-use-case",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fff60407-67ee-45e8-b129-9888eec06c96/e1qlj24p4v8a1.png",
+      "meta_default_title": "Database of AI tools for every use case",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Database of AI tools for every use case",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Database of AI tools for every use case",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-30T13:04:03Z",
+      "updated_at": "2022-12-30T14:00:06Z",
+      "url": "https://www.bensbites.co/p/database-ai-tools-every-use-case"
+    },
+    {
+      "id": "b1a6f945-1281-4d77-987e-31dcd87dbc76",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Reverse prompt engineering",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-29T14:00:00.000Z",
+      "slug": "reverse-prompt-engineering",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3999ae2a-2d43-4290-9119-4550ab469fe4/rj5ct0tdcn8a1.png",
+      "meta_default_title": "Reverse prompt engineering",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Reverse prompt engineering",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Reverse prompt engineering",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-29T12:15:44Z",
+      "updated_at": "2022-12-29T14:00:05Z",
+      "url": "https://www.bensbites.co/p/reverse-prompt-engineering"
+    },
+    {
+      "id": "f7fcdbcb-af81-443e-8e83-be727a5118e7",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "New search is in town",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-28T14:15:21.704Z",
+      "slug": "new-search-town",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7a5c39b0-74d5-480e-97a9-eb2f036cc57a/ofecqoqp3h8a1.png",
+      "meta_default_title": "New search is in town",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "New search is in town",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "New search is in town",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-28T13:08:24Z",
+      "updated_at": "2022-12-28T14:16:05Z",
+      "url": "https://www.bensbites.co/p/new-search-town"
+    },
+    {
+      "id": "5eef15db-51eb-4a02-8886-09abcd81d688",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI is the most important story of the past several years.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-23T14:00:00.000Z",
+      "slug": "ai-important-story-past-several-years",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0fcd7091-ba75-42db-a56e-8d1afc17639f/ezgif.com-gif-maker__42_.gif",
+      "meta_default_title": "AI is the most important story of the past several years.",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI is the most important story of the past several years.",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI is the most important story of the past several years.",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-23T08:57:06Z",
+      "updated_at": "2022-12-23T14:00:06Z",
+      "url": "https://www.bensbites.co/p/ai-important-story-past-several-years"
+    },
+    {
+      "id": "71210b3e-e26e-406c-8c5a-db72130cce74",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "A breakout year for AI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-22T14:00:00.000Z",
+      "slug": "breakout-year-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5071e786-dbef-4e29-9397-1ea2268577d0/il43e1vtma7a1.png",
+      "meta_default_title": "A breakout year for AI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "A breakout year for AI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "A breakout year for AI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-22T10:49:06Z",
+      "updated_at": "2022-12-22T14:00:08Z",
+      "url": "https://www.bensbites.co/p/breakout-year-ai"
+    },
+    {
+      "id": "b6b0e5d0-8cf9-40eb-8af2-108d67380cc9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's 3D DALL-E, AI in modern marketing, GPT4 10x better than ChatGPT",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-21T14:00:00.000Z",
+      "slug": "openais-3d-dalle-ai-modern-marketing-gpt4-10x-better-chatgpt",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b9d907d3-e1e6-47de-810f-31c89904257c/FjK4exvXkAET2xr.jpeg",
+      "meta_default_title": "OpenAI's 3D DALL-E, AI in modern marketing, GPT4 10x better than ChatGPT",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "OpenAI's 3D DALL-E, AI in modern marketing, GPT4 10x better than ChatGPT",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "OpenAI's 3D DALL-E, AI in modern marketing, GPT4 10x better than ChatGPT",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-21T10:45:00Z",
+      "updated_at": "2022-12-21T14:00:07Z",
+      "url": "https://www.bensbites.co/p/openais-3d-dalle-ai-modern-marketing-gpt4-10x-better-chatgpt"
+    },
+    {
+      "id": "7d663f61-027f-434a-851f-c5668973d084",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "No-code model builder",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-20T14:00:00.000Z",
+      "slug": "nocode-model-builder",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1f705f78-95be-4176-9df1-f9de589342d9/atuhmvkp6w6a1.jpg",
+      "meta_default_title": "No-code model builder",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "No-code model builder",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "No-code model builder",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-20T10:07:00Z",
+      "updated_at": "2022-12-20T14:00:09Z",
+      "url": "https://www.bensbites.co/p/nocode-model-builder"
+    },
+    {
+      "id": "5dae9bc6-f03c-484d-922c-7757fa5b3516",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "YouTube Summaries",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-19T14:00:00.000Z",
+      "slug": "youtube-summaries",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8e3c63af-cbed-48cd-bed6-2fb7bf704927/x716fi486c6a1.jpg",
+      "meta_default_title": "YouTube Summaries",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "YouTube Summaries",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "YouTube Summaries",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-19T09:54:41Z",
+      "updated_at": "2022-12-19T14:00:11Z",
+      "url": "https://www.bensbites.co/p/youtube-summaries"
+    },
+    {
+      "id": "5bdead59-b24d-408d-b5d4-c6a4d62eeda0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's newest model",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-16T14:00:00.000Z",
+      "slug": "openais-newest-model",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4bc44ab-caff-476f-b571-768b5ad83097/web_app_screenshot.png",
+      "meta_default_title": "OpenAI's newest model",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "OpenAI's newest model",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "OpenAI's newest model",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-16T12:33:50Z",
+      "updated_at": "2022-12-16T14:00:05Z",
+      "url": "https://www.bensbites.co/p/openais-newest-model"
+    },
+    {
+      "id": "78f605a3-69e7-402c-8fc2-3baa9989ecbc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI email assistant",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-15T14:00:00.000Z",
+      "slug": "ai-email-assistant",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/63f6516c-b74b-4e43-9f63-3c5b56cb1762/acqpq9z49w5a1.jpg",
+      "meta_default_title": "AI email assistant",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI email assistant",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI email assistant",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-15T09:52:59Z",
+      "updated_at": "2022-12-15T14:00:10Z",
+      "url": "https://www.bensbites.co/p/ai-email-assistant"
+    },
+    {
+      "id": "84f72770-5e32-4fd8-907e-d3ea56969f00",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI proteins",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-14T14:01:00.000Z",
+      "slug": "ai-proteins",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/024920e6-5221-4f2e-8f29-c4a08ded0793/he2gn5fge55a1.png",
+      "meta_default_title": "AI proteins",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI proteins",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI proteins",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-14T12:12:04Z",
+      "updated_at": "2022-12-14T14:01:04Z",
+      "url": "https://www.bensbites.co/p/ai-proteins"
+    },
+    {
+      "id": "567cba07-b82a-4d35-8758-d286eb59a8ca",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "HD Image Creation",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-13T14:01:23.894Z",
+      "slug": "hd-image-creation",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6a6cf324-6f5c-45d2-b2dc-f61eb0590c0c/m4afvfckij5a1.png",
+      "meta_default_title": "HD Image Creation",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "HD Image Creation",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "HD Image Creation",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-13T13:40:12Z",
+      "updated_at": "2022-12-15T14:55:05Z",
+      "url": "https://www.bensbites.co/p/hd-image-creation"
+    },
+    {
+      "id": "ddf1c518-0889-4bd8-a6c3-f3c980449256",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI-generated or real?!",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-12T14:52:49.623Z",
+      "slug": "aigenerated-real",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1e2e5e39-1c91-4c44-a05e-c9e4401d293f/dqn67jxm9x4a1.png",
+      "meta_default_title": "AI-generated or real?!",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI-generated or real?!",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI-generated or real?!",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-12T13:53:34Z",
+      "updated_at": "2022-12-12T14:53:07Z",
+      "url": "https://www.bensbites.co/p/aigenerated-real"
+    },
+    {
+      "id": "ec657e72-d0b9-4321-bf01-1ab3fe79f0e0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "No-code AI Apps",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-09T14:26:22.129Z",
+      "slug": "nocode-ai-apps",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/794548cd-8ced-4c0c-a20c-f28cdbe093c5/-OkCuZIvH-18T6noftCmqQZBvmD5jaQWcAjkZa78BYc.png",
+      "meta_default_title": "No-code AI Apps",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "No-code AI Apps",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "No-code AI Apps",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-09T14:10:53Z",
+      "updated_at": "2022-12-09T14:27:04Z",
+      "url": "https://www.bensbites.co/p/nocode-ai-apps"
+    },
+    {
+      "id": "fc8581e2-c069-4522-bfa9-144449ff7274",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI Demo Day",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-08T14:00:00.000Z",
+      "slug": "ai-demo-day",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg",
+      "meta_default_title": "AI Demo Day",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI Demo Day",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI Demo Day",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-08T12:01:20Z",
+      "updated_at": "2022-12-08T14:00:14Z",
+      "url": "https://www.bensbites.co/p/ai-demo-day"
+    },
+    {
+      "id": "7738fd3f-1d75-4860-9241-32f091c8c64c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Ben's Bites Hackathon - win up to $15k",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-07T14:00:00.000Z",
+      "slug": "bens-bites-hackathon-win-15k",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/da5b0fad-5d71-498a-85c1-dc2a092e7788/q13mbq7j6f4a1.jpg",
+      "meta_default_title": "Ben's Bites Hackathon - win up to $15k",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Ben's Bites Hackathon - win up to $15k",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Ben's Bites Hackathon - win up to $15k",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-07T12:55:35Z",
+      "updated_at": "2022-12-07T14:00:08Z",
+      "url": "https://www.bensbites.co/p/bens-bites-hackathon-win-15k"
+    },
+    {
+      "id": "b275cf3e-8f37-4f26-a075-b3800ec77cd1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Text-to-product is here",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-06T14:00:00.000Z",
+      "slug": "texttoproduct",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dd78d0e7-a617-4fcc-9d40-2cebae2fd1aa/ezgif.com-gif-maker__35_.gif",
+      "meta_default_title": "Text-to-product is here",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Text-to-product is here",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Text-to-product is here",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-06T12:47:17Z",
+      "updated_at": "2022-12-06T14:00:06Z",
+      "url": "https://www.bensbites.co/p/texttoproduct"
+    },
+    {
+      "id": "16cc9557-97a2-4040-8090-c16d607ce9ea",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The ChatGPT aftermath",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-05T14:24:43.392Z",
+      "slug": "chatgpt-aftermath",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1ab09140-87c6-4799-861a-79487b4710ce/FjNjC3qXkAIivSj.jpeg",
+      "meta_default_title": "The ChatGPT aftermath",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "The ChatGPT aftermath",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "The ChatGPT aftermath",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-05T11:18:27Z",
+      "updated_at": "2022-12-05T14:25:05Z",
+      "url": "https://www.bensbites.co/p/chatgpt-aftermath"
+    },
+    {
+      "id": "85a60e22-c8c5-4cd1-97bc-077067b0883d",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Everything has changed.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-02T14:00:00.000Z",
+      "slug": "everything-changed",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/74bd378e-8c3c-46cd-8ff5-9610e492f83a/i179nq0gwa3a1.jpg",
+      "meta_default_title": "Everything has changed.",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Everything has changed.",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Everything has changed.",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-02T10:37:46Z",
+      "updated_at": "2022-12-02T14:00:03Z",
+      "url": "https://www.bensbites.co/p/everything-changed"
+    },
+    {
+      "id": "a95e65a6-024f-4e39-9616-e416f2b8b2bd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's ChatGPT",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-12-01T14:00:00.000Z",
+      "slug": "openais-chatgpt",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8e022908-e044-4e2d-beed-1b9929874bd3/8nI9fWp.jpg",
+      "meta_default_title": "OpenAI's ChatGPT",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "OpenAI's ChatGPT",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "OpenAI's ChatGPT",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-12-01T12:17:53Z",
+      "updated_at": "2022-12-01T14:00:05Z",
+      "url": "https://www.bensbites.co/p/openais-chatgpt"
+    },
+    {
+      "id": "f70e9e18-ae4e-4c52-856b-af897b973c66",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Build an AI App, without code, in 5 minutes",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-11-30T13:58:11.166Z",
+      "slug": "build-ai-app-without-code-5-minutes",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84c61c68-514e-46a2-b50e-144475c2040c/spidey.jpg",
+      "meta_default_title": "Build an AI App, without code, in 5 minutes",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Build an AI App, without code, in 5 minutes",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Build an AI App, without code, in 5 minutes",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-30T13:42:14Z",
+      "updated_at": "2022-11-30T13:59:10Z",
+      "url": "https://www.bensbites.co/p/build-ai-app-without-code-5-minutes"
+    },
+    {
+      "id": "4701860e-d6bc-4e35-8fcc-7d5b52234fcf",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "An OpenAI update",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-11-29T14:03:47.709Z",
+      "slug": "openai-update",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/182cc73e-2a21-415a-a44d-53afc655ec05/FiluyiYVQAAPp7e.jpeg",
+      "meta_default_title": "An OpenAI update",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "An OpenAI update",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "An OpenAI update",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-29T13:18:02Z",
+      "updated_at": "2022-11-29T14:04:02Z",
+      "url": "https://www.bensbites.co/p/openai-update"
+    },
+    {
+      "id": "f57ec9b2-8962-46cd-a2ce-44f7590a2817",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "GPT-3 summariser that reads websites",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-11-28T14:07:26.344Z",
+      "slug": "gpt3-summariser-reads-websites",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3a1cf40f-0564-461d-8ccd-4b56b5c9703a/mad-max-fr.png",
+      "meta_default_title": "GPT-3 summariser that reads websites",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "GPT-3 summariser that reads websites",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "GPT-3 summariser that reads websites",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-28T11:06:26Z",
+      "updated_at": "2022-11-28T14:08:02Z",
+      "url": "https://www.bensbites.co/p/gpt3-summariser-reads-websites"
+    },
+    {
+      "id": "289d8ff3-e0eb-467c-beda-968199ea0993",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The first AI to laugh and Lex Fridman interviews Richard Feynman",
+      "web_subtitle": "",
+      "status": "published",
+      "override_scheduled_at": "2022-11-25T15:08:30.206Z",
+      "slug": "first-ai-laugh-lex-fridman-interviews-richard-feynman",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/88c6daa0-cd1e-4bc8-8ab1-abb44baca39d/FiW9rvDakAAWytT.jpeg",
+      "meta_default_title": "The first AI to laugh and Lex Fridman interviews Richard Feynman",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "The first AI to laugh and Lex Fridman interviews Richard Feynman",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "The first AI to laugh and Lex Fridman interviews Richard Feynman",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-25T14:52:01Z",
+      "updated_at": "2022-11-25T15:09:02Z",
+      "url": "https://www.bensbites.co/p/first-ai-laugh-lex-fridman-interviews-richard-feynman"
+    },
+    {
+      "id": "f62436b7-e1ae-46a4-8792-bb587fa4b95b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Stable Diffusion 2.0 is out!",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2022-11-24T13:36:19.547Z",
+      "slug": "stable-diffusion-20",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a85890bc-6a87-4846-a1cf-d7d80346cde7/FiQqdn8WYAAXnbA.jpeg",
+      "meta_default_title": "Stable Diffusion 2.0 is out!",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Stable Diffusion 2.0 is out!",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Stable Diffusion 2.0 is out!",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-24T11:14:48Z",
+      "updated_at": "2022-11-24T13:37:04Z",
+      "url": "https://www.bensbites.co/p/stable-diffusion-20"
+    },
+    {
+      "id": "36509a11-b2ed-4655-ba28-872897964125",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI can guess 3D objects and how it moves",
+      "web_subtitle": "plus the future of AI businesses",
+      "status": "published",
+      "override_scheduled_at": "2022-11-23T13:28:53.647Z",
+      "slug": "ai-can-guess-3d-objects-moves",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2d73915c-3162-4b59-a9c1-5c8195341935/d2kcxa7c4m1a1.jpg",
+      "meta_default_title": "AI can guess 3D objects and how it moves",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI can guess 3D objects and how it moves",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI can guess 3D objects and how it moves",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-23T12:57:37Z",
+      "updated_at": "2022-11-23T13:29:02Z",
+      "url": "https://www.bensbites.co/p/ai-can-guess-3d-objects-moves"
+    },
+    {
+      "id": "fa6eb559-c051-452e-abf5-03df6f20705a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "A Figma AI tool, magic videos, dance generation",
+      "web_subtitle": "and an AI tool I actually use every day",
+      "status": "published",
+      "override_scheduled_at": "2022-11-22T14:19:48.335Z",
+      "slug": "figma-ai-tool-magic-videos-dance-generation",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5fe3a97a-de34-48d2-a72a-be87141afb36/ezgif.com-gif-maker__30_.gif",
+      "meta_default_title": "A Figma AI tool, magic videos, dance generation",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "A Figma AI tool, magic videos, dance generation",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "A Figma AI tool, magic videos, dance generation",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-22T14:04:57Z",
+      "updated_at": "2022-11-22T14:20:04Z",
+      "url": "https://www.bensbites.co/p/figma-ai-tool-magic-videos-dance-generation"
+    },
+    {
+      "id": "c84f1968-0932-4737-8970-dca7846851c2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Text-to-3D",
+      "web_subtitle": "Magic3D from Nvidia: High-resolution text-to-3D content creation, Prompt Engineering 101, MultiRay by Meta, Canva text-to-image",
+      "status": "published",
+      "override_scheduled_at": "2022-11-21T14:58:54.717Z",
+      "slug": "textto3d",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/bf5cdef0-5627-4b6f-81b0-220981785fae/55ef5rv1rq0a1.png",
+      "meta_default_title": "Text-to-3D",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Text-to-3D",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Text-to-3D",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-21T13:57:21Z",
+      "updated_at": "2022-11-21T14:59:06Z",
+      "url": "https://www.bensbites.co/p/textto3d"
+    },
+    {
+      "id": "2964a55a-c008-402b-ac6f-5a1f0c991eff",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Wordle for prompts",
+      "web_subtitle": "📝 Worlde for prompts 🤗 Hugging Face demos are now in arXiv 📲 A language learning app 🎮 AI for game creation",
+      "status": "published",
+      "override_scheduled_at": "2022-11-18T13:50:01.830Z",
+      "slug": "wordle-prompts",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0c2b242f-bc80-4738-b943-fa97b663c92e/Screenshot_2022-11-18_at_11.39.21.png",
+      "meta_default_title": "Wordle for prompts",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Wordle for prompts",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Wordle for prompts",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-18T11:27:11Z",
+      "updated_at": "2022-11-18T13:51:04Z",
+      "url": "https://www.bensbites.co/p/wordle-prompts"
+    },
+    {
+      "id": "c957018e-9d87-4085-ae1e-549e316e0102",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "honestly, lots of big stuff",
+      "web_subtitle": "Notion's AI feature 🧠 Brain recordings to reconstruct what we see ↪ AI-generated mind maps 🔬 Trouble in Galactica",
+      "status": "published",
+      "override_scheduled_at": "2022-11-17T13:30:00.000Z",
+      "slug": "honestly-loads-big-stuff-today",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/607244c6-0709-43b8-8655-cd40c70e2fde/ezgif.com-gif-maker__27_.gif",
+      "meta_default_title": "honestly, lots of big stuff",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "honestly, lots of big stuff",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "honestly, lots of big stuff",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-17T11:20:32Z",
+      "updated_at": "2022-11-17T13:30:06Z",
+      "url": "https://www.bensbites.co/p/honestly-loads-big-stuff-today"
+    },
+    {
+      "id": "b4463c9e-a438-43df-8946-e9b5d729fd1b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "It's Science",
+      "web_subtitle": "🧑‍🔬 An LLM for science 🔢 Formulas made easy 🖥️ Building a supercomputer in 3 days 🖼️ Multi-flow multimodal diffusion framework",
+      "status": "published",
+      "override_scheduled_at": "2022-11-16T13:30:00.000Z",
+      "slug": "science",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3008b1a0-3f10-4f2d-a3be-e2701a3145dd/Fhpo75RXgAAaiC4.jpeg",
+      "meta_default_title": "It's Science",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "It's Science",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "It's Science",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-16T11:14:38Z",
+      "updated_at": "2022-11-16T13:30:03Z",
+      "url": "https://www.bensbites.co/p/science"
+    },
+    {
+      "id": "5424aa72-b6a4-4fcb-a7dc-66ae942d143b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "SCOOP: AI Book Search",
+      "web_subtitle": "🎬 AI-generated Marvel movies 🎥 Process, understand and search video 🤔 Simplifying AI terminology 📊 Generated data charts",
+      "status": "published",
+      "override_scheduled_at": "2022-11-15T13:30:00.000Z",
+      "slug": "ai-bookworms",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/afd5dd28-b572-465d-9f5a-613dadc96703/ezgif.com-gif-maker__24_.gif",
+      "meta_default_title": "SCOOP: AI Book Search",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "SCOOP: AI Book Search",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "SCOOP: AI Book Search",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-15T10:54:32Z",
+      "updated_at": "2022-11-15T13:30:09Z",
+      "url": "https://www.bensbites.co/p/ai-bookworms"
+    },
+    {
+      "id": "541abfab-23a8-4a67-a039-a74a8a1db078",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "GPT-4 Rumours",
+      "web_subtitle": "🐣 Free AI beginners course 📊 Text-to-financial reports ⚒️ 12 yo built an ML app 🗣️ AI voice cloning",
+      "status": "published",
+      "override_scheduled_at": "2022-11-14T13:36:55.158Z",
+      "slug": "gpt4-rumours",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dd2827f8-396a-4a76-a862-ba4137eb9cf1/3pa68907woz91.jpg",
+      "meta_default_title": "GPT-4 Rumours",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "GPT-4 Rumours",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "GPT-4 Rumours",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-14T13:17:38Z",
+      "updated_at": "2022-11-14T13:37:01Z",
+      "url": "https://www.bensbites.co/p/gpt4-rumours"
+    },
+    {
+      "id": "4c5e2cfe-1637-4510-a0e4-fea77aae5241",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google search competitor",
+      "web_subtitle": "📝 Midjourney founder interview 🏡 Beautiful AI home interiors 💬 GitHub code from your voice 🤖 Amazon's new robot",
+      "status": "published",
+      "override_scheduled_at": "2022-11-11T13:30:00.000Z",
+      "slug": "google-search-competitor",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f9276260-44c7-47a7-a485-857f9a6f5a43/Group_7.png",
+      "meta_default_title": "Google search competitor",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Google search competitor",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Google search competitor",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-11T09:29:22Z",
+      "updated_at": "2022-11-11T13:30:08Z",
+      "url": "https://www.bensbites.co/p/google-search-competitor"
+    },
+    {
+      "id": "f4b4a13c-83c2-47af-a5de-bf59887ce080",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Stable Diffusion on your phone",
+      "web_subtitle": "🚛 Scale's big launches 📑 OpenAI in your docs 🦾 Robots rearranging objects 🤔 AI for creative writing",
+      "status": "published",
+      "override_scheduled_at": "2022-11-10T13:30:00.000Z",
+      "slug": "stable-diffusion-phone",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8385ccf2-d562-412e-b7aa-00dc66148269/1667942060647-6305d083df993a789e61126d.jpeg",
+      "meta_default_title": "Stable Diffusion on your phone",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Stable Diffusion on your phone",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Stable Diffusion on your phone",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-10T11:01:03Z",
+      "updated_at": "2022-11-10T13:30:06Z",
+      "url": "https://www.bensbites.co/p/stable-diffusion-phone"
+    },
+    {
+      "id": "e8131e18-e5c4-4c99-96ef-fe6e5ca8ebf4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Is AI deflationary?",
+      "web_subtitle": "📃 Paper-cutting diffusion model 🐦 Semantic search for Twitter 🤗 AI customer support assistants 🧑‍🏫 10 AI terms you should know",
+      "status": "published",
+      "override_scheduled_at": "2022-11-09T13:56:23.403Z",
+      "slug": "ai-deflationary",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0d8275f0-4e3b-421b-8acd-34073010ab54/FhDEeK9WQAASVW7.jpeg",
+      "meta_default_title": "Is AI deflationary?",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Is AI deflationary?",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Is AI deflationary?",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-09T12:21:16Z",
+      "updated_at": "2022-11-09T13:57:09Z",
+      "url": "https://www.bensbites.co/p/ai-deflationary"
+    },
+    {
+      "id": "0d7814cb-7484-47c9-ba0a-cae1201e751f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Pretty unbelievable",
+      "web_subtitle": "🤡 Create virtual characters 💃 Move like Mona Lisa 🫂 Shuttershock's CEO on embracing AI 🌁 3D flythroughs from a single image",
+      "status": "published",
+      "override_scheduled_at": "2022-11-08T14:02:30.141Z",
+      "slug": "pretty-unbelievable",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/358c21e2-93d1-49cf-b813-bb77958ec1b5/ezgif.com-gif-maker__21_.gif",
+      "meta_default_title": "Pretty unbelievable",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Pretty unbelievable",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Pretty unbelievable",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-08T13:33:37Z",
+      "updated_at": "2022-11-08T14:03:04Z",
+      "url": "https://www.bensbites.co/p/pretty-unbelievable"
+    },
+    {
+      "id": "55c6fa0b-d936-4f06-8197-3d0d04762551",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Images just got crazier",
+      "web_subtitle": "🌅 Midjourney v4 is out 🖊 Highlight → get explanations 🎨 Paint-with-words 🗣 Generate a voice",
+      "status": "published",
+      "override_scheduled_at": "2022-11-07T13:30:00.000Z",
+      "slug": "images-just-got-crazier",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3e15e582-b48b-453a-9ed3-07e548814b3e/Fg4KD-QXoAAw_A8.jpeg",
+      "meta_default_title": "Images just got crazier",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Images just got crazier",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Images just got crazier",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-07T12:09:30Z",
+      "updated_at": "2022-11-07T13:30:09Z",
+      "url": "https://www.bensbites.co/p/images-just-got-crazier"
+    },
+    {
+      "id": "56ebff6f-ca69-461b-be06-d6c90985e78a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "APIs and poppadoms",
+      "web_subtitle": "💻 DALLE API 🧑‍⚖️ GitHub Copilot lawsuit 🎇 Image prompt extending 🤯 OpenAI in Airtable and Zapier",
+      "status": "published",
+      "override_scheduled_at": "2022-11-04T14:12:21.235Z",
+      "slug": "apis-poppadoms",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/bd4a35d4-6ee8-45f9-8ba8-303842273ae2/c387edeb0aa045a5bb494b26b3378c7e.jpeg",
+      "meta_default_title": "APIs and poppadoms",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "APIs and poppadoms",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "APIs and poppadoms",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-04T13:36:06Z",
+      "updated_at": "2022-11-04T14:13:08Z",
+      "url": "https://www.bensbites.co/p/apis-poppadoms"
+    },
+    {
+      "id": "24ce0fed-16d4-4602-87c4-8de6ed46b050",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Robot code",
+      "web_subtitle": "🌅 Addressing climate change 🎥 Seamless video from an image 🦾 Robots writing code 📝 AI in Notion",
+      "status": "published",
+      "override_scheduled_at": "2022-11-03T13:38:22.489Z",
+      "slug": "robot-code",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6a42b564-8b20-4488-84a8-4cd9f18483f3/Darkstar_day_of_the_dead_fractal__imagine_beautiful_garlands_of_5ea0fd1b-2ec8-4ab0-b485-33fc43afb9b1.png",
+      "meta_default_title": "Robot code",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Robot code",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Robot code",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-03T12:37:52Z",
+      "updated_at": "2022-11-03T13:39:01Z",
+      "url": "https://www.bensbites.co/p/robot-code"
+    },
+    {
+      "id": "de542bf6-3c96-4dcb-9551-f3f1e5c18c50",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Your personal search engine",
+      "web_subtitle": "🧬 Mysterious proteins 👾 Generating Pixel art walking 🧸 Physical to digital video 🛠 Build dashboards with speech 👱‍♀️ Try on different hairstyles",
+      "status": "published",
+      "override_scheduled_at": "2022-11-02T14:05:12.227Z",
+      "slug": "personal-search-engine",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b5d56959-c0e2-4f11-8360-d4c60d1169b0/ezgif.com-gif-maker__14_.gif",
+      "meta_default_title": "Your personal search engine",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Your personal search engine",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Your personal search engine",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-02T13:33:25Z",
+      "updated_at": "2022-11-02T14:06:03Z",
+      "url": "https://www.bensbites.co/p/personal-search-engine"
+    },
+    {
+      "id": "ef7eb34f-a120-479f-9340-9d797789599b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "GPT-3 in Google Sheets",
+      "web_subtitle": "👻 Replit's in-browser coding AI 🧥 AI fashion 💉 AI for drug discovery",
+      "status": "published",
+      "override_scheduled_at": "2022-11-01T13:30:00.000Z",
+      "slug": "gpt3-google-sheets",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dddc771a-ad38-43fd-95a3-f58cc32bec8c/zymjhyas65x91.jpeg",
+      "meta_default_title": "GPT-3 in Google Sheets",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "GPT-3 in Google Sheets",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "GPT-3 in Google Sheets",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-11-01T12:22:28Z",
+      "updated_at": "2022-11-01T13:30:02Z",
+      "url": "https://www.bensbites.co/p/gpt3-google-sheets"
+    },
+    {
+      "id": "a76866ad-83a8-414e-b580-c149b9138dc7",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Music → Image",
+      "web_subtitle": "🎶 Music from image uploads 👥 Stable Diffusion multiplayer ✔ Kids using AI in exams 🎑 Image mixing",
+      "status": "published",
+      "override_scheduled_at": "2022-10-31T14:15:53.713Z",
+      "slug": "music-image",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8a140371-14f4-4c67-8766-20b582e5a763/grid_0__26_.png",
+      "meta_default_title": "Music → Image",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Music → Image",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Music → Image",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-31T13:50:42Z",
+      "updated_at": "2022-10-31T14:16:05Z",
+      "url": "https://www.bensbites.co/p/music-image"
+    },
+    {
+      "id": "2e065cfd-582f-45c1-951b-80ec03e16b86",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The AI Gold Rush",
+      "web_subtitle": "🙂 Pieter Levels new AI project 📝 Overview of the AI writing landscape 📖 A videobook 🧃 Product marketing with AI",
+      "status": "published",
+      "override_scheduled_at": "2022-10-28T12:38:18.238Z",
+      "slug": "ai-gold-rush",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6ab5db52-b50a-4acf-b216-a1f2234e0a72/abz6jxlcscw91.png",
+      "meta_default_title": "The AI Gold Rush",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "The AI Gold Rush",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "The AI Gold Rush",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-28T12:09:21Z",
+      "updated_at": "2022-10-28T12:39:01Z",
+      "url": "https://www.bensbites.co/p/ai-gold-rush"
+    },
+    {
+      "id": "681e95c4-d691-4681-a36d-32c44f9afa87",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Into the AI-Verse",
+      "web_subtitle": "🛻 Off-road autonomous driving 🎬 AI-Images based on movies 🔝 List of top AI companies 🌅 Get prompts from your images",
+      "status": "published",
+      "override_scheduled_at": "2022-10-27T12:54:36.870Z",
+      "slug": "aiverse",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/36cceb71-627c-4739-8b46-808a5a2522b4/spiderverse-portraits-small.jpeg",
+      "meta_default_title": "Into the AI-Verse",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Into the AI-Verse",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Into the AI-Verse",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-27T09:31:04Z",
+      "updated_at": "2022-10-27T12:55:02Z",
+      "url": "https://www.bensbites.co/p/aiverse"
+    },
+    {
+      "id": "1a95d5c9-4439-40a4-9053-b46937bf23f4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Can you find the cork?",
+      "web_subtitle": "🦾 Robot hands 🌅 Shutterstock's partnership with OpenAI 🔎 Identifying objects in images 📝 Summarise video and audio with an API",
+      "status": "published",
+      "override_scheduled_at": "2022-10-26T13:06:46.433Z",
+      "slug": "can-find-cork",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/63054ae3-c99e-4768-b4ed-229427c6a9b5/ezgif.com-gif-maker__9_.gif",
+      "meta_default_title": "Can you find the cork?",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Can you find the cork?",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Can you find the cork?",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-26T12:11:31Z",
+      "updated_at": "2022-10-26T13:07:05Z",
+      "url": "https://www.bensbites.co/p/can-find-cork"
+    },
+    {
+      "id": "14916d2d-cc91-413c-bb2a-1e1297da6902",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "GPT-3 playground",
+      "web_subtitle": "🛝 A GPT-3 playground 📃 Upload any paper → get an explanation 💬 Sequoia AI office hours 🤖 Stable Diffusion API",
+      "status": "published",
+      "override_scheduled_at": "2022-10-25T12:30:00.000Z",
+      "slug": "gpt3-playground",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/02003931-29b9-47ab-b00e-9018d94afa26/2d3ad7possv91.jpeg",
+      "meta_default_title": "GPT-3 playground",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "GPT-3 playground",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "GPT-3 playground",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-25T07:07:42Z",
+      "updated_at": "2022-10-25T12:30:07Z",
+      "url": "https://www.bensbites.co/p/gpt3-playground"
+    },
+    {
+      "id": "c35a8933-9b78-4bbf-8e13-52dec24e9bbb",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "I prefer a flan",
+      "web_subtitle": "✍️ Write → get code, Overview of the space, AI-generated entertainment, OpenAI DALL-E API",
+      "status": "published",
+      "override_scheduled_at": "2022-10-24T12:29:41.029Z",
+      "slug": "prefer-flan",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1a8422ab-4d16-4c5a-bda0-13c95317203c/7d9fws0czcv91.png",
+      "meta_default_title": "I prefer a flan",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "I prefer a flan",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "I prefer a flan",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-24T11:26:21Z",
+      "updated_at": "2022-10-24T12:30:06Z",
+      "url": "https://www.bensbites.co/p/prefer-flan"
+    },
+    {
+      "id": "03e107e3-95c6-46f0-802c-1f02ed05f74a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Build a website in 30 seconds, with AI",
+      "web_subtitle": " 🧰 Build a website in 30 seconds, Elad Gil on Startups vs Incumbents in AI, OpenAI raising funding from Microsoft, What's going on at Stability AI",
+      "status": "published",
+      "override_scheduled_at": "2022-10-21T12:00:00.000Z",
+      "slug": "build-website-30-seconds-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/77d9f8a9-b298-4f07-a5d1-031cd61c1a28/ezgif.com-gif-maker__8_.gif",
+      "meta_default_title": "Build a website in 30 seconds, with AI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Build a website in 30 seconds, with AI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Build a website in 30 seconds, with AI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-20T13:25:12Z",
+      "updated_at": "2022-10-21T12:00:02Z",
+      "url": "https://www.bensbites.co/p/build-website-30-seconds-ai"
+    },
+    {
+      "id": "5b9fe7af-d7e4-443f-893e-c5fddf476dd4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "A GPT-3 Alternative",
+      "web_subtitle": "💬 Open-source speech-to-speech translation, a GPT-3 alternative, A new tool for building LLM apps, Text-to-music is here",
+      "status": "published",
+      "override_scheduled_at": "2022-10-20T13:01:15.850Z",
+      "slug": "gpt3-alternative",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c9511e63-8120-4462-8786-3d7c07308e91/m54335eolsu91.png",
+      "meta_default_title": "A GPT-3 Alternative",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "A GPT-3 Alternative",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "A GPT-3 Alternative",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-20T11:33:34Z",
+      "updated_at": "2022-10-20T13:02:04Z",
+      "url": "https://www.bensbites.co/p/gpt3-alternative"
+    },
+    {
+      "id": "20e9fc5c-1741-48d2-8432-2f84a272b23c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "9 ideas to profit from the AI gold rush",
+      "web_subtitle": "💬 A mini interview with Jasper CEO, Is AI good or bad for writers?, $250k for AI builders, AI-generated love song, 9 business ideas to profit from the 2022 A.I. gold rush",
+      "status": "published",
+      "override_scheduled_at": "2022-10-19T12:54:14.707Z",
+      "slug": "9-ideas-profit-ai-gold-rush",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/cb2bd9a8-473f-4c41-ad01-4bf7466264d9/j3oxfkqwlku91.png",
+      "meta_default_title": "9 ideas to profit from the AI gold rush",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "9 ideas to profit from the AI gold rush",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "9 ideas to profit from the AI gold rush",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-19T11:16:19Z",
+      "updated_at": "2022-10-19T12:55:09Z",
+      "url": "https://www.bensbites.co/p/9-ideas-profit-ai-gold-rush"
+    },
+    {
+      "id": "20d6b77a-7d59-4ea0-8125-45e15095fb7b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "2x $1.5BN Valuations",
+      "web_subtitle": "Easily generate prompts, Excel formula generation, $101M seed round for Stability.ai, $125M seed round for Jasper.ai, 4k Stock video with music",
+      "status": "published",
+      "override_scheduled_at": "2022-10-18T14:00:36.582Z",
+      "slug": "2x-15bn-valuations",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d4e32134-829b-4599-8245-d642912a6bd7/0e3d0502c2ee4380a189c53b48bdb774.jpeg",
+      "meta_default_title": "2x $1.5BN Valuations",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "2x $1.5BN Valuations",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "2x $1.5BN Valuations",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-18T09:47:14Z",
+      "updated_at": "2022-10-18T14:28:13Z",
+      "url": "https://www.bensbites.co/p/2x-15bn-valuations"
+    },
+    {
+      "id": "6561fc2c-7436-4dec-bc63-7a33123ad399",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "A better AI-writing tool",
+      "web_subtitle": "📝 A new writing tool with a twist, GitHub Copilot code 'borrowing',  AI vs Google search, Text-to-3D, Education links and resources",
+      "status": "published",
+      "override_scheduled_at": "2022-10-17T12:39:59.436Z",
+      "slug": "better-aiwriting-tool",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ff57effc-d867-459f-8f91-53f511fbd8dd/dgiko53260u91.png",
+      "meta_default_title": "A better AI-writing tool",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "A better AI-writing tool",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "A better AI-writing tool",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-17T10:02:17Z",
+      "updated_at": "2022-10-17T12:40:04Z",
+      "url": "https://www.bensbites.co/p/better-aiwriting-tool"
+    },
+    {
+      "id": "c2e27600-cb8d-4ba4-8359-af9edbf1647a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Write an app idea → get an app",
+      "web_subtitle": "An AI assistant designer you just talk to and it makes things, Write your app idea → get the app, AI fetal ultrasounds, A tool for starting your own AI startup, Coatue raised $500M to fund AI",
+      "status": "published",
+      "override_scheduled_at": "2022-10-14T13:16:59.267Z",
+      "slug": "write-app-idea-get-app",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f09b8822-a219-4ea2-b1cf-d083d43ea944/Group_1__2_.png",
+      "meta_default_title": "Write an app idea → get an app",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Write an app idea → get an app",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Write an app idea → get an app",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-14T11:52:45Z",
+      "updated_at": "2022-10-14T13:17:01Z",
+      "url": "https://www.bensbites.co/p/write-app-idea-get-app"
+    },
+    {
+      "id": "abe7c800-3578-4798-a0cd-d20eeaf91817",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "🫦 $100M to fund AI",
+      "web_subtitle": "Runway's new Magic, Microsoft <> DALL-E, Hugging Face updates, $100M AI fund and more",
+      "status": "published",
+      "override_scheduled_at": "2022-10-13T13:33:21.000Z",
+      "slug": "100m-fund-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ce37130b-39d4-4522-b0ad-6b1e79ff0866/4968295326ac46da9150b3d68379a2e5.jpeg",
+      "meta_default_title": "🫦 $100M to fund AI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "🫦 $100M to fund AI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "🫦 $100M to fund AI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-13T09:28:38Z",
+      "updated_at": "2022-10-13T13:34:02Z",
+      "url": "https://www.bensbites.co/p/100m-fund-ai"
+    },
+    {
+      "id": "3bb1db5a-530b-4b0d-a504-1346e3881de1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Fireside Chat with Sam Altman",
+      "web_subtitle": "What's going on in AI? Elad Gil chats with Sam Altman. Joe Rogan interviews Steve Jobs on his podcast, Boe Jogan Experience. (Un)Stable Diffusion Discord Drama.",
+      "status": "published",
+      "override_scheduled_at": "2022-10-12T12:43:27.046Z",
+      "slug": "fireside-chat-sam-altman",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8b81d69b-8d2b-4747-b720-490bdddce8db/b13l_colorful_gooey_Play-Doh_car_engine_dripping_neon_lava_toot_fdac0f3e-c133-4830-a53c-e0a572bd8665.png",
+      "meta_default_title": "Fireside Chat with Sam Altman",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Fireside Chat with Sam Altman",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Fireside Chat with Sam Altman",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-12T11:48:14Z",
+      "updated_at": "2022-10-12T12:49:13Z",
+      "url": "https://www.bensbites.co/p/fireside-chat-sam-altman"
+    },
+    {
+      "id": "2e181809-3924-4229-9535-19a1795fff77",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "State of AI Report - Summarised",
+      "web_subtitle": "Key takeaways from the report, voice-diagnosis and more",
+      "status": "published",
+      "override_scheduled_at": "2022-10-11T14:16:17.744Z",
+      "slug": "state-ai-report-summarised",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/24c34117-071a-4204-a369-e4e888085171/cjldhxy7sxs91_Small.jpeg",
+      "meta_default_title": "State of AI Report - Summarised",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "State of AI Report - Summarised",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "State of AI Report - Summarised",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-11T11:42:00Z",
+      "updated_at": "2022-10-11T14:17:02Z",
+      "url": "https://www.bensbites.co/p/state-ai-report-summarised"
+    },
+    {
+      "id": "57ea1ab4-6e2c-48b6-9090-cfd92cf6aa4a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Saucy AI and Models",
+      "web_subtitle": "A simple summary of what's going on in AI",
+      "status": "published",
+      "override_scheduled_at": "2022-10-10T13:54:39.732Z",
+      "slug": "saucy-ai-models",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9e70a73c-5e18-425c-8bdc-353b22302203/ezgif.com-gif-maker__5_.jpg",
+      "meta_default_title": "Saucy AI and Models",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Saucy AI and Models",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Saucy AI and Models",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2022-10-10T13:39:27Z",
+      "updated_at": "2022-10-10T18:41:41Z",
+      "url": "https://www.bensbites.co/p/saucy-ai-models"
+    }
+  ]
+}
