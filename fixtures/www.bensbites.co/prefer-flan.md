@@ -2,130 +2,131 @@
 
 ### ✍️ Write → get code, Overview of the space, AI-generated entertainment, OpenAI DALL-E API
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 October 24, 2022
 
-Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.  
-*Not subscribed? Do that [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hZ2ljLmJlZWhpaXYuY29tL3YxLzQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYz9lbWFpbD17e2VtYWlsfX0mdXRtX3NvdXJjZT10b3Atb2YtZW1haWwiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MjksImlzcyI6Im9yY2hpZCJ9.bjxKPriQ9mn24WDdYyfFnINNBLW1-F4rpu1PEir9oNE).  
-Link overload? Refer 1 friend [with this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUyOSwiaXNzIjoib3JjaGlkIn0.upjAzjW7n2Vmpge1ixg0p5Rr45VHNhnpfuACFZUPX_0) and get access to the filterable+searchable database.*
+Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.\
+*Not subscribed? Do that [here](https://magic.beehiiv.com/v1/447f6e60-e36a-4642-b6f8-46beb19045ec?email={{email}}\&utm_source=top-of-email).\
+Link overload? Refer 1 friend [with this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and get access to the filterable+searchable database.*
 
 Happy Monday, hope you all had a good weekend. I had a fabulous one stuck in traffic for around 8 hours in total. Love it. But we're back to all the action here in our little AI corner.
 
-I've had several of you surfacing links I should check out - thanks! So I made [a little form here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpcnRhYmxlLmNvbS9zaHJQNFlJTVIzUUlVd1ZlYiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUyOSwiaXNzIjoib3JjaGlkIn0.J61fu_dnDjXZfXl3X3IZxIJTTNfUJ7CByVNX1emv2xw) to make it easier for you (and me).
+I've had several of you surfacing links I should check out - thanks! So I made [a little form here](https://airtable.com/shrP4YIMR3QIUwVeb) to make it easier for you (and me).
 
 Let's get into it
 
 **Prompt**: List the topics in today’s email:
 
-✍️ Write → get code  
-📓 Overview of the space  
-📺 AI-generated entertainment  
+✍️ Write → get code\
+📓 Overview of the space\
+📺 AI-generated entertainment\
 🛠 OpenAI DALL-E API
 
 ## **🫦 BEN'S BITES**
 
-* **Type → get code written for you,**in any programming language. [SourceAI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NvdXJjZWFpLmRldi8iLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MjksImlzcyI6Im9yY2hpZCJ9.uWRfm_bL28KfPPV1FowO_Vo-ZdRYGxzenJFLM-_2-9E)
+- \*\*Type → get code written for you,\*\*in any programming language. [SourceAI](https://sourceai.dev/)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/76853a89-0c68-4b83-9ade-47b41e3ae6e8/Screenshot_2022-10-24_at_12.44.22.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/76853a89-0c68-4b83-9ade-47b41e3ae6e8/Screenshot_2022-10-24_at_12.44.22.png)
 
-* This is a pretty good **[overview of the new “Generative Tech” wave.](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5uZnguY29tL3Bvc3QvZ2VuZXJhdGl2ZS10ZWNoIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTI5LCJpc3MiOiJvcmNoaWQifQ.jSRfQeaQAkQ0upOo6zAYOQLvhgajDGs242D5AB0bwi8)**They also have a [list of the top investors in the space](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NpZ25hbC5uZnguY29tL2ludmVzdG9yLWxpc3RzL3RvcC1nZW5lcmF0aXZlLXRlY2gtc2VlZC1pbnZlc3RvcnMiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MjksImlzcyI6Im9yY2hpZCJ9.KcbMUm1NPew8IlUEVQi5lP33FHgunFzYgZ2IUJWUGVg).
+- This is a pretty good \*\*[overview of the new “Generative Tech” wave.](https://www.nfx.com/post/generative-tech)\*\*They also have a [list of the top investors in the space](https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors).
 
-* **[A comic](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5kYWVkYWx1cy5hbS9jb21pYy1wYWdlIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTI5LCJpc3MiOiJvcmNoaWQifQ.Vtx3B9-RfCd5d4CxNLZAtw5PJjk6UKsKt6hotRqyl8M)** built on top of Stable Diffusion. It's really impressive! Put together by a few ex-creative directors at Epic Games.
+- **[A comic](https://www.daedalus.am/comic-page)** built on top of Stable Diffusion. It's really impressive! Put together by a few ex-creative directors at Epic Games.
 
-* Elad Gil is following up on the fireside chat he did with Sam Altman. Tonight, **[he’s chatting with Emad Mostaque, CEO of StabilityAI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUVTRGVVaThZbC04IiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTI5LCJpc3MiOiJvcmNoaWQifQ.v9iFxdrGrhTRg95TsnRfz-gnjlM_aio6-vofxTOxR7Q)**. I’ll post a summary in tomorrow’s email.
+- Elad Gil is following up on the fireside chat he did with Sam Altman. Tonight, **[he’s chatting with Emad Mostaque, CEO of StabilityAI](https://www.youtube.com/watch?v=ESDeUi8Yl-8)**. I’ll post a summary in tomorrow’s email.
 
-* Research aimed at increasing **[the capabilities of Neuroscience and AI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9wZGYvMjIxMC4wODM0MC5wZGYiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MjksImlzcyI6Im9yY2hpZCJ9.-O67bjEpD20PRSfBe0D2oIXvqo6PQIsjvTwk4WzMQm8)**. Based on the premise that a better understanding of neural computation will reveal basic ingredients of intelligence and catalyze the next revolution in AI. Potentially surpassing human capabilities.
+- Research aimed at increasing **[the capabilities of Neuroscience and AI](https://arxiv.org/pdf/2210.08340.pdf)**. Based on the premise that a better understanding of neural computation will reveal basic ingredients of intelligence and catalyze the next revolution in AI. Potentially surpassing human capabilities.
 
-* **WTF are NeRFs?!** No, not the toy guns or whistling footballs. **Neural Radiance Fields (NeRFs)** of course! [This thread is a simple explainer](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2FpX19wdWIvc3RhdHVzLzE1ODQxNTI3MDc2MjI4NDY0NjY_cz0xMiZ0PUllcjZlbGlKZUwwS2tPVUpFZ3FkTkEiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MjksImlzcyI6Im9yY2hpZCJ9.MFjRkgG-dC8k5UyUKv5ZhBusxALPenrpDakr1c70KMU) (the account breaks down technical AI, worth a follow if that’s your jam).
+- **WTF are NeRFs?!** No, not the toy guns or whistling footballs. **Neural Radiance Fields (NeRFs)** of course! [This thread is a simple explainer](https://twitter.com/ai__pub/status/1584152707622846466?s=12\&t=Ier6eliJeL0KkOUJEgqdNA) (the account breaks down technical AI, worth a follow if that’s your jam).
 
-* **AI-generated movie trailers**?! MovieCLIP: Visual Scene Recognition in Movies. [This paper](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xMTA2NSIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.yi6tgb2Jf5vuNxAf_vJeF-bGluel-F46qoGzebRJfeI) shows leveraging features from models pre-trained on MovieCLIP benefits downstream tasks such as multi-label scene and genre classification of web videos and movie trailers.
+- **AI-generated movie trailers**?! MovieCLIP: Visual Scene Recognition in Movies. [This paper](https://arxiv.org/abs/2210.11065) shows leveraging features from models pre-trained on MovieCLIP benefits downstream tasks such as multi-label scene and genre classification of web videos and movie trailers.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.VwvB94FtWJmU9m12ZbExTag8CP_QibUkuDjeL6iX5Ec) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-* [An implementation of Phenaki Video](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbHVjaWRyYWlucy9waGVuYWtpLXB5dG9yY2giLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MywiaXNzIjoib3JjaGlkIn0.rDHFwrJ5-AbyBHV4O-pL8c3VsGK5JhXj9pBMTmJmJ_4), to **produce text-guided videos of up to 2 minutes** in length.
+- [An implementation of Phenaki Video](https://github.com/lucidrains/phenaki-pytorch), to **produce text-guided videos of up to 2 minutes** in length.
 
-* [Astria](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zdHJtci5jb20vIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.xOu8I-pZ4F3EMj2YSiscwNQywy7AWe4RsfREgEwKTHQ) lets you **upload a photo and use AI** to turn that photo into many variations.
+- [Astria](https://www.strmr.com/) lets you **upload a photo and use AI** to turn that photo into many variations.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/f2e1fe60-eb58-4d01-9506-c0cc181e503c/Screenshot_2022-10-24_at_12.45.21.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f2e1fe60-eb58-4d01-9506-c0cc181e503c/Screenshot_2022-10-24_at_12.45.21.png)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/cbbf19a3-fe3c-4fa7-9bbc-a734d603a210/Screenshot_2022-10-24_at_12.47.27.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/cbbf19a3-fe3c-4fa7-9bbc-a734d603a210/Screenshot_2022-10-24_at_12.47.27.png)
 
-* Flan anyone? Well Google AI has released [an open-source language model called Flan-Td](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xMTQxNiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.m1oC_V3gPPpW_JV8_US_DE_Ke8jXlZzIpPYkjdQYkp0). It is instruction-finetuned on 1,800+ language tasks, leading to dramatically improved prompting and multi-step reasoning abilities. And yup, it’s already [available on Hugging Face](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2dvb2dsZS9mbGFuLXQ1LXh4bD90ZXh0PVBsZWFzZSthbnN3ZXIrdGhlK2ZvbGxvd2luZytxdWVzdGlvbi4rV2hhdCtpcyt0aGUrYm9pbGluZytwb2ludCtvZitOaXRyb2dlbiUzRiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.24YTJhDBcrJIUvyVbCFvSTxp7K1ZgEh8hKFz6FDJoyw) for you to play around with
+- Flan anyone? Well Google AI has released [an open-source language model called Flan-Td](https://arxiv.org/abs/2210.11416). It is instruction-finetuned on 1,800+ language tasks, leading to dramatically improved prompting and multi-step reasoning abilities. And yup, it’s already [available on Hugging Face](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question.+What+is+the+boiling+point+of+Nitrogen%3F) for you to play around with
 
-* [AI-generated entertainment](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mYWJpYW5tb3NlbGUuY29tL3RoZS1tbC1zaG93IiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.gqFCsRBx5WNNDSU8aM4j9yx9MwVyY5pRUstABoWuOTE). A live stream of “The ML Show” - **an automated cartoon that can create an endless stream of YouTube kid’s animation**. Although it was live for only 48 hours. Check on the kids every few days maybe?
+- [AI-generated entertainment](https://www.fabianmosele.com/the-ml-show). A live stream of “The ML Show” - **an automated cartoon that can create an endless stream of YouTube kid’s animation**. Although it was live for only 48 hours. Check on the kids every few days maybe?
 
-* Fast.ai have released part 2 of their course; **[From Deep Learning Foundations to Stable Diffusion](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mYXN0LmFpL3Bvc3RzL3BhcnQyLTIwMjItcHJldmlldy5odG1sIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.pv_uGeSAB8ahunL9NAH3VvVkadO2lpC8FsRhfsnAk_Q)**. The first 5.5 hours are free!
+- Fast.ai have released part 2 of their course; **[From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022-preview.html)**. The first 5.5 hours are free!
 
-* An NYT piece about AI, including an interview with Stability AI founder, Emad. [**A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIyLzEwLzIxL3RlY2hub2xvZ3kvZ2VuZXJhdGl2ZS1haS5odG1sIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.mqfKYRjcITRKQnW4E0VrX9SICuL65cuBhJcuwgx0kQU)
+- An NYT piece about AI, including an interview with Stability AI founder, Emad. [**A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze**](https://www.nytimes.com/2022/10/21/technology/generative-ai.html)
 
-* Mike Mignano (who founded Anchor, which sold to Spotify) [**wrote a piece on the creator economy and its evolution**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGl1bS5jb20vbGlnaHRzcGVlZC12ZW50dXJlLXBhcnRuZXJzL3RoZS1jcmVhdGl2aXR5LXN1cHBseS1jaGFpbi1kODYxZDc4MTcxNjAiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MywiaXNzIjoib3JjaGlkIn0.d-mXfUm3M7DNJlrx30gLHcTYIQcBAETEOvWSfdgQqC0). Naturally, AI got its own shoutout on how it may be used by creators now and in the future.
+- Mike Mignano (who founded Anchor, which sold to Spotify) [**wrote a piece on the creator economy and its evolution**](https://medium.com/lightspeed-venture-partners/the-creativity-supply-chain-d861d7817160). Naturally, AI got its own shoutout on how it may be used by creators now and in the future.
 
-* An artificial intelligence-based **stats query tool that can answer questions** put to it in regular English. [AskCricinfo is focusing on Cricket stats](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5lc3BuY3JpY2luZm8uY29tL2FzayIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.SiMJKzMgLxY_31zWSU6-sCA2S3gtDupFwiVTC1fIOQ4).
+- An artificial intelligence-based **stats query tool that can answer questions** put to it in regular English. [AskCricinfo is focusing on Cricket stats](https://www.espncricinfo.com/ask).
 
-* OpenAI DALL-E API looks to be released soon and [here’s an early look](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3ZlbnR1cmViZWF0LmNvbS9haS9vcGVuYWktc2hhcmVzLWRhbGwtZS1hcGktdXNlLWNhc2UtaW4tYWR2YW5jZS1vZi1hdXR1bW4tcmVsZWFzZS8iLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MywiaXNzIjoib3JjaGlkIn0.8rC-s8tuGz10nBflXSiGVhDb_KsdXQshXbkPdFFx8jw). They already have a customer using it for a specific enterprise-ready use case.
+- OpenAI DALL-E API looks to be released soon and [here’s an early look](https://venturebeat.com/ai/openai-shares-dall-e-api-use-case-in-advance-of-autumn-release/). They already have a customer using it for a specific enterprise-ready use case.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/3084e48f-5d2a-4264-8a64-badc0e7fdcda/2-1.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/3084e48f-5d2a-4264-8a64-badc0e7fdcda/2-1.png)
 
-* [Midjourney Remix](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL01hbnVWaXNpb24vc3RhdHVzLzE1ODM5MDg5NTAwNjMyNjc4NDEiLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MywiaXNzIjoib3JjaGlkIn0.lFFsY7HwNq9k1P8V80cGjjIdErQpTxenG7uS3NkZPU0) - You can now **“remix” your text-to-image prompts on Midjourney**.
+- [Midjourney Remix](https://twitter.com/ManuVision/status/1583908950063267841) - You can now **“remix” your text-to-image prompts on Midjourney**.
 
-* **[Large Language models can self-improve](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xMTYxMCIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.BIoSczTvPfucrcNFJqvJiWkfN-gfoVLl-NQMwqX4kts)**
+- **[Large Language models can self-improve](https://arxiv.org/abs/2210.11610)**
 
-* Many existing song creation models require clean recordings of a singer’s voice for training. But [this proposes a way to **train even on distorted recordings**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3QtbmFveWEuZ2l0aHViLmlvL3Jvc3ZjLyIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.A1EDVWf6dGgmJMunu_aKKqbYwqdx9LmZyvDR8XnArxM). Related (behind a paywall): [Can Taylor Swift Be Dethroned by Artificial Intelligence?](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL29waW5pb24vYXJ0aWNsZXMvMjAyMi0xMC0yMy90YXlsb3Itc3dpZnQtbWlkbmlnaHRzLXdpbGwtdGhlLW5leHQtcG9wLWhpdC1iZS13cml0dGVuLWJ5LWFpLWw5bGFzeDl4IiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.oZTswUip_eZeORL1kmw6u6gzxSHwRnmmarGQFvKAHAE)
+- Many existing song creation models require clean recordings of a singer’s voice for training. But [this proposes a way to **train even on distorted recordings**](https://t-naoya.github.io/rosvc/). Related (behind a paywall): [Can Taylor Swift Be Dethroned by Artificial Intelligence?](https://www.bloomberg.com/opinion/articles/2022-10-23/taylor-swift-midnights-will-the-next-pop-hit-be-written-by-ai-l9lasx9x)
 
-* **[A campfire scene captured with LUMA AI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvQVJfTVJfWFIvY29tbWVudHMveWJkaDB6L2NhcHR1cmVkX3dpdGhfbHVtYV9haS8iLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MywiaXNzIjoib3JjaGlkIn0.zwSeFc6Enoz0FDeI74i6S6F6GkPhRkxe9lczTY3e-Bc).**
+- **[A campfire scene captured with LUMA AI](https://www.reddit.com/r/AR_MR_XR/comments/ybdh0z/captured_with_luma_ai/).**
 
-* **[3D meat printing](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvRGFtbnRoYXRzaW50ZXJlc3RpbmcvY29tbWVudHMveTl4Ym9oLzNkX21lYXRfcHJpbnRpbmdfaXNfY29taW5nLyIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.nVLMR_DpkXUxDaEcLbCLK86vcUzrzWt1hygLk8VPVWA)** is coming. It doesn’t look that appetising…
+- **[3D meat printing](https://www.reddit.com/r/Damnthatsinteresting/comments/y9xboh/3d_meat_printing_is_coming/)** is coming. It doesn’t look that appetising…
 
-* GoogleAI are very busy, they also released [U-PaLM 540B](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xMTM5OSIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzLCJpc3MiOiJvcmNoaWQifQ.o6WgcK10jLIEYVPhLfE5fRKlBfDzbeq7Dmt0XI_QPyY)! What is it? Basically, it **improves existing language models and their scaling curves with a relatively tiny amount of extra compute.**
+- GoogleAI are very busy, they also released [U-PaLM 540B](https://arxiv.org/abs/2210.11399)! What is it? Basically, it **improves existing language models and their scaling curves with a relatively tiny amount of extra compute.**
 
-* Alphabet **Google is in [talks to invest at least $200 million](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53c2ouY29tL2FydGljbGVzL2dvb2dsZS1pbi10YWxrcy10by1pbnZlc3QtMjAwLW1pbGxpb24taW50by1haS1zdGFydHVwLTExNjY2MzgxMTgwP21vZD1kamVtYWxlcnRORVdTIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMsImlzcyI6Im9yY2hpZCJ9.KN0yQ3ttg2ol621SQTleetfL25SKMhMu4rYs81eX91w) into artificial intelligence startup** Cohere Inc., which creates natural language processing software that developers can then use to build artificial intelligence applications for businesses, including tools for chatbots and other features that can understand human speech and text.
+- Alphabet **Google is in [talks to invest at least $200 million](https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180?mod=djemalertNEWS) into artificial intelligence startup** Cohere Inc., which creates natural language processing software that developers can then use to build artificial intelligence applications for businesses, including tools for chatbots and other features that can understand human speech and text.
 
-* [The End of Scarcity](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGVhdGxhbnRpYy5jb20vc3BvbnNvcmVkL3RhZS0yMDIyL3RoZS1lbmQtb2Ytc2NhcmNpdHkvMzc1Ny8iLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MzEsImlzcyI6Im9yY2hpZCJ9.HbvMU2Vpnth_XgaZC_tFNBsuHUdgkSq98Mlt1yK31sM) - Nuclear fusion is the primordial source of the sun’s energy. For decades, **scientists have been trying to recreate it on Earth**. Now they’re closer than ever to achieving it and to unlocking a future of clean power for all.
+- [The End of Scarcity](https://www.theatlantic.com/sponsored/tae-2022/the-end-of-scarcity/3757/) - Nuclear fusion is the primordial source of the sun’s energy. For decades, **scientists have been trying to recreate it on Earth**. Now they’re closer than ever to achieving it and to unlocking a future of clean power for all.
 
-* Text and Image models understand things differently. But **[this research proposes combining the two models.](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2VuZXJneS1iYXNlZC1tb2RlbC5naXRodWIuaW8vY29tcG9zaW5nLXByZXRyYWluZWQtbW9kZWxzLyIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzMSwiaXNzIjoib3JjaGlkIn0.ZTODT2RUaJ1ww07F6ZoClgxq4ULmibPzS5Tz911prGY)**
+- Text and Image models understand things differently. But **[this research proposes combining the two models.](https://energy-based-model.github.io/composing-pretrained-models/)**
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 Dumbledore crushing it at the gym
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/1a8422ab-4d16-4c5a-bda0-13c95317203c/7d9fws0czcv91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1a8422ab-4d16-4c5a-bda0-13c95317203c/7d9fws0czcv91.png)
 
-[https://www.reddit.com/r/StableDiffusion/comments/yanqlv/dumbbelldore\_crushing\_it\_at\_gym/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3lhbnFsdi9kdW1iYmVsbGRvcmVfY3J1c2hpbmdfaXRfYXRfZ3ltLyIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzMSwiaXNzIjoib3JjaGlkIn0.1Do3hSCSe3QO2i97DhaktVhbjHEgH5TLGvIdDEBn5Ig)
+<https://www.reddit.com/r/StableDiffusion/comments/yanqlv/dumbbelldore_crushing_it_at_gym/>
 
 In/Outpainting memes
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/2bb8462a-d292-4b2b-b7e1-298965d48a5c/n51g86sfqnv91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2bb8462a-d292-4b2b-b7e1-298965d48a5c/n51g86sfqnv91.png)
 
-[https://www.reddit.com/r/StableDiffusion/comments/ybyqpt/inout\_painting\_is\_so\_much\_fun/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3lieXFwdC9pbm91dF9wYWludGluZ19pc19zb19tdWNoX2Z1bi8iLCJwb3N0X2lkIjoiYzM1YTg5MzMtOWI3OC00YmJmLThlMTMtNTJkZWMyNGU5YmJiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjM4MGNjMjNhLWY0YjMtNDI2My05MWJlLTg0MTE2ZjZhYmE5OCIsImlhdCI6MTY3NDAzMTg2NC41MzEsImlzcyI6Im9yY2hpZCJ9.LS1jdiaQ-qYIMZJochbO-AkSY4kyJ8bAu3LG0MTMYzk)
+<https://www.reddit.com/r/StableDiffusion/comments/ybyqpt/inout_painting_is_so_much_fun/>
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/78a7f0c0-5b1b-4127-b953-ef296831b26d/92s2t6fbkjv91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/78a7f0c0-5b1b-4127-b953-ef296831b26d/92s2t6fbkjv91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/ybfec1/the\_pope\_goes\_to\_a\_pool\_party/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95YmZlYzEvdGhlX3BvcGVfZ29lc190b19hX3Bvb2xfcGFydHkvIiwicG9zdF9pZCI6ImMzNWE4OTMzLTliNzgtNGJiZi04ZTEzLTUyZGVjMjRlOWJiYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIzODBjYzIzYS1mNGIzLTQyNjMtOTFiZS04NDExNmY2YWJhOTgiLCJpYXQiOjE2NzQwMzE4NjQuNTMxLCJpc3MiOiJvcmNoaWQifQ.L5sRXJzYrYm4dM5HAfmtDeKHiUZtgqOWJGmOI96eiAY)
+<https://www.reddit.com/r/weirddalle/comments/ybfec1/the_pope_goes_to_a_pool_party/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database! Here's your referral link:
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJjMzVhODkzMy05Yjc4LTRiYmYtOGUxMy01MmRlYzI0ZTliYmIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMzgwY2MyM2EtZjRiMy00MjYzLTkxYmUtODQxMTZmNmFiYTk4IiwiaWF0IjoxNjc0MDMxODY0LjUzMSwiaXNzIjoib3JjaGlkIn0.FVFAViNjganVcviy-SaBh2v9rBaVsTAbjJwywGuqi9E)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
 ## **👋 SEE YA**
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/331385f4-f974-4a7d-93f7-ad8413a208dc/Screenshot_2022-10-24_at_12.58.19.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/331385f4-f974-4a7d-93f7-ad8413a208dc/Screenshot_2022-10-24_at_12.58.19.png)
 
 ## **⭐️ HOW DID WE DO?**
 
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)

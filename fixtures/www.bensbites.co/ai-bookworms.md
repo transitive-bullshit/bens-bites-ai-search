@@ -2,107 +2,107 @@
 
 ### 🎬 AI-generated Marvel movies 🎥 Process, understand and search video 🤔 Simplifying AI terminology 📊 Generated data charts
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 15, 2022
 
 Hey everyone, and welcome to the 121 new folk joining us since yesterday.
 
-A few of you have asked, so I've created an [AI job board](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JlbnNiaXRlcy5wYWxsZXQuY29tL2pvYnMiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.y6Jiu5aN4lk72XnFMxS47Z6NoYmoVLkbRmU8uBA79vg) + talent collective. If you're looking for AI job opportunities, **[sign up here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JlbnNiaXRlcy5wYWxsZXQuY29tL3RhbGVudC93ZWxjb21lP2FwcGxpY2F0aW9uPXRydWUmcGFsbGV0PSZzdGVwPXdlbGNvbWUiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.a8aADPbHlPrOCDDOW3Z1gAoY4h3LD-nKTckQuJ6CIyc)** (it's free) and I'll match you with companies hiring (you can remain anonymous too). If your company is hiring, you can post jobs and get access to the talent [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JlbnNiaXRlcy5wYWxsZXQuY29tL2hpcmUiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.cGFbH84drhyGUqUi-ripMw1rkD3t1nNCUexZQkuN29I). It's early so expect this to grow over time. Everything is vetted by me.
+A few of you have asked, so I've created an [AI job board](https://bensbites.pallet.com/jobs) + talent collective. If you're looking for AI job opportunities, **[sign up here](https://bensbites.pallet.com/talent/welcome?application=true\&pallet=\&step=welcome)** (it's free) and I'll match you with companies hiring (you can remain anonymous too). If your company is hiring, you can post jobs and get access to the talent [here](https://bensbites.pallet.com/hire). It's early so expect this to grow over time. Everything is vetted by me.
 
 Let's get into it!
 
-*p.s. I keep forgetting to actually [link the Discord](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvZTJlSGhkQXQiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.mwYXJB7t3aMAPQWbtw9SZBdd0kPfbY9DCHuVFPioxhk) if you're interested.*
+*p.s. I keep forgetting to actually [link the Discord](https://discord.gg/e2eHhdAt) if you're interested.*
 
 **Prompt**: List the topics in today’s email:
 
-🎬 AI-generated Marvel movies  
-🎥 Process, understand and search video  
-🤔 Simplifying AI terminology  
+🎬 AI-generated Marvel movies\
+🎥 Process, understand and search video\
+🤔 Simplifying AI terminology\
 📊 Generated data charts
 
 ## **🫦 BEN'S BITES**
 
-We got the scoop! Sahil Lavingia (founder of Gumroad) has launched [**Ask My Book**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Fza215Ym9vay5jb20vIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY1LCJpc3MiOiJvcmNoaWQifQ.8boXzFNk0qr7jRb7FrWwz4O-KF86lPLVcja1GSVBn9E). It’s being launched later today but he gave me the all-clear to announce it here first. Sahil wrote a book ‘The Minimalist Entrepreneur’ and has built this tool so that you can **ask it any question and it will answer it in real-time, with a voice cloned from Sahil’s**. It’s a really impressive way to see how AI tools combined can create a really helpful experience. He’s [**hosting a webinar on Friday that explains how he built it**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3VzMDJ3ZWIuem9vbS51cy93ZWJpbmFyL3JlZ2lzdGVyL1dOX2NzaW56WGtRUXZDcTFCVjJuZDBtckEiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.UoK2b9sn5YBlShc5rkzNSvCh4tKNilAM-CXv39MCZ2M).
+We got the scoop! Sahil Lavingia (founder of Gumroad) has launched [**Ask My Book**](https://askmybook.com/). It’s being launched later today but he gave me the all-clear to announce it here first. Sahil wrote a book ‘The Minimalist Entrepreneur’ and has built this tool so that you can **ask it any question and it will answer it in real-time, with a voice cloned from Sahil’s**. It’s a really impressive way to see how AI tools combined can create a really helpful experience. He’s [**hosting a webinar on Friday that explains how he built it**](https://us02web.zoom.us/webinar/register/WN_csinzXkQQvCq1BV2nd0mrA).
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/3260bce0-96aa-430c-8bc0-7e56abe6ad9e/Screenshot_2022-11-15_at_10.56.48.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/3260bce0-96aa-430c-8bc0-7e56abe6ad9e/Screenshot_2022-11-15_at_10.56.48.png)
 
-A [**demo of Game art**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2Jpb2luZm9sdWNhcy9zdGF0dXMvMTU5MTg3ODUwMDM0NDMwMzYxNiIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NSwiaXNzIjoib3JjaGlkIn0.4xSPg7AErjOGVmqFkgFn0YZeuXP7JBuGpXGnyWbwW94) made easy - Simple Stable Diffusion to Puppet: Stable diffusion -> concept art -> Automatic Puppet 2d Animation
+A [**demo of Game art**](https://twitter.com/bioinfolucas/status/1591878500344303616) made easy - Simple Stable Diffusion to Puppet: Stable diffusion -> concept art -> Automatic Puppet 2d Animation
 
-Universal image segmentation, and how it can be used to [**improve performance across multiple image segmentation tasks**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wNjIyMCIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NSwiaXNzIjoib3JjaGlkIn0.-tk28QpO8I-vW60WG0ijn8mWG2Z6AzDM7CxenR50Oio). A truly universal framework should be trained only once and be able to achieve state-of-the-art performance. The OneFormer framework proposed in the article is a step towards making image segmentation more universal and accessible.
+Universal image segmentation, and how it can be used to [**improve performance across multiple image segmentation tasks**](https://arxiv.org/abs/2211.06220). A truly universal framework should be trained only once and be able to achieve state-of-the-art performance. The OneFormer framework proposed in the article is a step towards making image segmentation more universal and accessible.
 
-LumaAI is [**hiring for multiple roles**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2x1bWFsYWJzLmFpL2pvaW4iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.wqQOAnZ_w6a3F_jpiV7uZHKZq-NqE9nGn8sBujrY8XE)!
+LumaAI is [**hiring for multiple roles**](https://lumalabs.ai/join)!
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NSwiaXNzIjoib3JjaGlkIn0.e7eOeuDnaKowYqQ7_cJPIkLbfSk1xwz6c--yB1dCuwA) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-[**DreamArtist**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vN2V1N2Q3L0RyZWFtQXJ0aXN0LXN0YWJsZS1kaWZmdXNpb24iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjUsImlzcyI6Im9yY2hpZCJ9.nAFM909siIxHWnHDA466epeBVf_9ohpssukOaNn86xs): With just **one training image it learns the content and style** in it, generating diverse high-quality images with high controllability.
+[**DreamArtist**](https://github.com/7eu7d7/DreamArtist-stable-diffusion): With just **one training image it learns the content and style** in it, generating diverse high-quality images with high controllability.
 
-A good [**podcast with Alex Wang of Scale AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVV1alV2TElDdlVBIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY1LCJpc3MiOiJvcmNoaWQifQ.hWjcqmuXpJUcsB3BwTMD6qoKYA0W2qgzz2c7mkLJM9k) on the state of AI, startup building, AI in defence + ethics and learning to think, the AI moats and more.
+A good [**podcast with Alex Wang of Scale AI**](https://www.youtube.com/watch?v=UujUvLICvUA) on the state of AI, startup building, AI in defence + ethics and learning to think, the AI moats and more.
 
-A tutorial on [**how Corridor Crew put Tom Holland into The Spider-Verse**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3lvdXR1LmJlL1FCV1ZIQ1laX1pzIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.XZxVYY5ej77EXQolmLeO0NTdmwfgltSgVT_klYEEXvI).
+A tutorial on [**how Corridor Crew put Tom Holland into The Spider-Verse**](https://youtu.be/QBWVHCYZ_Zs).
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/afd5dd28-b572-465d-9f5a-613dadc96703/ezgif.com-gif-maker__24_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/afd5dd28-b572-465d-9f5a-613dadc96703/ezgif.com-gif-maker__24_.gif)
 
-The [**next Google search engine will be Generative AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3doaWxzdGluYXJyYWtpcy53b3JkcHJlc3MuY29tLzIwMjIvMTEvMTEvdGhlLW5leHQtZ29vZ2xlLXNlYXJjaC1lbmdpbmUtd2lsbC1iZS1nZW5lcmF0aXZlLWFpLyIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.BUPSmxRmolRBxfaNOQUuZo7NJcyxPvSPLfOUjJ_i_ik). The current design of search engines is based on outdated technology. AI could be used to create a new type of search engine that is more efficient. But, training a model is expensive.
+The [**next Google search engine will be Generative AI**](https://whilstinarrakis.wordpress.com/2022/11/11/the-next-google-search-engine-will-be-generative-ai/). The current design of search engines is based on outdated technology. AI could be used to create a new type of search engine that is more efficient. But, training a model is expensive.
 
-A [**unified model for three motion and 3D perception tasks**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2hhb2ZlaXh1LmdpdGh1Yi5pby91bmltYXRjaC8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.nUIl_2ek5CAv95Z1v7D1Uhx9VjiT6Yczmjql3JlCB6g).
+A [**unified model for three motion and 3D perception tasks**](https://haofeixu.github.io/unimatch/).
 
-Any Roam lovers in the house? [**Use machine learning and graph theory to gain insights into your notes**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3Njb3R0b25vdGUvc3RhdHVzLzE1OTE1OTYwOTY4MDcyMTEwMTAiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.5MhnTkBKo4SJKHqAolS7O1vbmZEImYL5UEUr9O0MZhk).
+Any Roam lovers in the house? [**Use machine learning and graph theory to gain insights into your notes**](https://twitter.com/scottonote/status/1591596096807211010).
 
-Sieve raised $4m and launched its AI API Beta. Sieve is a platform that makes it [**easy to process, understand, and search video**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zaWV2ZWRhdGEuY29tL2Jsb2cvbGF1bmNoIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.M1752POp8JnMPtoqCmxfoNGMj45Eb5BJpqZv0tjmGUE), and it can be used to create interactive features without setting up a separate backend.
+Sieve raised $4m and launched its AI API Beta. Sieve is a platform that makes it [**easy to process, understand, and search video**](https://www.sievedata.com/blog/launch), and it can be used to create interactive features without setting up a separate backend.
 
-I wrote a little thread on [**simplifying AI terminology**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JlbnRvc3NlbGwvc3RhdHVzLzE1OTE0NDY1NDY5MDU3MTA1OTYiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.hlIdNElmKmLzKDJ2fmK1SJ6mpvm_ioK0YtWRbX1jXOM).
+I wrote a little thread on [**simplifying AI terminology**](https://twitter.com/bentossell/status/1591446546905710596).
 
-Create your own [**AI-powered glossary**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JlbnRvc3NlbGwvc3RhdHVzLzE1OTE0NDY1NDY5MDU3MTA1OTYiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.hlIdNElmKmLzKDJ2fmK1SJ6mpvm_ioK0YtWRbX1jXOM).
+Create your own [**AI-powered glossary**](https://twitter.com/bentossell/status/1591446546905710596).
 
-**How fast can you speak English**, without making mistakes? [Take the Rap God Test](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9tYW51L3RoZS1yYXAtZ29kLXRlc3QiLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.E1OrGVP5eO48Ld7c9EdM4q4w46cnsca_p9onHATs1ns) (read a Wikipedia passage quickly) and get judged by OpenAI Whisper STT scoring your speech's intelligibility. Each error you make adds 1s to your time.
+**How fast can you speak English**, without making mistakes? [Take the Rap God Test](https://huggingface.co/spaces/manu/the-rap-god-test) (read a Wikipedia passage quickly) and get judged by OpenAI Whisper STT scoring your speech's intelligibility. Each error you make adds 1s to your time.
 
-Create your own [**Avatar story with this Diffusion model.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9yaWNjYXJkb2dpb3JhdG8vcGxheWdyb3VuZF9kaWZmdXNpb24iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.yvo1dzgC46oR0USRri2t_0in9xu0iX4_7VPJ3c_qFE0)
+Create your own [**Avatar story with this Diffusion model.**](https://huggingface.co/spaces/riccardogiorato/playground_diffusion)
 
-[**Generating Images with OpenAI’s DALL-E**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2xhdmFsbC5tYXJrZXRpbmcvb3BlbmFpL2dlbmVyYXRpbmctaW1hZ2VzLXdpdGgtb3BlbmFpcy1kYWxsLWUtdmlhLWRhdGEtZmV0Y2hlci1hbmQtYWlydGFibGUvIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.0wunaSiilvwXfnRfPCUt055xGLaA4JpRAtqu4nsJNR4) via Data Fetcher and Airtable
+[**Generating Images with OpenAI’s DALL-E**](https://lavall.marketing/openai/generating-images-with-openais-dall-e-via-data-fetcher-and-airtable/) via Data Fetcher and Airtable
 
-[**Podcast version**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FuY2hvci5mbS9tYXJpby1nYWJyaWVsZS9lcGlzb2Rlcy9XaGF0LXRvLVdhdGNoLWluLUFJLWUxcWlvMm0vYS1hOHJmaTE3IiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.linxjeiZorXbGrH_eOG5KXPuzOzzEWVUhB0wydQ_ThI) of Mario’s “What to Watch in AI” article.
+[**Podcast version**](https://anchor.fm/mario-gabriele/episodes/What-to-Watch-in-AI-e1qio2m/a-a8rfi17) of Mario’s “What to Watch in AI” article.
 
-[**Generated music from the most iconic album covers**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3kwYjFieXRlL3N0YXR1cy8xNTkxOTA2NDQ2OTQ1NzA1OTg0IiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.Y52SM54nTUBDjF5G9jhWayp7qayly64rPRDWYSoMiUg), using Img-to-Music.
+[**Generated music from the most iconic album covers**](https://twitter.com/y0b1byte/status/1591906446945705984), using Img-to-Music.
 
-[**Scott Belsky’s take on Generative AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3Njb3R0YmVsc2t5L3N0YXR1cy8xNTkyMjMzNjg2Mzg4MzM0NTk4IiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.KE1Ctk9YPHMpjgnVFzwG1mGgvP5e0FmzJsUt-CtlU7Q): what disruptions are overblown, the perils of building start-ups (or features) on others’ models, and what will (and will never) change.
+[**Scott Belsky’s take on Generative AI**](https://twitter.com/scottbelsky/status/1592233686388334598): what disruptions are overblown, the perils of building start-ups (or features) on others’ models, and what will (and will never) change.
 
-[**The State of Multilingual AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3J1ZGVyLmlvL3N0YXRlLW9mLW11bHRpbGluZ3VhbC1haS8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.4RIMAIIHkGUuvUc5nBParcTdBWQUvNO6dgInVDMrHYc). How multilingual are current models in NLP, computer vision, and speech? What are the main recent contributions in this area? What challenges remain and how can we address them?
+[**The State of Multilingual AI**](https://ruder.io/state-of-multilingual-ai/). How multilingual are current models in NLP, computer vision, and speech? What are the main recent contributions in this area? What challenges remain and how can we address them?
 
-[**How AI will disrupt productivity tools**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0ZyYW5jZXNjb0RfQWxlcy9zdGF0dXMvMTU5MjE3NTUyMjAzMjY2ODY3MyIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.726XLRA8UejCYdqaQQuaIajkmhzoO42eLtOTTs1koO4). Admin structure, generative research, smart insights & suggestions, and task actions.
+[**How AI will disrupt productivity tools**](https://twitter.com/FrancescoD_Ales/status/1592175522032668673). Admin structure, generative research, smart insights & suggestions, and task actions.
 
-Does [**heavier use of AI assistance result in more vulnerable code**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMzYyMiIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.PznacdfToMMwxKkisCB_QJAlu5DgcoPYFppVQh6HQ1k)? It seems so!
+Does [**heavier use of AI assistance result in more vulnerable code**](https://arxiv.org/abs/2211.03622)? It seems so!
 
-Chula is a tool that lets you [**type what your chart should show**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5jaHVsYS5haS8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.9sEvfSjiEb-pfVKEoR02JyQxHzDee_lWEpcptk1slnE), it’ll find the data and create it.
+Chula is a tool that lets you [**type what your chart should show**](https://www.chula.ai/), it’ll find the data and create it.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/6dcbaf23-3014-4c41-b742-f79e7cdb93cf/636c34951744125eefe71110_Chula.ai_Waitlist_Demo__2_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6dcbaf23-3014-4c41-b742-f79e7cdb93cf/636c34951744125eefe71110_Chula.ai_Waitlist_Demo__2_.gif)
 
-[**A new method for pretraining audio representations**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wNjY4NyIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.IdVYevugSLzzOTgRwtZEfKsf0ZGTBKvW7aohEZHsqYo) by combining audio data with natural language descriptions.
+[**A new method for pretraining audio representations**](https://arxiv.org/abs/2211.06687) by combining audio data with natural language descriptions.
 
-[An end-to-end locomotion system](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Zpc2lvbi1sb2NvbW90aW9uLmdpdGh1Yi5pby8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.CbyN6t4d8k7WSwTMHHkdYAjjlXM-PyLioBJOwvWZ3q8) that is **capable of traversing stairs, curbs, stepping stones, and gaps**. The system is trained in simulation and transfers to the real world without any fine-tuning.
+[An end-to-end locomotion system](https://vision-locomotion.github.io/) that is **capable of traversing stairs, curbs, stepping stones, and gaps**. The system is trained in simulation and transfers to the real world without any fine-tuning.
 
-[**A new system for decoding visual stimuli from brain recordings**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21pbmQtdmlzLmdpdGh1Yi5pby8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.sI7cZNvhhdqirusXvLquOuTUrpDjG7Bfc9Hiiz5StBY), called MinD-Vis. The system is designed to improve upon existing methods by providing more faithful details and meaningful semantics in the reconstructed images.
+[**A new system for decoding visual stimuli from brain recordings**](https://mind-vis.github.io/), called MinD-Vis. The system is designed to improve upon existing methods by providing more faithful details and meaningful semantics in the reconstructed images.
 
-[**A new text-to-image model called Paella**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wNzI5MiIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.417BXduQANYTXzo13KYam7OypL_yxb7xudjiotuhAYI) requires less than 10 steps to generate high-fidelity images.
+[**A new text-to-image model called Paella**](https://arxiv.org/abs/2211.07292) requires less than 10 steps to generate high-fidelity images.
 
-The use of [**score distillation to text-guide a NeRF model to generate a 3D object**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wNzYwMCIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.hsqMsHPwOLa2Of4vlzOX-ghU9QFoUzC8LvdFdAsQWW0).
+The use of [**score distillation to text-guide a NeRF model to generate a 3D object**](https://arxiv.org/abs/2211.07600).
 
-[**How generative AI is changing creative work**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2hici5vcmcvMjAyMi8xMS9ob3ctZ2VuZXJhdGl2ZS1haS1pcy1jaGFuZ2luZy1jcmVhdGl2ZS13b3JrIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.RX98bUo1CLUXHVbZ_iaISdS-jajeFbKFH0udh55ZhOo).
+[**How generative AI is changing creative work**](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work).
 
-An **[AI tool directory](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mdXR1cmVwZWRpYS5pby8iLCJwb3N0X2lkIjoiNTQyNGFhNzItYjZhNC00ZmNiLWE3ZGMtNjZhZTk0MmQxNDNiIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRhMmFkM2I1LTNjMGUtNDViYS1hM2VmLTEzZGViNWQwMWQ0NiIsImlhdCI6MTY3NDAzMTg1OC4wNjYsImlzcyI6Im9yY2hpZCJ9.0TO3o5dQWnDjrOgcxfT1sOWCfNvcyNQeg5wZR5LLIv4)** - Futurepedia.
+An **[AI tool directory](https://www.futurepedia.io/)** - Futurepedia.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/4d2def79-3577-489e-b0a8-b5fa5439ac9c/evbbuxusfyz91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4d2def79-3577-489e-b0a8-b5fa5439ac9c/evbbuxusfyz91.png)
 
-[https://www.reddit.com/r/StableDiffusion/comments/yv75hb/prompt\_to\_create\_double\_exposure\_images\_workflow/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3l2NzVoYi9wcm9tcHRfdG9fY3JlYXRlX2RvdWJsZV9leHBvc3VyZV9pbWFnZXNfd29ya2Zsb3cvIiwicG9zdF9pZCI6IjU0MjRhYTcyLWI2YTQtNGZjYi1hN2RjLTY2YWU5NDJkMTQzYiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI0YTJhZDNiNS0zYzBlLTQ1YmEtYTNlZi0xM2RlYjVkMDFkNDYiLCJpYXQiOjE2NzQwMzE4NTguMDY2LCJpc3MiOiJvcmNoaWQifQ.gDo-zsT8P-4xzgwnokVVoKif-9vVcoo8cyBD3x8GRyA)
+<https://www.reddit.com/r/StableDiffusion/comments/yv75hb/prompt_to_create_double_exposure_images_workflow/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NDI0YWE3Mi1iNmE0LTRmY2ItYTdkYy02NmFlOTQyZDE0M2IiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiNGEyYWQzYjUtM2MwZS00NWJhLWEzZWYtMTNkZWI1ZDAxZDQ2IiwiaWF0IjoxNjc0MDMxODU4LjA2NiwiaXNzIjoib3JjaGlkIn0.5D46aZtVv8QxNi0LQX8_0fVcK_E8O67yx3QLi2Pp87Y)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -113,11 +113,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

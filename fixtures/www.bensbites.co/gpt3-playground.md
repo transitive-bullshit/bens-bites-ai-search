@@ -2,14 +2,14 @@
 
 ### 🛝 A GPT-3 playground 📃 Upload any paper → get an explanation 💬 Sequoia AI office hours 🤖 Stable Diffusion API
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 October 25, 2022
 
-Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.  
-*Not subscribed? Do that [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hZ2ljLmJlZWhpaXYuY29tL3YxLzQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYz9lbWFpbD17e2VtYWlsfX0mdXRtX3NvdXJjZT10b3Atb2YtZW1haWwiLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.tLlGqENMLtPDkTnhmKTtJn7CDzuDfhHqLGYG-reIBOc).  
-Link overload? Refer 1 friend [with this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMiwiaXNzIjoib3JjaGlkIn0.MlJURzUYR0h5EgRQrHX2n5Hod9tLDBxezj6jdUGKqCs) and get access to the filterable+searchable database.*
+Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.\
+*Not subscribed? Do that [here](https://magic.beehiiv.com/v1/447f6e60-e36a-4642-b6f8-46beb19045ec?email={{email}}\&utm_source=top-of-email).\
+Link overload? Refer 1 friend [with this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and get access to the filterable+searchable database.*
 
 Hey folks, welcome to the 179 new readers who joined us yesterday. We're close to 2k!
 
@@ -18,90 +18,89 @@ Some of you have asked about a discord group to connect and discuss new going's 
 ||
 |:---|
 |### Are you interested in a Discord group?|
-|[Yes](/login)\|[Double yes](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
-
+|[Yes](https://www.bensbites.co/login)|[Double yes](https://www.bensbites.co/login)|
+|[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 Let's get to it!
 
 **Prompt**: List the topics in today’s email:
 
-🛝 A GPT-3 playground  
-📃 Upload any paper → get an explanation  
-💬 Sequoia AI office hours  
+🛝 A GPT-3 playground\
+📃 Upload any paper → get an explanation\
+💬 Sequoia AI office hours\
 🤖 Stable Diffusion API
 
 ## **🫦 BEN'S BITES**
 
-* **[A playground for GPT-3](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ldmVyeXByb21wdC5jb20vIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.6TVG9wf-BLtg7i_W-7TULBa2RuCcS7BSV5kRwRy7f8E);** folders, team support, and more. If you store your prompts in your notes like me, now you can use Every Prompt. I’ve been a beta tester and spoke with the founders - you should check it out.
+- **[A playground for GPT-3](https://www.everyprompt.com/);** folders, team support, and more. If you store your prompts in your notes like me, now you can use Every Prompt. I’ve been a beta tester and spoke with the founders - you should check it out.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/f549fe96-6e87-4e32-aa47-d63f5657ced4/Screenshot_2022-10-25_at_11.07.10.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f549fe96-6e87-4e32-aa47-d63f5657ced4/Screenshot_2022-10-25_at_11.07.10.png)
 
-* Review pull requests, automatically. **[Your AI-powered code review assistant](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vd2hhdHRoZWRpZmYuYWkvIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.IlZ3XN5-A5zdQtzwo-EN3E6zisUtAAZYqKPrubiJqRQ),**What The Diff.
+- Review pull requests, automatically. \*\*[Your AI-powered code review assistant](http://whatthediff.ai/),\*\*What The Diff.
 
-* **Upload a paper → get an explanation**. [Explainpaper](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vZXhwbGFpbnBhcGVyLmNvbS8iLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.AH7QUSdgo9nJiucnmCT7wsLbFpjSp1cVPAVIQypQl2s) (mentioned previously) has now released a way to upload any paper and get an explanation and ask for follow-ups. Finally, I can pretend to better understand all these research papers now!
+- **Upload a paper → get an explanation**. [Explainpaper](http://explainpaper.com/) (mentioned previously) has now released a way to upload any paper and get an explanation and ask for follow-ups. Finally, I can pretend to better understand all these research papers now!
 
-* Scale (a huge data AI company) **[hosted a virtual conference and got a ton of big names to speak all about AI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDQUhTNGNQLXVJWGRycENzU2ZHcV9PQS92aWRlb3MiLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.2IleS5Z7YOdK7r9MdhNW0sS48eVwzQZi5GfcmEqkN_w)**. You can now view [all of the recordings here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDQUhTNGNQLXVJWGRycENzU2ZHcV9PQS92aWRlb3MiLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.2IleS5Z7YOdK7r9MdhNW0sS48eVwzQZi5GfcmEqkN_w). Some notable speakers include; [Eric Schmidt](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUduLTlTUmtKYXpzIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.yNFmaiSRwrtC0jclArFRb3NuOqlwCAFz9kO4e1q3K9g), [Nat Friedman](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3lvdXR1LmJlL2xudWZjZUN4d0cwIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.15vR4Lldt89hE3YA4Lyqpbcf3xmptfp74TK1FJ_S6eE), [Emad Mostaque](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWsxMjRvVWxZXzZnIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.l8BZtvfKRrK6hK4dKKYgfx717EZLXLtxKlAdVdbO-HA), [Greg Brockman](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVJwM0E1cTlMX2JnIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.3Vpjp_J4SZIAoIBhxjRHlmOcGFwV5xPO_qPRl-26zgY) and [Mike Schroepfer](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PV9DeE9CcG4tbWxNIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.ApfuqY6R77uwX9zyVfVVcxb9GQ7WI66b_kH1b-u74e4).
+- Scale (a huge data AI company) **[hosted a virtual conference and got a ton of big names to speak all about AI](https://www.youtube.com/channel/UCAHS4cP-uIXdrpCsSfGq_OA/videos)**. You can now view [all of the recordings here](https://www.youtube.com/channel/UCAHS4cP-uIXdrpCsSfGq_OA/videos). Some notable speakers include; [Eric Schmidt](https://www.youtube.com/watch?v=Gn-9SRkJazs), [Nat Friedman](https://youtu.be/lnufceCxwG0), [Emad Mostaque](https://www.youtube.com/watch?v=k124oUlY_6g), [Greg Brockman](https://www.youtube.com/watch?v=Rp3A5q9L_bg) and [Mike Schroepfer](https://www.youtube.com/watch?v=_CxOBpn-mlM).
 
-* I tried very hard to watch and summarise **[this fireside chat (Emad Mostaque, CEO of Stability.AI - Hosted by Elad Gil)](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUVTRGVVaThZbC04IiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.VygHg1H2JFcH51TF7dleN5Ki0JDM-aWrs3gYHau1u98)**, but the bloody builders thought it was a great idea to drill and cut all morning. And I've got a funeral to attend so instead, here's a list of topics they discussed; \*Stability.AIs journey \*Stable Diffusion and Generative Models \*Image gen use cases & startup opportunities \*Other types of generative models \*Open source & AI - what does the world look like in 5 years? \*AI safety \*Global AI. .
+- I tried very hard to watch and summarise **[this fireside chat (Emad Mostaque, CEO of Stability.AI - Hosted by Elad Gil)](https://www.youtube.com/watch?v=ESDeUi8Yl-8)**, but the bloody builders thought it was a great idea to drill and cut all morning. And I've got a funeral to attend so instead, here's a list of topics they discussed; \*Stability.AIs journey \*Stable Diffusion and Generative Models \*Image gen use cases & startup opportunities \*Other types of generative models \*Open source & AI - what does the world look like in 5 years? \*AI safety \*Global AI. .
 
-* **Google’s former CEO Eric Schmidt** was appointed to the National Security Commission on AI. He made direct investments in AI startups. There’s**no indication that he did anything wrong** but [government ethics advisors say his investments presented a huge conflict of interest.](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDIyLzEwLzI0L2hvdy1nb29nbGVzLWZvcm1lci1jZW8tZXJpYy1zY2htaWR0LWhlbHBlZC13cml0ZS1haS1sYXdzLWluLXdhc2hpbmd0b24td2l0aG91dC1wdWJsaWNseS1kaXNjbG9zaW5nLWludmVzdG1lbnRzLWluLWFpLXN0YXJ0LXVwcy5odG1sIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAyLCJpc3MiOiJvcmNoaWQifQ.hH_yxPt2VILIIhgY6E2106SXqaSV9FIBqeHiyIuOTX0)
+- **Google’s former CEO Eric Schmidt** was appointed to the National Security Commission on AI. He made direct investments in AI startups. There’s**no indication that he did anything wrong** but [government ethics advisors say his investments presented a huge conflict of interest.](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html)
 
-* **[Behind the scenes](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3BhdWx0cmlsbG8vc3RhdHVzLzE1ODQ1NDMwMzM0NDk1MzM0NDE_cz0xMiZ0PWJOdXpYeUtMbk5DQXNzZ2RUcVl6MmciLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.nBfwQ7itds0TgOmR0eRRqeJF0fytJj15wsQEJOmaMpc) of that crazy video with masks, and effects** using Runway that I wrote about last week.
+- **[Behind the scenes](https://twitter.com/paultrillo/status/1584543033449533441?s=12\&t=bNuzXyKLnNCAssgdTqYz2g) of that crazy video with masks, and effects** using Runway that I wrote about last week.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMiwiaXNzIjoib3JjaGlkIn0.MlJURzUYR0h5EgRQrHX2n5Hod9tLDBxezj6jdUGKqCs) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-* **[GPT-3 creating both sides of an Interactive Fiction transcript](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvaW50ZXJhY3RpdmVmaWN0aW9uL2NvbW1lbnRzL3ljZjhvbC9ncHQzX2RvZXNfYW5fYXN0b25pc2hpbmdseV9nb29kX2pvYl9jcmVhdGluZ19ib3RoLyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMiwiaXNzIjoib3JjaGlkIn0.7UBigFliKnAubTIcE9MYupvewCwgBtDiAt9P8P6oM9U).**
+- **[GPT-3 creating both sides of an Interactive Fiction transcript](https://www.reddit.com/r/interactivefiction/comments/ycf8ol/gpt3_does_an_astonishingly_good_job_creating_both/).**
 
-* **Bumble [open-sourced its AI that detects unsolicited nudes](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjIvMTAvMjQvYnVtYmxlLW9wZW4tc291cmNlZC1pdHMtYWktdGhhdC1kZXRlY3RzLXVuc29saWNpdGVkLW51ZGVzLz9ndWNjb3VudGVyPTEiLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDIsImlzcyI6Im9yY2hpZCJ9.kyT1_RpXXAc_kKMpfIAROEvHsRS7O0KHatkAfzAQVeg)**. I wonder if they got that bug fixed which meant I never got any matches?
+- **Bumble [open-sourced its AI that detects unsolicited nudes](https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/?guccounter=1)**. I wonder if they got that bug fixed which meant I never got any matches?
 
-* **[The Value Of Artificial Intelligence Isn’t Just Insights](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2pvZW1ja2VuZHJpY2svMjAyMi8xMC8yNS90aGUtdmFsdWUtb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtaXNudC1qdXN0LWluc2lnaHRzLyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.EVYwX70LwKkpYQOUOfzepnzQHLwJyFc5Yb3KI9MjxJs).**
+- **[The Value Of Artificial Intelligence Isn’t Just Insights](https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/).**
 
-* Making sure robots don’t bump into each other (in factories etc), is a core building block. **[This model can generate collision-free, smooth motion](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21waW5ldHMuZ2l0aHViLmlvLyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.ylLCY4LrXV5Yc-0GCHIa-mAzrF0vsTN4md1ZhQfIxbs)** from just a single depth camera observation.
+- Making sure robots don’t bump into each other (in factories etc), is a core building block. **[This model can generate collision-free, smooth motion](https://mpinets.github.io/)** from just a single depth camera observation.
 
-* Sequoia has (quickly) **updated its Gen AI market map**. [Here’s a V2](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3NvbnlhdHdlZXR5YmlyZC9zdGF0dXMvMTU4NDU4MDM2MjMzOTk2Mjg4MD9zPTEyJnQ9REV5V29BMUF6aDBaNWJ0VnFvVFk0ZyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.XxqWABMnsD-okLzUeRlMVC5e3pWpB4IqtzWb63z11Bw). They’re also **hosting AI office hours** which you can sign up for [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNlbmJoTTJsMW40REp2S21ZNHBaYnFVMkItMkNGZ3VRRU12Z0hSdDNncUU1NzVVVHcvdmlld2Zvcm0_dXNwPXNlbmRfZm9ybSIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.b0Dc8Nyo3cC2g-9lKoBIBC24-qqOBx36Kkk-CXD7H1s).
+- Sequoia has (quickly) **updated its Gen AI market map**. [Here’s a V2](https://twitter.com/sonyatweetybird/status/1584580362339962880?s=12\&t=DEyWoA1Azh0Z5btVqoTY4g). They’re also **hosting AI office hours** which you can sign up for [here](https://docs.google.com/forms/d/e/1FAIpQLSenbhM2l1n4DJvKmY4pZbqU2B-2CFguQEMvgHRt3gqE575UTw/viewform?usp=send_form).
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/5fc87050-3aa6-4af0-9662-8ed1ccf0789c/Ff2PNSJUUAElDry.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5fc87050-3aa6-4af0-9662-8ed1ccf0789c/Ff2PNSJUUAElDry.png)
 
-* \[Por\]TrAIts: AI Characters + Their Microstories \[Book 1\] [has been released](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lemJyZWV6ZS5pdGNoLmlvL3BvcnRyYWl0cy12b2x1bWUtb25lIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAzLCJpc3MiOiJvcmNoaWQifQ.SgzdhjACPprE8L63mvfuNJee9xyGFRBqoA0M09pR8SA). It’s **a fusion of AI-generated art and microstories** written in the English/code-hybrid language termed Mezangelle. Created by a human and DALL-E.
+- \[Por]TrAIts: AI Characters + Their Microstories \[Book 1] [has been released](https://mezbreeze.itch.io/portraits-volume-one). It’s **a fusion of AI-generated art and microstories** written in the English/code-hybrid language termed Mezangelle. Created by a human and DALL-E.
 
-* **Speech to image using Stable Diffusion and Whisper**. [Demo on HF](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9mZmZpbG9uaS9zcGVlY2gtdG8taW1hZ2UiLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDMsImlzcyI6Im9yY2hpZCJ9.V9Ggr3QReK32TBsKsbNVfTSWskYpwtEUIryzkncV9IY), [code on GitHub](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vaHVnZ2luZ2ZhY2UvZGlmZnVzZXJzL3RyZWUvbWFpbi9leGFtcGxlcy9jb21tdW5pdHkjc3BlZWNoLXRvLWltYWdlIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAzLCJpc3MiOiJvcmNoaWQifQ.21fBHLw4dmXXjE50b3AZyGtOhGYE1RB7T0vuSa_vVbo).
+- **Speech to image using Stable Diffusion and Whisper**. [Demo on HF](https://huggingface.co/spaces/fffiloni/speech-to-image), [code on GitHub](https://github.com/huggingface/diffusers/tree/main/examples/community#speech-to-image).
 
-* **[A letter to Mark Zuckerberg and the Meta Board](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGl1bS5jb20vQGFsdC5jYXAvdGltZS10by1nZXQtZml0LWFuLW9wZW4tbGV0dGVyLWZyb20tYWx0aW1ldGVyLXRvLW1hcmstenVja2VyYmVyZy1hbmQtdGhlLW1ldGEtYm9hcmQtb2YtMzkyZDk0ZTgwYTE4IiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAzLCJpc3MiOiJvcmNoaWQifQ.fQU6KRyD_lJnuD7G9ddq4t8zOj42UVOkO1on4q1v8OQ)**. Brad believes the future is AI and Meta should get after it, but also keep the spending ‘reasonable’ ($20-25Bn) 😳.
+- **[A letter to Mark Zuckerberg and the Meta Board](https://medium.com/@alt.cap/time-to-get-fit-an-open-letter-from-altimeter-to-mark-zuckerberg-and-the-meta-board-of-392d94e80a18)**. Brad believes the future is AI and Meta should get after it, but also keep the spending ‘reasonable’ ($20-25Bn) 😳.
 
-* The form tool with AI baked in (mentioned last week), has posted a **[‘how-to’ guide for using AI to improve user onboarding](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2ZpbGxvdXQuY29tL2Jsb2cvaG93LXdlLXVzZWQtYWktdG8taW1wcm92ZS1vdXItdXNlci1vbmJvYXJkaW5nLyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.payMAhaF1E-AxXsVhbeF7PhK1bqTXPHTnl3UjcMLqYI)** as they did.
+- The form tool with AI baked in (mentioned last week), has posted a **[‘how-to’ guide for using AI to improve user onboarding](https://fillout.com/blog/how-we-used-ai-to-improve-our-user-onboarding/)** as they did.
 
-* Wanna know what kinds of **biases are hidden in your large language model**? [Hugging Face has made some tools to help!](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2Jsb2cvZXZhbHVhdGluZy1sbG0tYmlhcyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.Eck0YkZ2PpQdoiyQISxALGiCGz9KspMSthVYei_neH8)
+- Wanna know what kinds of **biases are hidden in your large language model**? [Hugging Face has made some tools to help!](https://huggingface.co/blog/evaluating-llm-bias)
 
-* Lachy Groom has created [bleeding edge](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JsZWVkaW5nZWRnZS5haS8iLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDMsImlzcyI6Im9yY2hpZCJ9.AuL4h6n-Eff55TXqd2stpBORvwWnXnm7RI2DrE0DmqU)—**a feed of noteworthy developments in AI.**
+- Lachy Groom has created [bleeding edge](https://bleedingedge.ai/)—**a feed of noteworthy developments in AI.**
 
-* [**Compositionality in language is important**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4wMzU3NSIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0._MKYQ4Rpghzb4S6_0tZRGd6LnbbQoDm4IMJGNoCsHAc). However, many phrases aren't semantically compositional. How do language models deal with this? Moreover, how do humans deal with this?
+- [**Compositionality in language is important**](https://arxiv.org/abs/2210.03575). However, many phrases aren't semantically compositional. How do language models deal with this? Moreover, how do humans deal with this?
 
-* FreeCodeCamp has released a course "**[The basics of Machine Learning](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mcmVlY29kZWNhbXAub3JnL25ld3MvZnJlZS1tYWNoaW5lLWxlYXJuaW5nLWNvdXJzZS0xMC1ob3Vyc2UvIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAzLCJpc3MiOiJvcmNoaWQifQ.71yBNJsXp8mUd_lmZxBfqpwK8NrJNyxTemVyeUZv7y8)"**.
+- FreeCodeCamp has released a course "**[The basics of Machine Learning](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)"**.
 
-* [Sam Lessin wrote a screenshot essay](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2xlc3Npbi9zdGF0dXMvMTU4NDU3MjMxNzI3MDU2ODk2MT9zPTEyJnQ9REV5V29BMUF6aDBaNWJ0VnFvVFk0ZyIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.n4zOhIzs29bJJTaV0Hz4-nwlYPDGbvaQcUAFTmYZgk4) on **“Why you should be ‘default out’ on investing in ‘Generative AI’ companies for the next few years.”** - I like to throw in some against-the-grain points every now and then. And Sam makes some good ones here.
+- [Sam Lessin wrote a screenshot essay](https://twitter.com/lessin/status/1584572317270568961?s=12\&t=DEyWoA1Azh0Z5btVqoTY4g) on **“Why you should be ‘default out’ on investing in ‘Generative AI’ companies for the next few years.”** - I like to throw in some against-the-grain points every now and then. And Sam makes some good ones here.
 
-* An official **[Stable Diffusion API](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0YWJsZWRpZmZ1c2lvbmFwaS5jb20vIiwicG9zdF9pZCI6IjE0OTE2ZDJkLWNjOTEtNDEzYy1iYjJhLTFlMTI5N2RhNjkwMiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIyZmRmOGY4NC05OWVjLTQ2ZWMtOWQ2ZS1kMjNiNTE5YzE2ZmQiLCJpYXQiOjE2NzQwMzE4NjMuOTAzLCJpc3MiOiJvcmNoaWQifQ.xeu11UdgdFRV7FL_nhem2FYeivXdBVI7Cl-Rfo_1FGY)**.
+- An official **[Stable Diffusion API](https://stablediffusionapi.com/)**.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 Breaking Bad directed by Wes Anderson
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/02003931-29b9-47ab-b00e-9018d94afa26/2d3ad7possv91.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/02003931-29b9-47ab-b00e-9018d94afa26/2d3ad7possv91.jpeg)
 
-[https://www.reddit.com/r/weirddalle/comments/ycix6i/breaking\_bad\_directed\_by\_wes\_anderson/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95Y2l4NmkvYnJlYWtpbmdfYmFkX2RpcmVjdGVkX2J5X3dlc19hbmRlcnNvbi8iLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDMsImlzcyI6Im9yY2hpZCJ9.AYDLdFdX1GS8v75dZNyLgwTj0y1A35_rD0jt7x7B6RE)
+<https://www.reddit.com/r/weirddalle/comments/ycix6i/breaking_bad_directed_by_wes_anderson/>
 
 A developer finding a bug
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/8ccb2c87-08a4-4c4a-a24f-200bf12302b9/kyfafo6wwtv91.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8ccb2c87-08a4-4c4a-a24f-200bf12302b9/kyfafo6wwtv91.jpeg)
 
-[https://www.reddit.com/r/weirddalle/comments/ycogny/a\_developer\_finding\_a\_bug/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95Y29nbnkvYV9kZXZlbG9wZXJfZmluZGluZ19hX2J1Zy8iLCJwb3N0X2lkIjoiMTQ5MTZkMmQtY2M5MS00MTNjLWJiMmEtMWUxMjk3ZGE2OTAyIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjJmZGY4Zjg0LTk5ZWMtNDZlYy05ZDZlLWQyM2I1MTljMTZmZCIsImlhdCI6MTY3NDAzMTg2My45MDMsImlzcyI6Im9yY2hpZCJ9.6sucJL35PhsySpa1sHp1wQKJpEXnVL7Wmp2MwuHQJ2Y)
+<https://www.reddit.com/r/weirddalle/comments/ycogny/a_developer_finding_a_bug/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIxNDkxNmQyZC1jYzkxLTQxM2MtYmIyYS0xZTEyOTdkYTY5MDIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMmZkZjhmODQtOTllYy00NmVjLTlkNmUtZDIzYjUxOWMxNmZkIiwiaWF0IjoxNjc0MDMxODYzLjkwMywiaXNzIjoib3JjaGlkIn0.8IIpvkUIoU2ZxeUB-7WssrQYqIqd6cCjXAoX45ymvSU)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -112,11 +111,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)

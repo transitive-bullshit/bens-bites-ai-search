@@ -2,9 +2,9 @@
 
 ### 🙂 Pieter Levels new AI project 📝 Overview of the AI writing landscape 📖 A videobook 🧃 Product marketing with AI
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 October 28, 2022
 
 We did it! Over 2k subs in 3 weeks of this daily email. Thank you all so much 🥹. And welcome, to the 162 new folks joining the action since yesterday.
@@ -15,94 +15,94 @@ Let's get to it. I'll see you Monday!
 
 **Prompt**: List the topics in today’s email:
 
-🙂 Pieter Levels new AI project  
-📝 Overview of the AI writing landscape  
-📖 A videobook  
+🙂 Pieter Levels new AI project\
+📝 Overview of the AI writing landscape\
+📖 A videobook\
 🧃 Product marketing with AI
 
 ## **🫦 BEN'S BITES**
 
-* Tony Tassell (hey, similar to Tossell!), [wrote a piece in the FT](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mdC5jb20vY29udGVudC8wNzNlYTg4OC0yMGQ3LTQzN2MtODIyNi1hMmRkOWYyNzZkZTQiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.jL6SAQna8zOjV7BT6Lqrlqnuia-8FxOtD1K4oPUZId8) about **the rise of AI-generated images - what is now possible and what is coming 🔮.**
+- Tony Tassell (hey, similar to Tossell!), [wrote a piece in the FT](https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4) about **the rise of AI-generated images - what is now possible and what is coming 🔮.**
 
-* [Sony’s new camera](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGV2ZXJnZS5jb20vMjAyMi8xMC8yNi8yMzQyNDI5OC9zb255LWFscGhhLWE3cnYtZnVsbC1mcmFtZS1jYW1lcmEtYWktdmlkZW8tcHJpY2Utc3BlY3MtZmVhdHVyZXMiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.xknnCimwFF-_yZJ9iF8-F9mPVKd-8gmwfwc_3HrH2xU) uses **a dedicated AI processor to identify and track subjects**. It’s *only* $3,800 😳.
+- [Sony’s new camera](https://www.theverge.com/2022/10/26/23424298/sony-alpha-a7rv-full-frame-camera-ai-video-price-specs-features) uses **a dedicated AI processor to identify and track subjects**. It’s *only* $3,800 😳.
 
-* Pieter Levels is at it again, this time with an **[AI Avatar project](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vYXZhdGFyYWkubWUvIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.lGzBuETkXOLUfvytNXzZ8J7ZVHFfRO3_neT5TZ8c9Kk)**. Upload some photos of yourself, train a model on it and then generate 30 AI avatars of your own face in different styles. I don’t need to pay $30 to see my mugshot in different styles… but people are paying.
+- Pieter Levels is at it again, this time with an **[AI Avatar project](http://avatarai.me/)**. Upload some photos of yourself, train a model on it and then generate 30 AI avatars of your own face in different styles. I don’t need to pay $30 to see my mugshot in different styles… but people are paying.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/0467183b-bc95-4f8c-94ab-5d77fa433974/Screenshot_2022-10-28_at_13.19.39.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/0467183b-bc95-4f8c-94ab-5d77fa433974/Screenshot_2022-10-28_at_13.19.39.png)
 
-* A great **[overview of the AI writing landscape](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hcmllZC5zdWJzdGFjay5jb20vcC9ob3ctd2lsbC13ZS13cml0ZS1pbi0yMDMwIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.hltOPhuQiiNjMVmNmgqhsintzDVwkFSZua8Vud42krM)**. This post looks to the future and touches on; price, regulation and ethics.
+- A great **[overview of the AI writing landscape](https://maried.substack.com/p/how-will-we-write-in-2030)**. This post looks to the future and touches on; price, regulation and ethics.
 
-* **[AI-generated audio summaries of podcasts](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zbmlwZC5jb20vYWktcG9kY2FzdC1zdW1tYXJpZXMiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.-IgIXa0MSYEBzNQAwToV13h8cP608JOq5a_oHmLA4OE).**
+- **[AI-generated audio summaries of podcasts](https://www.snipd.com/ai-podcast-summaries).**
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.mHdMr4LT200ESHOVBzTjX8l1cVGuFcPTHQlAI2zQwJ8) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-* A **[new model for Structure-based Drug Design](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vYXJ4aXYub3JnL2Ficy8yMjEwLjEzNjk1IiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.EElcqLUWQCaybjsTTa6pLqPXam1R1mPfYaF19QbQXJQ)** with Equivariant Diffusion Models
+- A **[new model for Structure-based Drug Design](http://arxiv.org/abs/2210.13695)** with Equivariant Diffusion Models
 
-* Yesterday we saw Spide-verse and Arcane-tuned models, and today there are; [Disney](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL25pdHJvc29ja2UvbW8tZGktZGlmZnVzaW9uIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.PB3CouxLXrhQZCkw8Wno4Z9pBfiYdWbEMyjsoRmem9k), [Dark Academia](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2ZhYmlhbnN0ZWx6ZXIvc3RhdHVzLzE1ODU5NDI1NjE3NTA5Nzg1NjAiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.4RyU93QS-i-yc5yl_0eWqHchjlCdF-C2PXKUzx3KkQQ), [Archer](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL25pdHJvc29ja2UvYXJjaGVyLWRpZmZ1c2lvbiIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.EWtlKBs8xmBdxEMt9O68Fs_9_hPhIKEflw0wX108mGI), [Cyberpunk](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9ER1NwaXR6ZXIvREdTLURpZmZ1c2lvbi1TcGFjZSIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.-qoxhy4Y55ymmq87RB41akYcXULdowo35K57lfxuft0) and tons more being released.
+- Yesterday we saw Spide-verse and Arcane-tuned models, and today there are; [Disney](https://huggingface.co/nitrosocke/mo-di-diffusion), [Dark Academia](https://twitter.com/fabianstelzer/status/1585942561750978560), [Archer](https://huggingface.co/nitrosocke/archer-diffusion), [Cyberpunk](https://huggingface.co/spaces/DGSpitzer/DGS-Diffusion-Space) and tons more being released.
 
-* **[Broken Neural Scaling Laws](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xNDg5MSIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.iLhmroQ0Jk1ewFu1SB52YQGFqN008FhCdipU9AraFqs)**. This research proposes a much more accurate approach.
+- **[Broken Neural Scaling Laws](https://arxiv.org/abs/2210.14891)**. This research proposes a much more accurate approach.
 
-* **[Gradio Crash Course](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWVFN0NhbU9FLVBBIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.a5A-iEgFGJw5_OjVtqx5hm_k70vmMonjAl6RzUDTFrk)** - Fastest way to build & share Machine Learning apps, by Assembly AI.
+- **[Gradio Crash Course](https://www.youtube.com/watch?v=eE7CamOE-PA)** - Fastest way to build & share Machine Learning apps, by Assembly AI.
 
-* Introducing [The Stack](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iaWdjb2RlLXByb2plY3Qub3JnL2RvY3MvYWJvdXQvdGhlLXN0YWNrLyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.8iwGZRxXk2PpiV8kwaRUSh_IOy-A3yw9Uhpo0H5BhRk) - a **3TB dataset of permissively licensed code in 30 programming languages**. If you want your code excluded from the training, there is an opt-out form and data governance plan.
+- Introducing [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) - a **3TB dataset of permissively licensed code in 30 programming languages**. If you want your code excluded from the training, there is an opt-out form and data governance plan.
 
-* Daniel Gross built a videobook. It **generates images as it reads the story to you**. Demo [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2RhbmllbGdyb3NzL3N0YXR1cy8xNTg1NjQzMDk5NTMxMTQxMTIyIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.HWKxIB_2t0EzXt993ryOne3XLd6fE_Q9rvXrD2qENgc) and code [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZGFuaWVsZ3Jvc3MvdmlkZW9ib29rIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM0LCJpc3MiOiJvcmNoaWQifQ.YPdduX_dKtT0IkwO4QeU9Iw1PzGcriXGf2-LhrtTz78).
+- Daniel Gross built a videobook. It **generates images as it reads the story to you**. Demo [here](https://twitter.com/danielgross/status/1585643099531141122) and code [here](https://github.com/danielgross/videobook).
 
-* **[Scale built a way for marketers to AI-generate UNLIMITED and INFINITELY CREATIVE images of products](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2FsZXhhbmRyX3dhbmcvc3RhdHVzLzE1ODU2NjA4ODkwNjcyOTA2MjU_cz0xMiZ0PXcxQ1VxblB4ZEI3bWdNd05iOTBucXciLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.BiPI3KtBx5g-GApZ-CV6I7AI80xISSRAEXpFH2fcc8Y)** for - ad creatives - brand campaigns - social media. It's in early access. And no, coconut is horrid - I'm a Pamplemousse kinda guy 😉
+- **[Scale built a way for marketers to AI-generate UNLIMITED and INFINITELY CREATIVE images of products](https://twitter.com/alexandr_wang/status/1585660889067290625?s=12\&t=w1CUqnPxdB7mgMwNb90nqw)** for - ad creatives - brand campaigns - social media. It's in early access. And no, coconut is horrid - I'm a Pamplemousse kinda guy 😉
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/1235f181-73f6-44f9-9e88-53536a96fdaf/Group_3.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1235f181-73f6-44f9-9e88-53536a96fdaf/Group_3.png)
 
-* **[Google acquires Twitter-backed AI avatar startup Alter for $100 million](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjIvMTAvMjcvZ29vZ2xlLWFjcXVpcmVzLXR3aXR0ZXItYmFja2VkLWFpLWF2YXRhci1zdGFydHVwLWFsdGVyLWZvci0xMDAtbWlsbGlvbi1zb3VyY2Utc2F5cy8iLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzQsImlzcyI6Im9yY2hpZCJ9.RIenChyRvgbL1hWZBpmSu4HfoZY9MwYwPIyC1GyDis8).**
+- **[Google acquires Twitter-backed AI avatar startup Alter for $100 million](https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/).**
 
-* [**Generate and fine-tune music** on Musika](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL211c2lrYSIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNCwiaXNzIjoib3JjaGlkIn0.c9lX4EisSutwfJHDS2tySR4uo5Rz5Nka-xjnZoZlvkA).
+- [**Generate and fine-tune music** on Musika](https://huggingface.co/musika).
 
-* **DALL-E released collections!** a way to share your creations with the world and let others see what you made. Midjourney has had this for a while, good to see DALL-E finally release this. [An example collection](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2xhYnMub3BlbmFpLmNvbS9zYy93M1E4bnFWTjY5cWtFQTNlUFNtckdiNXQiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.UtHwBaKG5FGsn9HbDkeTuQ-JY8JsemPL-TlnhInUeiQ).
+- **DALL-E released collections!** a way to share your creations with the world and let others see what you made. Midjourney has had this for a while, good to see DALL-E finally release this. [An example collection](https://labs.openai.com/sc/w3Q8nqVN69qkEA3ePSmrGb5t).
 
-* [Yohein built a private mobile & web app](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3lvaGVpbmFrYWppbWEvc3RhdHVzLzE1ODUzOTgwNTUyNTk3NjI2ODgiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.xOsFNYq7-hj52qMpjgxbQ19WZIHRfiEDM-Z12vO1RrQ), with no code, that **pulls in all school-related emails for kids and summarizes and shows action items**. Gmail (filter) → Zapier (tags and gpt3 summarise) → Airtable → Softr.
+- [Yohein built a private mobile & web app](https://twitter.com/yoheinakajima/status/1585398055259762688), with no code, that **pulls in all school-related emails for kids and summarizes and shows action items**. Gmail (filter) → Zapier (tags and gpt3 summarise) → Airtable → Softr.
 
-* Eric Schmidt and his wife, Wendy, have announced their **AI in Science Postdoctoral Fellowship** to accelerate the next scientific revolution, with a cool $148M in funding. [Imperial](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5pbXBlcmlhbC5hYy51ay9uZXdzLzI0MDkzNi9zY2htaWR0LWZ1dHVyZXMtc2VsZWN0cy1pbXBlcmlhbC0xNDhtLWluaXRpYXRpdmUvIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM1LCJpc3MiOiJvcmNoaWQifQ.11CS3sZ373LGIGAg4qMUf6eEUFhqYQ0kqL1nEjsgFbE) College and [San Diego](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RvZGF5LnVjc2QuZWR1L3N0b3J5L3NjaG1pZHQtZnV0dXJlcy1hbm5vdW5jZXMtdWMtc2FuLWRpZWdvLWFzLXBhcnRuZXItb2YtMTQ4bS1pbml0aWF0aXZlIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM1LCJpc3MiOiJvcmNoaWQifQ.bF-r70GkgS_wVWvaSYHmEc6lUcorsCvJbxQ-w6Q0lxQ) are two of the universities chosen.
+- Eric Schmidt and his wife, Wendy, have announced their **AI in Science Postdoctoral Fellowship** to accelerate the next scientific revolution, with a cool $148M in funding. [Imperial](https://www.imperial.ac.uk/news/240936/schmidt-futures-selects-imperial-148m-initiative/) College and [San Diego](https://today.ucsd.edu/story/schmidt-futures-announces-uc-san-diego-as-partner-of-148m-initiative) are two of the universities chosen.
 
-* The race is on to find the applications of generative **AI that will make a mark on the world**. [“AI's New Creative Streak Sparks a Silicon Valley Gold Rush”](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53aXJlZC5jb20vc3RvcnkvYWlzLW5ldy1jcmVhdGl2ZS1zdHJlYWstc3BhcmtzLWEtc2lsaWNvbi12YWxsZXktZ29sZC1ydXNoLyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.COYQ4LS21nYBqM-0a3w7jBSYfy71ipMek83gk9yPqg4).
+- The race is on to find the applications of generative **AI that will make a mark on the world**. [“AI's New Creative Streak Sparks a Silicon Valley Gold Rush”](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/).
 
-* [**Apple is now hiring for AI/ML residencies**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZy5hcHBsZS5jb20vdXBkYXRlcy9haW1sLXJlc2lkZW5jeS1wcm9ncmFtLWFwcGxpY2F0aW9uLTIwMjMlRTIlODAlQTYiLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.m9a1b4iJQeQQwA8fsKxcPoy6lqA0Q4h9ZemufjJ91_0) for summer 2023. Job listings are [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2pvYnMuYXBwbGUuY29tL2VuLXVzL3NlYXJjaD9zZWFyY2g9YWltbHJlc2lkZW5jeSIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.vi4jwzXCa3QZZzVF6SPLG-99DeFsoYWi4woFvoOcLmw).
+- [**Apple is now hiring for AI/ML residencies**](https://machinelearning.apple.com/updates/aiml-residency-program-application-2023%E2%80%A6) for summer 2023. Job listings are [here](https://jobs.apple.com/en-us/search?search=aimlresidency).
 
-* **[A multiplayer experiment for Stable Diffusion](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3JhZGFtYXIvc3RhdHVzLzE1ODU3NzUwMDQxOTY1NTY4MDA_cz0xMiZ0PXdaR3BIaWluOFVOOU1raEdNUXNSenciLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.scoo1WSpRwwu2V5SKGg7dCHxiv1evmrmZIGxR2QEdKQ)**, SD infinity - coming soon. Similar to the SD canvas I shared yesterday.
+- **[A multiplayer experiment for Stable Diffusion](https://twitter.com/radamar/status/1585775004196556800?s=12\&t=wZGpHiin8UN9MkhGMQsRzw)**, SD infinity - coming soon. Similar to the SD canvas I shared yesterday.
 
-* This study extends **[Maestro, a speech-text joint pretraining framework for automatic speech recognition](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xNTQ0NyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.z-c7a600tKMe_9EhPLUrBWRzBkyoEWm1fzxRgENCsYA)** (ASR), to speech-generation tasks.
+- This study extends **[Maestro, a speech-text joint pretraining framework for automatic speech recognition](https://arxiv.org/abs/2210.15447)** (ASR), to speech-generation tasks.
 
-* A large-scale Chinese **text-to-image diffusion model, which progressively upgrades the quality of generated images** - [ERNIE-ViLG 2.0](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xNTI1NyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0._vUH-argT0tx-qSKH1KXL8oBW5Xdju3O6qDx6E4C_GM).
+- A large-scale Chinese **text-to-image diffusion model, which progressively upgrades the quality of generated images** - [ERNIE-ViLG 2.0](https://arxiv.org/abs/2210.15257).
 
-* [Post Parrot](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Bvc3RwYXJyb3QueHl6LyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.MQwiZ-rxmv8Trz192llivQcekRikV9UcuJUEy9NfHxE) - A free marketing tool that **generates post titles that drive engagement** on Reddit. These were the suggestions I got:
+- [Post Parrot](https://postparrot.xyz/) - A free marketing tool that **generates post titles that drive engagement** on Reddit. These were the suggestions I got:
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/88c1da77-17d6-4634-97f2-9a0981ba556d/image.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/88c1da77-17d6-4634-97f2-9a0981ba556d/image.png)
 
-* A few pages from **[a Midjourney-produced printed manga](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvQXJ0aWZpY2lhbEludGVsaWdlbmNlL2NvbW1lbnRzL3lmOG00dC9hX2Zld19wYWdlc19mcm9tX215X21pZGpvdXJuZXlfcHJvZHVjZWRfcHJpbnRlZC8iLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.8Lj1GxvSRhauwP6X-dAeskBDUT4DF5NJA1YAwWVPycE)**, AbsXcess.
+- A few pages from **[a Midjourney-produced printed manga](https://www.reddit.com/r/ArtificialInteligence/comments/yf8m4t/a_few_pages_from_my_midjourney_produced_printed/)**, AbsXcess.
 
-* **[Intel announces up to $10 billion in cost reductions](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDIyLzEwLzI3L2ludGVsLWludGMtZWFybmluZ3MtcTMtMjAyMi5odG1sIiwicG9zdF9pZCI6IjJlMDY1Y2ZkLTU4MmYtNDVjMS05NTFiLTgwZWMwM2UxNmI4NiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJjZDc5YmI2ZC1hYjE3LTRmODItODU4Ny0zZjk0MzgwYmZiMGQiLCJpYXQiOjE2NzQwMzE4NjIuNzM1LCJpc3MiOiJvcmNoaWQifQ.EYmZUGWGJlGfqz9rqT06EGnKFE0Y6CvOjYovpZiD7bI)** through 2025, after poor performance.
+- **[Intel announces up to $10 billion in cost reductions](https://www.cnbc.com/2022/10/27/intel-intc-earnings-q3-2022.html)** through 2025, after poor performance.
 
-* **[Here are some pain points while using AI for drug development](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zcGljZXdvcmtzLmNvbS90ZWNoL2FydGlmaWNpYWwtaW50ZWxsaWdlbmNlL2d1ZXN0LWFydGljbGUvdG9wLWNoYWxsZW5nZXMtZmFjZWQtYnktcGhhcm1hLWFpLyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.Tjm8bKYibkY-TOvy8E7_wp3EKnhRahpkvg098RDSGJc)**; smaller datasets, complex data, complicated data labelling, data bias, lack of data standards, lack of biological data and regulation.
+- **[Here are some pain points while using AI for drug development](https://www.spiceworks.com/tech/artificial-intelligence/guest-article/top-challenges-faced-by-pharma-ai/)**; smaller datasets, complex data, complicated data labelling, data bias, lack of data standards, lack of biological data and regulation.
 
-* Potential **[applications of generative art beyond the explosion of images](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL25ld3MubWl0LmVkdS8yMDIyL2hvdy1haS1pbWFnZS1nZW5lcmF0b3JzLWNvdWxkLWhlbHAtcm9ib3RzLXlpbHVuLWR1LTEwMjciLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.dpsbfKU-W_HHoKlMYaLkEqDYTZxL5ld28YFjnC5trqc)**.
+- Potential **[applications of generative art beyond the explosion of images](https://news.mit.edu/2022/how-ai-image-generators-could-help-robots-yilun-du-1027)**.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 "Salmon in a river" - well, technically, it's correct!
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/6ab5db52-b50a-4acf-b216-a1f2234e0a72/abz6jxlcscw91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ab5db52-b50a-4acf-b216-a1f2234e0a72/abz6jxlcscw91.png)
 
-[https://www.reddit.com/r/StableDiffusion/comments/yeskdv/salmon\_in\_a\_river\_makes\_hilarious\_flops\_like\_this/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3llc2tkdi9zYWxtb25faW5fYV9yaXZlcl9tYWtlc19oaWxhcmlvdXNfZmxvcHNfbGlrZV90aGlzLyIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.3pZizR1BBti0II_WMlW-MK7YooOmCX6km-YdGV93Zng)
+<https://www.reddit.com/r/StableDiffusion/comments/yeskdv/salmon_in_a_river_makes_hilarious_flops_like_this/>
 
 Tiramisaurus Rex
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/ef1937c1-17ef-4459-9840-45290b00cc89/aoa63sw3tcw91.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ef1937c1-17ef-4459-9840-45290b00cc89/aoa63sw3tcw91.jpeg)
 
-[https://www.reddit.com/r/weirddalle/comments/yeskxr/tiramisaurus\_rex/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95ZXNreHIvdGlyYW1pc2F1cnVzX3JleC8iLCJwb3N0X2lkIjoiMmUwNjVjZmQtNTgyZi00NWMxLTk1MWItODBlYzAzZTE2Yjg2IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImNkNzliYjZkLWFiMTctNGY4Mi04NTg3LTNmOTQzODBiZmIwZCIsImlhdCI6MTY3NDAzMTg2Mi43MzUsImlzcyI6Im9yY2hpZCJ9.X9Sjetr-OxwRKMogx-T-hFoZzXwxvSoX5u3K2_fz13U)
+<https://www.reddit.com/r/weirddalle/comments/yeskxr/tiramisaurus_rex/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIyZTA2NWNmZC01ODJmLTQ1YzEtOTUxYi04MGVjMDNlMTZiODYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiY2Q3OWJiNmQtYWIxNy00ZjgyLTg1ODctM2Y5NDM4MGJmYjBkIiwiaWF0IjoxNjc0MDMxODYyLjczNSwiaXNzIjoib3JjaGlkIn0.kxEhPW2GmbCDA7Ok4cOR8MrJzUAR1TBZEWSALnT1JZA)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -113,11 +113,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/3d9213de-8f4a-4876-ac95-8eafa2d9403c/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/3d9213de-8f4a-4876-ac95-8eafa2d9403c/Screenshot_2022-10-26_at_14.02.06.png)

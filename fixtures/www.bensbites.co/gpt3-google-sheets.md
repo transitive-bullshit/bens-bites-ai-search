@@ -2,9 +2,9 @@
 
 ### 👻 Replit's in-browser coding AI 🧥 AI fashion 💉 AI for drug discovery
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 01, 2022
 
 Hey everyone. Welcome to the 253 new folks joining us here since yesterday. 249 more than the number of trick-or-treaters we had...
@@ -13,92 +13,92 @@ Let's get into it.
 
 **Prompt**: List the topics in today’s email:
 
-🔢 GPT-3 in Google Sheets  
-👻 Replit's in-browser coding AI  
-🧥 AI fashion  
+🔢 GPT-3 in Google Sheets\
+👻 Replit's in-browser coding AI\
+🧥 AI fashion\
 💉 AI for drug discovery
 
 ## **🫦 BEN'S BITES**
 
-[**Run GPT-3 prompts in Google Sheets**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3NodWJyb3NraS9zdGF0dXMvMTU4NzEzNjc5NDc5NzI0NDQxNz9zPTEyJnQ9clhxMGtxeTA2Qk16MmptWC1KcjctUSIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxNiwiaXNzIjoib3JjaGlkIn0.-eGiSDw3ANIO0aOlmuUrdmqZUYIL1EBhwQYrf-IT53E) =GPT3(). You can sanitize data, write thank-you cards, summarize product reviews, and categorize feedback...
+[**Run GPT-3 prompts in Google Sheets**](https://twitter.com/shubroski/status/1587136794797244417?s=12\&t=rXq0kqy06BMz2jmX-Jr7-Q) =GPT3(). You can sanitize data, write thank-you cards, summarize product reviews, and categorize feedback...
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/b43331c2-4d00-453f-b4b2-2d7911bbecca/ezgif.com-gif-maker__10_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b43331c2-4d00-453f-b4b2-2d7911bbecca/ezgif.com-gif-maker__10_.gif)
 
-Replit, the coding platform, released [**Ghostwriter - its in-browser coding AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3JlcGxpdC5jb20vc2l0ZS9naG9zdHdyaXRlciIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxNiwiaXNzIjoib3JjaGlkIn0.DJ4QVDaY0aSpRLu_mzQhc9aNpLsSsVQJM30Z8DbNX_g)**.**Kinda like GitHub’s Copilot, but it’s faster and has a ton of features.
+Replit, the coding platform, released [**Ghostwriter - its in-browser coding AI**](https://replit.com/site/ghostwriter)\*\*.\*\*Kinda like GitHub’s Copilot, but it’s faster and has a ton of features.
 
-There are **rap battles for prompts** now. No, seriously, [check it out](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2FsZXhhYnJ1Y2svc3RhdHVzLzE1ODcxMDg2MDg0ODI4NjkyNTE_cz0xMiZ0PUxKZDkyczBkVnZ3SVNkUVJMdHc5WXciLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTYsImlzcyI6Im9yY2hpZCJ9.FdGnRpKWiN8CId0nOOcZQ3HGPUzzMmaEQd0neftjeYk).
+There are **rap battles for prompts** now. No, seriously, [check it out](https://twitter.com/alexabruck/status/1587108608482869251?s=12\&t=LJd92s0dVvwISdQRLtw9Yw).
 
-How to [**build a PHP app using the OpenAI API**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RlY3RhbGljLmNvbS9ibG9nL2J1aWxkLWFuLWFwcC11c2luZy1vcGVuYWktYXBpIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.aPnLgEq3zba_R0CF1ejvTBzbwtoV0Pig-79gMpHxMJw)**.**
+How to [**build a PHP app using the OpenAI API**](https://tectalic.com/blog/build-an-app-using-openai-api)**.**
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxNiwiaXNzIjoib3JjaGlkIn0.YKKP342icQfDXxZzWmFpz8O7pIkA3WqLJDqJlqrndKI) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-[**Type a phrase → get recommended fashion**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2ludGVyYWxpYS52Y2ZsYWIub3JnLyIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxNiwiaXNzIjoib3JjaGlkIn0.hVIGtbwqFHHQpHduOzDPG0dWIT_pxNQHXpbPifjXaTU). Inter Alia, a new AI-driven experience to creatively shop for clothes by "prompting" w/ natural language. There's going to be a ton coming out with AI meets fashion. I'm not fashionable, but I have a style 😉.
+[**Type a phrase → get recommended fashion**](https://interalia.vcflab.org/). Inter Alia, a new AI-driven experience to creatively shop for clothes by "prompting" w/ natural language. There's going to be a ton coming out with AI meets fashion. I'm not fashionable, but I have a style 😉.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/6eb61851-e828-437f-8b94-178dbebb1ca0/ezgif.com-gif-maker__11_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6eb61851-e828-437f-8b94-178dbebb1ca0/ezgif.com-gif-maker__11_.gif)
 
-Guess the answer based on the pictures. An [**AI-generated Twitter game**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5wcm9tcHRvZ2FtZS5jb20vIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.JKgIHBEHB6SP8YU_bhF4x1wkHvR4tJx3WlWpJhozhbk)\- Prompto.
+Guess the answer based on the pictures. An [**AI-generated Twitter game**](https://www.promptogame.com/)- Prompto.
 
-[**OpenAI relaxed its policies**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JvcmlzbXBvd2VyL3N0YXR1cy8xNTg3MjQxNjIyNDU4MDczMDg4P3M9MTImdD1UQmN4WXpMMjFUUDFXOFRpTG95SnVnIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.L61kBY-KxCZD0pOdT-4JNOLvCRA_T8CPmsQcgh7Fkls) for GPT-3 apps.
+[**OpenAI relaxed its policies**](https://twitter.com/borismpower/status/1587241622458073088?s=12\&t=TBcxYzL21TP1W8TiLoyJug) for GPT-3 apps.
 
-PromptEdit — [**edit a random input image based on just a text prompt**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2ZhaGltZmFyb29rL3N0YXR1cy8xNTg3MDE5NTcxNzgwNzk2NDE2P3M9MTImdD1yWHEwa3F5MDZCTXoyam1YLUpyNy1RIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.AXSq3ShAFubhEUj-_UpUkZz_My_rm0wYwe42jqFe2lU).
+PromptEdit — [**edit a random input image based on just a text prompt**](https://twitter.com/fahimfarook/status/1587019571780796416?s=12\&t=rXq0kqy06BMz2jmX-Jr7-Q).
 
-Google DeepMind CEO Demis Hassabis explains how its[**AlphaFold AI program predicted the 3-D structure of every known protein**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zY2llbnRpZmljYW1lcmljYW4uY29tL2FydGljbGUvb25lLW9mLXRoZS1iaWdnZXN0LXByb2JsZW1zLWluLWJpb2xvZ3ktaGFzLWZpbmFsbHktYmVlbi1zb2x2ZWQvIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ._DDCPxCrLO2f7_9T5tJbJ0F0ZyVFVVAh9f23PyfYfEw). AI has been successful in predicting the structures, and this achievement has the potential to revolutionize fields such as molecular biology and drug development.
+Google DeepMind CEO Demis Hassabis explains how its[**AlphaFold AI program predicted the 3-D structure of every known protein**](https://www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved/). AI has been successful in predicting the structures, and this achievement has the potential to revolutionize fields such as molecular biology and drug development.
 
-A CLI tool that [**automatically writes commit messages**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbTFndWVscGYvYXV0by1jb21taXQiLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTYsImlzcyI6Im9yY2hpZCJ9.koa3sUoT5xwVsWdPgecZD-DtmRKss-2IdlKsSrkiuHQ) for you.
+A CLI tool that [**automatically writes commit messages**](https://github.com/m1guelpf/auto-commit) for you.
 
-[**Quickly deploy a stable diffusion model**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGl1bS5jb20vQHZpc2hudXZpZy9kZXBsb3ktc3RhYmxlLWRpZmZ1c2lvbi1vbi1ncHUtaW5zdGFuY2UtdXNpbmctZmFzdGFwaS1kMDc0M2VlYjczNWQiLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTYsImlzcyI6Im9yY2hpZCJ9.1c5q00PtACDPaRFFqlQKzZ9qAzOAM-339T2ZG5UaLlU) using; FastAPI, Huggingface Diffusers and Jarvislabs.
+[**Quickly deploy a stable diffusion model**](https://medium.com/@vishnuvig/deploy-stable-diffusion-on-gpu-instance-using-fastapi-d0743eeb735d) using; FastAPI, Huggingface Diffusers and Jarvislabs.
 
-A simple tool to [**explore biases ingrained in a model**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9zYXNoYS9TdGFibGVEaWZmdXNpb25CaWFzRXhwbG9yZXIiLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTYsImlzcyI6Im9yY2hpZCJ9.9AUK-PNGMzs0xkUJi3kVvQV7qK2bHIi28MEcNXhM-oY).
+A simple tool to [**explore biases ingrained in a model**](https://huggingface.co/spaces/sasha/StableDiffusionBiasExplorer).
 
-Your [**social media bio, created by AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Fpc29jaWFsYmlvLmNvbS8iLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTYsImlzcyI6Im9yY2hpZCJ9.394EMc6HZyfZKDOcN3nchcBLzVVCC1aZF0SGU3RM0CY).
+Your [**social media bio, created by AI**](https://aisocialbio.com/).
 
-The **Jukebox Web UI** I talked about yesterday is live. Find it on [Colab](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NvbGFiLnJlc2VhcmNoLmdvb2dsZS5jb20vZHJpdmUvMVpyRjZmSkZNVWFxbG9ISlAxUHFKVHhNU0p4S2QtQlZnIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.DbonhxyMo9UwK1ByL63bp15wnWE4nfnHq9BqoCApW6w) or [Github](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vdnpha2hhcm92L2p1a2Vib3gtd2VidWkvYmxvYi9tYWluL2RvY3MvZ2V0dGluZy1zdGFydGVkLm1kIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE2LCJpc3MiOiJvcmNoaWQifQ.bpYLHt3YNm81FuWIZEcHDFpFbA3eqI7z15I5tSE0Z6g).
+The **Jukebox Web UI** I talked about yesterday is live. Find it on [Colab](https://colab.research.google.com/drive/1ZrF6fJFMUaqloHJP1PqJTxMSJxKd-BVg) or [Github](https://github.com/vzakharov/jukebox-webui/blob/main/docs/getting-started.md).
 
-[**AI answers questions by searching the web**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2R1c3Q0YWkvc3RhdHVzLzE1ODcxMDQwMjk3MTIyMDM3Nzg_cz0xMiZ0PUJ3UEpDNHZ3RHVuUGktV3g0dlBXbHciLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTcsImlzcyI6Im9yY2hpZCJ9.4wuzGs0SXa3t-EyynqqUamyvgcuF-r4Hg4eay5lVIDk), summarizing content and compiling a final answer with references.
+[**AI answers questions by searching the web**](https://twitter.com/dust4ai/status/1587104029712203778?s=12\&t=BwPJC4vwDunPi-Wx4vPWlw), summarizing content and compiling a final answer with references.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/87a2e610-d23d-4905-92a1-03025a880e7d/Screenshot_2022-11-01_at_12.33.05.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/87a2e610-d23d-4905-92a1-03025a880e7d/Screenshot_2022-11-01_at_12.33.05.png)
 
-Lex’s new feature "Ask Lex" helps if you need to [**look something up while writing**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL25iYXNoYXcvc3RhdHVzLzE1ODcxMDExMDM4MTE3NjQyMzE_cz0xMiZ0PUJ3UEpDNHZ3RHVuUGktV3g0dlBXbHciLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTcsImlzcyI6Im9yY2hpZCJ9.GpE_umdNaAn-_ABuW4zqqELW-U3T0W56VsEeo65d2Wg). Ask your question in a simple chat interface.
+Lex’s new feature "Ask Lex" helps if you need to [**look something up while writing**](https://twitter.com/nbashaw/status/1587101103811764231?s=12\&t=BwPJC4vwDunPi-Wx4vPWlw). Ask your question in a simple chat interface.
 
-There’s an [**AI film festival**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9lL3RoZS1jdWx0dXJlLWRhby1mYWJsZS1wcmVzZW50LWFpLWZpbG0tZmVzdGl2YWwtdGlja2V0cy00MjgyNTAxMTY2MjciLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTcsImlzcyI6Im9yY2hpZCJ9.0FbL4RK53ujfeduvcHsaphWfRz1LZbyz0TOA8d4JAb4) coming up on Friday in SF. With a ~$3k audience prize.
+There’s an [**AI film festival**](https://www.eventbrite.com/e/the-culture-dao-fable-present-ai-film-festival-tickets-428250116627) coming up on Friday in SF. With a ~$3k audience prize.
 
-A collection of [**mental models, cognitive biases and metacognitive frameworks**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Rvb2xib3gubmVzc2xhYnMuY29tLyIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxNywiaXNzIjoib3JjaGlkIn0.liQrwzM7yp9SUU5u0PISTVDRefqsZOaEKjZz-CuzbtM) all written by a friendly AI.
+A collection of [**mental models, cognitive biases and metacognitive frameworks**](https://toolbox.nesslabs.com/) all written by a friendly AI.
 
-Another [**AI meme generator**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy95c2hhcm1hL2xldHNfbWFrZV9tZW1lIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE3LCJpc3MiOiJvcmNoaWQifQ.H-e0FrBqe6z5vnqTIVv0uVPJqYVRvr5j1Wwhw2KXEC4). But this one generates prompts based on your image and then uses text-to-joke to create the text on the meme!
+Another [**AI meme generator**](https://huggingface.co/spaces/ysharma/lets_make_meme). But this one generates prompts based on your image and then uses text-to-joke to create the text on the meme!
 
-ALS is a neurodegenerative disease with no known cure. **Verge Genomics used AI for drug discovery and has dosed its first patient**. ([avoid the paywall](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovLzEyZnQuaW8vcHJveHk_cT1odHRwcyUzQSUyRiUyRnd3dy5mdC5jb20lMkZjb250ZW50JTJGMDAwNmFlM2YtNzA2NC00YWE2LTk4Y2QtODkxMmY1NDRhY2M1IiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE3LCJpc3MiOiJvcmNoaWQifQ.WrEjEt_9VIK7xmMba6gTB99Yt6u9dG14cUMbOWDCAI4))
+ALS is a neurodegenerative disease with no known cure. **Verge Genomics used AI for drug discovery and has dosed its first patient**. ([avoid the paywall](https://12ft.io/proxy?q=https%3A%2F%2Fwww.ft.com%2Fcontent%2F0006ae3f-7064-4aa6-98cd-8912f544acc5))
 
-**The White House has**[**released an AI Bill of Rights**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5nb3Zlcm5tZW50Y2lvbWVkaWEuY29tL3doaXRlLWhvdXNlcy1haS1iaWxsLXJpZ2h0cy1jb2RpZmllcy1ldGhpY2FsLXVzZS1wcml2YWN5IiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE4LCJpc3MiOiJvcmNoaWQifQ.W_xdiNkwVoJjraf2Px-rKdnFVGS9gnTD9h2T7OZ0Ixc) that aims to codify some solutions across all of government in order to alleviate concerns around the ethical use of AI.
+**The White House has**[**released an AI Bill of Rights**](https://www.governmentciomedia.com/white-houses-ai-bill-rights-codifies-ethical-use-privacy) that aims to codify some solutions across all of government in order to alleviate concerns around the ethical use of AI.
 
-A new book explores [**how AI is being used to augment various human jobs**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21pdHNsb2FuLm1pdC5lZHUvaWRlYXMtbWFkZS10by1tYXR0ZXIvbmV3LWJvb2stZXhwbG9yZXMtaG93LWFpLXJlYWxseS1jaGFuZ2VzLXdheS13ZS13b3JrIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE4LCJpc3MiOiJvcmNoaWQifQ.orksqjl8cEtX_Ng6LmmkdTYoC9WU-DzrkXZ4Azxkgfg), rather than replace them entirely.
+A new book explores [**how AI is being used to augment various human jobs**](https://mitsloan.mit.edu/ideas-made-to-matter/new-book-explores-how-ai-really-changes-way-we-work), rather than replace them entirely.
 
-[DiffusER](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xNjg4NiIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxOCwiaXNzIjoib3JjaGlkIn0.P_sTvocG05fiFKx9cg3SuWB3N-bydkGLi842d5yC5cY) makes it possible for a user to condition generation on a prototype, or an incomplete sequence, and continue**revising based on previous edit steps**.
+[DiffusER](https://arxiv.org/abs/2210.16886) makes it possible for a user to condition generation on a prototype, or an incomplete sequence, and continue**revising based on previous edit steps**.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 "For my Halloween party, I made custom thematic portraits of every guest using Dreambooth models trained with their pictures. It was a huge hit!"
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/3c87a009-ca50-4967-8435-673920c3f1fa/pcapdkgpr5x91.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/3c87a009-ca50-4967-8435-673920c3f1fa/pcapdkgpr5x91.jpeg)
 
-[https://www.reddit.com/r/StableDiffusion/comments/yifmfm/for\_my\_halloween\_party\_i\_made\_custom\_thematic/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3lpZm1mbS9mb3JfbXlfaGFsbG93ZWVuX3BhcnR5X2lfbWFkZV9jdXN0b21fdGhlbWF0aWMvIiwicG9zdF9pZCI6ImVmN2ViMzRmLWExMjAtNDc5Zi05MzQwLTlkNzk3Nzg5NTk5YiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwNjJiNDY2NS0yYTgxLTRiY2YtOTBkOC02ZmJjN2Y2MGZmOWUiLCJpYXQiOjE2NzQwMzE4NjEuNzE4LCJpc3MiOiJvcmNoaWQifQ.ghvwKJuIj3WRd91ubiDRK4be2wleFxODlPu4sZMEvMk)
+<https://www.reddit.com/r/StableDiffusion/comments/yifmfm/for_my_halloween_party_i_made_custom_thematic/>
 
 Disney-Pixar Dahmer
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/dddc771a-ad38-43fd-95a3-f58cc32bec8c/zymjhyas65x91.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/dddc771a-ad38-43fd-95a3-f58cc32bec8c/zymjhyas65x91.jpeg)
 
-[https://www.reddit.com/r/weirddalle/comments/yic08j/disneypixar\_dahmer/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95aWMwOGovZGlzbmV5cGl4YXJfZGFobWVyLyIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxOCwiaXNzIjoib3JjaGlkIn0.Zi7oxhfb9Z7slvPWjyTAUrN6iY4ee3GmlTZPyFfcQjo)
+<https://www.reddit.com/r/weirddalle/comments/yic08j/disneypixar_dahmer/>
 
 Federal Poop Inspector
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/8b4b834b-1ec5-4de5-92e5-01fa3f1f36a4/ciukl6dtc7x91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8b4b834b-1ec5-4de5-92e5-01fa3f1f36a4/ciukl6dtc7x91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/yio8fy/federal\_poop\_inspector/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95aW84ZnkvZmVkZXJhbF9wb29wX2luc3BlY3Rvci8iLCJwb3N0X2lkIjoiZWY3ZWIzNGYtYTEyMC00NzlmLTkzNDAtOWQ3OTc3ODk1OTliIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjA2MmI0NjY1LTJhODEtNGJjZi05MGQ4LTZmYmM3ZjYwZmY5ZSIsImlhdCI6MTY3NDAzMTg2MS43MTgsImlzcyI6Im9yY2hpZCJ9.rDJnDDC8_ASaelMcBcMjgaCVyAXv8XFuUDY7wCR1w1s)
+<https://www.reddit.com/r/weirddalle/comments/yio8fy/federal_poop_inspector/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiJlZjdlYjM0Zi1hMTIwLTQ3OWYtOTM0MC05ZDc5Nzc4OTU5OWIiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDYyYjQ2NjUtMmE4MS00YmNmLTkwZDgtNmZiYzdmNjBmZjllIiwiaWF0IjoxNjc0MDMxODYxLjcxOCwiaXNzIjoib3JjaGlkIn0.ELCHQtIqUFtgGgCkZD6JQBd5PZ9Y_jKfYPSsWH2lTUU)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -109,11 +109,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

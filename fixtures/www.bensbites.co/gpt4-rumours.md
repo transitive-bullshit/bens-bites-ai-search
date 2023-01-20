@@ -2,9 +2,9 @@
 
 ### 🐣 Free AI beginners course 📊 Text-to-financial reports ⚒️ 12 yo built an ML app 🗣️ AI voice cloning
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 14, 2022
 
 Week 6 of this newsletter and we're well over 4,000 readers! Thank you so much. I'm really enjoying it so far. I set up a Discord if you want to hop in there too. I'll be building out a few more things like a job board, you know, the usual - soon.
@@ -15,90 +15,90 @@ Let's get to it. It's Monday and we've all got shit to do!
 
 **Prompt**: List the topics in today’s email:
 
-🐣 Free AI beginners course  
-📊 Text-to-financial reports  
-⚒️ 12 yo built an ML app  
+🐣 Free AI beginners course\
+📊 Text-to-financial reports\
+⚒️ 12 yo built an ML app\
 🗣️ AI voice cloning
 
 ## **🫦 BEN'S BITES**
 
-[**GPT-4 Rumors From Silicon Valley**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RoZWFsZ29yaXRobWljYnJpZGdlLnN1YnN0YWNrLmNvbS9wL2dwdC00LXJ1bW9ycy1mcm9tLXNpbGljb24tdmFsbGV5IiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.xP9pFwnygCPbibwaPEvExe9GujfUOr21RrCZzxoRnWY). From people I know who have access, I get the same reactions “it’s a big jump” “gamechanger” etc. Do we think it’ll be before end of year?
+[**GPT-4 Rumors From Silicon Valley**](https://thealgorithmicbridge.substack.com/p/gpt-4-rumors-from-silicon-valley). From people I know who have access, I get the same reactions “it’s a big jump” “gamechanger” etc. Do we think it’ll be before end of year?
 
-See the [**sentiment of tweets**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vdGFpc2hpa2F0by9Ud2VldC1FbW90aW9uIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.VXY8XmnbaA8ZWVCoS4T9MJ7wq4Y4w_Mf0-Qy1ioh5IU) on your timeline. Hint: it’s probably negative from the last week 😅
+See the [**sentiment of tweets**](https://github.com/taishikato/Tweet-Emotion) on your timeline. Hint: it’s probably negative from the last week 😅
 
-[**DREAM.page**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RyZWFtLnBhZ2UvIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.FcQmcdazyrbV_FuaRHpZPmyo1dJ1kIG200b6oUjSx9k) uses AI to help you ideate, research, write and edit - as well as create beautiful art to go with the content you create.
+[**DREAM.page**](https://dream.page/) uses AI to help you ideate, research, write and edit - as well as create beautiful art to go with the content you create.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/8ef0ed44-08c5-473a-8a81-670b99665108/Screenshot_2022-11-14_at_13.20.10.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8ef0ed44-08c5-473a-8a81-670b99665108/Screenshot_2022-11-14_at_13.20.10.png)
 
-As language models increase in scale they sometimes exhibit various useful emergent capabilities. “[**Characterizing Emergent Phenomena in Large Language Models**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpLmdvb2dsZWJsb2cuY29tLzIwMjIvMTEvY2hhcmFjdGVyaXppbmctZW1lcmdlbnQtcGhlbm9tZW5hLWluLmh0bWwiLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDQsImlzcyI6Im9yY2hpZCJ9.v-I5mqKEyEwc_MWGrr6r8bdA7ZqBAPtQfRXZ5YxIF8w)”.
+As language models increase in scale they sometimes exhibit various useful emergent capabilities. “[**Characterizing Emergent Phenomena in Large Language Models**](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)”.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNCwiaXNzIjoib3JjaGlkIn0.O3KYMpSeddaRidFl8z4pLPyobc-Vdf1ILoCPAYyHBqQ) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-[**Multilingual Stable Diffusion**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9qdWFuY29waTgxL211bHRpbGluZ3VhbC1zdGFibGUtZGlmZnVzaW9uIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.aHoBoGOf7fyt-8eGQhcG-SvXx0W9Y_WpuMPgp8Z-q_g).
+[**Multilingual Stable Diffusion**](https://huggingface.co/spaces/juancopi81/multilingual-stable-diffusion).
 
-[**Text To Financial Reports**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1RyZXZvckpMZWUyMC9zdGF0dXMvMTU5MTA3NTk0Njk1Mzg1OTA3MiIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNCwiaXNzIjoib3JjaGlkIn0.U7IKpIT7hN5sLqr7Ya7pV39xlmtPLsssP75cD8JZuS4) - connecting accounting and finance data directly to spreadsheets. Sign up for the waitlist [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3dhaXRsaXN0Lmdlbml1c3NoZWV0cy5jb20vIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.aTG6fbiOTcEdLlcNizCxhK11O50-bfwmIJUR1Bh74tc).
+[**Text To Financial Reports**](https://twitter.com/TrevorJLee20/status/1591075946953859072) - connecting accounting and finance data directly to spreadsheets. Sign up for the waitlist [here](https://waitlist.geniussheets.com/).
 
-A 12 yo built an ML app for his inter-school science project: [**Filter News for Social Wellbeing Using AI.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9KYXllc2hiaGFhbC9uZXdzX2ZpbHRlcl9mb3Jfc29jaWFsX3dlbGxiZWluZyIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNCwiaXNzIjoib3JjaGlkIn0.hlQPukvkbBj6PHeQ4fNHCO1EGDK9RsjUL_mjppIEMmQ)Giving people a choice to filter negative and positive News.
+A 12 yo built an ML app for his inter-school science project: [**Filter News for Social Wellbeing Using AI.**](https://huggingface.co/spaces/Jayeshbhaal/news_filter_for_social_wellbeing)Giving people a choice to filter negative and positive News.
 
-Producing pixel-level [**attribution maps from prompts**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy90ZXRyaXNkL0RpZmZ1c2lvbi1BdHRlbnRpdmUtQXR0cmlidXRpb24tTWFwcyIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNCwiaXNzIjoib3JjaGlkIn0.oTG89x7rtXbRS4Y8TldgEAyMzGLNEmbr5l6L8au5RY4), helping to show how different parts of the prompt affect output image.
+Producing pixel-level [**attribution maps from prompts**](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps), helping to show how different parts of the prompt affect output image.
 
-Buildspace (disclaimer: I’m an investor) used to run cohorts for learning and building web3 projects. [**They’ve just raised $10m led by a16z**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2J1aWxkc3BhY2Uuc28vcmFpc2UiLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDQsImlzcyI6Im9yY2hpZCJ9.9vkuOEJifY5_RLUdSDb-LTxTtjus2_mrE99PYoOPuCc) to expand their ‘school for builders’. For those who don't want to just "get a job" -- who want to instead pursue an alternative path. [**Now including AI cohorts**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2J1aWxkc3BhY2Uuc28vYnVpbGRzIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA0LCJpc3MiOiJvcmNoaWQifQ.XCTvXlCN1pV0OtPlHmwLhzwDebNxz-9993HYlaG7jcc) - the first is called ‘[**Build your own AI writing assistant w/ GPT-3’**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2J1aWxkc3BhY2Uuc28vYnVpbGRzL2FpLXdyaXRlciIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNCwiaXNzIjoib3JjaGlkIn0.WaEBVyO3pPNo8Gpsg6ql7M6XvoDLNeStS2A3d7yvizY).
+Buildspace (disclaimer: I’m an investor) used to run cohorts for learning and building web3 projects. [**They’ve just raised $10m led by a16z**](https://buildspace.so/raise) to expand their ‘school for builders’. For those who don't want to just "get a job" -- who want to instead pursue an alternative path. [**Now including AI cohorts**](https://buildspace.so/builds) - the first is called ‘[**Build your own AI writing assistant w/ GPT-3’**](https://buildspace.so/builds/ai-writer).
 
-Open-source release of the [**Universal Video Quality (UVQ) model**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL3V2cSIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNSwiaXNzIjoib3JjaGlkIn0.WMSEBxsI_NSACuMlBU-7VZQsivZNy84Hl4iwyXkLHtg).
+Open-source release of the [**Universal Video Quality (UVQ) model**](https://github.com/google/uvq).
 
-**Brit Morin had Amit Gupta on her podcast** - [AI Is Not What You Think — It’s So Much More](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5maXJzdGlubGluZXBvZC5jb20vYWktaXMtbm90LXdoYXQteW91LXRoaW5rLWl0cy1zby1tdWNoLW1vcmUvIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA1LCJpc3MiOiJvcmNoaWQifQ.wGfIxh7nxJwBU20-xxfZFzheKhtqy7ZCY7fZ-GN8q_o). Amit’s working on an AI writing tool - [sudowrite](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zdWRvd3JpdGUuY29tLyIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNSwiaXNzIjoib3JjaGlkIn0.rT7xC-6Y2-KtwT4sX8ervif35Ov2jsBJSElMPSZ71Jo). Ben’s Bites even got a shoutout on the podcast 😍 ty, Amit!
+**Brit Morin had Amit Gupta on her podcast** - [AI Is Not What You Think — It’s So Much More](https://www.firstinlinepod.com/ai-is-not-what-you-think-its-so-much-more/). Amit’s working on an AI writing tool - [sudowrite](https://www.sudowrite.com/). Ben’s Bites even got a shoutout on the podcast 😍 ty, Amit!
 
-DeviantArt introduced its new tool: [**DreamUp, a new tool to generate art**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5kZXZpYW50YXJ0LmNvbS90ZWFtL2pvdXJuYWwvQ3JlYXRlLXlvdXItb3duLUFJLWdlbmVyYXRlZC1hcnQtd2l0aC1EcmVhbVVwLTkzMzUzNzgyMSIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNSwiaXNzIjoib3JjaGlkIn0.6aJtDjWdurZSwqFqu6_YJ8hW3Ht46pUsYjsp7s0NBa8). You can control the amount of AI art in your feed, clear labelling of AI-generated art, a directive to opt out of AI datasets and the ability to opt-out of prompts. The community kicked up a big fuss, and now "all deviations are automatically labelled as NOT authorized for use in AI datasets".
+DeviantArt introduced its new tool: [**DreamUp, a new tool to generate art**](https://www.deviantart.com/team/journal/Create-your-own-AI-generated-art-with-DreamUp-933537821). You can control the amount of AI art in your feed, clear labelling of AI-generated art, a directive to opt out of AI datasets and the ability to opt-out of prompts. The community kicked up a big fuss, and now "all deviations are automatically labelled as NOT authorized for use in AI datasets".
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/71a734de-92ef-4e2e-8076-80919c986a16/dfhfljl-3652940b-9cf2-42bd-bee3-69c2a6ea4bcd.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/71a734de-92ef-4e2e-8076-80919c986a16/dfhfljl-3652940b-9cf2-42bd-bee3-69c2a6ea4bcd.png)
 
-George Hotz tweeted that [**the next big thing is AI agents.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3JlYWxHZW9yZ2VIb3R6L3N0YXR1cy8xNTkxMTgxMDc3MjkyNjc5MTY4IiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA1LCJpc3MiOiJvcmNoaWQifQ.pn8kYHE5keV6QM7Y8m2h91xKRFBibqrV10Y-VEPF82c)
+George Hotz tweeted that [**the next big thing is AI agents.**](https://twitter.com/realGeorgeHotz/status/1591181077292679168)
 
-Miguel, a fellow BB reader, wrote [**an exploration into the AI world**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21pZ3VlbHBhcmVudGUubWVkaXVtLmNvbS9haS1hbmQtdGhlLXN0b3J5LW9mLWV4cGxvcmF0aW9uLWNiZWE3N2M5NGYxIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA1LCJpc3MiOiJvcmNoaWQifQ.f4ZEQdjwYrc_uBgGl4ln5Jjr0Kg4Zfpbrf3pfpcCaxA), by assembling a kind of testing exercise, which leverages two different AI generative tools.
+Miguel, a fellow BB reader, wrote [**an exploration into the AI world**](https://miguelparente.medium.com/ai-and-the-story-of-exploration-cbea77c94f1), by assembling a kind of testing exercise, which leverages two different AI generative tools.
 
-[**Dreambooth D&D model**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2RhdGFzZXRzLzB4SnVzdGluL0R1bmdlb25zLWFuZC1EaWZmdXNpb24iLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDUsImlzcyI6Im9yY2hpZCJ9.kfdpOwRBYGiuI2hCYDsGfV232BX9MnkJsicK7tIvgWQ)**,** trained for 30,000 steps on 2500 manually labelled images.
+[**Dreambooth D\&D model**](https://huggingface.co/datasets/0xJustin/Dungeons-and-Diffusion)**,** trained for 30,000 steps on 2500 manually labelled images.
 
-A tutorial on [**BLOOMZ - InstructGPT OpenSource Equivalent for MultiLanguage LLM NLP Tasks.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUpqbjM5S0dsTEdnIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA1LCJpc3MiOiJvcmNoaWQifQ.tbmaj5x8g69APr5EVs03AtDJDTUv-F2ixy6i-_pBwLc)
+A tutorial on [**BLOOMZ - InstructGPT OpenSource Equivalent for MultiLanguage LLM NLP Tasks.**](https://www.youtube.com/watch?v=Jjn39KGlLGg)
 
-I’m testing this [**AI voice generator for voice cloning**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZXNlbWJsZS5haS8iLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDUsImlzcyI6Im9yY2hpZCJ9.iPgJIAvAO7djds9Z7kBD8VtTYgngH7G_4oRRF4PKV5M). I’ll see if I can automatically create an audio version of the email for each issue.
+I’m testing this [**AI voice generator for voice cloning**](https://www.resemble.ai/). I’ll see if I can automatically create an audio version of the email for each issue.
 
-Create [**a pro-quality blog article in less than 15 seconds**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2phcW5qaWxfYWkvc3RhdHVzLzE1ODc3MTQ1MzQxODA5MTMxNTIiLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDYsImlzcyI6Im9yY2hpZCJ9.tkT0g5MH6ThjYzaeR3bv6_j7rCLSC4xkvhDyE_ADeVg) with Jaq n Jil.
+Create [**a pro-quality blog article in less than 15 seconds**](https://twitter.com/jaqnjil_ai/status/1587714534180913152) with Jaq n Jil.
 
-[**AI reunites Holocaust survivor with childhood photos.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy90ZWNobm9sb2d5LTYzNDgzNjk0IiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA2LCJpc3MiOiJvcmNoaWQifQ.Gau3fTYwJes_m_ZW3CYRTklQSiaLCA0Re51HjgjVzus)
+[**AI reunites Holocaust survivor with childhood photos.**](https://www.bbc.co.uk/news/technology-63483694)
 
-[**Cohere Thanksgiving AI Transformers Hackathon**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2xhYmxhYi5haS9ldmVudC9jb2hlcmUtdGhhbmtzZ2l2aW5nLWhhY2thdGhvbiIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNiwiaXNzIjoib3JjaGlkIn0.lG-A9tuAv0pE20x-1J-oDUFwpH0gx-PTYWk9KWxymRQ)
+[**Cohere Thanksgiving AI Transformers Hackathon**](https://lablab.ai/event/cohere-thanksgiving-hackathon)
 
-[**Quiz generation from any text in 100+ languages.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3JhbXNyaV9nb3V0aGFtL3N0YXR1cy8xNTkxNTAyNzc2NTEyOTUwMjcyIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA2LCJpc3MiOiJvcmNoaWQifQ.YNzqooYPrivxljktDQMElyF_n_bdXeLo17MAbBb2ouU)
+[**Quiz generation from any text in 100+ languages.**](https://twitter.com/ramsri_goutham/status/1591502776512950272)
 
-[**Free AI for beginners course**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rZG51Z2dldHMuY29tLzIwMjIvMDgvZnJlZS1haS1iZWdpbm5lcnMtY291cnNlLmh0bWwiLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDYsImlzcyI6Im9yY2hpZCJ9.uEBF0H-tUOnWNKqcBqoLzorXIqQGwuoDwW4QWVEmhNA).
+[**Free AI for beginners course**](https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html).
 
-A Stable Diffusion tutorial on [**how to make seamless animations.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTNZZGJiOVQzc3I4IiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA2LCJpc3MiOiJvcmNoaWQifQ.XT8SSgJEk177vbpYG4BImbS5N_teJv60pDeDwaMgisU)
+A Stable Diffusion tutorial on [**how to make seamless animations.**](https://www.youtube.com/watch?v=3Ydbb9T3sr8)
 
-[**Scientists taught an AI to ‘sleep’ so that it doesn't forget**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy52aWNlLmNvbS9lbi9hcnRpY2xlL2s3Ynl6YS9jb3VsZC10ZWFjaGluZy1hbi1haS10by1zbGVlcC1oZWxwLWl0LXJlbWVtYmVyIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA2LCJpc3MiOiJvcmNoaWQifQ.8uRIkDTpohvzoIpfL9w1X97sN52K4jUDlV34GnsWhNE) what it learned.
+[**Scientists taught an AI to ‘sleep’ so that it doesn't forget**](https://www.vice.com/en/article/k7byza/could-teaching-an-ai-to-sleep-help-it-remember) what it learned.
 
-**[AI-generated wall art](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2ZvcnRoZXdhbGwuYXJ0LyIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNiwiaXNzIjoib3JjaGlkIn0.UDT-tTgvl359dfKsd7hz-jC7AEBx2VH7Oi7B2QJ9MAo)**.
+**[AI-generated wall art](https://forthewall.art/)**.
 
-Jot - automatically generates**[infinite ad copy variations](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5qb3RhcHAudGVjaC8iLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDYsImlzcyI6Im9yY2hpZCJ9.fi_Dl-zcDJKSr-uFpcGEISIPfCFZzpQyrSq4DZSH2GY)** for you using AI.
+Jot - automatically generates\*\*[infinite ad copy variations](https://www.jotapp.tech/)\*\* for you using AI.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 Bob Ross Motorcycle Gang called The Bad Bobs
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/37d7ee9e-af62-42fb-8ce8-8ad48d989527/tqfr9erjqvz91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/37d7ee9e-af62-42fb-8ce8-8ad48d989527/tqfr9erjqvz91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/yut6w2/bob\_ross\_motorcycle\_gang\_called\_the\_bad\_bobs/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95dXQ2dzIvYm9iX3Jvc3NfbW90b3JjeWNsZV9nYW5nX2NhbGxlZF90aGVfYmFkX2JvYnMvIiwicG9zdF9pZCI6IjU0MWFiZmFiLTIzYTgtNGE2Ny1hMDM5LWE3NGE4YTFkYjA3OCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiMDM5MTViOC00M2Y5LTQzNzMtYWIxZS1mM2IzODMxNDA1ZDMiLCJpYXQiOjE2NzQwMzE4NTkuMjA2LCJpc3MiOiJvcmNoaWQifQ.I-izswso4IuUHsgeVU0wEgwBsbSpkd7TplzP4vqzJgU)
+<https://www.reddit.com/r/weirddalle/comments/yut6w2/bob_ross_motorcycle_gang_called_the_bad_bobs/>
 
 Starbucks seasonal nacho cheese latte
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/dd2827f8-396a-4a76-a862-ba4137eb9cf1/3pa68907woz91.jpg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/dd2827f8-396a-4a76-a862-ba4137eb9cf1/3pa68907woz91.jpg)
 
-[https://www.reddit.com/r/weirddalle/comments/ytx07a/starbucks\_seasonal\_nacho\_cheese\_latte/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95dHgwN2Evc3RhcmJ1Y2tzX3NlYXNvbmFsX25hY2hvX2NoZWVzZV9sYXR0ZS8iLCJwb3N0X2lkIjoiNTQxYWJmYWItMjNhOC00YTY3LWEwMzktYTc0YThhMWRiMDc4IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIwMzkxNWI4LTQzZjktNDM3My1hYjFlLWYzYjM4MzE0MDVkMyIsImlhdCI6MTY3NDAzMTg1OS4yMDYsImlzcyI6Im9yY2hpZCJ9.zi23pvy1BlqVrF64HQkz2WjeTJWuvFlAITquee-rZag)
+<https://www.reddit.com/r/weirddalle/comments/ytx07a/starbucks_seasonal_nacho_cheese_latte/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NDFhYmZhYi0yM2E4LTRhNjctYTAzOS1hNzRhOGExZGIwNzgiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjAzOTE1YjgtNDNmOS00MzczLWFiMWUtZjNiMzgzMTQwNWQzIiwiaWF0IjoxNjc0MDMxODU5LjIwNiwiaXNzIjoib3JjaGlkIn0.UW8dFsGJxEM5H4JMngoY6ClmxHFOZtJWPHpagv80uew)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -109,11 +109,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

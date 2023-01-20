@@ -2,9 +2,9 @@
 
 ### 🤡 Create virtual characters 💃 Move like Mona Lisa 🫂 Shuttershock's CEO on embracing AI 🌁 3D flythroughs from a single image
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 08, 2022
 
 Welcome to the 186 new folks joining us since yesterday!
@@ -15,114 +15,114 @@ Let's get to it!
 
 p.s. weird that people always read the p.s's?!
 
-p.p.s. I [set up a Discord](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvZTJlSGhkQXQiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMDksImlzcyI6Im9yY2hpZCJ9.dHBkenLPn27QQfFbMTxWYLFo2uYK2fvoamqKiG6hdzY) for anyone who wants to hang out, chat AI, share interesting things for this email etc. [Come say hi](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvZTJlSGhkQXQiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMDksImlzcyI6Im9yY2hpZCJ9.dHBkenLPn27QQfFbMTxWYLFo2uYK2fvoamqKiG6hdzY) (if you can stomach another Discord).
+p.p.s. I [set up a Discord](https://discord.gg/e2eHhdAt) for anyone who wants to hang out, chat AI, share interesting things for this email etc. [Come say hi](https://discord.gg/e2eHhdAt) (if you can stomach another Discord).
 
 p.p.p.s. got ya, you read this too right?
 
 **Prompt**: List the topics in today’s email:
 
-🤡 Create virtual characters  
-💃 Move like Mona Lisa  
-🫂 Shuttershock's CEO on embracing AI  
+🤡 Create virtual characters\
+💃 Move like Mona Lisa\
+🫂 Shuttershock's CEO on embracing AI\
 🌁 3D flythroughs from a single image
 
 ## **🫦 BEN'S BITES**
 
-The **[new Lexica Model looks INSANE](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3NoYXJpZnNoYW1lZW0vc3RhdHVzLzE1ODk2MzM3ODI1MTE5NjAwNjUiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMDksImlzcyI6Im9yY2hpZCJ9.5iyQXEn-dN9oGk0Ib42Ysqexs3889Eqllgden8UZfeg).** It’s genuinely unbelievable that these were created with AI.
+The **[new Lexica Model looks INSANE](https://twitter.com/sharifshameem/status/1589633782511960065).** It’s genuinely unbelievable that these were created with AI.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/70e838ea-15db-41c7-8c56-46f1e7b5c30b/Group_6.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/70e838ea-15db-41c7-8c56-46f1e7b5c30b/Group_6.png)
 
-[**Training Stable Diffusion with Dreambooth**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2Jsb2cvZHJlYW1ib290aCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMwOSwiaXNzIjoib3JjaGlkIn0.ZcC9q6RwrtFqB41jzh_XnLAfsqCfCVcOLTQynOzm-v8) using 🧨 Diffusers.
+[**Training Stable Diffusion with Dreambooth**](https://huggingface.co/blog/dreambooth) using 🧨 Diffusers.
 
-**[Animating focal lengths](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL25lcmZzdHVkaW90ZWFtL3N0YXR1cy8xNTg5NDkzNTEyNTI5MzgzNDI2P3M9MTImdD1GalZxZkpyOGJnbWFIS0JrOE1tMHVBIiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzA5LCJpc3MiOiJvcmNoaWQifQ.nFURPKsW8TdlUfAQLjlgYZBgRyG9rHcTJUeW4s77-BI)** is now enabled in nerfstudio.
+**[Animating focal lengths](https://twitter.com/nerfstudioteam/status/1589493512529383426?s=12\&t=FjVqfJr8bgmaHKBk8Mm0uA)** is now enabled in nerfstudio.
 
-**[Adobe just rolled out a beta of AI-powered podcast audio recording and editing](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvZGNhc3QuYWRvYmUuY29tLyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMwOSwiaXNzIjoib3JjaGlkIn0.QNNAH_4t3Z-n1ogKGDIuL_Rt1Z8TLP3gGhXQYT3dmVY)**, all on the web. It includes auto-enhanced audio, easy-to-invite guests with a link, and more to come.
+**[Adobe just rolled out a beta of AI-powered podcast audio recording and editing](https://podcast.adobe.com/)**, all on the web. It includes auto-enhanced audio, easy-to-invite guests with a link, and more to come.
 
-[**Anton Teaches Packy AI - A ~weekly YouTube series**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTczRHgzVHMxemU0IiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzA5LCJpc3MiOiJvcmNoaWQifQ.TpONdUqH-jxWCLc3iFs3fYJV62rr0kkamiT2r8KtOwE) in which Chroma's Anton Troynikov explains a key AI research paper to Packy - “Asking dumb questions to smart people is the role I was born to play”. **If you want a deeper AI understanding than "WOAH," this is for you**.
+[**Anton Teaches Packy AI - A ~weekly YouTube series**](https://www.youtube.com/watch?v=73Dx3Ts1ze4) in which Chroma's Anton Troynikov explains a key AI research paper to Packy - “Asking dumb questions to smart people is the role I was born to play”. **If you want a deeper AI understanding than "WOAH," this is for you**.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMwOSwiaXNzIjoib3JjaGlkIn0.OYenqpLm84oMgDa3nnBf5T5OnN9HHx_etc2pVI5R57s) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-[**Create, explore & shop A.I. generated products**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5wcm9kdWN0c2J5LmFpLyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.r4lYS00cHx1_480Eu3FItP4grzzAldAWVBOI50AjdL4)**.**
+[**Create, explore & shop A.I. generated products**](https://www.productsby.ai/)**.**
 
-[**Daniel Ecker released another MEGA THREAD on AI.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2RhbmllbF9lY2tsZXIvc3RhdHVzLzE1ODk2MjkzOTQzNzI2Njk0NDAiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.NW4pPA1xHf1BXPzW3c1K0kkBYiW_i3UWFw3GRHQcjeg)
+[**Daniel Ecker released another MEGA THREAD on AI.**](https://twitter.com/daniel_eckler/status/1589629394372669440)
 
-[**PhotoRoom raised $19 million for its AI photo studio**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Bob3Rvcm9vbS5ub3Rpb24uc2l0ZS9QaG90b1Jvb20tcmFpc2VzLTE5LW1pbGxpb24tdG8tZG91YmxlLWRvd24tb24taXRzLUFJLXBob3RvLXN0dWRpby1hbHJlYWR5LXBvd2VyaW5nLW1pbGxpb25zLW9mLXJlc2UtNzFlYzYwNjQ2Njc2NDVjOThmOGIxODNhNGQ1NmMyODIiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.Dh6jvHPzmJoBb70yzE1CVfBHCGG10LX95IJE0iOaiDQ). It has a new generative AI feature, magic studio, to create stunning marketing images from any product photo.
+[**PhotoRoom raised $19 million for its AI photo studio**](https://photoroom.notion.site/PhotoRoom-raises-19-million-to-double-down-on-its-AI-photo-studio-already-powering-millions-of-rese-71ec6064667645c98f8b183a4d56c282). It has a new generative AI feature, magic studio, to create stunning marketing images from any product photo.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/8ef39220-89f0-4505-a08d-1dceac656e5b/Screenshot_2022-11-08_at_13.39.05.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8ef39220-89f0-4505-a08d-1dceac656e5b/Screenshot_2022-11-08_at_13.39.05.png)
 
-[**Replicate is hosting a Demo Day**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3JlcGxpY2F0ZWhxL3N0YXR1cy8xNTg5NjQyNDEwNDU1MzQzMTA1IiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzEsImlzcyI6Im9yY2hpZCJ9.Br7SgtIUsBm7-1F8RvR1wY0QC0cbAWhqT6rGLfTWgks), alongside Fabian Stelzer. Demo’ing GPT3-powered prompt generators on Google Sheets, satirical pitch decks, and more.
+[**Replicate is hosting a Demo Day**](https://twitter.com/replicatehq/status/1589642410455343105), alongside Fabian Stelzer. Demo’ing GPT3-powered prompt generators on Google Sheets, satirical pitch decks, and more.
 
-text-to-Figma: **build and edit Figma designs** with natural language. [Sign up for the waitlist here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vdGV4dC10by1maWdtYS5jb20iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.P9RdE7hyUNc8cnFKdv_WA79pZyUxozRYYRWYFNEUSto).
+text-to-Figma: **build and edit Figma designs** with natural language. [Sign up for the waitlist here](http://text-to-figma.com).
 
-[Circle Labs](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NpcmNsZWxhYnMueHl6LyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.s4HAGiIFnycSnQO-jcQ9ZVXo9T4T36x8B36zrqL6x2E) just raised $4.2M from Lightspeed. It’s **a platform that enables anyone to become a creator of unique, virtual characters powered by AI**. The characters can talk to people on various platforms such as Discord and Twitter. [Read their announcement here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NpcmNsZWxhYnMueHl6LyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.s4HAGiIFnycSnQO-jcQ9ZVXo9T4T36x8B36zrqL6x2E) - and yep, sign up for the waitlist [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNlblhoTHplWXNqYzk0QXU0SlVIaEwzWkg0TFFsLWZpbG10N2NCUHY2QzdZQWN1Wncvdmlld2Zvcm0iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.Fbr9QT1ENhXmvlPX1K2WaI_xtOrYy50qVPDYzVpYhXw).
+[Circle Labs](https://circlelabs.xyz/) just raised $4.2M from Lightspeed. It’s **a platform that enables anyone to become a creator of unique, virtual characters powered by AI**. The characters can talk to people on various platforms such as Discord and Twitter. [Read their announcement here](https://circlelabs.xyz/) - and yep, sign up for the waitlist [here](https://docs.google.com/forms/d/e/1FAIpQLSenXhLzeYsjc94Au4JUHhL3ZH4LQl-filmt7cBPv6C7YAcuZw/viewform).
 
-[**Auto-generated Piano covers - Pop2Piano**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N3ZWV0Y29jb2EuZ2l0aHViLmlvL3BvcDJwaWFub19zYW1wbGVzLyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.fXo0Ioh-ESGaYc_eSSV8VPkx3HcfccEzp5d-yI4MfOk). You can [**use HF to enter audio**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9zd2VldGNvY29hL3BvcDJwaWFubyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.vCSfJYKvFFQe3YlbOd0FUypWI_T4w3MpdqlVj5gKQIo) and get your own cover.
+[**Auto-generated Piano covers - Pop2Piano**](https://sweetcocoa.github.io/pop2piano_samples/). You can [**use HF to enter audio**](https://huggingface.co/spaces/sweetcocoa/pop2piano) and get your own cover.
 
-[ThisDogExists](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RoaXNkb2dleGlzdHMuY29tLyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.QXcVI-cdtUKDeHTRycIUwHMrq-Qot2KD7KC_7_wYu7M) is a project to see if you can **identify the real dog in a lineup**. The real dog in the lineup is looking for a forever home.
+[ThisDogExists](https://thisdogexists.com/) is a project to see if you can **identify the real dog in a lineup**. The real dog in the lineup is looking for a forever home.
 
-Ever wanted to make Mona Lisa move? Well, Researchers at Cornell University have [**produced an animated image from a significantly different source image**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3Bhc2NhbF9ib3JuZXQvc3RhdHVzLzE1ODk1MjA1NTE4MTg2OTg3NTUiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.aq4KFfDsiy4H2bO14VhSSLQadLK0ouMS0zmjpCOpyhE).
+Ever wanted to make Mona Lisa move? Well, Researchers at Cornell University have [**produced an animated image from a significantly different source image**](https://twitter.com/pascal_bornet/status/1589520551818698755).
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/358c21e2-93d1-49cf-b813-bb77958ec1b5/ezgif.com-gif-maker__21_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/358c21e2-93d1-49cf-b813-bb77958ec1b5/ezgif.com-gif-maker__21_.gif)
 
-**Connect your database, ask a question, and get an answer**. ([waitlist](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy51c2VjaGFubmVsLmNvbS8iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.YH5C6yc7SpchKi2aSFvgqkavcGiMCnq1McL0_GtkWJI))
+**Connect your database, ask a question, and get an answer**. ([waitlist](https://www.usechannel.com/))
 
-An interview with the CEO of [**Shuttershock on why they decided to embrace AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5lbWVyZ2luZ3RlY2hicmV3LmNvbS9zdG9yaWVzLzIwMjIvMTEvMDQvd2h5LXNodXR0ZXJzdG9jay1leGVjcy1kZWNpZGVkLXRvLWVtYnJhY2UtZGFsbC1lLTIiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.BeqJI4yo7-xRLgQoEtMuct8JjbGjaV8xmK33RwaY4rU).
+An interview with the CEO of [**Shuttershock on why they decided to embrace AI**](https://www.emergingtechbrew.com/stories/2022/11/04/why-shutterstock-execs-decided-to-embrace-dall-e-2).
 
-DeepMind’s looking for [**applicants for its scholarship programme**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5kZWVwbWluZC5jb20vc2Nob2xhcnNoaXBzIiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzEsImlzcyI6Im9yY2hpZCJ9.w2orGOLGxs4dviNyMKJukV1gsQqA4QShv6uX3L0sa9A).
+DeepMind’s looking for [**applicants for its scholarship programme**](https://www.deepmind.com/scholarships).
 
-[**The Stability Photoshop plugin**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NocmlzdGlhbmNhbnRyZWxsLmNvbS8jYWktbWwiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.AOHoNityoP2rxIl-5vymDFhWDbDmtW64hJ-4nDAgUD0) allows you to generate and edit images using both Stable Diffusion and DALL•E 2 right inside Photoshop.
+[**The Stability Photoshop plugin**](https://christiancantrell.com/#ai-ml) allows you to generate and edit images using both Stable Diffusion and DALL•E 2 right inside Photoshop.
 
-Meta-FAIR's [**NLLB-200 content translation system is getting used more and more by Wikipedia editors**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL21ldGFhaS9zdGF0dXMvMTU4OTY4Mzc5NTcyMDMxMDc4NT9zPTEyJnQ9eEpIWVFZTHNBYVBZLUVNa2pFb1FzQSIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.sxfxQ4nr_NjvkFqYmAfRIjjQtPdfzUGR-z8a0Y2ImQ8) and produces higher-quality results than other translation systems.
+Meta-FAIR's [**NLLB-200 content translation system is getting used more and more by Wikipedia editors**](https://twitter.com/metaai/status/1589683795720310785?s=12\&t=xJHYQYLsAaPY-EMkjEoQsA) and produces higher-quality results than other translation systems.
 
-A little [**more info on the AI lawsuit**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vMjAyMi8xMS8wNy9pbl9icmllZl9haS8iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.4jjNzpfoWjUPLa79ZTZT0kTHXAGfia9M61Wx0PGQ30k) against OpenAI, GitHub and Microsoft.
+A little [**more info on the AI lawsuit**](https://www.theregister.com/2022/11/07/in_brief_ai/) against OpenAI, GitHub and Microsoft.
 
-AI Avatars may have looked a little gimmicky and there were plenty of projects that effectively did the same thing…however, [**Pieter Levels’ AvatarAI has made $100k+ since launching 10 days ago**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2xldmVsc2lvL3N0YXR1cy8xNTg5NzM3Nzk4MjQ0MTE4NTI4P3M9MTImdD1SYm50QmNsMkVWZGZicHBIa1hqUy1BIiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzEsImlzcyI6Im9yY2hpZCJ9.q_ChYh_UT4Fy361S_wFBhV35po0wumfuXZs8T1OpA1A). Impressive!
+AI Avatars may have looked a little gimmicky and there were plenty of projects that effectively did the same thing…however, [**Pieter Levels’ AvatarAI has made $100k+ since launching 10 days ago**](https://twitter.com/levelsio/status/1589737798244118528?s=12\&t=RbntBcl2EVdfbppHkXjS-A). Impressive!
 
-[**Transcribe music from YouTube videos**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9qdWFuY29waTgxL3lvdXR1YmUtbXVzaWMtdHJhbnNjcmliZSIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxLCJpc3MiOiJvcmNoaWQifQ.hnotRlfAzSJwVZ6Yf3smu-lADZNJwaTTjN57My6iTPg).
+[**Transcribe music from YouTube videos**](https://huggingface.co/spaces/juancopi81/youtube-music-transcribe).
 
-[**Subtitle any video to English**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zdXBlcnRyYW5zbGF0ZS5haS8iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMSwiaXNzIjoib3JjaGlkIn0.qcFyvHc5_6uOtXbizcC8hbtHFsCLDig5kt1dNitV6Vw), split, merge & adjust timecodes and get a final subtitle file.
+[**Subtitle any video to English**](https://www.supertranslate.ai/), split, merge & adjust timecodes and get a final subtitle file.
 
-New GoogleAI research with Berkeley produces [**high-resolution 3D flythroughs from a single 2D image**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpLmdvb2dsZWJsb2cuY29tLzIwMjIvMTEvaW5maW5pdGUtbmF0dXJlLWdlbmVyYXRpbmctM2QuaHRtbCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.HnnJhvc4sOaY9FSGBkwJ-1BDCmsiT5oQyUncg7-8SVE). The model is trained only on still photos and fills in missing pieces (like other sides of mountains), rendering with high realism.
+New GoogleAI research with Berkeley produces [**high-resolution 3D flythroughs from a single 2D image**](https://ai.googleblog.com/2022/11/infinite-nature-generating-3d.html). The model is trained only on still photos and fills in missing pieces (like other sides of mountains), rendering with high realism.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/5143e000-14e3-40cd-82af-9371a67c6686/ezgif.com-gif-maker__20_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5143e000-14e3-40cd-82af-9371a67c6686/ezgif.com-gif-maker__20_.gif)
 
-[**Supervising AI systems**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMzU0MCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.XEmKbhHi1TgaSVvBFI2tlhAQJ6cHkZA4a4Z81tzmjBc) that potentially outperform humans on various tasks.
+[**Supervising AI systems**](https://arxiv.org/abs/2211.03540) that potentially outperform humans on various tasks.
 
-A new and improved [**Hugging Face Deep Reinforcement Learning class batch #2**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLnVzMTcubGlzdC1tYW5hZ2UuY29tL3N1YnNjcmliZT91PTdmNTdlNjgzZmEyOGI1MWJmYzQ5M2QwNDgmaWQ9OGM0MDZiNjQ0MCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.9AY3wPdF2ppesIbUQmt7tYcXufgfO46HZqhTCgDCcaQ)! Starts on 5th December.
+A new and improved [**Hugging Face Deep Reinforcement Learning class batch #2**](https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048\&id=8c406b6440)! Starts on 5th December.
 
-How to [**learn a visual walking policy**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FudG9uaWxvLmdpdGh1Yi5pby92aXNpb25fbG9jb21vdGlvbi8iLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMTEsImlzcyI6Im9yY2hpZCJ9.gAk2muk0ioTluSiJfF-eR-_57bOsg5ZGcs-orkDBMwo) that only uses a monocular RGB camera and proprioception to walk. No, not you, it’s for the robots.
+How to [**learn a visual walking policy**](https://antonilo.github.io/vision_locomotion/) that only uses a monocular RGB camera and proprioception to walk. No, not you, it’s for the robots.
 
-A [**new method for video-and-language pre-training**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMzMxNCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.Je8UfKI3YSwszs-Wbfo9Q7CTAvRSnuENoftwn_LnFao) that incorporates structural knowledge into the representation learning process.
+A [**new method for video-and-language pre-training**](https://arxiv.org/abs/2211.03314) that incorporates structural knowledge into the representation learning process.
 
-[**A list of AI startups in San Francisco**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzE4YjEybWlUWnlNcEJpZGFfQzNlc3dhcjlmSFAxQUYwdjRkbUlPb3ktTjJzL2VkaXQiLCJwb3N0X2lkIjoiMGQ3ODE0Y2ItNzQ4NC00N2M5LWJhMGEtY2FlMTIwMWU3NTFmIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjhiZDZkYmQwLWM3MmEtNDE5MS05NzI0LWRlNjJkNjM2MWMwMyIsImlhdCI6MTY3NDAzMTg2MC4zMTEsImlzcyI6Im9yY2hpZCJ9._qZskBRrpfKMWrpwpoYz0xqT6Koral1mOZHcUqeR42s).
+[**A list of AI startups in San Francisco**](https://docs.google.com/document/d/18b12miTZyMpBida_C3eswar9fHP1AF0v4dmIOoy-N2s/edit).
 
-[**Carbon Re has raised a $4.8m seed round**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL25udHNuL3N0YXR1cy8xNTg5NzM5ODEwNTc4OTE1MzI4P3M9MTImdD16VDFacVFoUDJhMnAxeDRVUlZHQVlBIiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzExLCJpc3MiOiJvcmNoaWQifQ.-UN66sDhUUCeXXBn_ESRLMb0sn3bKlRsHQdnaytP1-o) for the world's first AI-powered platform designed to enable zero carbon manufacturing.
+[**Carbon Re has raised a $4.8m seed round**](https://twitter.com/nntsn/status/1589739810578915328?s=12\&t=zT1ZqQhP2a2p1x4URVGAYA) for the world's first AI-powered platform designed to enable zero carbon manufacturing.
 
-[**Dreambooth Extension for Stable-Diffusion-WebUI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZDhhaGF6YXJkL3NkX2RyZWFtYm9vdGhfZXh0ZW5zaW9uIiwicG9zdF9pZCI6IjBkNzgxNGNiLTc0ODQtNDdjOS1iYTBhLWNhZTEyMDFlNzUxZiIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiI4YmQ2ZGJkMC1jNzJhLTQxOTEtOTcyNC1kZTYyZDYzNjFjMDMiLCJpYXQiOjE2NzQwMzE4NjAuMzExLCJpc3MiOiJvcmNoaWQifQ.q_rnV6AcTAW5I8XGJqtCOCeeFmM2CWxaYgcY8VnU1Pw)**.**
+[**Dreambooth Extension for Stable-Diffusion-WebUI**](https://github.com/d8ahazard/sd_dreambooth_extension)**.**
 
-There are trade-offs between scale, multilingualism, and compression when training language models. This paper presents [**an experimental framework to study the impact of sparsifying multilingual models during fine-tuning**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMjczOCIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.KciEJWtOw1xpujBM3MZ6XVV3kV7FPNzii9jL2zG0L30).
+There are trade-offs between scale, multilingualism, and compression when training language models. This paper presents [**an experimental framework to study the impact of sparsifying multilingual models during fine-tuning**](https://arxiv.org/abs/2211.02738).
 
-The importance of [**the attention mechanism in the Transformer architecture**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMzQ5NSIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.GL-1hQnvErFzmweutGN6quLFRPMhB1EiQ70pJmS5ZH0) and how it can be replaced with a simpler alternative.
+The importance of [**the attention mechanism in the Transformer architecture**](https://arxiv.org/abs/2211.03495) and how it can be replaced with a simpler alternative.
 
-How Hugging Face and ServiceNow tackle [**code-generating LLM challenges**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3ZlbnR1cmViZWF0LmNvbS9haS9ob3ctY29kZS1nZW5lcmF0aW5nLWFpLWNvZGUtbGxtcy1pcy1jcmVhdGluZy1uZXctY2hhbGxlbmdlcy1hcy1pdC1tYXR1cmVzLyIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.bTqX-xMYWKupkxqL8hAR7dnttGEq0nN7Mg0NpHTDe6o)**.**
+How Hugging Face and ServiceNow tackle [**code-generating LLM challenges**](https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/)**.**
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 All from the Lexica new model... insane (again)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/f36bea47-7074-4e78-9b34-5e2e692acaa8/FhAdHWMUYAEJWcw.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f36bea47-7074-4e78-9b34-5e2e692acaa8/FhAdHWMUYAEJWcw.jpeg)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/2b630572-2b0f-4abf-8d44-048ab8b33eb3/FhAdHWMVQAEgmY8.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2b630572-2b0f-4abf-8d44-048ab8b33eb3/FhAdHWMVQAEgmY8.jpeg)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/b457c9e2-0d93-4d0d-8ab0-b9a936fad8e9/FhAckmDVsAAcQTp.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b457c9e2-0d93-4d0d-8ab0-b9a936fad8e9/FhAckmDVsAAcQTp.jpeg)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/63176105-fb36-4a65-87e8-6ea9982d4973/FhAckmEVsAITLmj.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/63176105-fb36-4a65-87e8-6ea9982d4973/FhAckmEVsAITLmj.jpeg)
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIwZDc4MTRjYi03NDg0LTQ3YzktYmEwYS1jYWUxMjAxZTc1MWYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiOGJkNmRiZDAtYzcyYS00MTkxLTk3MjQtZGU2MmQ2MzYxYzAzIiwiaWF0IjoxNjc0MDMxODYwLjMxMSwiaXNzIjoib3JjaGlkIn0.74Zg2t3s6O6oaSmuQKeIqV6_mZXLyGwU3Do2m3dIp3Q)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -133,11 +133,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

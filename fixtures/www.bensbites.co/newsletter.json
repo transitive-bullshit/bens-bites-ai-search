@@ -77,7 +77,7 @@
     "beehiiv_branding": true,
     "has_polls": true,
     "thumbnail": {
-      "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg"
+      "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg"
     },
     "web_template": {
       "id": 13319,
@@ -85,9 +85,9 @@
       "enable_featured_post_badges": false
     },
     "logo": {
-      "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg",
+      "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg",
       "thumb": {
-        "url": "https://media.beehiiv.net/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg"
+        "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg"
       }
     },
     "content_tags": [],
@@ -108,6 +108,86 @@
     ]
   },
   "posts": [
+    {
+      "id": "d4e31756-c2c4-48b3-9ada-1e5f11d4ef67",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's tell-all interview, Robots doing flips, and AI in the NHS",
+      "web_subtitle": "PLUS: AI flags weird things in T&C's",
+      "status": "published",
+      "override_scheduled_at": "2023-01-19T14:00:00.000Z",
+      "slug": "openais-tellall-interview-robots-flips-ai-nhs",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d36ce30c-11ab-4f2c-8a82-8308e3da2dcb/ug7zuev13sca1.jpg",
+      "meta_default_title": "OpenAI's tell-all interview, Robots doing flips, and AI in the NHS",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "OpenAI's tell-all interview, Robots doing flips, and AI in the NHS",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "OpenAI's tell-all interview, Robots doing flips, and AI in the NHS",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-19T10:27:42Z",
+      "updated_at": "2023-01-19T14:00:05Z",
+      "url": "https://www.bensbites.co/p/openais-tellall-interview-robots-flips-ai-nhs"
+    },
+    {
+      "id": "bbef89fc-8590-4c02-b6ae-c838d69747f6",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Meet Claude",
+      "web_subtitle": "PLUS: Reid Hoffman's new AI startup",
+      "status": "published",
+      "override_scheduled_at": "2023-01-18T14:00:00.000Z",
+      "slug": "meet-claude",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/bf4645e6-2bce-4067-9451-63dff74ed90e/tvkcwyldfoca1.png",
+      "meta_default_title": "Meet Claude",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Meet Claude",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Meet Claude",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 20,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 20,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 20,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "created_at": "2023-01-18T12:27:00Z",
+      "updated_at": "2023-01-18T14:00:17Z",
+      "url": "https://www.bensbites.co/p/meet-claude"
+    },
     {
       "id": "e61240d5-f2f9-4f3b-aba0-1236b1226a5c",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",

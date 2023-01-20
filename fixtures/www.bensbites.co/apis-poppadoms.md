@@ -2,9 +2,9 @@
 
 ### 💻 DALLE API 🧑‍⚖️ GitHub Copilot lawsuit 🎇 Image prompt extending 🤯 OpenAI in Airtable and Zapier
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 04, 2022
 
 It's Friday! (don't you hate it when people say 'Happy Friday' or even worse, 'Fri*yay*'). Anyway, since you didn't ask, I'm going out for a 'Modern Indian' tonight and the menu has as many choices as I offer here. I want everything. As for poppadoms, I'm a shard guy. No smashing them here folks.
@@ -13,98 +13,98 @@ Welcome to the 145 new folks joining us since yesterday. Fancy some AI treats?! 
 
 **Prompt**: List the topics in today’s email:
 
-💻 DALLE API  
-🧑‍⚖️ GitHub Copilot lawsuit  
-🎇 Image prompt extending  
+💻 DALLE API\
+🧑‍⚖️ GitHub Copilot lawsuit\
+🎇 Image prompt extending\
 🤯 OpenAI in Airtable and Zapier
 
 ## **🫦 BEN'S BITES**
 
-You can now integrate DALL·E directly into your apps and products through the API. [**DALL·E API is now available**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL29wZW5haS5jb20vYmxvZy9kYWxsLWUtYXBpLW5vdy1hdmFpbGFibGUtaW4tcHVibGljLWJldGEvIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNTk5LCJpc3MiOiJvcmNoaWQifQ.C2JoRUWU7ia4FMoR9bRRXUHx8XL44bRgLukkwpSlrRs) in a public beta. The API documentation is [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JldGEub3BlbmFpLmNvbS9kb2NzL2d1aWRlcy9pbWFnZXMvdXNhZ2UiLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC41OTksImlzcyI6Im9yY2hpZCJ9.fBjmaNDzU10xuznzzAnsHOWF2AnIrZXHLQOHLj-M6Fw). Extra coverage by The Verge [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGV2ZXJnZS5jb20vMjAyMi8xMS8zLzIzNDM4NjA0L3RleHQtdG8taW1hZ2UtYWktb3BlbmFpLWRhbGwtZS1hcGktcHVibGljLWJldGEtcHJpY2UiLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC41OTksImlzcyI6Im9yY2hpZCJ9.Mg7QxwAgBwPxJH6kE99dyLUV6bmUwhCslUGglnO1Oys).
+You can now integrate DALL·E directly into your apps and products through the API. [**DALL·E API is now available**](https://openai.com/blog/dall-e-api-now-available-in-public-beta/) in a public beta. The API documentation is [here](https://beta.openai.com/docs/guides/images/usage). Extra coverage by The Verge [here](https://www.theverge.com/2022/11/3/23438604/text-to-image-ai-openai-dall-e-api-public-beta-price).
 
-Related: [**Full DALL-E 2 integration in Photoshop**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5mbHlpbmdkb2cuZGUvc2QvIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNTk5LCJpc3MiOiJvcmNoaWQifQ.mGJpHrzL6awrVEfpILsuovDrbVNfBlg1njaW-e3QVqk).
+Related: [**Full DALL-E 2 integration in Photoshop**](https://www.flyingdog.de/sd/).
 
-[**Generate custom, unique tattoos**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JsYWNraW5rLmFpLyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjU5OSwiaXNzIjoib3JjaGlkIn0.7gzUSK00qhMivV1SJ2xtumH4VGRlYEKcZE0Tc5-P-B0) in seconds with BlackInk. Readers' choice - which of these should I get on the small of my back?
+[**Generate custom, unique tattoos**](https://blackink.ai/) in seconds with BlackInk. Readers' choice - which of these should I get on the small of my back?
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/50f83ecb-5d11-443c-8cde-93743f87ed2c/Screenshot_2022-11-04_at_13.52.07.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/50f83ecb-5d11-443c-8cde-93743f87ed2c/Screenshot_2022-11-04_at_13.52.07.png)
 
-Update on the **GitHub Copilot drama**; there has now been [**a lawsuit filed**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1YmNvcGlsb3RsaXRpZ2F0aW9uLmNvbS8iLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC41OTksImlzcyI6Im9yY2hpZCJ9.fplv6r2Qde8NXCuwPFeIl-v2Hd9zCSTjOZi8n4JkanU). The suit has been filed against a set of defen­dants that includes GitHub, Microsoft (owner of GitHub), and OpenAI.
+Update on the **GitHub Copilot drama**; there has now been [**a lawsuit filed**](https://githubcopilotlitigation.com/). The suit has been filed against a set of defen­dants that includes GitHub, Microsoft (owner of GitHub), and OpenAI.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjU5OSwiaXNzIjoib3JjaGlkIn0.cRA0CBjkmoTkF-iWF1mf1KC217M_ls0nu6jiXPL9ABA) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-[**Continue your own music with AI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NvbGFiLnJlc2VhcmNoLmdvb2dsZS5jb20vZHJpdmUvMU1ZNEo0Yzl3X3JmVjBna2cwa2RqOU5SSWFxeWdGajlJIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNTk5LCJpc3MiOiJvcmNoaWQifQ.ZlyT6hEGalpxTr0qAyg0dQoHGQD_qI3mC1X4Ucv768Y) in Jukebox Web UI.
+[**Continue your own music with AI**](https://colab.research.google.com/drive/1MY4J4c9w_rfV0gkg0kdj9NRIaqygFj9I) in Jukebox Web UI.
 
-A new [**AI model is able to solve complex mathematical problems.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpLmZhY2Vib29rLmNvbS9ibG9nL2FpLW1hdGgtdGhlb3JlbS1wcm92aW5nLyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjU5OSwiaXNzIjoib3JjaGlkIn0.TNukqm23gGkXP8buh5XppQBre1N1TApGEwfrv595T-E) The model, called HyperTree Proof Search (HTPS), is trained on a dataset of successful mathematical proofs and is able to generalize to new, very different kinds of problems. The 17-year-old me crying in the back of my Maths class would’ve liked this.
+A new [**AI model is able to solve complex mathematical problems.**](https://ai.facebook.com/blog/ai-math-theorem-proving/) The model, called HyperTree Proof Search (HTPS), is trained on a dataset of successful mathematical proofs and is able to generalize to new, very different kinds of problems. The 17-year-old me crying in the back of my Maths class would’ve liked this.
 
-[**A writing tool with a twist**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ibG9nbmxwLmNvbS8iLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC41OTksImlzcyI6Im9yY2hpZCJ9.dxO8WSf8S1wZvzBZZVtyh_SHY-aMyHZ-g5UG1d5zyns)…it’s FREE! (that’s the twist)
+[**A writing tool with a twist**](https://www.blognlp.com/)…it’s FREE! (that’s the twist)
 
-Enter a prompt, and this model (Prompt Extend) will [**add suitable style cues for Stable Diffusion**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9kYXNwYXJ0aG8vcHJvbXB0LWV4dGVuZCIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.tnxiptrnkBTxq1EuFGkEaMbeWMSlR8FQnDetqGJlGGE)**.**
+Enter a prompt, and this model (Prompt Extend) will [**add suitable style cues for Stable Diffusion**](https://huggingface.co/spaces/daspartho/prompt-extend)**.**
 
-Is the [**line blurring between humans and machines**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BhaXJhZ3JhcGguY29tL2RpYWxvZ3VlLzliYmYxOTczNjZkNzQ0NjQ5MGMxZDg2N2MzZjIxZjFlIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.R1VXqFeDpnhP00A5dMkC1czj5xVQQQ3cOHMXnHqvkJo)? TLDR: not really.
+Is the [**line blurring between humans and machines**](https://pairagraph.com/dialogue/9bbf197366d7446490c1d867c3f21f1e)? TLDR: not really.
 
-[**Create and iterate your prompts**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vc3cteXgvYXNrLWNsaS8iLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC42LCJpc3MiOiJvcmNoaWQifQ.PkSDoYgdjkJgqBY-UIMKDKJQruUjoObo3iPSVKUg3Qc) using this CLI.
+[**Create and iterate your prompts**](https://github.com/sw-yx/ask-cli/) using this CLI.
 
-**Spacecadet Ventures are**[**hiring a Chief of Staff**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NwYWNlY2FkZXQubm90aW9uLnNpdGUvQ2hpZWYtb2YtU3RhZmYtU3BhY2VjYWRldC1WZW50dXJlcy0zN2U0MTc1Njg0NzA0ZmVjYjdlYzU1NDEyNTJlZWY5NiIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.IaYN083xbqmApIjTprof9EET3kO4i352VN--mr0de5c) - they invest in future-focused companies.
+**Spacecadet Ventures are**[**hiring a Chief of Staff**](https://spacecadet.notion.site/Chief-of-Staff-Spacecadet-Ventures-37e4175684704fecb7ec5541252eef96) - they invest in future-focused companies.
 
-A [**system-wide AI writing assistant**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL29saXZlcmJ5dGVzL3N0YXR1cy8xNTg4MTUxNDM5ODIxODAzNTIwIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.XLYobZNKTuCTKZG2Wp0cIRz_XKHFueDALTSxVhm5nQQ) to help you no matter which app you use - NexBot. [Watch the demo here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlPdFJYZm45ZHpzIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.wptLtiF0ukGIk1x39FrhlEUdlNaB6sRvtrJb2J2Cc0U).
+A [**system-wide AI writing assistant**](https://twitter.com/oliverbytes/status/1588151439821803520) to help you no matter which app you use - NexBot. [Watch the demo here](https://www.youtube.com/watch?v=iOtRXfn9dzs).
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/bef3d0a8-dd24-4261-8cdf-83fad8387542/Screenshot_2022-11-04_at_13.57.29.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/bef3d0a8-dd24-4261-8cdf-83fad8387542/Screenshot_2022-11-04_at_13.57.29.png)
 
-[**Running OpenAI in Airtable**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2lnb3JuZWZlZG92aS9zdGF0dXMvMTU4ODAzMjczNDMxNTcwNDMyMCIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.VKdcklTorIsvmEDSplsPF-TNMBi1-KfAjwdwYktOgO4). Uhmmm yes, please!
+[**Running OpenAI in Airtable**](https://twitter.com/igornefedovi/status/1588032734315704320). Uhmmm yes, please!
 
-Exscientia Ltd. has announced the [expansion of its platform](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iaW9zcGFjZS5jb20vYXJ0aWNsZS9yZWxlYXNlcy9leHNjaWVudGlhLWV4cGFuZHMtYmlvbG9naWNzLWRlc2lnbi1jYXBhYmlsaXR5LXdpdGgtYXV0b21hdGVkLWxhYm9yYXRvcnkvIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.uUO_kSOFbWLiNKcqTYqMd3lXcCLwI8ZHHxfg72CKblM) to **include the design of biologics, such as human antibodies**. The algorithm is 35,000 times faster than Alphafold2 & more accurate!
+Exscientia Ltd. has announced the [expansion of its platform](https://www.biospace.com/article/releases/exscientia-expands-biologics-design-capability-with-automated-laboratory/) to **include the design of biologics, such as human antibodies**. The algorithm is 35,000 times faster than Alphafold2 & more accurate!
 
-A model to [**stop computational waste**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMjA0OHYxIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.NfNP4z3vDOhj8g_1lU-LyfDpq87UsrVmz_ZLjU0_M4E) when image editing.
+A model to [**stop computational waste**](https://arxiv.org/abs/2211.02048v1) when image editing.
 
-A method for [**automatically generating instructions for LLMs**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wMTkxMHYxIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.9_5-DyDcKpOVcELPVscoyyMlEf0BV6djARocgLpvxe0), in order to improve task performance. The method, called Automatic Prompt Engineer (APE), optimizes a chosen score function by searching over a pool of instruction candidates proposed by an LLM.
+A method for [**automatically generating instructions for LLMs**](https://arxiv.org/abs/2211.01910v1), in order to improve task performance. The method, called Automatic Prompt Engineer (APE), optimizes a chosen score function by searching over a pool of instruction candidates proposed by an LLM.
 
-A [**step-by-step guide on fine-tuning Whisper**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2Jsb2cvZmluZS10dW5lLXdoaXNwZXIiLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC42LCJpc3MiOiJvcmNoaWQifQ.AB_FU36T-OTPdd9Ln0ChjZNWkgaCKHyTK_6ETxCpsjo) using Hugging Face Transformers.
+A [**step-by-step guide on fine-tuning Whisper**](https://huggingface.co/blog/fine-tune-whisper) using Hugging Face Transformers.
 
-A thread by Peter Diamandis on [**the rise of artificial intelligence**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3BldGVyZGlhbWFuZGlzL3N0YXR1cy8xNTg4MjIzMjgzNjEwMDYyODUwP3M9MTImdD1DYkR2MzNKNkhtX2F3MEE4UHhLc1ZRIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.k-YLIJVtOBNBGnkPnobv_cKXaiqbJMkyp0W7BTzX1Ew).
+A thread by Peter Diamandis on [**the rise of artificial intelligence**](https://twitter.com/peterdiamandis/status/1588223283610062850?s=12\&t=CbDv33J6Hm_aw0A8PxKsVQ).
 
-[**Cohere Sandbox**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R4dC5jb2hlcmUuYWkvaW50cm9kdWNpbmctc2FuZGJveC1jb2hlcmVzLWV4cGVyaW1lbnRhbC1vcGVuLXNvdXJjZS1pbml0aWF0aXZlLyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.RvWMWBNozQ_lh0rRW_A6XoSOyipk_pg8A3vSKBLxRic)**:** **open-source libraries to help developers experiment with language AI**. A collection of open-source repositories for building applications with LLMs, designed to help developers quickly build and deploy applications and it includes a variety of tools and demos for building conversational agents, semantic search engines, and more. A demo of how a [**toy semantic search engine can be quickly built**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vY29oZXJlLWFpL3NhbmRib3gtdG95LXNlbWFudGljLXNlYXJjaCIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.Qan82PwZOVz_bnFB1Y9e_mQRq33VKnALUEOmkvocfYk) using Cohere's platform.
+[**Cohere Sandbox**](https://txt.cohere.ai/introducing-sandbox-coheres-experimental-open-source-initiative/)**:** **open-source libraries to help developers experiment with language AI**. A collection of open-source repositories for building applications with LLMs, designed to help developers quickly build and deploy applications and it includes a variety of tools and demos for building conversational agents, semantic search engines, and more. A demo of how a [**toy semantic search engine can be quickly built**](https://github.com/cohere-ai/sandbox-toy-semantic-search) using Cohere's platform.
 
-DiffusionBee - [**Stable Diffusion app on Mac**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RpZmZ1c2lvbmJlZS5jb20vIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.WE-VtCFCZFs6TFC6TRAjbs3jiWcTWVX-hk1RmI1gNEA) with all cutting-edge features. Supports Text-to-image, Image-to-image, in-painting, out-painting, and advanced options.
+DiffusionBee - [**Stable Diffusion app on Mac**](https://diffusionbee.com/) with all cutting-edge features. Supports Text-to-image, Image-to-image, in-painting, out-painting, and advanced options.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/ebc2f1de-5800-4ac5-a03e-fcba027ce951/sc.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ebc2f1de-5800-4ac5-a03e-fcba027ce951/sc.png)
 
-Do popular video understanding and embodied models have [**infant-level physical reasoning abilities**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FsbGVuYWkub3JnL3Byb2plY3QvaW5mbGV2ZWwvaG9tZSIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.phrH5mN5CpTthqzx3fgN2jSdMdojnx5hYJeEPB4ZW9c)? TLDR; No.
+Do popular video understanding and embodied models have [**infant-level physical reasoning abilities**](https://allenai.org/project/inflevel/home)? TLDR; No.
 
-An [**unofficial OpenAI Zapier integration**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3phcGllci5jb20vZGV2ZWxvcGVyL3B1YmxpYy1pbnZpdGUvMTcxNTkyL2M5OTRjM2NhNjdiMjhmODcxODUxYmE1ZDg2MTAwZjE2LyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.mAHadntJPaGy-f4XhxkdpftMUAogHa6vp7qpQhab19I). For those of you who are unaware, I work at Zapier. They acquired my startup in March 2021. It’s awesome to see folks out there building integrations like this to let so many more people incorporate AI into their workflows.
+An [**unofficial OpenAI Zapier integration**](https://zapier.com/developer/public-invite/171592/c994c3ca67b28f871851ba5d86100f16/). For those of you who are unaware, I work at Zapier. They acquired my startup in March 2021. It’s awesome to see folks out there building integrations like this to let so many more people incorporate AI into their workflows.
 
-Deep Mind is now [**hiring Data Research Engineers.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL2RlZXBtaW5kIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNiwiaXNzIjoib3JjaGlkIn0.qY9cg3OPXTiIafapcBdLVspnrZ2nu5L0aKQD3069QeY)
+Deep Mind is now [**hiring Data Research Engineers.**](https://boards.greenhouse.io/deepmind)
 
-MIT Technology Review wrapped up its event EmTech 2022 and [posted a summary](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmNvbS8yMDIyLzExLzAzLzEwNjI2OTkvZW10ZWNoLTIwMjItZGlnaXRhbC13ZWItMy0wLXdlYXJhYmxlLWFpLW5leHQtZ2VuZXJhdGlvbi8iLCJwb3N0X2lkIjoiNTZlYmZmNmYtY2E2OS00NjFiLWJlMDYtZDZjOTA5ODVlNzhhIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImZlYjkyNmU1LWNlZDYtNDQwNy1hZGQwLTY5MzU3NDY5MDg2OSIsImlhdCI6MTY3NDAzMTg2MC42LCJpc3MiOiJvcmNoaWQifQ.0IAjej3STx6bH2uLyaVQDKeyUUbUfSd2ttRnIhE-eW0). It included topics such as AI art, AI safety and what the future holds.
+MIT Technology Review wrapped up its event EmTech 2022 and [posted a summary](https://www.technologyreview.com/2022/11/03/1062699/emtech-2022-digital-web-3-0-wearable-ai-next-generation/). It included topics such as AI art, AI safety and what the future holds.
 
-[**Text to Image to Music to Video**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9ER1NwaXR6ZXIvVFhULTItSU1HLTItTVVTSUMtMi1WSURFTyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYsImlzcyI6Im9yY2hpZCJ9.SbFBvB17O2dF_RDj5nI3w2DUG8jVdT9R0gXwJLmjk5E), now on Hugging Face.
+[**Text to Image to Music to Video**](https://huggingface.co/spaces/DGSpitzer/TXT-2-IMG-2-MUSIC-2-VIDEO), now on Hugging Face.
 
-These MIT students hacked [**a way to "immunize" photos against edits**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vZ3JhZGllbnRzY2llbmNlLm9yZy9waG90b2d1YXJkLyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYwMSwiaXNzIjoib3JjaGlkIn0.C026pM1VyoP-72wmot_boUMWxs9g-KHAstAw93U8ey4) so that we can better safeguard AI image manipulation. Basically, sorting the real from the fake.
+These MIT students hacked [**a way to "immunize" photos against edits**](http://gradientscience.org/photoguard/) so that we can better safeguard AI image manipulation. Basically, sorting the real from the fake.
 
-[**AI-oriented quantitative investment platform**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3FsaWIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0LyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYwMSwiaXNzIjoib3JjaGlkIn0.As-Xn5CK5lJfKHLggtbN6acS-3U8OJXRyUuA5sA86Is), by Microsoft. It aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
+[**AI-oriented quantitative investment platform**](https://qlib.readthedocs.io/en/latest/), by Microsoft. It aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 
-[**Laika trains on your own writing**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53cml0ZXdpdGhsYWlrYS5jb20vIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNjAxLCJpc3MiOiJvcmNoaWQifQ.0lSKyfidy_CfsIMZLoe32rQJqVDzsl_O9U6hGWRdcno) to create a personalised partner-in-crime. They’ve done [a Marcus Aurelius version](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aWt0b2suY29tL0BhbHBoYWNoYXIvdmlkZW8vNzEyNzY5MDA3ODE4NDQxMDM3NCIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYwMSwiaXNzIjoib3JjaGlkIn0.YT7GZfji-ApCkRMzN5Mnb4dsDu4oYPsle6-6bQh4tEc) already. I didn’t realise he was following AI so closely!
+[**Laika trains on your own writing**](https://www.writewithlaika.com/) to create a personalised partner-in-crime. They’ve done [a Marcus Aurelius version](https://www.tiktok.com/@alphachar/video/7127690078184410374) already. I didn’t realise he was following AI so closely!
 
 ## **🖼 AI IMAGES OF THE DAY**
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/bd4a35d4-6ee8-45f9-8ba8-303842273ae2/c387edeb0aa045a5bb494b26b3378c7e.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/bd4a35d4-6ee8-45f9-8ba8-303842273ae2/c387edeb0aa045a5bb494b26b3378c7e.jpeg)
 
-[https://playgroundai.com/post/cla21aows0jzhs601jf1z236c](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BsYXlncm91bmRhaS5jb20vcG9zdC9jbGEyMWFvd3MwanpoczYwMWpmMXoyMzZjIiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNjAxLCJpc3MiOiJvcmNoaWQifQ.YGJD3mLtU905xYF97IfnIEmvkRflieTh6gPBxxoTG9M)
+<https://playgroundai.com/post/cla21aows0jzhs601jf1z236c>
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/21340d4e-744f-4bfb-8610-614d534fa113/0d1bdea3c70e478f9c81b97dd1a70d67.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/21340d4e-744f-4bfb-8610-614d534fa113/0d1bdea3c70e478f9c81b97dd1a70d67.jpeg)
 
-[https://playgroundai.com/post/cla29zu5q35ous601dedo7ss8](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BsYXlncm91bmRhaS5jb20vcG9zdC9jbGEyOXp1NXEzNW91czYwMWRlZG83c3M4IiwicG9zdF9pZCI6IjU2ZWJmZjZmLWNhNjktNDYxYi1iZTA2LWQ2YzkwOTg1ZTc4YSIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJmZWI5MjZlNS1jZWQ2LTQ0MDctYWRkMC02OTM1NzQ2OTA4NjkiLCJpYXQiOjE2NzQwMzE4NjAuNjAxLCJpc3MiOiJvcmNoaWQifQ.hutMT-IwJFW_byGSjQIcv4K3zlJ9zLYQlPESACEr5W8)
+<https://playgroundai.com/post/cla29zu5q35ous601dedo7ss8>
 
 Man carries giant 1960 vintage iPhone
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/c8775b4a-e92b-4429-b466-7bca75239b3d/ggncjjyghsx91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c8775b4a-e92b-4429-b466-7bca75239b3d/ggncjjyghsx91.png)
 
-[https://www.reddit.com/r/dalle2/comments/ylck6w/man\_carries\_giant\_1960\_vintage\_iphone/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvZGFsbGUyL2NvbW1lbnRzL3lsY2s2dy9tYW5fY2Fycmllc19naWFudF8xOTYwX3ZpbnRhZ2VfaXBob25lLyIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYwMSwiaXNzIjoib3JjaGlkIn0.CE4Dxg3r1jOh-JSA0DO8NSKpTo7uMbNC8IJdoaKq81k)
+<https://www.reddit.com/r/dalle2/comments/ylck6w/man_carries_giant_1960_vintage_iphone/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1NmViZmY2Zi1jYTY5LTQ2MWItYmUwNi1kNmM5MDk4NWU3OGEiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZmViOTI2ZTUtY2VkNi00NDA3LWFkZDAtNjkzNTc0NjkwODY5IiwiaWF0IjoxNjc0MDMxODYwLjYwMSwiaXNzIjoib3JjaGlkIn0.pC0AfD77s1TvOl7FWtuEpzIpENiRLQjR5yhWAOBT_uA)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -115,11 +115,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

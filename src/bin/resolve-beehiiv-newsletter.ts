@@ -7,14 +7,16 @@ import * as beehiiv from '@/server/beehiiv'
 import '@/server/config'
 
 async function main() {
+  // const page = await beehiiv.resolveBeeHiivPostContent(
+  //   'https://www.bensbites.co/p/microsoft-stepping-gear',
+  //   { baseUrl: 'https://www.bensbites.co' }
+  // )
+  // console.log(page)
+  // return
+
   const newsletterUrl = process.env.BEEHIIV_URL
 
   const newsletter = await beehiiv.resolveBeeHiivNewsletter(newsletterUrl)
-  // console.log(newsletter)
-
-  // const page = await beehiiv.resolveBeeHiivPost(
-  //   'https://www.bensbites.co/p/microsoft-stepping-gear'
-  // )
 
   const outDir = `fixtures/${newsletter.domain}`
   await rmfr(outDir)

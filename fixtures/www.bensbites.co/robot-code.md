@@ -2,9 +2,9 @@
 
 ### 🌅 Addressing climate change 🎥 Seamless video from an image 🦾 Robots writing code 📝 AI in Notion
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 November 03, 2022
 
 Hello friends, and welcome to the 167 new humans joining us since yesterday.
@@ -13,76 +13,76 @@ Grab a seat, and a plate and let's dig in!
 
 **Prompt**: List the topics in today’s email:
 
-🌅 Addressing climate change  
-🎥 Seamless video from an image  
-🦾 Robots writing code  
+🌅 Addressing climate change\
+🎥 Seamless video from an image\
+🦾 Robots writing code\
 📝 AI in Notion
 
 ## **🫦 BEN'S BITES**
 
-This may be one of the best generative tools I’ve seen. **Generate images and videos with AI**, [StableBoost.](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0YWJsZWJvb3N0LmFpLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQwOSwiaXNzIjoib3JjaGlkIn0.kBCwtnfea6nkvbri9RU8gFUMcW0D-akQh3LcCBycePQ) Not only does it produce several variations, but you can add modifiers super easily, and it learns your preferences. [Andrej Kaparthy gave his praises](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3RhbGwvc3RhdHVzLzE1ODc5MTM1Mjk1ODcyNDkxNTIiLCJwb3N0X2lkIjoiMjRjZTBmZWQtMTZkNC00NjAyLTg3YzQtOGRlNmVkNDZiMDUwIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjAyODE5ODQyLThmNGUtNGNmMC1iMzUxLWNmNTE1ODY5NmM4YyIsImlhdCI6MTY3NDAzMTg2MC40MDksImlzcyI6Im9yY2hpZCJ9.6Il_tow147wcZCitlttvfGitYDkmcFFaaVlrkFNh9NI) for it and looks like he may be advising Tal.
+This may be one of the best generative tools I’ve seen. **Generate images and videos with AI**, [StableBoost.](https://stableboost.ai/) Not only does it produce several variations, but you can add modifiers super easily, and it learns your preferences. [Andrej Kaparthy gave his praises](https://twitter.com/tall/status/1587913529587249152) for it and looks like he may be advising Tal.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/f02c8029-c84a-4cef-9fe1-0659dac3a581/ezgif.com-gif-maker__16_.gif)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f02c8029-c84a-4cef-9fe1-0659dac3a581/ezgif.com-gif-maker__16_.gif)
 
-Google hosted an [**AI announcements**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVg1aUxGLWNzenUwIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.XUwgYwJQgruZnsfaePEKJHguUxKdPCo6k0UYIQkOO3s) conference thingy called AI@. Here are the three things you need to know:  
-  
-**1\. Supporting 1,000 languages with AI**. 1,000 Languages Initiative, is an ambitious commitment to build an AI model that will support the 1,000 most spoken languages.  
-  
-**2\. Empowering creators and artists with AI**. By bringing its **text-to-image generation** technologies to AI Test Kitchen, which provides a way for people to learn and experience it. [Read about it here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGV2ZXJnZS5jb20vMjAyMi8xMS8yLzIzNDM0MzYxL2dvb2dsZS10ZXh0LXRvLWltYWdlLWFpLW1vZGVsLWltYWdlbi10ZXN0LWtpdGNoZW4tYXBwIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.a5dMkDtZesvi5wAdP-OVTnLVBgp4ddDsNlzPN3dVXuY).  
-  
-**3\. Addressing climate change and health challenges with AI**. **Flood Forecasting**. Google uses satellite imagery and AI to accurately map rivers, and model what areas will be flooded, which you can [view here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NpdGVzLnJlc2VhcmNoLmdvb2dsZS9mbG9vZHMvIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.2cIp2ic9EDb4oVZ5NSKWSjF2dvNVCUJ1uhpdZBrXo2I). **Wildfire detection system**. Google trained ML models to use satellite imagery to identify and track wildfires in real time and predict how they will evolve to support first responders. [Watch the video here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3lvdXR1LmJlLzFFa1Y1TlBLWFVjIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.8XDM4yA0XEPNGwGajPia8iRcI_pv2ph4eP6AQe-r1Y0). **Low-cost AI ultrasound device** that can determine critical details of a pregnancy and detect issues early. **Unlocking eye screening for anyone** with a smartphone camera. They are evolving this technology to work with a photo of an eye taken on a consumer camera. ([read the full blog post here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Jsb2cuZ29vZ2xlL3RlY2hub2xvZ3kvYWkvd2F5cy1haS1pcy1zY2FsaW5nLWhlbHBmdWwvIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.TySTg5l2BaNbLB8wWnWQcZOEefA-HKNavR2GobbgAgo))
+Google hosted an [**AI announcements**](https://www.youtube.com/watch?v=X5iLF-cszu0) conference thingy called AI@. Here are the three things you need to know:
 
-Google also explored whether [**Robots could write their own code**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpLmdvb2dsZWJsb2cuY29tLzIwMjIvMTEvcm9ib3RzLXRoYXQtd3JpdGUtdGhlaXItb3duLWNvZGUuaHRtbCIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.JEC4-T0LvzV6L0GIWAKj2sEky4pmLGknW8kNGaVEQL4).
+**1. Supporting 1,000 languages with AI**. 1,000 Languages Initiative, is an ambitious commitment to build an AI model that will support the 1,000 most spoken languages.
 
-[**Unlimited conversation**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2luZmluaXRlY29udmVyc2F0aW9uLmNvbS8iLCJwb3N0X2lkIjoiMjRjZTBmZWQtMTZkNC00NjAyLTg3YzQtOGRlNmVkNDZiMDUwIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjAyODE5ODQyLThmNGUtNGNmMC1iMzUxLWNmNTE1ODY5NmM4YyIsImlhdCI6MTY3NDAzMTg2MC40MSwiaXNzIjoib3JjaGlkIn0.AfimEbqgpC2pqq7RGOSkgRCObJIp_TGz5n8L9RT0V38) by my wife; an AI-generated, never-ending discussion between Werner Herzog and Slavoj Žižek.
+**2. Empowering creators and artists with AI**. By bringing its **text-to-image generation** technologies to AI Test Kitchen, which provides a way for people to learn and experience it. [Read about it here](https://www.theverge.com/2022/11/2/23434361/google-text-to-image-ai-model-imagen-test-kitchen-app).
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.n_W5Zm7lHTemv2DdeXt5DenQOQTJnaK8JjSPT9QPURE) and I'll send over the link database.
+**3. Addressing climate change and health challenges with AI**. **Flood Forecasting**. Google uses satellite imagery and AI to accurately map rivers, and model what areas will be flooded, which you can [view here](https://sites.research.google/floods/). **Wildfire detection system**. Google trained ML models to use satellite imagery to identify and track wildfires in real time and predict how they will evolve to support first responders. [Watch the video here](https://youtu.be/1EkV5NPKXUc). **Low-cost AI ultrasound device** that can determine critical details of a pregnancy and detect issues early. **Unlocking eye screening for anyone** with a smartphone camera. They are evolving this technology to work with a photo of an eye taken on a consumer camera. ([read the full blog post here](https://blog.google/technology/ai/ways-ai-is-scaling-helpful/))
 
-**Improved text-to-image synthesis**, style transfer, and painting with word capabilities - [**eDiffi**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RlZXBpbWFnaW5hdGlvbi5jYy9lRGlmZmkvIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.r2GXu6IYNJPwg7T74u7rUxv6UfApTmvKJ5ihxCRd5jA)**.**
+Google also explored whether [**Robots could write their own code**](https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html).
 
-Contrastive decoding is [**a more reliable search objective**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMC4xNTA5NyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.vTy5w5V_dbVPoUe-Y248g60K7b3rZ53l55QuBvUJCJE) by contrasting LMs of different sizes.
+[**Unlimited conversation**](https://infiniteconversation.com/) by my wife; an AI-generated, never-ending discussion between Werner Herzog and Slavoj Žižek.
 
-A new model to aid in **trying on clothes**… current solutions only let us try on 1 garment at a time but this model proposes [**a way to try on multiple layers of garments**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21zbGFiLmVzL3Byb2plY3RzL1VMTmVGLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.Z6US6X0XLyY3WAEHvmcCS7fWnp3xx_mFB8LR215q9mg). Try on that Tee, with that sweatshirt and throw the coat on top too.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-The recent trend of [**open-source AI collaboration between China and the US**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5wcm90b2NvbC5jb20vZW50ZXJwcmlzZS9jaGluYS11cy1haS1vcGVuLXNvdXJjZSIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.Rv7p_Y6ZQJcuYvFUUQf713gQm_-b2dF0z0mHD-l0qP0). The key takeaways are; the trend is being driven by a desire for greater AI innovation, it’s also being driven by a desire to avoid the risks of AI development and it could lead to greater cooperation between the two countries on AI development. However, it could lead to greater competition between the two countries on AI development and the US losing its competitive advantage.
+**Improved text-to-image synthesis**, style transfer, and painting with word capabilities - [**eDiffi**](https://deepimagination.cc/eDiffi/)**.**
 
-You can now [**generate seamless video from still images with just one click**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3J1bndheW1sL3N0YXR1cy8xNTg3NzkxNzQ5OTEyNjYyMDIyIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.E1lO44SUI068pgTyG_o8J7SSWWye2PfE7qQggyBcVng) - this is insane!!! Runway’s Frame Interpolation.
+Contrastive decoding is [**a more reliable search objective**](https://arxiv.org/abs/2210.15097) by contrasting LMs of different sizes.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/74974eb7-827e-4130-abe6-5af3db8c42f9/ezgif.com-gif-maker__15_.gif)
+A new model to aid in **trying on clothes**… current solutions only let us try on 1 garment at a time but this model proposes [**a way to try on multiple layers of garments**](https://mslab.es/projects/ULNeF/). Try on that Tee, with that sweatshirt and throw the coat on top too.
 
-Coqui is aiming to [**combine a bunch of generative AI tools**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2NvcXVpX2FpL3N0YXR1cy8xNTg3ODgwMzc1NTA1NzM1NjgwP3M9MTImdD11UUZuTmNQMGdnQWZlZmJ4MzVUdU1RIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.IFCRbXL5lPe5jB-DoTy4Tvqz-1EiBUvZOXIYomItzUk) together in their platform.
+The recent trend of [**open-source AI collaboration between China and the US**](https://www.protocol.com/enterprise/china-us-ai-open-source). The key takeaways are; the trend is being driven by a desire for greater AI innovation, it’s also being driven by a desire to avoid the risks of AI development and it could lead to greater cooperation between the two countries on AI development. However, it could lead to greater competition between the two countries on AI development and the US losing its competitive advantage.
 
-Another AI avatar platform to add to our lists - [“Portrait” by Vana](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvcnRyYWl0LnZhbmEuY29tLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.qnt4kvlQDNmdm8DDohugDvGXo13Glxj3hKg93nvOuXI) is a **generative art studio that can create self-portraits** of you in infinite styles. [**Packy McCormick is a fan.**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3BhY2t5bS9zdGF0dXMvMTU4Nzg5NDk1OTI2NDQ4MTI4Mj9zPTEyJnQ9dVFGbk5jUDBnZ0FmZWZieDM1VHVNUSIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.7gNCUuWnx97C-zOFMjoXJ8aY98MBglE1-jh4TG_ukVg)
+You can now [**generate seamless video from still images with just one click**](https://twitter.com/runwayml/status/1587791749912662022) - this is insane!!! Runway’s Frame Interpolation.
 
-We’ve all seen that woman in website customers, right? She apparently uses a lot of software! Well instead of using her face, why not use[**an ultra-realistic AI-generated face**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3JlYWxmYWNlc2Zha2VwZW9wbGUuY29tLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.zvq5a5IpX7kiMP9uZMp5pd2sQDSN5AFKNY0JGjRXyzw)**?**
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/74974eb7-827e-4130-abe6-5af3db8c42f9/ezgif.com-gif-maker__15_.gif)
 
-[**OpenAI opens its first accelerator**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjIvMTEvMDIvb3BlbmFpLXdpbGwtZ2l2ZS1yb3VnaGx5LXRlbi1haS1zdGFydHVwcy0xbS1lYWNoLWFuZC1lYXJseS1hY2Nlc3MtdG8taXRzLXN5c3RlbXMvIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.8pnxys0JqyHZ1hw5P4RV7edaEdAZ-2qZLxrZxNIx8Wc) -it will give roughly **10 AI startups $1M each** and early access to its systems. I wonder if Ben’s Bites counts as an ‘AI startup’ 🤔, what could we do with $1M 👀.
+Coqui is aiming to [**combine a bunch of generative AI tools**](https://twitter.com/coqui_ai/status/1587880375505735680?s=12\&t=uQFnNcP0ggAfefbx35TuMQ) together in their platform.
 
-Do you know that all of these recent DreamBooth and Stable Diffusion apps (avatars etc) are [**all using one API**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2NhZmZlaW5hdGVkd2VzL3N0YXR1cy8xNTg3ODMxNDkzNzkwODM0Njg4P3M9MTImdD1nSm1UcVdEUkUyNFBTTFY0SXhRa3l3IiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDEsImlzcyI6Im9yY2hpZCJ9.EljOrltuNDHZzz0XDmq1A0pTptj8Oc6a-fmOJNtjoYE)? Astria was actually mentioned previously and they provide the API that powers these apps.
+Another AI avatar platform to add to our lists - [“Portrait” by Vana](https://portrait.vana.com/) is a **generative art studio that can create self-portraits** of you in infinite styles. [**Packy McCormick is a fan.**](https://twitter.com/packym/status/1587894959264481282?s=12\&t=uQFnNcP0ggAfefbx35TuMQ)
 
-Notion lover? Then you’ll enjoy this [**AI writer in Notion**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53ZWJjb3BpbG90LmNvLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxLCJpc3MiOiJvcmNoaWQifQ.bK23qQ2HRbxx6YfQwo7vZ5kOSro4ElYh47G2RchyXfg).
+We’ve all seen that woman in website customers, right? She apparently uses a lot of software! Well instead of using her face, why not use[**an ultra-realistic AI-generated face**](https://realfacesfakepeople.com/)**?**
 
-A cool new tool that lets you [**animate two Stable Diffusion images**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3JlcGxpY2F0ZS5jb20vYW5kcmVhc2phbnNzb24vc3RhYmxlLWRpZmZ1c2lvbi1hbmltYXRpb24iLCJwb3N0X2lkIjoiMjRjZTBmZWQtMTZkNC00NjAyLTg3YzQtOGRlNmVkNDZiMDUwIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjAyODE5ODQyLThmNGUtNGNmMC1iMzUxLWNmNTE1ODY5NmM4YyIsImlhdCI6MTY3NDAzMTg2MC40MTEsImlzcyI6Im9yY2hpZCJ9.naXZYfcL07MVkp1kwng0Zi5S0uk0l3J3YJBuZlWtzr4) together.
+[**OpenAI opens its first accelerator**](https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/) -it will give roughly **10 AI startups $1M each** and early access to its systems. I wonder if Ben’s Bites counts as an ‘AI startup’ 🤔, what could we do with $1M 👀.
 
-[**AI short film**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2Fsb25zb3JvYm90cy9zdGF0dXMvMTU4NzkxMzUxNDIxMDg0MDU3Nj9zPTEyJnQ9X2VqWFhhazlXd1hTRmpsdDFUbGItUSIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxMSwiaXNzIjoib3JjaGlkIn0.R0D1yMLopCi7QpKVwxV4LLbDDZI4zlFRqFesUgIbTR0) created with text-to-video.
+Do you know that all of these recent DreamBooth and Stable Diffusion apps (avatars etc) are [**all using one API**](https://twitter.com/caffeinatedwes/status/1587831493790834688?s=12\&t=gJmTqWDRE24PSLV4IxQkyw)? Astria was actually mentioned previously and they provide the API that powers these apps.
+
+Notion lover? Then you’ll enjoy this [**AI writer in Notion**](https://www.webcopilot.co/).
+
+A cool new tool that lets you [**animate two Stable Diffusion images**](https://replicate.com/andreasjansson/stable-diffusion-animation) together.
+
+[**AI short film**](https://twitter.com/alonsorobots/status/1587913514210840576?s=12\&t=_ejXXak9WwXSFjlt1Tlb-Q) created with text-to-video.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 Bob Ross burying another corpse at a location he will paint later
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/52a10df8-9a76-45ab-8662-721f1e6855bc/f8kq3my2uhx91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/52a10df8-9a76-45ab-8662-721f1e6855bc/f8kq3my2uhx91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/yjyy3j/bob\_ross\_burying\_another\_corpse\_at\_a\_location\_he/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95anl5M2ovYm9iX3Jvc3NfYnVyeWluZ19hbm90aGVyX2NvcnBzZV9hdF9hX2xvY2F0aW9uX2hlLyIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxMSwiaXNzIjoib3JjaGlkIn0.98VRGxbTRS-mbQQf8Qn5Ujus-7xe2sldJstLsHtrS2U)
+<https://www.reddit.com/r/weirddalle/comments/yjyy3j/bob_ross_burying_another_corpse_at_a_location_he/>
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/6a42b564-8b20-4488-84a8-4cd9f18483f3/Darkstar_day_of_the_dead_fractal__imagine_beautiful_garlands_of_5ea0fd1b-2ec8-4ab0-b485-33fc43afb9b1.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6a42b564-8b20-4488-84a8-4cd9f18483f3/Darkstar_day_of_the_dead_fractal__imagine_beautiful_garlands_of_5ea0fd1b-2ec8-4ab0-b485-33fc43afb9b1.png)
 
-[https://www.midjourney.com/app/jobs/5ea0fd1b-2ec8-4ab0-b485-33fc43afb9b1/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5taWRqb3VybmV5LmNvbS9hcHAvam9icy81ZWEwZmQxYi0yZWM4LTRhYjAtYjQ4NS0zM2ZjNDNhZmI5YjEvIiwicG9zdF9pZCI6IjI0Y2UwZmVkLTE2ZDQtNDYwMi04N2M0LThkZTZlZDQ2YjA1MCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiIwMjgxOTg0Mi04ZjRlLTRjZjAtYjM1MS1jZjUxNTg2OTZjOGMiLCJpYXQiOjE2NzQwMzE4NjAuNDExLCJpc3MiOiJvcmNoaWQifQ.ixufQtUL6QWBmRSCY2NWeuxLq62FojuNM3O-eAHwKgA)
+<https://www.midjourney.com/app/jobs/5ea0fd1b-2ec8-4ab0-b485-33fc43afb9b1/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 1 AI-curious friend and receive my AI project tracker database!
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiIyNGNlMGZlZC0xNmQ0LTQ2MDItODdjNC04ZGU2ZWQ0NmIwNTAiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDI4MTk4NDItOGY0ZS00Y2YwLWIzNTEtY2Y1MTU4Njk2YzhjIiwiaWF0IjoxNjc0MDMxODYwLjQxMSwiaXNzIjoib3JjaGlkIn0.LwhFx77GeVa_QKfX0cI3ecF-aGKE0dESva2Em3F1tXo)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
 or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 
@@ -93,11 +93,12 @@ or copy/paste this link: https://www.bensbites.co/subscribe?ref=PLACEHOLDER
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fedbeeff-a2f3-4ff2-bd78-903435701f37/Screenshot_2022-10-26_at_14.02.06.png)

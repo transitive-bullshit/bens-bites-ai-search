@@ -2,14 +2,14 @@
 
 ### 💬 Open-source speech-to-speech translation, a GPT-3 alternative, A new tool for building LLM apps, Text-to-music is here
 
-![Author](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
+![Author](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg)
 
-[Ben Tossell](https://www.twitter.com/bentossell)  
+[Ben Tossell](https://www.twitter.com/bentossell)\
 October 20, 2022
 
-Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.  
-*Not subscribed? Do that [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hZ2ljLmJlZWhpaXYuY29tL3YxLzQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYz9lbWFpbD17e2VtYWlsfX0mdXRtX3NvdXJjZT10b3Atb2YtZW1haWwiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTUsImlzcyI6Im9yY2hpZCJ9.DOSAtqpw-tStqBZ30Cy47d_q_4Bb0BbTia7a5Id7wm8).  
-Link overload? Refer 2 friends [with this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.Ot7LJFZPOFO2dwDTN7tKxL9rvDcCPP9aKZi2JyGRWU0) and get access to the filterable+searchable database.*
+Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.\
+*Not subscribed? Do that [here](https://magic.beehiiv.com/v1/447f6e60-e36a-4642-b6f8-46beb19045ec?email={{email}}\&utm_source=top-of-email).\
+Link overload? Refer 2 friends [with this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and get access to the filterable+searchable database.*
 
 Hey friends!
 
@@ -21,103 +21,104 @@ Let's get to it!
 
 **Prompt**: List the topics in today’s email:
 
-💬 Open-source speech-to-speech translation  
-📝 A GPT-3 alternative  
-🛠 A new tool for building LLM apps  
+💬 Open-source speech-to-speech translation\
+📝 A GPT-3 alternative\
+🛠 A new tool for building LLM apps\
 🎶 Text-to-music is here
 
 ## **🫦 BEN'S BITES**
 
-* Facebook Meta [has released](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL01ldGFBSS9zdGF0dXMvMTU4Mjc3Njg0MTAwMTAwMDk2MCIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.00PM-FUMNaWtK75VKayBTLqtmP6wTAMJBp-SkEWlYTg) the **first AI-powered speech-to-speech translation** system for a primarily oral language, translating Hokkien (a variety of Chinese), one of primaly spoken languages. You can use a demo [on Hugging Face here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL3NwYWNlcy9mYWNlYm9vay9zcGVlY2hfbWF0cml4IiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.IefzGuo0kuVSEbVNgWvlRsmjREJPC9cg1Lg64LXhJjs) and [read the full blog post here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FpLmZhY2Vib29rLmNvbS9ibG9nL2FpLXRyYW5zbGF0aW9uLWhva2tpZW4vIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.U6T2p7xnshxYyefaK340XQI3i0w47EtLyxPJbtIUBcU). Also, they’ve [open-sourced the code](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZmFjZWJvb2tyZXNlYXJjaC9mYWlyc2VxL3RyZWUvdXN0IiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.bFzyTPfmEQIWAEsPl4WIPGbIY9njGf-ZyjPT5AODP7w) !!
+- Facebook Meta [has released](https://twitter.com/MetaAI/status/1582776841001000960) the **first AI-powered speech-to-speech translation** system for a primarily oral language, translating Hokkien (a variety of Chinese), one of primaly spoken languages. You can use a demo [on Hugging Face here](https://huggingface.co/spaces/facebook/speech_matrix) and [read the full blog post here](https://ai.facebook.com/blog/ai-translation-hokkien/). Also, they’ve [open-sourced the code](https://github.com/facebookresearch/fairseq/tree/ust) !!
 
-* GPT-3 (from OpenAI) is the main text-based model out there, and it’s not open source. [CarperAI](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NhcnBlci5haS8iLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTcsImlzcyI6Im9yY2hpZCJ9.WxXPtaJEn-9J_2M-3Zfxf0wD650iSlzO-dq013w91_8) (of Stability AI) is partnering with Humanloop, Scale and Hugging Face to bring **an open-source alternative to GPT-3**. They [outline](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2h1bWFubG9vcC9zdGF0dXMvMTU4Mjg5NTY0NDg2MzEzMTY0OD9zPTEyJnQ9aXdiWk1HMTBUOXVSeGpxUmtFM0lFQSIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.JGlBIq--R4LJmRlOLBo_bsjw_FtIIjXr99Un29wdWJY) why it’s a big deal (and it is a BIG deal). CarperAI will release a chinchilla-optimal large language model explicitly trained to follow human instructions .
+- GPT-3 (from OpenAI) is the main text-based model out there, and it’s not open source. [CarperAI](https://carper.ai/) (of Stability AI) is partnering with Humanloop, Scale and Hugging Face to bring **an open-source alternative to GPT-3**. They [outline](https://twitter.com/humanloop/status/1582895644863131648?s=12\&t=iwbZMG10T9uRxjqRkE3IEA) why it’s a big deal (and it is a BIG deal). CarperAI will release a chinchilla-optimal large language model explicitly trained to follow human instructions .
 
-* Lex, the largely hyped AI-writing tool has been releasing invites (I’m writing in it now) and [**Justin filmed a reaction video**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL21panVzdGluL3N0YXR1cy8xNTgyNTIyMjc1NTQyNDg3MDQwIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.mB1i7git95j6Lrlj3oHaIbxiMEaXL29e-2wx4NXSlXk) as he’s using it to write a blog post. It’s a really great demo of how it all works AND feels to use some of this technology.
+- Lex, the largely hyped AI-writing tool has been releasing invites (I’m writing in it now) and [**Justin filmed a reaction video**](https://twitter.com/mijustin/status/1582522275542487040) as he’s using it to write a blog post. It’s a really great demo of how it all works AND feels to use some of this technology.
 
-* We’ve all been thinking about **pseudonymity-preserving meetups,** haven’t we?! No? Well, thankfully Balaji has. Who else?! It’s a way to essentially meet in person while still hiding your identity and speech. A bit of a wild futuristic concept, but [there’s a partial demo of it.](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2JhbGFqaXMvc3RhdHVzLzE1ODI3MTI2NTg4MjU5MjQ2MDkiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTcsImlzcyI6Im9yY2hpZCJ9.Lcr-F2EquXG_2fGRS0BBiiu726YEEXpVh9wpSd_7q8s)
+- We’ve all been thinking about **pseudonymity-preserving meetups,** haven’t we?! No? Well, thankfully Balaji has. Who else?! It’s a way to essentially meet in person while still hiding your identity and speech. A bit of a wild futuristic concept, but [there’s a partial demo of it.](https://twitter.com/balajis/status/1582712658825924609)
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/4090c840-92b1-49d4-874d-0e83756eaa54/FfbsxRhUUAEYmiV.jpeg)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4090c840-92b1-49d4-874d-0e83756eaa54/FfbsxRhUUAEYmiV.jpeg)
 
-* [**Generalizing in the real world with representation learning**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3RlZ2FuX21haGFyYWovc3RhdHVzLzE1ODI3NjcxNjUzMDc4Nzk0MjgiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTcsImlzcyI6Im9yY2hpZCJ9.JAVM7tOyUiXfv8pRjb_NGUUfW5M2sRT0XemO_L5uHXQ). Essentially this says that there are several assumptions and problem settings which fail to generalise to the real world. So this paper proposes ways to address those failures.
+- [**Generalizing in the real world with representation learning**](https://twitter.com/tegan_maharaj/status/1582767165307879428). Essentially this says that there are several assumptions and problem settings which fail to generalise to the real world. So this paper proposes ways to address those failures.
 
-* **[How reliable is GPT-3?](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0NoZW5nbGVpU2kvc3RhdHVzLzE1ODI0NzM0Nzg1NDM3OTQxNzciLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTcsImlzcyI6Im9yY2hpZCJ9.zZ8tEZDF1Sq5SINGtdsuaiNJcVGt26TQbMEGwZ4pALI)** (Hint: it can be more reliable than you think!)
+- **[How reliable is GPT-3?](https://twitter.com/ChengleiSi/status/1582473478543794177)** (Hint: it can be more reliable than you think!)
 
-* [This short thread](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2thcnBhdGh5L3N0YXR1cy8xNTgyODA3MzY3OTg4NjU0MDgxIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.Y2MwCRTu-u4VvyOYog2Kl2GE_Ma3LxaGwKvOTIT4VAA) discusses **what a Transformer is**. Pretty useful!
+- [This short thread](https://twitter.com/karpathy/status/1582807367988654081) discusses **what a Transformer is**. Pretty useful!
 
-* [This team train **diffusion models with strict differential privacy guarantees**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3RpbXVkay9zdGF0dXMvMTU4MjcxNzU5MzcxODE4MTg5MSIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.k4mwDDtfWQ6NOlAIJuj9mxRb5RLg2gLhs29n8IPjV5Y) and outperformed previous methods by large margins.
+- [This team train **diffusion models with strict differential privacy guarantees**](https://twitter.com/timudk/status/1582717593718181891) and outperformed previous methods by large margins.
 
-👋 Too many links?! I created a database for all links mentioned in these emails. Refer 2 friends [using this link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.Ot7LJFZPOFO2dwDTN7tKxL9rvDcCPP9aKZi2JyGRWU0) and I'll send over the link database.
+👋 Too many links?! I created a database for all links mentioned in these emails. Refer 2 friends [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-* OpenAI is [running a Hackathon for Climate Change](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL29wZW5haS5jb20vaGFja2F0aG9uLyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.7v7H3LoNmSfVWxieIe_X8VFT2d-gVnzZVLtUlCcL_nM): how our current **AI models can accelerate solutions to climate change.**
+- OpenAI is [running a Hackathon for Climate Change](https://openai.com/hackathon/): how our current **AI models can accelerate solutions to climate change.**
 
-* **A [form builder](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2ZpbGxvdXQuY29tLyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1NywiaXNzIjoib3JjaGlkIn0.dz464SW2kdgyXR81lCVKs5jNl8MQhUbZ9eRhTqGwNHQ) with AI built in**. Watch the demo using AI [here](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW1Ya1EtV29idk9NIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU3LCJpc3MiOiJvcmNoaWQifQ.5dJ0KYMcuNOF2xpF82EeKeeqHihzgmOmJWJEK3AjTGM). This was built by a Ben's Bites reader, [Dominic](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2RvbXdoeXRlNDIiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.CvluPeXCH-iWtARx9A_fPp2dkgIUZoIcCN9xz4CJsQU).
+- **A [form builder](https://fillout.com/) with AI built in**. Watch the demo using AI [here](https://www.youtube.com/watch?v=mXkQ-WobvOM). This was built by a Ben's Bites reader, [Dominic](https://twitter.com/domwhyte42).
 
-* [Dust](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2R1c3QudHQvIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU4LCJpc3MiOiJvcmNoaWQifQ.FEWrTNjfdBHjVd4DemyQzCxFJZ65ybwuTyVYnRNl6XY) is a new tool that helps you **design and deploy Large Language Model apps**. In [their announcement](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2R1c3Q0YWkvc3RhdHVzLzE1ODI3Njk2MzgyODIxMDA3NDciLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.2EkqUvE4biUFxxptIybb2slmx2TsGt8hcm9OmG9JRZQ), they show off a demo of how it works.
+- [Dust](https://dust.tt/) is a new tool that helps you **design and deploy Large Language Model apps**. In [their announcement](https://twitter.com/dust4ai/status/1582769638282100747), they show off a demo of how it works.
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/cd269063-f586-481b-b736-e65e55facfce/Screenshot_2022-10-20_at_13.32.56.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/cd269063-f586-481b-b736-e65e55facfce/Screenshot_2022-10-20_at_13.32.56.png)
 
-* [**Generate a blog with OpenAI**](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rldi50by9jb2RlZGV4L2dlbmVyYXRlLWEtYmxvZy13aXRoLW9wZW5haS01ZWlvIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU4LCJpc3MiOiJvcmNoaWQifQ.tC8PZlfL-o-_WofX-KDhbteUny1mpHBqetXRpDoy0ws)\- tutorial with Python.
+- [**Generate a blog with OpenAI**](https://dev.to/codedex/generate-a-blog-with-openai-5eio)- tutorial with Python.
 
-* An [open-source image database](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvYXJ0aWZpY2lhbC9jb21tZW50cy95N3plaXkvYW5fb3BlbnNvdXJjZV9pbWFnZV9kYXRhYmFzZV90aGF0X3VubG9ja3NfdGhlLyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1OCwiaXNzIjoib3JjaGlkIn0.h8wPtLKTI572RN9bYnYo5XcbFS7TiLotz5Sazek-UKs) that unlocks the power of **AI for ocean exploration.**
+- An [open-source image database](https://www.reddit.com/r/artificial/comments/y7zeiy/an_opensource_image_database_that_unlocks_the/) that unlocks the power of **AI for ocean exploration.**
 
-* The Netherlands has **[deployed NATO’s first killer robot ground vehicles](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy52aWNlLmNvbS9lbi9hcnRpY2xlL2pncGF4My90aGUtbmV0aGVybGFuZHMtaGFzLWRlcGxveWVkLW5hdG9zLWZpcnN0LWtpbGxlci1yb2JvdC1ncm91bmQtdmVoaWNsZXMiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.oSaW78Om1SJtpm_EYI7S-psb4l_w8zX9JgpRMMwyvdI).**
+- The Netherlands has **[deployed NATO’s first killer robot ground vehicles](https://www.vice.com/en/article/jgpax3/the-netherlands-has-deployed-natos-first-killer-robot-ground-vehicles).**
 
-* [Read about](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RoZXNlcXVlbmNlLnN1YnN0YWNrLmNvbS9wL2RtaXRyaWktZXZzdGl1a2hpbnByb3ZlY3R1cy1mb3VyIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU4LCJpc3MiOiJvcmNoaWQifQ.7ejmEQboRuCgymw4PePGvlpS8ZWc_HVpp3jPrLO7JXw) the **experience gained by researchers, engineers, and entrepreneurs** doing real machine-learning work.
+- [Read about](https://thesequence.substack.com/p/dmitrii-evstiukhinprovectus-four) the **experience gained by researchers, engineers, and entrepreneurs** doing real machine-learning work.
 
-* People with hearing loss will be able to **[listen to music through the sense of touch](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RlY2h4cGxvcmUuY29tL25ld3MvMjAyMi0xMC1wcm90b3R5cGUtZGV2aWNlLXVzZXJzLW11c2ljLmh0bWwiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.BjBEuJynLiQBE9bxL4f9TTklq4h690xkSPzAVtqnUdU).**
+- People with hearing loss will be able to **[listen to music through the sense of touch](https://techxplore.com/news/2022-10-prototype-device-users-music.html).**
 
-* Scientists from Trinity College Dublin believe **[our brains could use quantum computation](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BoeXMub3JnL25ld3MvMjAyMi0xMC1icmFpbnMtcXVhbnR1bS5odG1sIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU4LCJpc3MiOiJvcmNoaWQifQ.B0-YHfaVqtc3schPZVfULBoMUw642zwg3kNwQopVX7A).**
+- Scientists from Trinity College Dublin believe **[our brains could use quantum computation](https://phys.org/news/2022-10-brains-quantum.html).**
 
-* [New research](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGljYWx4cHJlc3MuY29tL25ld3MvMjAyMi0xMC1wYXZlcy10aGVvcnktY29nbml0aXZlLmh0bWwiLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.DiXxCmfcCPWSNgcoeFNovIPaSDl0kKl5oORut_7MQ9Q) paves way for the **innovative theory of cognitive processing.**
+- [New research](https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html) paves way for the **innovative theory of cognitive processing.**
 
-* **Text-to-music**. MubertAI: [A simple demo](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivc2luZ3VsYXJpdHkvY29tbWVudHMveThlc2dyL211YmVydF9haV90ZXh0dG9tdXNpY19pc19oZXJlX2FuZF9pdHNfYmFzaWNhbGx5LyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1OCwiaXNzIjoib3JjaGlkIn0.mPys9ga5V-GKAe8RMcKX5ySOnz-zeuFih-a9iGr6OP0) offering **music generation by prompt** and duration. Feels like a lot is going to happen quickly for this use case.
+- **Text-to-music**. MubertAI: [A simple demo](https://www.reddit.com/r/singularity/comments/y8esgr/mubert_ai_texttomusic_is_here_and_its_basically/) offering **music generation by prompt** and duration. Feels like a lot is going to happen quickly for this use case.
 
-* Eyenuk [raises $26M](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGNpdHluZXdzLmNvbS8yMDIyLzEwL2V5ZW51ay1yYWlzZXMtMjZtLWZvci1kaWFiZXRpYy1yZXRpbm9wYXRoeS1zY3JlZW5pbmctdGVjaC8iLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.ZHXRUgAsKB1CRkVovGkukQ_TXtrmp4fx9d5snfxooiw) for diabetic retinopathy screening tech.
+- Eyenuk [raises $26M](https://medcitynews.com/2022/10/eyenuk-raises-26m-for-diabetic-retinopathy-screening-tech/) for diabetic retinopathy screening tech.
 
-* Paris-based Aqemia [picks up €30 million](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ldS1zdGFydHVwcy5jb20vMjAyMi8xMC9wYXJpcy1iYXNlZC1hcWVtaWEtcGlja3MtdXAtZTMwLW1pbGxpb24tY2FwaXRhbC1pbmplY3Rpb24tdG8tdW5jb3Zlci1icmVha3Rocm91Z2gtZHJ1Zy1kaXNjb3Zlcmllcy1hdC1zY2FsZS8iLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.5kDJOH9rR2kOY5y5RWmtniXcYCd4LYpqSZqvztlqiJ8) to uncover breakthrough drug discoveries at scale.
+- Paris-based Aqemia [picks up €30 million](https://www.eu-startups.com/2022/10/paris-based-aqemia-picks-up-e30-million-capital-injection-to-uncover-breakthrough-drug-discoveries-at-scale/) to uncover breakthrough drug discoveries at scale.
 
 ## **🖼 AI IMAGES OF THE DAY**
 
 This Redditor created a simple prompt to make these cool 3d optical illusion lamps. I want one!
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/4cc16230-19d3-4a6b-b226-92bb3a7b8c71/3bxzytn1vru91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4cc16230-19d3-4a6b-b226-92bb3a7b8c71/3bxzytn1vru91.png)
 
-[https://www.reddit.com/r/StableDiffusion/comments/y8436q/i\_created\_a\_simple\_prompt\_to\_make\_these\_cool\_3d/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvU3RhYmxlRGlmZnVzaW9uL2NvbW1lbnRzL3k4NDM2cS9pX2NyZWF0ZWRfYV9zaW1wbGVfcHJvbXB0X3RvX21ha2VfdGhlc2VfY29vbF8zZC8iLCJwb3N0X2lkIjoiNWI5ZmU3YWYtZDdlNC00NDNmLTg5M2UtYzVmZGRmNDc2ZGQ0IiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6ImIzYzBlMmYxLWUxYzktNDUwYS05OWE2LWE2MmQ2MjQ0Yzk2ZSIsImlhdCI6MTY3NDAzMTg2NC42NTgsImlzcyI6Im9yY2hpZCJ9.fZ9ff5osrKTGbh9NY16nSmX6PYZ-KPtqlcGuU581FEk)
+<https://www.reddit.com/r/StableDiffusion/comments/y8436q/i_created_a_simple_prompt_to_make_these_cool_3d/>
 
 Elmo holding a sign that says "Fluck you"
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/27dfdbbc-79c0-4fb5-8082-ffe846b210a6/nztldse7luu91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/27dfdbbc-79c0-4fb5-8082-ffe846b210a6/nztldse7luu91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/y8hxvi/elmo\_holding\_up\_a\_sign\_that\_says\_fluck\_you/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95OGh4dmkvZWxtb19ob2xkaW5nX3VwX2Ffc2lnbl90aGF0X3NheXNfZmx1Y2tfeW91LyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1OCwiaXNzIjoib3JjaGlkIn0.Qg8DmpgLblInChmGYnxqlXgbisb2McH-ANq8ovJWSpE)
+<https://www.reddit.com/r/weirddalle/comments/y8hxvi/elmo_holding_up_a_sign_that_says_fluck_you/>
 
 Conveyor belt in a floof factory. Look at all that flooooof!
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/c9511e63-8120-4462-8786-3d7c07308e91/m54335eolsu91.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c9511e63-8120-4462-8786-3d7c07308e91/m54335eolsu91.png)
 
-[https://www.reddit.com/r/weirddalle/comments/y87veg/conveyor\_belt\_in\_a\_floof\_factory/](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yZWRkaXQuY29tL3Ivd2VpcmRkYWxsZS9jb21tZW50cy95ODd2ZWcvY29udmV5b3JfYmVsdF9pbl9hX2Zsb29mX2ZhY3RvcnkvIiwicG9zdF9pZCI6IjViOWZlN2FmLWQ3ZTQtNDQzZi04OTNlLWM1ZmRkZjQ3NmRkNCIsInB1YmxpY2F0aW9uX2lkIjoiNDQ3ZjZlNjAtZTM2YS00NjQyLWI2ZjgtNDZiZWIxOTA0NWVjIiwidmlzaXRfdG9rZW4iOiJiM2MwZTJmMS1lMWM5LTQ1MGEtOTlhNi1hNjJkNjI0NGM5NmUiLCJpYXQiOjE2NzQwMzE4NjQuNjU4LCJpc3MiOiJvcmNoaWQifQ.L3V4wffpLrjC727R1RnQtNm3scstopCZhtpymAf-ge8)
+<https://www.reddit.com/r/weirddalle/comments/y87veg/conveyor_belt_in_a_floof_factory/>
 
 ## **🤗 SHARE BENS BITES**
 
 Send this with 2 AI-curious friends and receive my AI project tracker database! Here's your referral link:
 
-[Click to share](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlP3JlZj1QTEFDRUhPTERFUiIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1OCwiaXNzIjoib3JjaGlkIn0.60nZ2CHXNqmv4AJDco4sVD3ggex04zCDgSKGDuAHYqI)
+[Click to share](https://www.bensbites.co/subscribe?ref=PLACEHOLDER)
 
-[See how close you are](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZW5zYml0ZXMuY28vc3Vic2NyaWJlL1BMQUNFSE9MREVSL3JlZmVycmFscyIsInBvc3RfaWQiOiI1YjlmZTdhZi1kN2U0LTQ0M2YtODkzZS1jNWZkZGY0NzZkZDQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiYjNjMGUyZjEtZTFjOS00NTBhLTk5YTYtYTYyZDYyNDRjOTZlIiwiaWF0IjoxNjc0MDMxODY0LjY1OCwiaXNzIjoib3JjaGlkIn0.4f-I5JvIFDbTejuftGmFaXa3dp5MmdneBvfD_ePAFK0) to a really sweet reward
+[See how close you are](https://www.bensbites.co/subscribe/PLACEHOLDER/referrals) to a really sweet reward
 
 ## **👋 SEE YA**
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/9b70aa01-dd02-4bbd-80b5-dad87d3e0581/Screenshot_2022-10-20_at_13.42.47.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/9b70aa01-dd02-4bbd-80b5-dad87d3e0581/Screenshot_2022-10-20_at_13.42.47.png)
 
 ## **⭐️ HOW DID WE DO?**
 
 ||
 |:---|
 |### How was today's email?|
-|* [Loved it](/login)
-* [Meh](/login)
-* [Hate you, hate this = ruin my week 🥹](/login)|
-|[Login](/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
+|\* [Loved it](https://www.bensbites.co/login)
+
+- [Meh](https://www.bensbites.co/login)
+- [Hate you, hate this = ruin my week 🥹](https://www.bensbites.co/login)|
+  |[Login](https://www.bensbites.co/login) or [Subscribe](https://www.bensbites.co/subscribe) to participate in polls.|
 
 ## **⭐️ REAL** REVIEWS
 
-![](https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/52d98705-b72e-4386-94c0-a015d7611fc8/Screenshot_2022-10-12_at_20.46.07.png)

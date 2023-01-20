@@ -94,8 +94,9 @@ export namespace beehiiv {
     created_at: string
     updated_at: string
 
+    // our own extensions
     url: string
-    markdown: string
+    markdown?: string
   }
 
   export interface Author {

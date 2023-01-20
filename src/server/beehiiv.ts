@@ -4,8 +4,16 @@ import pMap from 'p-map'
 
 import got from './got'
 import { beehiiv } from './types'
+import { normalizeMarkdown } from './utils'
 
-export async function resolveBeeHiivNewsletter(url: string) {
+export async function resolveBeeHiivNewsletter(
+  url: string,
+  {
+    normalizeMarkdown: shouldNormalizeMarkdown = true
+  }: {
+    normalizeMarkdown?: boolean
+  } = {}
+) {
   const u = new URL(url)
   const domain = u.hostname
   const baseUrl = u.origin
@@ -19,10 +27,11 @@ export async function resolveBeeHiivNewsletter(url: string) {
     .filter(Boolean)
     .find((script) => /window\.__remixContext *= */.test(script))
 
-  ;(globalThis as any).window = global
   // const s2 = s.replace(/^.*window\.__remixContext *= *(.*);\s*$/, '$1')
   // console.log(s2)
+
   // TODO: this is really, really hacky and a huge security vulnerability...
+  ;(globalThis as any).window = global
   const ctx = eval(s)
 
   const publication: beehiiv.Publication = ctx.routeData.root.publication
@@ -58,7 +67,10 @@ export async function resolveBeeHiivNewsletter(url: string) {
       post.url = url
 
       try {
-        post.markdown = await resolveBeeHiivPost(url)
+        post.markdown = await resolveBeeHiivPostContent(url, {
+          baseUrl,
+          normalizeMarkdown: shouldNormalizeMarkdown
+        })
       } catch (err) {
         console.warn('error processing beehiiv post', url, err.toString())
       }
@@ -76,7 +88,13 @@ export async function resolveBeeHiivNewsletter(url: string) {
   }
 }
 
-export async function resolveBeeHiivPost(url: string) {
+export async function resolveBeeHiivPostContent(
+  url: string,
+  {
+    baseUrl,
+    normalizeMarkdown: shouldNormalizeMarkdown = true
+  }: { baseUrl?: string; normalizeMarkdown?: boolean } = {}
+) {
   console.log(url)
   const page = await got(url).text()
 
@@ -99,7 +117,10 @@ export async function resolveBeeHiivPost(url: string) {
   const postHtml = $post('.rendered-post').html()
 
   const postMarkdown = html2md(postHtml)
-  // console.log(postMarkdown)
 
-  return postMarkdown
+  if (shouldNormalizeMarkdown) {
+    return normalizeMarkdown(postMarkdown, { baseUrl })
+  } else {
+    return postMarkdown
+  }
 }
