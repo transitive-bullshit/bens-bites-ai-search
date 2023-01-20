@@ -25,11 +25,11 @@ I built a simple tool for email. Get **emails summarised and a draft reply writt
 
 #### 2/
 
-I'm loving how much Dan Shipper is diving into AI and running a bunch of experiments. "**GPT-3 is the best journal** I’ve ever used". Some key takeaways: GPT-3 can be used to create a written record, and can provide support similar to that of an empathic friend, Chatbots can be great for journaling, as they can help you get your thoughts out of your head, increase self-awareness, and create a record of your journey, and GPT-3 can be used to take on the persona of a compassionate figure, or to act as a bot well-versed in various therapy modalities. ([<u>link</u>](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used))
+I'm loving how much Dan Shipper is diving into AI and running a bunch of experiments. "**GPT-3 is the best journal** I’ve ever used". Some key takeaways: GPT-3 can be used to create a written record, and can provide support similar to that of an empathic friend, Chatbots can be great for journaling, as they can help you get your thoughts out of your head, increase self-awareness, and create a record of your journey, and GPT-3 can be used to take on the persona of a compassionate figure, or to act as a bot well-versed in various therapy modalities. ([link](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used))
 
 #### 3/
 
-**"Don’t ban ChatGPT** in schools. Teach with it." A new article from the New York Times looking into the recent debate around AI and students. Personally I think it's just a new thing that people don't understand fully, so they're scared. Schools should definitely embrace this and try and include it in their lessons. Kids will always have access to these tools through their phones, denying its existence and ignoring its potential would be like not allowing kids to use computers in school. ([<u>link</u>](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html))
+**"Don’t ban ChatGPT** in schools. Teach with it." A new article from the New York Times looking into the recent debate around AI and students. Personally I think it's just a new thing that people don't understand fully, so they're scared. Schools should definitely embrace this and try and include it in their lessons. Kids will always have access to these tools through their phones, denying its existence and ignoring its potential would be like not allowing kids to use computers in school. ([link](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html))
 
 Today's email is brought to you by **[SatPost](https://trungphan.substack.com/subscribe)** - a weekly (Saturday) newsletter from my mate, Trung Phan.\
 It's packed with all **the latest tech, business, and media news, plus a healthy dose of really dumb memes**.\
@@ -39,41 +39,41 @@ If you're looking to start your weekend off on the right foot, stay informed and
 
 ### 🛠️ Cool Tools
 
-- Albus for MS Teams - Your GPT-3 powered personal **AI teammate inside MS Teams.** ([<u>link</u>](https://www.producthunt.com/posts/albus-for-ms-teams))
-- Getaiway - **Plan your dream trip** in 1 minute. ([<u>link</u>](https://getaiway.com/))
-- Blubi - Transform the way you **showcase your content**from static to engaging with an AI-powered chatbot. ([<u>link</u>](http://blubi.ai/))
-- TableTalk - A better way to **interact with your database**in a familiar chat-like interface. ([<u>link</u>](https://www.tabletalk.ai/))
-- Operand for Teams - Adds extra results to Google by **searching through the apps your team uses** for work. ([<u>link</u>](https://operand.ai/teams))
+- Albus for MS Teams - Your GPT-3 powered personal **AI teammate inside MS Teams.** ([link](https://www.producthunt.com/posts/albus-for-ms-teams))
+- Getaiway - **Plan your dream trip** in 1 minute. ([link](https://getaiway.com/))
+- Blubi - Transform the way you **showcase your content**from static to engaging with an AI-powered chatbot. ([link](http://blubi.ai/))
+- TableTalk - A better way to **interact with your database**in a familiar chat-like interface. ([link](https://www.tabletalk.ai/))
+- Operand for Teams - Adds extra results to Google by **searching through the apps your team uses** for work. ([link](https://operand.ai/teams))
 - Scribble AI - Effortlessly **generate** **text** with Open AI's GPT. *iOS app only*. ([link](https://apps.apple.com/us/app/scribble-ai/id1662081018))
-- PaperBrain - A platform to access and **understand research papers.**([<u>link</u>](https://twitter.com/nawed2611/status/1613990459734626304))
-- Magic Thumbnails - Just put in a video title and description, and let the AI generate **Youtube thumbnails.** ([<u>link</u>](https://twitter.com/roxcodes/status/1614484479854411776))
-- Dr Doc Search - A fully open-source pipeline and web app for **conversing with PDFs.**([<u>link</u>](https://github.com/namuan/dr-doc-search))
-- **GPT for Sheets** - Get help with inspiration, categorisation, translation, correction, and summarisation with the GPT function. ([<u>link</u>](https://workspace.google.com/marketplace/app/gpt_for_sheets/677318054654))
+- PaperBrain - A platform to access and **understand research papers.**([link](https://twitter.com/nawed2611/status/1613990459734626304))
+- Magic Thumbnails - Just put in a video title and description, and let the AI generate **Youtube thumbnails.** ([link](https://twitter.com/roxcodes/status/1614484479854411776))
+- Dr Doc Search - A fully open-source pipeline and web app for **conversing with PDFs.**([link](https://github.com/namuan/dr-doc-search))
+- **GPT for Sheets** - Get help with inspiration, categorisation, translation, correction, and summarisation with the GPT function. ([link](https://workspace.google.com/marketplace/app/gpt_for_sheets/677318054654))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ba51eaf8-a164-45dd-9855-249e209f5c7a/New_slide__01.png)
 
 ### 🤓 Miscellaneous
 
-- Google Cloud introduces shelf inventory **AI tool for retailers.**([<u>link</u>](https://www.wsj.com/articles/google-cloud-introduces-shelf-inventory-ai-tool-for-retailers-11673549442))
-- **Scientists, please** don’t let your chatbots grow up to be co-authors. ([<u>link</u>](https://garymarcus.substack.com/p/scientists-please-dont-let-your-chatbots))
-- **This model does not exist**- An AI-generated Model posts daily photos on Instagram based on upvotes. ([<u>link</u>](https://www.thismodeldoesnotexist.co/))
-- Every **Google** **vs** **OpenAI** argument, dissected\*\*.\*\* ([<u>link</u>](https://lspace.swyx.io/p/google-vs-openai))
-- \*\*Co-writing with AI -\*\*A guide for curious authors. ([<u>link</u>](https://bigkidlab.gumroad.com/l/co-writing-with-AI))
-- Are large language models (LLMs) going to \*\*kill Google?\*\*Probably not. ([<u>link</u>](https://twitter.com/cwolferesearch/status/1614296676340232193))
-- What is the **self-driving car of NLP?** ([<u>link</u>](https://stream.thesephist.com/updates/1673390674))
-- Apply for **Replit’s first machine learning hackathon.** ([<u>link</u>](https://blog.replit.com/ml-hackathon))
+- Google Cloud introduces shelf inventory **AI tool for retailers.**([link](https://www.wsj.com/articles/google-cloud-introduces-shelf-inventory-ai-tool-for-retailers-11673549442))
+- **Scientists, please** don’t let your chatbots grow up to be co-authors. ([link](https://garymarcus.substack.com/p/scientists-please-dont-let-your-chatbots))
+- **This model does not exist**- An AI-generated Model posts daily photos on Instagram based on upvotes. ([link](https://www.thismodeldoesnotexist.co/))
+- Every **Google** **vs** **OpenAI** argument, dissected\*\*.\*\* ([link](https://lspace.swyx.io/p/google-vs-openai))
+- \*\*Co-writing with AI -\*\*A guide for curious authors. ([link](https://bigkidlab.gumroad.com/l/co-writing-with-AI))
+- Are large language models (LLMs) going to \*\*kill Google?\*\*Probably not. ([link](https://twitter.com/cwolferesearch/status/1614296676340232193))
+- What is the **self-driving car of NLP?** ([link](https://stream.thesephist.com/updates/1673390674))
+- Apply for **Replit’s first machine learning hackathon.** ([link](https://blog.replit.com/ml-hackathon))
 
 ### 🎓 Learn
 
-- **Using ChatGPT to take action.** Generate tasks based on prompts and save to Notion. ([<u>link</u>](https://twitter.com/nickscamara_/status/1614119034194100224))
+- **Using ChatGPT to take action.** Generate tasks based on prompts and save to Notion. ([link](https://twitter.com/nickscamara_/status/1614119034194100224))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### 🔬 Research
 
-- Region-aware diffusion for zero-shot **text-driven image editing.**([<u>link</u>](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model))
-- DIRAC -**Neural image compression**with a diffusion-based decoder. ([<u>link</u>](https://arxiv.org/abs/2301.05489))
-- **Rock guitar tablature generation** via natural language processing. ([<u>link</u>](https://arxiv.org/abs/2301.05295))
+- Region-aware diffusion for zero-shot **text-driven image editing.**([link](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model))
+- DIRAC -**Neural image compression**with a diffusion-based decoder. ([link](https://arxiv.org/abs/2301.05489))
+- **Rock guitar tablature generation** via natural language processing. ([link](https://arxiv.org/abs/2301.05295))
 
 ## 📰 Unclassifieds
 

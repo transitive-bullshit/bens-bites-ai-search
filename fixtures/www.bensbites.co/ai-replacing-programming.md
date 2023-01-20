@@ -17,7 +17,7 @@ This article has been doing the rounds, "**The end of programming**" ([link](htt
 
 Semi-related;
 
-Observations from**spending Christmas programming with ChatGPT**. A key point made here is that you still need to have some coding knowledge to really benefit the most from using ChatGPT in this way (for now!). Much like an artist will likely produce better AI generated images than I'd be able to. ([<u>link</u>](https://twitter.com/danshipper/status/1609931358213935105?s=12\&t=ZTcA4vZ7tx5ZmoaQ_w6eJg))
+Observations from**spending Christmas programming with ChatGPT**. A key point made here is that you still need to have some coding knowledge to really benefit the most from using ChatGPT in this way (for now!). Much like an artist will likely produce better AI generated images than I'd be able to. ([link](https://twitter.com/danshipper/status/1609931358213935105?s=12\&t=ZTcA4vZ7tx5ZmoaQ_w6eJg))
 
 Zoomscape - Create stunning **Zoom backgrounds with AI**. ([link](https://zoomscape.ai/))
 
@@ -25,10 +25,10 @@ Zoomscape - Create stunning **Zoom backgrounds with AI**. ([link](https://zoomsc
 
 ### **🛠️ Cool Tools**
 
-- Better Call Bloom! - **Ask AI any legal question**, based on the open-source model BLOOM. ([<u>link</u>](https://huggingface.co/spaces/tomrb/bettercallbloom))
-- ChatSonic API - **A ChatGPT-like API**with up-to-date information from Google, digital art and paintings, personalised avatars, and more! ([<u>link</u>](https://twitter.com/samanyougarg/status/1609936305307414529))
-- ROME - Create a **personal avatar from just a single image**. ([<u>link</u>](https://twitter.com/mervenoyann/status/1608832188690370560))
-- Tensai - **Conversational UI for your codebase**. (<u>[link](https://twitter.com/mathemagic1an/status/1610023513334878208)</u>)
+- Better Call Bloom! - **Ask AI any legal question**, based on the open-source model BLOOM. ([link](https://huggingface.co/spaces/tomrb/bettercallbloom))
+- ChatSonic API - **A ChatGPT-like API**with up-to-date information from Google, digital art and paintings, personalised avatars, and more! ([link](https://twitter.com/samanyougarg/status/1609936305307414529))
+- ROME - Create a **personal avatar from just a single image**. ([link](https://twitter.com/mervenoyann/status/1608832188690370560))
+- Tensai - **Conversational UI for your codebase**. ([link](https://twitter.com/mathemagic1an/status/1610023513334878208))
 - Rizz! - The world's most powerful **AI, built into your keyboard.** ([link](https://rizzai.com/))
 - qqbot - a variant of **ChatGPT that lives in your IDE**. ([link](https://twitter.com/danlovesproofs/status/1610073694222848007))
 
@@ -38,8 +38,8 @@ Zoomscape - Create stunning **Zoom backgrounds with AI**. ([link](https://zoomsc
 
 ### **🎓 Learn**
 
-- **AI for game development** - creating a farming game in 5 days - part 1. ([<u>link</u>](https://huggingface.co/blog/ml-for-games-1))
-- Welcome to Intelligent Automation - **lessons in automation, AI, and low/no code**. ([<u>link</u>](https://kevinyang.substack.com/p/welcome-to-intelligent-automation))
+- **AI for game development** - creating a farming game in 5 days - part 1. ([link](https://huggingface.co/blog/ml-for-games-1))
+- Welcome to Intelligent Automation - **lessons in automation, AI, and low/no code**. ([link](https://kevinyang.substack.com/p/welcome-to-intelligent-automation))
 
 ### **🔬 Research**
 
@@ -51,23 +51,23 @@ Here's the surprising part: the larger models are actually easier to sparsify. I
 
 Overall, this is really encouraging news. While the biggest LLMs still require expensive hardware to run, techniques like this might allow us to cut down from 8 GPUs to 4 for a 180B parameter model (for now). It's kind of like how "Stable Diffusion" made image generation more accessible with a clever technique for smaller models, and now we're seeing something similar with LLMs. ([source](https://twitter.com/mathemagic1an/status/1610159526598311936))
 
-Massive language models can be accurately pruned in one shot. ([<u>link</u>](https://arxiv.org/abs/2301.00774))
+Massive language models can be accurately pruned in one shot. ([link](https://arxiv.org/abs/2301.00774))
 
-- ConvNeXt V2: **Co-designing and scaling ConvNets** with masked autoencoders. ([<u>link</u>](https://arxiv.org/abs/2301.00808))
-- Muse: a **text-to-image transformer model**, more efficient than diffusion or autoregressive models. ([<u>link</u>](https://arxiv.org/abs/2301.00704))
-- **Diffusion probabilistic models** for scene-scale 3D categorical data. ([<u>link</u>](https://arxiv.org/abs/2301.00527))
-- Argoverse 2: **next-generation datasets for self-driving perception and forecasting**. ([<u>link</u>](https://arxiv.org/abs/2301.00493))
+- ConvNeXt V2: **Co-designing and scaling ConvNets** with masked autoencoders. ([link](https://arxiv.org/abs/2301.00808))
+- Muse: a **text-to-image transformer model**, more efficient than diffusion or autoregressive models. ([link](https://arxiv.org/abs/2301.00704))
+- **Diffusion probabilistic models** for scene-scale 3D categorical data. ([link](https://arxiv.org/abs/2301.00527))
+- Argoverse 2: **next-generation datasets for self-driving perception and forecasting**. ([link](https://arxiv.org/abs/2301.00493))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🤓 Everything else**
 
-- Ahead of AI #4: **A big year for AI.** ([<u>link</u>](https://magazine.sebastianraschka.com/p/ahead-of-ai-4-a-big-year-for-ai))
-- **Perfect AI fingers** with Protogen Stable Diffusion model. ([<u>link</u>](https://www.youtube.com/watch?app=desktop\&v=pOxbRMZsLUM))
-- **ChatGPT failures** - GitHub repo containing failure cases for ChatGPT. ([<u>link</u>](https://github.com/giuven95/chaptgt-failures))
-- **Awesome ChatGPT Prompts** - a dataset of prompts to make chatGPT behave in a certain way. ([<u>link</u>](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer/fka--awesome-chatgpt-prompts/train))
-- **ChatGPT vs Google Search**: What you should know. (<u>[link](https://bdtechtalks.com/2023/01/02/chatgpt-google-search/)</u>)
-- How **China is building a parallel generative AI universe**. ([<u>link</u>](https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/))
+- Ahead of AI #4: **A big year for AI.** ([link](https://magazine.sebastianraschka.com/p/ahead-of-ai-4-a-big-year-for-ai))
+- **Perfect AI fingers** with Protogen Stable Diffusion model. ([link](https://www.youtube.com/watch?app=desktop\&v=pOxbRMZsLUM))
+- **ChatGPT failures** - GitHub repo containing failure cases for ChatGPT. ([link](https://github.com/giuven95/chaptgt-failures))
+- **Awesome ChatGPT Prompts** - a dataset of prompts to make chatGPT behave in a certain way. ([link](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer/fka--awesome-chatgpt-prompts/train))
+- **ChatGPT vs Google Search**: What you should know. ([link](https://bdtechtalks.com/2023/01/02/chatgpt-google-search/))
+- How **China is building a parallel generative AI universe**. ([link](https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/))
 
 ## **🖼 AI images of the day**
 

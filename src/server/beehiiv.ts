@@ -116,7 +116,11 @@ export async function resolveBeeHiivPostContent(
   const $post = cheerio.load(html)
   const postHtml = $post('.rendered-post').html()
 
-  const postMarkdown = html2md(postHtml)
+  const postMarkdown = html2md(postHtml, {
+    aliasTags: {
+      u: 'span'
+    }
+  })
 
   if (shouldNormalizeMarkdown) {
     return normalizeMarkdown(postMarkdown, { baseUrl })

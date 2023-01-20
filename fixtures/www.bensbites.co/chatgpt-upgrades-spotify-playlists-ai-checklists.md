@@ -17,7 +17,7 @@ Request: I've[set up a feedback form](https://forms.gle/VKT31iQYLt5LwkVc6) (take
 
 The handsome marketing magician is at it again...**Ryan Reynolds** recorded this video where he **[asked ChatGPT to write a commercial, in his voice](https://www.youtube.com/watch?v=_eHjifELI-k)** (swearing and all), for Mint Mobile (which he owns/part-owns?) ChatGPT isn't nearly as handsome as Ryan, but it's marketing chops aren't all that bad! Did I mention I think Ryan Reynolds is handsome? Don't worry, my wife agrees.
 
-**ChatGPT** got some shiny new **upgrades**; improvements to the model - which is very vague - but it should be 'generally better'. Shouldn't we all?! And, stop generating - you know, when its spitting out nonsense and you just wish it would stop!!! Yeah, it's got that now. **[ChatGPT, coming soon to your bank account](https://twitter.com/bentossell/status/1612880530273406988) -**It's also looking at monetisation methods (via OpenAI's Discord). AND, OpenAI have opened a**waitlist** for it's professional, paid, version of ChatGPT. ([<u>link</u>](https://twitter.com/gdb/status/1612986134048698369?s=20\&t=AF27qvjIfswZfnQco28dDw))
+**ChatGPT** got some shiny new **upgrades**; improvements to the model - which is very vague - but it should be 'generally better'. Shouldn't we all?! And, stop generating - you know, when its spitting out nonsense and you just wish it would stop!!! Yeah, it's got that now. **[ChatGPT, coming soon to your bank account](https://twitter.com/bentossell/status/1612880530273406988) -**It's also looking at monetisation methods (via OpenAI's Discord). AND, OpenAI have opened a**waitlist** for it's professional, paid, version of ChatGPT. ([link](https://twitter.com/gdb/status/1612986134048698369?s=20\&t=AF27qvjIfswZfnQco28dDw))
 
 What would happen if **ChatGPT** and **Wolfram Alpha** had a baby? [Find out here](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/).
 
@@ -25,40 +25,40 @@ I built a **Photo Restorer with Zapier and Replicate**. Input an image, an autom
 
 ### **🛠️ Cool Tools**
 
-- Langotalk - **Learn** **languages** 6x faster by chatting with AI. ([<u>link</u>](http://langotalk.org))
-- Retune - **Build** GPT-3 powered **apps** without writing any code. ([<u>link</u>](https://retune.so/))
+- Langotalk - **Learn** **languages** 6x faster by chatting with AI. ([link](http://langotalk.org))
+- Retune - **Build** GPT-3 powered **apps** without writing any code. ([link](https://retune.so/))
 - OriginalityAI - **Plagiarism** checker and AI detector. ([link](https://originality.ai/))
 - checklist.gg - AI-driven **checklists.**([link](https://checklist.gg/))
-- Playlist AI - Create **playlists** from AI prompts, images, videos, and your most-listened-to music. Two things I'm awful at: a job and listening to music. I'm picky and like 80s/90s hip-hop like NWA that is sort of lost by these fluffy rappers who just speak with elongated words. That aint rappin' and it aint singing. Move along. Anyway, I got sent this link and it does a pretty good job of generating a Spotify playlist based on artists you like. Give it a go and lmk what you think. ([<u>link</u>](https://www.playlistai.app/))
+- Playlist AI - Create **playlists** from AI prompts, images, videos, and your most-listened-to music. Two things I'm awful at: a job and listening to music. I'm picky and like 80s/90s hip-hop like NWA that is sort of lost by these fluffy rappers who just speak with elongated words. That aint rappin' and it aint singing. Move along. Anyway, I got sent this link and it does a pretty good job of generating a Spotify playlist based on artists you like. Give it a go and lmk what you think. ([link](https://www.playlistai.app/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/eb74bd1e-b0a3-4baa-a200-a5e7eb764447/460x0w.png)
 
 ### **🤓 Miscellaneous**
 
-- How to use ChatGPT to **boost your writing**? ([<u>link</u>](https://oneusefulthing.substack.com/p/how-to-use-chatgpt-to-boost-your))
-- Germany's BioNTech **buys** British AI startup **InstaDeep**. ([<u>link</u>](https://www.reuters.com/markets/deals/biontech-acquire-british-artificial-intelligence-startup-instadeep-2023-01-10/))
-- Three reasons why **we don't need to be worried** about ChatGPT making the essay obsolete. ([<u>link</u>](https://blog.antimatter.systems/chatgpt-aint-got-nothin-on-me/))
-- AI creates **illustrated video summary** of advice for machine learning beginners from Lex Fridman and Andrej Karpathy. ([<u>link</u>](https://twitter.com/juancopi81/status/1612903723692613632))
-- **Scale** AI **cuts 20%** of its workforce. ([<u>link</u>](https://techcrunch.com/2023/01/10/scale-ai-cuts-20-of-its-workforce))
-- Anthropic’s **Claude** **improves** on ChatGPT but still suffers from limitations. ([<u>link</u>](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/))
-- The reproducibility issues that haunt **health-care AI**. ([<u>link</u>](https://www.nature.com/articles/d41586-023-00023-2))
-- WashU just emailed **instructors** about the **use of AI in coursework**. ([<u>link</u>](https://twitter.com/jeffreyrmillman/status/1612842572241567744))
-- ChatGPT helped me **build a website** in under 2 hours that uses AI to answer questions. ([<u>link</u>](https://twitter.com/shwnhll/status/1612877227791683604))
+- How to use ChatGPT to **boost your writing**? ([link](https://oneusefulthing.substack.com/p/how-to-use-chatgpt-to-boost-your))
+- Germany's BioNTech **buys** British AI startup **InstaDeep**. ([link](https://www.reuters.com/markets/deals/biontech-acquire-british-artificial-intelligence-startup-instadeep-2023-01-10/))
+- Three reasons why **we don't need to be worried** about ChatGPT making the essay obsolete. ([link](https://blog.antimatter.systems/chatgpt-aint-got-nothin-on-me/))
+- AI creates **illustrated video summary** of advice for machine learning beginners from Lex Fridman and Andrej Karpathy. ([link](https://twitter.com/juancopi81/status/1612903723692613632))
+- **Scale** AI **cuts 20%** of its workforce. ([link](https://techcrunch.com/2023/01/10/scale-ai-cuts-20-of-its-workforce))
+- Anthropic’s **Claude** **improves** on ChatGPT but still suffers from limitations. ([link](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/))
+- The reproducibility issues that haunt **health-care AI**. ([link](https://www.nature.com/articles/d41586-023-00023-2))
+- WashU just emailed **instructors** about the **use of AI in coursework**. ([link](https://twitter.com/jeffreyrmillman/status/1612842572241567744))
+- ChatGPT helped me **build a website** in under 2 hours that uses AI to answer questions. ([link](https://twitter.com/shwnhll/status/1612877227791683604))
 
 ### **🎓 Learn**
 
-- How to get a **job** in machine learning. ([<u>link</u>](https://www.youtube.com/watch?v=s8edrmsfVks))
+- How to get a **job** in machine learning. ([link](https://www.youtube.com/watch?v=s8edrmsfVks))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🔬 Research**
 
-- An image is worth one word - **Personalising text-to-image** generation using textual inversion. ([<u>link</u>](https://textual-inversion.github.io/))
-- Dreamer V3 - **Solving tasks** across many domains with world models. ([<u>link</u>](https://arxiv.org/abs/2301.04104))
-- MAL - A high-quality transformer-based **mask auto-labelling** framework for instance segmentation using only box annotations. ([<u>link</u>](https://arxiv.org/abs/2301.03992))
-- Santa models by The BigCode Project- Tech report on **de-risking the model** architecture and the data processing pipeline for code LLMs. ([<u>link</u>](https://arxiv.org/abs/2301.03988))
-- **Scaling laws** for generative mixed-modal language models. ([<u>link</u>](https://arxiv.org/abs/2301.03728))
-- YOLOv8 - Version 8 of the YOLO model presenting a new state of the art for **object detection and instance segmentation**. ([<u>link</u>](https://blog.roboflow.com/whats-new-in-yolov8/))
+- An image is worth one word - **Personalising text-to-image** generation using textual inversion. ([link](https://textual-inversion.github.io/))
+- Dreamer V3 - **Solving tasks** across many domains with world models. ([link](https://arxiv.org/abs/2301.04104))
+- MAL - A high-quality transformer-based **mask auto-labelling** framework for instance segmentation using only box annotations. ([link](https://arxiv.org/abs/2301.03992))
+- Santa models by The BigCode Project- Tech report on **de-risking the model** architecture and the data processing pipeline for code LLMs. ([link](https://arxiv.org/abs/2301.03988))
+- **Scaling laws** for generative mixed-modal language models. ([link](https://arxiv.org/abs/2301.03728))
+- YOLOv8 - Version 8 of the YOLO model presenting a new state of the art for **object detection and instance segmentation**. ([link](https://blog.roboflow.com/whats-new-in-yolov8/))
 - Unlocking de novo **antibody** design with generative artificial intelligence. ([link](https://www.biorxiv.org/content/10.1101/2023.01.08.523187v1))
 
 ## **🖼 AI images of the day**

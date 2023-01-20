@@ -29,14 +29,14 @@ Congratulations to all our winners and we'll be doing another hackathon soon! I'
 
 ### **🛠️ Cool Tools**
 
-- ChatARKit -**Using ChatGPT to create AR experiences** with natural language. (<u>[link](https://github.com/trzy/ChatARKit)</u>)
-- SlackGPT - **Use GPT3 from within Slack to write emails**, answer questions, be a code assistant, and much more. (<u>[link](https://www.garywu.org/slackgpt.html)</u>)
-- **Chat with Santa** - A fun GPT-3 powered web app for you to have a chat with Santa. (<u>[link](https://www.chatwithsanta.live/)</u>)
-- **AI content detector** by Crossplag (Beta) - A tool to to shine the light on the content generated using AI. (<u>[link](https://crossplag.com/detecting-if-a-text-is-ai-generated/)</u>)
-- YouTube to Summary - **Convert a YouTube video (in Spanish or English) into an illustrated summary**. (<u>[link](https://huggingface.co/spaces/juancopi81/whisper-demo-es-medium)</u>)
-- Podly - **Every Lex Fridman’s podcast summarised by AI**. (<u>[link](https://podly.ai/)</u>)
-- AI Wall decor - **Generate art with Stable Diffusion and get it shipped to you** in as a high quality framed art. (<u>[link](https://aiwalldecor.com/)</u>)
-- Anypod - **AI search engines built for creators**. Search through your favourite podcast like My First Million easily. (<u>[link](https://www.anypod.ai/)</u>)
+- ChatARKit -**Using ChatGPT to create AR experiences** with natural language. ([link](https://github.com/trzy/ChatARKit))
+- SlackGPT - **Use GPT3 from within Slack to write emails**, answer questions, be a code assistant, and much more. ([link](https://www.garywu.org/slackgpt.html))
+- **Chat with Santa** - A fun GPT-3 powered web app for you to have a chat with Santa. ([link](https://www.chatwithsanta.live/))
+- **AI content detector** by Crossplag (Beta) - A tool to to shine the light on the content generated using AI. ([link](https://crossplag.com/detecting-if-a-text-is-ai-generated/))
+- YouTube to Summary - **Convert a YouTube video (in Spanish or English) into an illustrated summary**. ([link](https://huggingface.co/spaces/juancopi81/whisper-demo-es-medium))
+- Podly - **Every Lex Fridman’s podcast summarised by AI**. ([link](https://podly.ai/))
+- AI Wall decor - **Generate art with Stable Diffusion and get it shipped to you** in as a high quality framed art. ([link](https://aiwalldecor.com/))
+- Anypod - **AI search engines built for creators**. Search through your favourite podcast like My First Million easily. ([link](https://www.anypod.ai/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/60061341-0bc1-417d-8f1b-301ddaf8dd61/Screenshot_2022-12-23_at_09.15.04.png)
 
@@ -44,34 +44,34 @@ Congratulations to all our winners and we'll be doing another hackathon soon! I'
 
 ### **🎓 Learn**
 
-- How to perform **sentiment analysis in DataSpell IDE**. (<u>[link](https://youtu.be/c1zcPLVbhg4)</u>)
-- How to build **a NextJS app that runs Stable Diffusion with Replicate**. ([<u>link</u>](https://replicate.com/docs/get-started/nextjs))
+- How to perform **sentiment analysis in DataSpell IDE**. ([link](https://youtu.be/c1zcPLVbhg4))
+- How to build **a NextJS app that runs Stable Diffusion with Replicate**. ([link](https://replicate.com/docs/get-started/nextjs))
 
 ### **🔬 Research**
 
-- SantaCoder: **A 1.1B multilingual LM for code** that outperforms much larger open-source models on both left-to-right generation and infilling. ([<u>link</u>](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.google.com/url?q%253Dhttps://www.google.com/url?q%25253Dhttps://www.google.com/url?q%2525253Dhttps://www.google.com/url?q%252525253Dhttps://t.co/YV3pzUbYOr%2525252526sa%252525253DD%2525252526source%252525253Deditors%2525252526ust%252525253D1671786460642148%2525252526usg%252525253DAOvVaw2B9pdCd2RP4w2hvWRQDJVp%25252526sa%2525253DD%25252526source%2525253Deditors%25252526ust%2525253D1671786489689699%25252526usg%2525253DAOvVaw0B_LmNeZNLctOGV9nyZS5Y%252526sa%25253DD%252526source%25253Deditors%252526ust%25253D1671786495435250%252526usg%25253DAOvVaw3wmOEGOJ_xgcdTk1tNkV8k%2526sa%253DD%2526source%253Deditors%2526ust%253D1671786500545138%2526usg%253DAOvVaw2zPLkJ-n3MOjRiiFE5fyZ6%26sa%3DD%26source%3Deditors%26ust%3D1671786545920663%26usg%3DAOvVaw2UHsbWeuGYHkaM7judECvm\&sa=D\&source=editors\&ust=1671786550827059\&usg=AOvVaw0w7D1CHb4tT3G1iXcptuY5))
-- 2022 - **A year full of amazing AI papers**: A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. ([<u>link</u>](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.google.com/url?q%253Dhttps://www.google.com/url?q%25253Dhttps://www.google.com/url?q%2525253Dhttps://www.google.com/url?q%252525253Dhttps://github.com/louisfb01/best_AI_papers_2022%2525252526sa%252525253DD%2525252526source%252525253Deditors%2525252526ust%252525253D1671786460642556%2525252526usg%252525253DAOvVaw090DgiqmmktUhYs5Kt3-q7%25252526sa%2525253DD%25252526source%2525253Deditors%25252526ust%2525253D1671786489690043%25252526usg%2525253DAOvVaw3zewpLAP77gnamEehyp8h-%252526sa%25253DD%252526source%25253Deditors%252526ust%25253D1671786495435720%252526usg%25253DAOvVaw3N900etexAsEvifMxMWpTP%2526sa%253DD%2526source%253Deditors%2526ust%253D1671786500545849%2526usg%253DAOvVaw15FX-Dugl8FlAM2C2L_0Xq%26sa%3DD%26source%3Deditors%26ust%3D1671786545922399%26usg%3DAOvVaw2F5IJ9MgG8ThoJtl69J-sE\&sa=D\&source=editors\&ust=1671786550828747\&usg=AOvVaw2dYzy6OjBKNfFAkmnLNcpO))
-- Imitation Is Not Enough: **Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios**. ([<u>link</u>](https://t.co/9gy192Ct5d))
-- DiscoScene: **Spatially disentangled generative radiance field** for controllable 3d-aware scene synthesis. ([<u>link</u>](https://t.co/toi5IczbBZ))
-- ReVISE: **Self-supervised speech resynthesis** with visual input for universal and generalized speech enhancement. ([<u>link</u>](https://wnhsu.github.io/ReVISE/))
-- **GeoCode maps 3D shapes to a human-interpretable parameter space**, allowing to intuitively edit the recovered 3D shapes from a point could or sketch input. ([<u>link</u>](https://threedle.github.io/GeoCode/))
-- ​​GENIE: **Large scale pre-training for text generation** with diffusion model. ([<u>link</u>](https://t.co/7jEmtNaRzT))
-- Tune-A-Video: **One-shot tuning of image diffusion models** for text-to-video generation. ([<u>link</u>](https://t.co/xkBylOX4tq))
-- **Scalable adaptive computation** for iterative generation. ([<u>link</u>](https://t.co/1HOY8H1UBe))
-- Reversible Column Network (RevCol): **A new neural network design paradigm**. ([<u>link</u>](https://arxiv.org/abs/2212.11696))
+- SantaCoder: **A 1.1B multilingual LM for code** that outperforms much larger open-source models on both left-to-right generation and infilling. ([link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.google.com/url?q%253Dhttps://www.google.com/url?q%25253Dhttps://www.google.com/url?q%2525253Dhttps://www.google.com/url?q%252525253Dhttps://t.co/YV3pzUbYOr%2525252526sa%252525253DD%2525252526source%252525253Deditors%2525252526ust%252525253D1671786460642148%2525252526usg%252525253DAOvVaw2B9pdCd2RP4w2hvWRQDJVp%25252526sa%2525253DD%25252526source%2525253Deditors%25252526ust%2525253D1671786489689699%25252526usg%2525253DAOvVaw0B_LmNeZNLctOGV9nyZS5Y%252526sa%25253DD%252526source%25253Deditors%252526ust%25253D1671786495435250%252526usg%25253DAOvVaw3wmOEGOJ_xgcdTk1tNkV8k%2526sa%253DD%2526source%253Deditors%2526ust%253D1671786500545138%2526usg%253DAOvVaw2zPLkJ-n3MOjRiiFE5fyZ6%26sa%3DD%26source%3Deditors%26ust%3D1671786545920663%26usg%3DAOvVaw2UHsbWeuGYHkaM7judECvm\&sa=D\&source=editors\&ust=1671786550827059\&usg=AOvVaw0w7D1CHb4tT3G1iXcptuY5))
+- 2022 - **A year full of amazing AI papers**: A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. ([link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.google.com/url?q%253Dhttps://www.google.com/url?q%25253Dhttps://www.google.com/url?q%2525253Dhttps://www.google.com/url?q%252525253Dhttps://github.com/louisfb01/best_AI_papers_2022%2525252526sa%252525253DD%2525252526source%252525253Deditors%2525252526ust%252525253D1671786460642556%2525252526usg%252525253DAOvVaw090DgiqmmktUhYs5Kt3-q7%25252526sa%2525253DD%25252526source%2525253Deditors%25252526ust%2525253D1671786489690043%25252526usg%2525253DAOvVaw3zewpLAP77gnamEehyp8h-%252526sa%25253DD%252526source%25253Deditors%252526ust%25253D1671786495435720%252526usg%25253DAOvVaw3N900etexAsEvifMxMWpTP%2526sa%253DD%2526source%253Deditors%2526ust%253D1671786500545849%2526usg%253DAOvVaw15FX-Dugl8FlAM2C2L_0Xq%26sa%3DD%26source%3Deditors%26ust%3D1671786545922399%26usg%3DAOvVaw2F5IJ9MgG8ThoJtl69J-sE\&sa=D\&source=editors\&ust=1671786550828747\&usg=AOvVaw2dYzy6OjBKNfFAkmnLNcpO))
+- Imitation Is Not Enough: **Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios**. ([link](https://t.co/9gy192Ct5d))
+- DiscoScene: **Spatially disentangled generative radiance field** for controllable 3d-aware scene synthesis. ([link](https://t.co/toi5IczbBZ))
+- ReVISE: **Self-supervised speech resynthesis** with visual input for universal and generalized speech enhancement. ([link](https://wnhsu.github.io/ReVISE/))
+- **GeoCode maps 3D shapes to a human-interpretable parameter space**, allowing to intuitively edit the recovered 3D shapes from a point could or sketch input. ([link](https://threedle.github.io/GeoCode/))
+- ​​GENIE: **Large scale pre-training for text generation** with diffusion model. ([link](https://t.co/7jEmtNaRzT))
+- Tune-A-Video: **One-shot tuning of image diffusion models** for text-to-video generation. ([link](https://t.co/xkBylOX4tq))
+- **Scalable adaptive computation** for iterative generation. ([link](https://t.co/1HOY8H1UBe))
+- Reversible Column Network (RevCol): **A new neural network design paradigm**. ([link](https://arxiv.org/abs/2212.11696))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🤓 Everything else**
 
-- An interview with **Daniel Gross and Nat Friedman about ChatGPT and the near-term future of AI**. (<u>[link](https://stratechery.com/2022/an-interview-with-daniel-gross-and-nat-friedman-about-chatgpt-and-the-near-term-future-of-ai/)</u>)
-- **Who believes more myths about humans: AI or educated humans**? (<u>[link](https://oneusefulthing.substack.com/p/who-believes-more-myths-about-humans)</u>)
-- Notion AI, ChatGPT – **Writing by Artificial Intelligence**. (<u>[link](https://www.yearzero.io/blog/Notion-AI-ChatGPT-Artificial-Intelligence-Writing)</u>)
-- The**first rap fully written and sung by AI in the voice of Snoop Dogg**. (<u>[link](https://youtu.be/CHCEowpvNxk)</u>)
-- Quora launches **Poe, a way to talk to AI chatbots like ChatGPT**. (<u>[link](https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/)</u>)
-- Karlo, the **large scale replication of unCLIP, the DALL-E 2** technique is now on Hugging Face. (<u>[link](https://huggingface.co/spaces/kakaobrain/karlo)</u>)
-- CBP-translate: PoC of a system that **detects and transcribes speech in both English and Polish for a short video**. ([<u>link</u>](https://github.com/elanmart/cbp-translate))
-- An **evaluation of ChatGPT vs. Google on 500 search queries**, diving into details about OpenAI’s existential threat to Google. ([<u>link</u>](https://www.surgehq.ai//blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding))
+- An interview with **Daniel Gross and Nat Friedman about ChatGPT and the near-term future of AI**. ([link](https://stratechery.com/2022/an-interview-with-daniel-gross-and-nat-friedman-about-chatgpt-and-the-near-term-future-of-ai/))
+- **Who believes more myths about humans: AI or educated humans**? ([link](https://oneusefulthing.substack.com/p/who-believes-more-myths-about-humans))
+- Notion AI, ChatGPT – **Writing by Artificial Intelligence**. ([link](https://www.yearzero.io/blog/Notion-AI-ChatGPT-Artificial-Intelligence-Writing))
+- The**first rap fully written and sung by AI in the voice of Snoop Dogg**. ([link](https://youtu.be/CHCEowpvNxk))
+- Quora launches **Poe, a way to talk to AI chatbots like ChatGPT**. ([link](https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/))
+- Karlo, the **large scale replication of unCLIP, the DALL-E 2** technique is now on Hugging Face. ([link](https://huggingface.co/spaces/kakaobrain/karlo))
+- CBP-translate: PoC of a system that **detects and transcribes speech in both English and Polish for a short video**. ([link](https://github.com/elanmart/cbp-translate))
+- An **evaluation of ChatGPT vs. Google on 500 search queries**, diving into details about OpenAI’s existential threat to Google. ([link](https://www.surgehq.ai//blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding))
 
 ## **🖼 AI images of the day**
 

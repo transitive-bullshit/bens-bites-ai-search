@@ -54,7 +54,7 @@ This year will be a big one for Microsoft vs Google. Who you betting on?
 
 Two relevant reads from Ben Thompson:
 
-**AI and the big five.** ([<u>link</u>](https://stratechery.com/2023/ai-and-the-big-five/))
+**AI and the big five.** ([link](https://stratechery.com/2023/ai-and-the-big-five/))
 
 More on **Google and AI; OpenAI, Integration, and Microsoft.** ([link](https://stratechery.com/2023/more-on-google-and-ai-openai-integration-and-microsoft/))
 
@@ -64,45 +64,45 @@ All using real-time trend data so your videos really shine. (Sponsor)\
 
 ### **🛠️ Cool Tools**
 
-- Steno - **Your favourite podcasts, fully transcribed.** ([<u>link</u>](https://steno.ai/))
-- restorePhotos - **Restore old and blurry face photos for free** with AI. ([<u>link</u>](https://www.restorephotos.io/))
-- Talk With Wind - **Record sounds of anything (birds, wind, fire, train station) and chat with it**. ([<u>link</u>](https://huggingface.co/spaces/team7/talk_with_wind))
-- API for Tortoise TTS - A **usage-based, pay-as-you-go API for Tortoise** based on open-source code. ([<u>link</u>](https://github.com/metavoicexyz/tortoise-tts-modal-api))
-- Pick a Pic - An **app for collecting human feedback on AI-generated images** for supporting academic research in AI. ([<u>link</u>](https://pickapic.io/))
+- Steno - **Your favourite podcasts, fully transcribed.** ([link](https://steno.ai/))
+- restorePhotos - **Restore old and blurry face photos for free** with AI. ([link](https://www.restorephotos.io/))
+- Talk With Wind - **Record sounds of anything (birds, wind, fire, train station) and chat with it**. ([link](https://huggingface.co/spaces/team7/talk_with_wind))
+- API for Tortoise TTS - A **usage-based, pay-as-you-go API for Tortoise** based on open-source code. ([link](https://github.com/metavoicexyz/tortoise-tts-modal-api))
+- Pick a Pic - An **app for collecting human feedback on AI-generated images** for supporting academic research in AI. ([link](https://pickapic.io/))
 - Sentient - An **AI chatbot for your company documents**. ([link](http://trysentient.com/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1fab70cc-d299-4117-98c9-3a9a2cc5b64a/ezgif.com-gif-maker__44_.gif)
 
 ### **🤓 Miscellaneous**
 
-- How **AI will reshape politics, education, creativity, and pet ownership?** ([<u>link</u>](https://www.chinatalk.media/p/tyler-cowen-on-ai))
-- What is an **optimum degree of LLM hallucination?**([<u>link</u>](https://marginalrevolution.com/marginalrevolution/2023/01/what-is-the-optimum-degree-of-llm-hallucination.html))
-- **AI in war**: How artificial intelligence is changing the battlefield. ([<u>link</u>](https://the-decoder.com/ai-in-war-how-artificial-intelligence-is-changing-the-battlefield/))
-- **Search is Gmail’s achilles heel**& the wedge (with AI) to build a great next-generation email client. ([<u>link</u>](https://twitter.com/lessin/status/1612497622581010432))
-- **Six OpenAI rivals Google and Microsoft are watching.** ([<u>link</u>](https://www.theinformation.com/articles/six-openai-rivals-google-and-microsoft-are-watching))
-- Why the **Chaser is going to put up a paywall**? Hint: AI. ([<u>link</u>](https://chaser.com.au/uncategorized/why-the-chaser-is-going-to-put-up-a-paywall/))
-- Isomorphic Labs, an **AI-first biology company announces new scientific advisory board.** ([<u>link</u>](https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-new-scientific-advisory-board))
-- **Sketchy ChatGPT app soars up app store charts**, charges $7.99 weekly subscription. ([<u>link</u>](https://www.macrumors.com/2023/01/09/chatgpt-app-store-apps/))
-- **RETRO models are a giant capability unlock for LLM tech**, and they're shockingly under the radar. ([<u>link</u>](https://twitter.com/danlovesproofs/status/1612224161916780544))
-- **My lawyer, the robot.** ([<u>link</u>](https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085))
-- **Making beef stew with ChatGPT.** ([<u>link</u>](https://jeffsandquist.com/2023/01/09/making-beef-stew-with-chatgpt/))
-- **Can AI pass the bar exam?** ([<u>link</u>](https://matthewminer.name/blog/can-ai-pass-the-bar-exam))
-- **Large language models like ChatGPT say the darndest things.** ([<u>link</u>](https://garymarcus.substack.com/p/large-language-models-like-chatgpt))
+- How **AI will reshape politics, education, creativity, and pet ownership?** ([link](https://www.chinatalk.media/p/tyler-cowen-on-ai))
+- What is an **optimum degree of LLM hallucination?**([link](https://marginalrevolution.com/marginalrevolution/2023/01/what-is-the-optimum-degree-of-llm-hallucination.html))
+- **AI in war**: How artificial intelligence is changing the battlefield. ([link](https://the-decoder.com/ai-in-war-how-artificial-intelligence-is-changing-the-battlefield/))
+- **Search is Gmail’s achilles heel**& the wedge (with AI) to build a great next-generation email client. ([link](https://twitter.com/lessin/status/1612497622581010432))
+- **Six OpenAI rivals Google and Microsoft are watching.** ([link](https://www.theinformation.com/articles/six-openai-rivals-google-and-microsoft-are-watching))
+- Why the **Chaser is going to put up a paywall**? Hint: AI. ([link](https://chaser.com.au/uncategorized/why-the-chaser-is-going-to-put-up-a-paywall/))
+- Isomorphic Labs, an **AI-first biology company announces new scientific advisory board.** ([link](https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-new-scientific-advisory-board))
+- **Sketchy ChatGPT app soars up app store charts**, charges $7.99 weekly subscription. ([link](https://www.macrumors.com/2023/01/09/chatgpt-app-store-apps/))
+- **RETRO models are a giant capability unlock for LLM tech**, and they're shockingly under the radar. ([link](https://twitter.com/danlovesproofs/status/1612224161916780544))
+- **My lawyer, the robot.** ([link](https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085))
+- **Making beef stew with ChatGPT.** ([link](https://jeffsandquist.com/2023/01/09/making-beef-stew-with-chatgpt/))
+- **Can AI pass the bar exam?** ([link](https://matthewminer.name/blog/can-ai-pass-the-bar-exam))
+- **Large language models like ChatGPT say the darndest things.** ([link](https://garymarcus.substack.com/p/large-language-models-like-chatgpt))
 
 ### **🎓 Learn**
 
-- Build a **GitHub support bot with GPT3, LangChain**, and Python. ([<u>link</u>](https://dagster.io/blog/chatgpt-langchain))
-- Reinforcement Learning - A gentle **introduction to learning from decisions.**([<u>link</u>](https://mlu-explain.github.io/reinforcement-learning/))
-- **Use ChatGPT to do data science for you.** ([<u>link</u>](https://buildspace.so/notes/chatgpt-data-science))
+- Build a **GitHub support bot with GPT3, LangChain**, and Python. ([link](https://dagster.io/blog/chatgpt-langchain))
+- Reinforcement Learning - A gentle **introduction to learning from decisions.**([link](https://mlu-explain.github.io/reinforcement-learning/))
+- **Use ChatGPT to do data science for you.** ([link](https://buildspace.so/notes/chatgpt-data-science))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🔬 Research**
 
-- Variance Reduction System - A new offline RL framework developed by Meta to help ensure a **more equitable distribution of ads.** ([<u>link</u>](https://ai.facebook.com/blog/advertising-fairness-variance-reduction-system-vrs/))
-- D3VAE - Bidirectional variational auto-encoder equipped with **diffusion, denoise, and disentanglement for generative time series forecasting.**([<u>link</u>](https://arxiv.org/abs/2301.03028))
-- 3DAvatarGAN: **Bridging domains for personalised editable avatars.** ([<u>link</u>](https://arxiv.org/abs/2301.02700))
-- Diffused Heads: **Diffusion models beat GANs on talking-face generation.** ([<u>link</u>](https://arxiv.org/abs/2301.03396))
+- Variance Reduction System - A new offline RL framework developed by Meta to help ensure a **more equitable distribution of ads.** ([link](https://ai.facebook.com/blog/advertising-fairness-variance-reduction-system-vrs/))
+- D3VAE - Bidirectional variational auto-encoder equipped with **diffusion, denoise, and disentanglement for generative time series forecasting.**([link](https://arxiv.org/abs/2301.03028))
+- 3DAvatarGAN: **Bridging domains for personalised editable avatars.** ([link](https://arxiv.org/abs/2301.02700))
+- Diffused Heads: **Diffusion models beat GANs on talking-face generation.** ([link](https://arxiv.org/abs/2301.03396))
 
 ## **🖼 AI images of the day**
 

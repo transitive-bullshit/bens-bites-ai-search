@@ -9,6 +9,7 @@ import '@/server/config'
 async function main() {
   // const page = await beehiiv.resolveBeeHiivPostContent(
   //   'https://www.bensbites.co/p/microsoft-stepping-gear',
+  //   // 'https://www.bensbites.co/p/wordle-prompts',
   //   { baseUrl: 'https://www.bensbites.co' }
   // )
   // console.log(page)

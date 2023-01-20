@@ -24,83 +24,83 @@ Let's get to it.
 
 ## **🫦 BEN'S BITES**
 
-Galactica launched with a big bang (😉). [<u>**A large language model for science**</u>](https://galactica.org/) that can **summarise academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins**, and more. It has been trained with 48 million papers, textbooks and lecture notes, millions of compounds and proteins, scientific websites, encyclopedias and more. Sound smart, be dumb, like me.
+Galactica launched with a big bang (😉). [**A large language model for science**](https://galactica.org/) that can **summarise academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins**, and more. It has been trained with 48 million papers, textbooks and lecture notes, millions of compounds and proteins, scientific websites, encyclopedias and more. Sound smart, be dumb, like me.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d854ed59-0d2c-464d-9498-4276e5bd8df7/ezgif.com-gif-maker__25_.gif)
 
-[<u>Formula God</u>](https://www.formulagod.ai/) - **write formulas in Sheets, in plain English**.
+[Formula God](https://www.formulagod.ai/) - **write formulas in Sheets, in plain English**.
 
-Priceloop is [<u>**implementing GPT-3 custom functions in formulas**</u>](https://twitter.com/datitran/status/1592425337509462017) too.
+Priceloop is [**implementing GPT-3 custom functions in formulas**](https://twitter.com/datitran/status/1592425337509462017) too.
 
-[<u>**Add audio to your publication**</u>](https://www.audyo.ai/) with one line of code.
+[**Add audio to your publication**](https://www.audyo.ai/) with one line of code.
 
-What will happen when our **phones record everything we say 24x7 using AI to process** that information? This person tried it out and [<u>here are the results</u>](https://roberdam.com/en/wisper.html).
+What will happen when our **phones record everything we say 24x7 using AI to process** that information? This person tried it out and [here are the results](https://roberdam.com/en/wisper.html).
 
-Those who can’t do, teach. [<u>**Teaching LLMs to teach themselves new tasks**</u>](https://dust.tt/spolu/a/b39f8e9023) by teaching them to generate few shot examples from high-level task descriptions.
+Those who can’t do, teach. [**Teaching LLMs to teach themselves new tasks**](https://dust.tt/spolu/a/b39f8e9023) by teaching them to generate few shot examples from high-level task descriptions.
 
-[<u>**A visual history of artificial neural networks**</u>](https://philippschmitt.com/blueprints-for-intelligence/) from 1943 to 2020.
+[**A visual history of artificial neural networks**](https://philippschmitt.com/blueprints-for-intelligence/) from 1943 to 2020.
 
-Tutorial: [<u>**Containerizing Huggingface Transformers for GPU inference**</u>](https://www.youtube.com/watch?v=I3kkQVNuXyc) with Docker and FastAPI on AWS.
+Tutorial: [**Containerizing Huggingface Transformers for GPU inference**](https://www.youtube.com/watch?v=I3kkQVNuXyc) with Docker and FastAPI on AWS.
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-Naveen Rao on [<u>**building the world’s first AI chip**</u>](https://www.youtube.com/watch?v=qpDL4VhrgjM) and bringing Machine Learning to every industry.
+Naveen Rao on [**building the world’s first AI chip**](https://www.youtube.com/watch?v=qpDL4VhrgjM) and bringing Machine Learning to every industry.
 
-[<u>**Generate images in Chinese and English text**</u>](https://huggingface.co/spaces/BAAI/bilingual_stable_diffusion). The space for Bilingual Stable Diffusion is out now.
+[**Generate images in Chinese and English text**](https://huggingface.co/spaces/BAAI/bilingual_stable_diffusion). The space for Bilingual Stable Diffusion is out now.
 
-Daniel Eckler with another mammoth thread: [<u>**90 Days of Diffusion, 90 AI Advances**</u>](https://twitter.com/daniel_eckler/status/1592533122830114816)<u>.</u>
+Daniel Eckler with another mammoth thread: [**90 Days of Diffusion, 90 AI Advances**](https://twitter.com/daniel_eckler/status/1592533122830114816).
 
-UPainting can effectively generate simple scene images as well as complex, designed to [<u>**improve the fidelity and alignment of generated images**</u>](https://upainting.github.io/).
+UPainting can effectively generate simple scene images as well as complex, designed to [**improve the fidelity and alignment of generated images**](https://upainting.github.io/).
 
-Tutorial: [<u>**Serverless Machine Learning Applications with Hugging Face Gradio and AWS Lambda**</u>](https://www.philschmid.de/serverless-gradio)<u>.</u>
+Tutorial: [**Serverless Machine Learning Applications with Hugging Face Gradio and AWS Lambda**](https://www.philschmid.de/serverless-gradio).
 
-A demo of an [<u>**Airtable → DALL-E script**</u>](https://twitter.com/mustafadalci/status/1592591456803647488)**.**
+A demo of an [**Airtable → DALL-E script**](https://twitter.com/mustafadalci/status/1592591456803647488)**.**
 
-An [<u>**all-new version of Descript has been released**</u>](https://www.youtube.com/watch?v=8ABeZ0cxLNE) (it's a powerful video editor) and it announced that the OpenAI Startup Fund will be leading our $50 million series C. You can see the breakdown of [<u>**all the new features here**</u>](https://www.descript.com/storyboard).
+An [**all-new version of Descript has been released**](https://www.youtube.com/watch?v=8ABeZ0cxLNE) (it's a powerful video editor) and it announced that the OpenAI Startup Fund will be leading our $50 million series C. You can see the breakdown of [**all the new features here**](https://www.descript.com/storyboard).
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ee77e2d0-9299-4705-8635-a9969d4069bf/9c7ef4a8-82a9-4c36-b090-52ebb0fcda95.png)
 
-[<u>**A curated library of prompts**</u>](https://www.prompt.cafe/)**.**
+[**A curated library of prompts**](https://www.prompt.cafe/)**.**
 
-[<u>**Notion QA Bot: ask questions on your Notion database and receive an accurate, conversational response back**</u>](https://github.com/hwchase17/notion-qa). Similar to Ask My Book we saw yesterday. I think we’ll see lots of these kinds of products - I want one for my Airtable base to easily search links that have been included!
+[**Notion QA Bot: ask questions on your Notion database and receive an accurate, conversational response back**](https://github.com/hwchase17/notion-qa). Similar to Ask My Book we saw yesterday. I think we’ll see lots of these kinds of products - I want one for my Airtable base to easily search links that have been included!
 
-Tutorial: [<u>**Training video classification models**</u>](https://twitter.com/RisingSayak/status/1592389454026506240) easily.
+Tutorial: [**Training video classification models**](https://twitter.com/RisingSayak/status/1592389454026506240) easily.
 
-Turn yourself into an AR character. [<u>**Using AI to create a digital twin**</u>](https://twitter.com/XRarchitect/status/1592542900839395329) and then bringing it into an interactive augmented reality experience.
+Turn yourself into an AR character. [**Using AI to create a digital twin**](https://twitter.com/XRarchitect/status/1592542900839395329) and then bringing it into an interactive augmented reality experience.
 
-[<u>**The legality of AI**</u>](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data) and whether the outputs can be copyrighted.
+[**The legality of AI**](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data) and whether the outputs can be copyrighted.
 
-Hugging Face has come up with[<u>**a new way to calculate the emissions produced by LLMs**</u>](https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/) more accurately.
+Hugging Face has come up with[**a new way to calculate the emissions produced by LLMs**](https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/) more accurately.
 
-[<u>**Testing Google’s writing tool, Wordcraft**</u>](https://thealgorithmicbridge.substack.com/p/googles-wordcraft-an-ai-writing-tool). How does it stack up against GPT-3 powered tools?
+[**Testing Google’s writing tool, Wordcraft**](https://thealgorithmicbridge.substack.com/p/googles-wordcraft-an-ai-writing-tool). How does it stack up against GPT-3 powered tools?
 
-Built on the back of InteriorAI, is InteriorsByAI. [<u>**A curated collection of AI-generated interiors**</u>](https://www.pinterest.co.uk/Interiors_By_AI/) in various styles. It’s already had over 10k views.
+Built on the back of InteriorAI, is InteriorsByAI. [**A curated collection of AI-generated interiors**](https://www.pinterest.co.uk/Interiors_By_AI/) in various styles. It’s already had over 10k views.
 
-A new pipeline for [<u>**creating and running Fast Transformer models on CPUs**</u>](https://arxiv.org/abs/2211.07715) - Fast DistilBERT on CPUs.
+A new pipeline for [**creating and running Fast Transformer models on CPUs**](https://arxiv.org/abs/2211.07715) - Fast DistilBERT on CPUs.
 
-[<u>**Retrieving desired musical instruments using reference music mixture**</u>](https://github.com/minju0821/musical_instrument_retrieval) as a query. Essentially, pulling single instrument sounds from a track. For audio samples and demo, visit the [<u>website</u>](https://dour-stretch-5d5.notion.site/Show-Me-the-Instrument-Musical-Instrument-Retrieval-from-Mixture-Audio-cb016a6c63514eee8c30c442b37e8f6e).
+[**Retrieving desired musical instruments using reference music mixture**](https://github.com/minju0821/musical_instrument_retrieval) as a query. Essentially, pulling single instrument sounds from a track. For audio samples and demo, visit the [website](https://dour-stretch-5d5.notion.site/Show-Me-the-Instrument-Musical-Instrument-Retrieval-from-Mixture-Audio-cb016a6c63514eee8c30c442b37e8f6e).
 
-[<u>**QueryForm - zero-shot transfer learning for document understanding**</u>](https://arxiv.org/abs/2211.07730). The framework is designed to help reduce the cost of annotating document entities and enable models to learn from structured documents containing various entities and layouts.
+[**QueryForm - zero-shot transfer learning for document understanding**](https://arxiv.org/abs/2211.07730). The framework is designed to help reduce the cost of annotating document entities and enable models to learn from structured documents containing various entities and layouts.
 
-Who doesn’t love [<u>**balloon art**</u>](https://huggingface.co/Fictiverse/Stable_Diffusion_BalloonArt_Model)?! Now you can use it in your prompts for Stable Diffusion. I could only ever make snakes, worms, sausages, that kinda thing. Not any more!
+Who doesn’t love [**balloon art**](https://huggingface.co/Fictiverse/Stable_Diffusion_BalloonArt_Model)?! Now you can use it in your prompts for Stable Diffusion. I could only ever make snakes, worms, sausages, that kinda thing. Not any more!
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b3de9abb-2c43-4b26-a227-2d992ddb6a8f/Screenshot_2022-11-16_at_11.15.49.png)
 
-[<u>**Large Language Models struggle to learn long-tail knowledge**</u>](https://arxiv.org/abs/2211.08411). The number of documents a language model is exposed to during pre-training affects its ability to answer fact-based questions.
+[**Large Language Models struggle to learn long-tail knowledge**](https://arxiv.org/abs/2211.08411). The number of documents a language model is exposed to during pre-training affects its ability to answer fact-based questions.
 
-[<u>**Semantic information from language models can be incorporated into self-supervised speech encoders without labelled audio transcriptions**</u>](https://arxiv.org/abs/2211.08402). This unsupervised approach achieves similar performance to supervised methods trained on labelled audio transcripts, demonstrating the feasibility of unsupervised semantic augmentations to existing speech encoders.
+[**Semantic information from language models can be incorporated into self-supervised speech encoders without labelled audio transcriptions**](https://arxiv.org/abs/2211.08402). This unsupervised approach achieves similar performance to supervised methods trained on labelled audio transcripts, demonstrating the feasibility of unsupervised semantic augmentations to existing speech encoders.
 
-The [<u>**use of language models for**</u>](https://arxiv.org/abs/2211.08264)question-answering in a low-resource setting.
+The [**use of language models for**](https://arxiv.org/abs/2211.08264)question-answering in a low-resource setting.
 
-[<u>**Versatile Diffusion is the first unified multi-flow multimodal diffusion framework**</u>](https://github.com/SHI-Labs/Versatile-Diffusion). It natively supports image-to-text, image-variation, text-to-image, and text-variation, and can be extended to other applications such as semantic-style disentanglement, image-text dual-guided generation, latent image-to-text-to-image editing, and more. You can use the [<u>**demo on Hugging Face**</u>](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion).
+[**Versatile Diffusion is the first unified multi-flow multimodal diffusion framework**](https://github.com/SHI-Labs/Versatile-Diffusion). It natively supports image-to-text, image-variation, text-to-image, and text-variation, and can be extended to other applications such as semantic-style disentanglement, image-text dual-guided generation, latent image-to-text-to-image editing, and more. You can use the [**demo on Hugging Face**](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion).
 
-[<u>**Image compression uses text embeddings to generate high-fidelity images**</u>](https://arxiv.org/abs/2211.07793).
+[**Image compression uses text embeddings to generate high-fidelity images**](https://arxiv.org/abs/2211.07793).
 
-[<u>**AI Image Generator in Notion**</u>](https://www.reddit.com/r/Notion/comments/yv177p/ive_created_an_ai_image_generator_right_in_notion/) - tutorial & free template (no coding required).
+[**AI Image Generator in Notion**](https://www.reddit.com/r/Notion/comments/yv177p/ive_created_an_ai_image_generator_right_in_notion/) - tutorial & free template (no coding required).
 
-[<u>**Cerebras built a supercomputer in 3 days**</u>](https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/?sh=1a1d37f61057), you just enter a line of code, specifying how many CS-2’s to run it on, and you’re done, and finally, the system demonstrates nearly perfect linear scaling.
+[**Cerebras built a supercomputer in 3 days**](https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/?sh=1a1d37f61057), you just enter a line of code, specifying how many CS-2’s to run it on, and you’re done, and finally, the system demonstrates nearly perfect linear scaling.
 
-[<u>**Text-guided real image editing**</u>](https://arxiv.org/abs/2211.07825) does not require fine-tuning or optimization and can be applied to a single real image.
+[**Text-guided real image editing**](https://arxiv.org/abs/2211.07825) does not require fine-tuning or optimization and can be applied to a single real image.
 
 ## **🧑‍💻 WHO'S HIRING IN AI**
 

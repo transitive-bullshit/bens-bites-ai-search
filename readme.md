@@ -5,11 +5,19 @@
 [![Build Status](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/newsletter-ai-search/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 - [Intro](#intro)
+- [TODO](#todo)
 - [License](#license)
 
 ## Intro
 
 TODO
+
+## TODO
+
+- data preprocessing
+  - remove bold from headings
+  - fix missing nbsp in markdown for cases like https://www.bensbites.co/p/wordle-prompts
+  - fix missing space in some headers between emoji
 
 ## License
 

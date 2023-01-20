@@ -27,7 +27,7 @@ Everyone likes to pretend they know about the new capabilities that **GPT-4**can
 
 #### 3/
 
-We all know **Reid Hoffman;** PayPal, Linkedin and Greylock. He's started a podcast with a familiar co-host, ChatGPT. Yup, it's happening folks. In the first episode, ChatGPT and Reid start with self-reflection by talking about the Turing Test, and expand into AI’s potential impact across several creative fields. Talking AI with AI - **ChatGPT as a podcast guest.** ([<u>link</u>](https://greylock.com/greymatter/reid-hoffman-chatbots-talking-ai-with-ai/))
+We all know **Reid Hoffman;** PayPal, Linkedin and Greylock. He's started a podcast with a familiar co-host, ChatGPT. Yup, it's happening folks. In the first episode, ChatGPT and Reid start with self-reflection by talking about the Turing Test, and expand into AI’s potential impact across several creative fields. Talking AI with AI - **ChatGPT as a podcast guest.** ([link](https://greylock.com/greymatter/reid-hoffman-chatbots-talking-ai-with-ai/))
 
 #### 4/
 
@@ -37,43 +37,43 @@ I just have to proudly say this - my wife asked if I wanted a McDonald's breakfa
 
 ### 🛠️ Cool Tools
 
-- AI Depot - A hand-curated list of the**best AI tools**out there. ([<u>link</u>](https://aidepot.co/))
-- A **semantic search engine** built on top of Lenny’s Podcast. ([<u>link</u>](https://www.producthunt.com/posts/lenny-s-podcast-search))
-- Bardeen AI - AI assistant enabling non-tech-savvy individuals to easily use and **automate OpenAI prompts.**([<u>link</u>](https://twitter.com/bardeenai/status/1613536337453527048))
+- AI Depot - A hand-curated list of the**best AI tools**out there. ([link](https://aidepot.co/))
+- A **semantic search engine** built on top of Lenny’s Podcast. ([link](https://www.producthunt.com/posts/lenny-s-podcast-search))
+- Bardeen AI - AI assistant enabling non-tech-savvy individuals to easily use and **automate OpenAI prompts.**([link](https://twitter.com/bardeenai/status/1613536337453527048))
 - Airtest - Generate **unit** **tests** using AI. ([link](https://www.airtest.dev/))
 - Predis.ai 3.0 - AI generated **videos** and scheduling. ([link](https://predis.ai/))
-- Booth - Create pro quality **product photography** with AI. ([<u>link</u>](https://www.booth.ai/))
+- Booth - Create pro quality **product photography** with AI. ([link](https://www.booth.ai/))
 - Somi - **Ask** **Slack** questions using AI. ([link](https://www.asksomi.app/))
-- Boo - Your AI-powered **writing assistant.** ([<u>link</u>](https://boo.ai/))
-- MagicBlog - Write high-quality **long-form blog content** that's 100% original and SEO optimised in just one click. ([<u>link</u>](https://magicblog.ai/))
+- Boo - Your AI-powered **writing assistant.** ([link](https://boo.ai/))
+- MagicBlog - Write high-quality **long-form blog content** that's 100% original and SEO optimised in just one click. ([link](https://magicblog.ai/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f3cb7e94-32ab-44f3-abd4-06976d0059d6/video.gif)
 
 ### 🤓 Miscellaneous
 
-- **Personalised AI chatbot** created using a newsletter’s content. ([<u>link</u>](http://chat.ntkris.xyz))
-- **Sara Dietschy**published a YouTube **video**"14 AI tools creators should actually use". ([<u>link</u>](https://www.youtube.com/watch?v=03iSjMQ3a1U))
-- **Google’s reply** to large websites using AI generated content with human editors. ([<u>link</u>](https://twitter.com/blairmacgregor/status/1613170333938511875?s=20\&t=BF64pvbsBJNtlmuo82NBYw))
-- Researchers have started adding **ChatGPT as co-author** on their papers. ([<u>link</u>](https://twitter.com/rasbt/status/1613652370113855488?s=20\&t=HVKxVlUxRDLEFQoDCKxGDA))
-- What **OpenAI’s ‘bonkers’ deal** structure means for Silicon Valley. ([<u>link</u>](https://www.theinformation.com/articles/what-openai-s-bonkers-deal-structure-means-for-silicon-valley?utm_source=ti_app))
+- **Personalised AI chatbot** created using a newsletter’s content. ([link](http://chat.ntkris.xyz))
+- **Sara Dietschy**published a YouTube **video**"14 AI tools creators should actually use". ([link](https://www.youtube.com/watch?v=03iSjMQ3a1U))
+- **Google’s reply** to large websites using AI generated content with human editors. ([link](https://twitter.com/blairmacgregor/status/1613170333938511875?s=20\&t=BF64pvbsBJNtlmuo82NBYw))
+- Researchers have started adding **ChatGPT as co-author** on their papers. ([link](https://twitter.com/rasbt/status/1613652370113855488?s=20\&t=HVKxVlUxRDLEFQoDCKxGDA))
+- What **OpenAI’s ‘bonkers’ deal** structure means for Silicon Valley. ([link](https://www.theinformation.com/articles/what-openai-s-bonkers-deal-structure-means-for-silicon-valley?utm_source=ti_app))
 - **Inbenta**, a provider of AI-powered chatbots and more, **lands** **$40M**. ([link](https://techcrunch.com/2023/01/11/inbenta-a-provider-of-ai-powered-chatbots-and-more-lands-40m/))
 - How **AI** **is changing** **art** - a FT podcast. ([link](https://www.ft.com/content/db560270-4dca-4402-bc66-6368a18e59e9))
 - "Machine Learning And Deflationary Contagions" - the **impact of generative AI**on various industries, and how it is related to Moore's Law and deflation. ([link](https://www.jonstokes.com/p/machine-learning-and-deflationary))
 
 ### 🎓 Learn
 
-- Implementing **reinforcement learning with human feedback** with trlX. ([<u>link</u>](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2))
+- Implementing **reinforcement learning with human feedback** with trlX. ([link](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### 🔬 Research
 
-- WIRE - **Implicit neural representation** using a continuous complex Gabor wavelet activation function. ([<u>link</u>](https://arxiv.org/abs/2301.05187))
-- SemPPL - New semi-supervised learning method that combines labelled and unlabelled data to learn**informative representations**. ([<u>link</u>](https://arxiv.org/abs/2301.05158))
-- **Domain expansion of image generators.** ([<u>link</u>](https://arxiv.org/abs/2301.05225))
-- **Recovering lighting** from accidental light probes - common, shiny objects like Coke cans, which often appear in daily scenes. ([<u>link</u>](https://arxiv.org/abs/2301.05211))
-- Tracr from Deepmind - Compiled transformers as a laboratory to interpret and **understand machine learning models**. ([<u>link</u>](https://arxiv.org/abs/2301.05062))
-- Guiding **text-to-image diffusion model** towards grounded generation. ([<u>link</u>](https://arxiv.org/abs/2301.05221))
+- WIRE - **Implicit neural representation** using a continuous complex Gabor wavelet activation function. ([link](https://arxiv.org/abs/2301.05187))
+- SemPPL - New semi-supervised learning method that combines labelled and unlabelled data to learn**informative representations**. ([link](https://arxiv.org/abs/2301.05158))
+- **Domain expansion of image generators.** ([link](https://arxiv.org/abs/2301.05225))
+- **Recovering lighting** from accidental light probes - common, shiny objects like Coke cans, which often appear in daily scenes. ([link](https://arxiv.org/abs/2301.05211))
+- Tracr from Deepmind - Compiled transformers as a laboratory to interpret and **understand machine learning models**. ([link](https://arxiv.org/abs/2301.05062))
+- Guiding **text-to-image diffusion model** towards grounded generation. ([link](https://arxiv.org/abs/2301.05221))
 
 ## 🖼 AI images of the day
 

@@ -88,11 +88,11 @@ You can read the post [here](https://www.npr.org/2022/10/10/1127181418/ai-app-vo
 
 ### **Product Roundup**
 
-Difficulty coming up with stories for your kid? Once upon a bot has got you covered. **Generate a random story about anything** [<u>https://onceuponabot.com/</u>](https://onceuponabot.com/)
+Difficulty coming up with stories for your kid? Once upon a bot has got you covered. **Generate a random story about anything** <https://onceuponabot.com/>
 
-**Elad Gil is hosting an interview with OpenAI co-founder, Sam Altman** tonight (too late for me). I’ll post a summary of the interview tomorrow. [<u>https://www.youtube.com/watch?v=2x\_Y8lKnMdQ</u>](https://www.youtube.com/watch?v=2x_Y8lKnMdQ)
+**Elad Gil is hosting an interview with OpenAI co-founder, Sam Altman** tonight (too late for me). I’ll post a summary of the interview tomorrow. <https://www.youtube.com/watch?v=2x_Y8lKnMdQ>
 
-**No more boring backgrounds**. Magically generate an infinite number of unique backgrounds [<u>https://twitter.com/DataChaz/status/1579587991919792128</u>](https://twitter.com/DataChaz/status/1579587991919792128)
+**No more boring backgrounds**. Magically generate an infinite number of unique backgrounds <https://twitter.com/DataChaz/status/1579587991919792128>
 
 [**Invoke AI**](https://github.com/invoke-ai/InvokeAI)- A version of Stable Diffusion you can run on your computer. It provides a polished Web interface and an easy-to-use command-line interface.
 

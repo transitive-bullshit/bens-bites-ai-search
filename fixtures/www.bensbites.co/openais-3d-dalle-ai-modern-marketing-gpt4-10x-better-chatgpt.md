@@ -13,9 +13,9 @@ Let's get to it.
 
 ### **🤌 Ben's Picks**
 
-**Self-Instruct: Aligning language model with self generated instructions**. So what's the story here? OpenAI can get a large amount of user data and afford to pay many human annotators for their InstructGPT. What if you can't afford to do that? This team instruction-tuned the GPT3 model and tested how good it can be at following new instructions. The result? Self-instructed GPT3 (which barely uses any human annotation) outperformed those trained on other public datasets, performing close to InstructGPT-001. Exciting!! ([<u>link</u>](https://arxiv.org/abs/2212.10560))
+**Self-Instruct: Aligning language model with self generated instructions**. So what's the story here? OpenAI can get a large amount of user data and afford to pay many human annotators for their InstructGPT. What if you can't afford to do that? This team instruction-tuned the GPT3 model and tested how good it can be at following new instructions. The result? Self-instructed GPT3 (which barely uses any human annotation) outperformed those trained on other public datasets, performing close to InstructGPT-001. Exciting!! ([link](https://arxiv.org/abs/2212.10560))
 
-OpenAI prototype of **3D DALLE** (called “Point-E”) is open sourced. ([<u>link</u>](https://github.com/openai/point-e)) Of course, there's already a Hugging Face demo for the new text-to-3D model. ([<u>link</u>](https://huggingface.co/spaces/anzorq/point-e_demo)) TechCrunch article [here](https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/). And you can read the arXiv research paper [here](https://arxiv.org/abs/2212.08751).
+OpenAI prototype of **3D DALLE** (called “Point-E”) is open sourced. ([link](https://github.com/openai/point-e)) Of course, there's already a Hugging Face demo for the new text-to-3D model. ([link](https://huggingface.co/spaces/anzorq/point-e_demo)) TechCrunch article [here](https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/). And you can read the arXiv research paper [here](https://arxiv.org/abs/2212.08751).
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/53822cc5-7eda-4d7e-90d3-857b8fef6428/paper_banner.gif)
 
@@ -29,15 +29,15 @@ Check it out [here](https://waymark.com/).
 
 - Using Zapier to **integrate a Slack channel to talk with ChatGPT**. ([Zap template](https://zapier.com/shared/have-a-conversation-with-chatgpt-in-a-slack-channel/3b2d3bc83ce78fd2c1ce0e6e61bfa7efbd3e8317)) ([link to Jons Substack](https://extremeoutsourcing.substack.com/))
 - Ellie - **GPT-3 powered assistant that can reply to your emails**, has been officially launched and the first 50 users to use the coupon BENSBITES get 40% off. ([link](https://ellieai.com/))
-- GPT-3 + HARO Journo Response Generator - A tool that uses GPT-3 to **identify and respond to press requests** from journalists looking for sources for a story. ([<u>link</u>](https://www.seotraininglondon.org/gpt3-haro-press-requests/))
-- Sentenceviz - A streamlit application to **visualise sentence embeddings**. ([<u>link</u>](https://github.com/imohitmayank/sentenceviz))
-- Kailua Labs Image Search API - An API to **easily search images, video, audio**, and more with AI. ([<u>link</u>](https://app.kailualabs.com/image-search?ref=producthunt\&q=dog+with+sunglasses\&fq=))
-- Softr Studio now has AI - **Generate images and copy within Softr** with just one click. ([<u>link</u>](https://twitter.com/softr_io/status/1605174024077803523?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
-- Gradio Discord Bot (BETA) - **Use any Hugging Face Space as a Bot** from within your Discord server. ([<u>link</u>](https://github.com/gradio-app/gradio-discord-bot))
-- Tele-Prompter - An on-device AI for your meetings that **listens to you and makes charismatic quote suggestion**. ([<u>link</u>](https://github.com/danielgross/teleprompter))
-- Project Relate by Google (Beta) - Android app that uses machine learning to offer **personalized speech recognition for non-standard speakers**. ([<u>link</u>](https://sites.research.google/relate/))
-- Text Blaze - Chrome extension that **makes OpenAI GPT-3 available anywhere you type**. ([<u>link</u>](https://blaze.today/))
-- Tome - **Generate an entire presentation with AI** using just a description of the deck. ([<u>link</u>](https://beta.tome.app/))
+- GPT-3 + HARO Journo Response Generator - A tool that uses GPT-3 to **identify and respond to press requests** from journalists looking for sources for a story. ([link](https://www.seotraininglondon.org/gpt3-haro-press-requests/))
+- Sentenceviz - A streamlit application to **visualise sentence embeddings**. ([link](https://github.com/imohitmayank/sentenceviz))
+- Kailua Labs Image Search API - An API to **easily search images, video, audio**, and more with AI. ([link](https://app.kailualabs.com/image-search?ref=producthunt\&q=dog+with+sunglasses\&fq=))
+- Softr Studio now has AI - **Generate images and copy within Softr** with just one click. ([link](https://twitter.com/softr_io/status/1605174024077803523?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
+- Gradio Discord Bot (BETA) - **Use any Hugging Face Space as a Bot** from within your Discord server. ([link](https://github.com/gradio-app/gradio-discord-bot))
+- Tele-Prompter - An on-device AI for your meetings that **listens to you and makes charismatic quote suggestion**. ([link](https://github.com/danielgross/teleprompter))
+- Project Relate by Google (Beta) - Android app that uses machine learning to offer **personalized speech recognition for non-standard speakers**. ([link](https://sites.research.google/relate/))
+- Text Blaze - Chrome extension that **makes OpenAI GPT-3 available anywhere you type**. ([link](https://blaze.today/))
+- Tome - **Generate an entire presentation with AI** using just a description of the deck. ([link](https://beta.tome.app/))
 - Albus - Your **personal AI teammate right inside Slack**. ([link](https://www.springworks.in/albus/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/a59593cb-612e-4d75-b5cb-95e8cb859fee/63a148e58f759426a18fa68c_Untitled_design__5_-p-1080.png)
@@ -46,46 +46,46 @@ Check it out [here](https://waymark.com/).
 
 ### **🎓 Learn**
 
-- **Transcribe and summarise YouTube video with 2 clicks** with AssemblyAI. ([<u>link</u>](https://twitter.com/AssemblyAI/status/1605149941525106688?s=20\&t=cIPVqNUdwvfeojUkSEZR0A))
-- **What are Hugging Face Model Cards**? ([<u>link</u>](https://www.youtube.com/watch?v=oh2Ahuk936M\&t=8s))
-- Ebook: **Natural Language Processing (NLP) for semantic search**. ([<u>link</u>](https://www.pinecone.io/learn/nlp/))
+- **Transcribe and summarise YouTube video with 2 clicks** with AssemblyAI. ([link](https://twitter.com/AssemblyAI/status/1605149941525106688?s=20\&t=cIPVqNUdwvfeojUkSEZR0A))
+- **What are Hugging Face Model Cards**? ([link](https://www.youtube.com/watch?v=oh2Ahuk936M\&t=8s))
+- Ebook: **Natural Language Processing (NLP) for semantic search**. ([link](https://www.pinecone.io/learn/nlp/))
 
 ### **🔬 Research**
 
-- **Improving video voice dubbing** through deep learning. ([<u>link</u>](https://developers.googleblog.com/2022/12/improving-video-voice-dubbing-through-deep-learning.html))
-- Instructor: An instruction-finetuned embedder that can **generate text embeddings tailored to any task given the task instruction**. ([<u>link</u>](https://instructor-embedding.github.io/))
-- Connect-the-Dots, a new **accounting algorithm that uses an indirect approach to accurately discretise privacy loss distributions**. ([<u>link</u>](https://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html))
-- ‘Unnatural Instructions’: A paper that proposes **a new method to automatically generate natural language instructions**. ([<u>link</u>](https://arxiv.org/abs/2212.09689))
-- **Rethinking the role of scale for in-context learning**: An interpretability-based case study at 66 billion scale. ([<u>link</u>](https://arxiv.org/abs/2212.09095))
-- InstantAvatar: **Learning avatars from monocular video** in 60 seconds. ([<u>link</u>](https://tijiang13.github.io/InstantAvatar/))
-- **Why can GPT learn in-context?** Language models secretly perform gradient descent as meta optimisers. ([<u>link</u>](https://arxiv.org/abs/2212.10559))
-- **Pretraining without attention**. ([<u>link</u>](https://arxiv.org/abs/2212.10544))
-- Length extrapolation: **Training on short texts** while evaluating longer sequences. ([<u>link</u>](https://arxiv.org/abs/2212.10554))
-- SODA: **Million-scale dialogue distillation** with social commonsense contextualisation. ([<u>link</u>](https://arxiv.org/abs/2212.10465))
-- Panoptic Lifting, a novel approach for **learning panoptic 3D volumetric representations from images**of in-the-wild scene. ([<u>link</u>](https://arxiv.org/abs/2212.09802))
-- MetaCLUE, a set of **vision tasks on visual metaphor**, and a collection of high-quality and rich metaphor annotations. ([<u>link</u>](https://arxiv.org/abs/2212.09898))
-- LayoutDETR: **Detection transformer** is a good multimodal layout designer. ([<u>link</u>](https://t.co/tUqIq7xpg7))
-- **Character-aware models improve visual text rendering**. ([<u>link</u>](https://arxiv.org/abs/2212.10562))
+- **Improving video voice dubbing** through deep learning. ([link](https://developers.googleblog.com/2022/12/improving-video-voice-dubbing-through-deep-learning.html))
+- Instructor: An instruction-finetuned embedder that can **generate text embeddings tailored to any task given the task instruction**. ([link](https://instructor-embedding.github.io/))
+- Connect-the-Dots, a new **accounting algorithm that uses an indirect approach to accurately discretise privacy loss distributions**. ([link](https://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html))
+- ‘Unnatural Instructions’: A paper that proposes **a new method to automatically generate natural language instructions**. ([link](https://arxiv.org/abs/2212.09689))
+- **Rethinking the role of scale for in-context learning**: An interpretability-based case study at 66 billion scale. ([link](https://arxiv.org/abs/2212.09095))
+- InstantAvatar: **Learning avatars from monocular video** in 60 seconds. ([link](https://tijiang13.github.io/InstantAvatar/))
+- **Why can GPT learn in-context?** Language models secretly perform gradient descent as meta optimisers. ([link](https://arxiv.org/abs/2212.10559))
+- **Pretraining without attention**. ([link](https://arxiv.org/abs/2212.10544))
+- Length extrapolation: **Training on short texts** while evaluating longer sequences. ([link](https://arxiv.org/abs/2212.10554))
+- SODA: **Million-scale dialogue distillation** with social commonsense contextualisation. ([link](https://arxiv.org/abs/2212.10465))
+- Panoptic Lifting, a novel approach for **learning panoptic 3D volumetric representations from images**of in-the-wild scene. ([link](https://arxiv.org/abs/2212.09802))
+- MetaCLUE, a set of **vision tasks on visual metaphor**, and a collection of high-quality and rich metaphor annotations. ([link](https://arxiv.org/abs/2212.09898))
+- LayoutDETR: **Detection transformer** is a good multimodal layout designer. ([link](https://t.co/tUqIq7xpg7))
+- **Character-aware models improve visual text rendering**. ([link](https://arxiv.org/abs/2212.10562))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🤓 Everything else**
 
-- Here’s **what I saw at an AI Hackathon**, an account by Dan Shipper. Some really interesting projects and observations from Dan's time at a hackathon in SF. ([<u>link</u>](https://every.to/superorganizers/the-knee-of-the-exponential-curve))
-- How **AI is being used in modern marketing**: A beginner’s guide. ([<u>link</u>](https://martechbase.com/blog/how-ai-is-being-used-in-modern-marketing-a-beginners-guide))
-- **OpenAI human-feedback dataset** has been added to the Hugging Face Hub. ([<u>link</u>](https://huggingface.co/datasets/openai/webgpt_comparisons))
-- **Unwrap this Twitter thread with delightful Christmas AI art**. ([<u>link</u>](https://twitter.com/daniel_eckler/status/1605193825265205248?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
-- How are **students using AI**? ([<u>link</u>](https://oneusefulthing.substack.com/p/the-street-finds-its-own-uses-for))
-- Petals is creating a free, **distributed network for running text-generating AI**. ([<u>link</u>](https://techcrunch.com/2022/12/20/petals-is-creating-a-free-distributed-network-for-running-text-generating-ai/?guccounter=1\&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8\&guce_referrer_sig=AQAAAFkVEbhzk6u78Pr7EV1o8ozGNSgErrH3xlXrm97K-eozRXRZ7Vs0zrp_uiK-47t7MijdjC-WtqUzQld-ZW33BML2my9W8dY1g2uP55Jl0FI2jtNjiHtcnmznB6_gK7Y5gb1rZEQfuIW_UP_eADaBNELmVNJGx1ka-Ow0z0jSPiAN))
-- An investigative article on **the origins of 15 video stills taken from inside homes by robot vacuums** and shared to social media. ([<u>link</u>](https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/))
-- Australian **Universities seek to curb ChatGPT** use by students. ([<u>link</u>](https://synthedia.substack.com/p/australian-universities-seek-to-curb?utm_source=share\&utm_medium=android))
+- Here’s **what I saw at an AI Hackathon**, an account by Dan Shipper. Some really interesting projects and observations from Dan's time at a hackathon in SF. ([link](https://every.to/superorganizers/the-knee-of-the-exponential-curve))
+- How **AI is being used in modern marketing**: A beginner’s guide. ([link](https://martechbase.com/blog/how-ai-is-being-used-in-modern-marketing-a-beginners-guide))
+- **OpenAI human-feedback dataset** has been added to the Hugging Face Hub. ([link](https://huggingface.co/datasets/openai/webgpt_comparisons))
+- **Unwrap this Twitter thread with delightful Christmas AI art**. ([link](https://twitter.com/daniel_eckler/status/1605193825265205248?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
+- How are **students using AI**? ([link](https://oneusefulthing.substack.com/p/the-street-finds-its-own-uses-for))
+- Petals is creating a free, **distributed network for running text-generating AI**. ([link](https://techcrunch.com/2022/12/20/petals-is-creating-a-free-distributed-network-for-running-text-generating-ai/?guccounter=1\&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8\&guce_referrer_sig=AQAAAFkVEbhzk6u78Pr7EV1o8ozGNSgErrH3xlXrm97K-eozRXRZ7Vs0zrp_uiK-47t7MijdjC-WtqUzQld-ZW33BML2my9W8dY1g2uP55Jl0FI2jtNjiHtcnmznB6_gK7Y5gb1rZEQfuIW_UP_eADaBNELmVNJGx1ka-Ow0z0jSPiAN))
+- An investigative article on **the origins of 15 video stills taken from inside homes by robot vacuums** and shared to social media. ([link](https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/))
+- Australian **Universities seek to curb ChatGPT** use by students. ([link](https://synthedia.substack.com/p/australian-universities-seek-to-curb?utm_source=share\&utm_medium=android))
 - **Google Search testing search in video**. ([link](https://searchengineland.com/google-search-testing-search-in-video-390565))
-- Predictions: **Future Versions of DALL-E 2, Midjourney,** and more. ([<u>link</u>](https://bakztfuture.substack.com/p/predictions-future-versions-of-dall))
-- A thread with **companies using AI in fascinating applications**. ([<u>link</u>](https://twitter.com/olivercameron/status/1605280391446904832?s=12\&t=2FNPYO6fOI-5eB4kNE8Tbw))
-- The near **future of AI is action-driven**. ([<u>link</u>](https://blog.southparkcommons.com/the-near-future-of-ai-is-action-driven/))
-- An interactive **exploration of Transformer programming**. ([<u>link</u>](https://github.com/srush/raspy))
-- **ChatGPT for iMessage, WhatsApp, user feedback**, and beyond. ([<u>link</u>](https://www.producthunt.com/newsletter/17220-chatgpt-in-your-apps))
-- GPT gets chatty - **The future of artificial conversation**. ([<u>link</u>](https://newsletter.artofsaience.com/p/gpt-gets-chatty-the-future-of-artificial))
+- Predictions: **Future Versions of DALL-E 2, Midjourney,** and more. ([link](https://bakztfuture.substack.com/p/predictions-future-versions-of-dall))
+- A thread with **companies using AI in fascinating applications**. ([link](https://twitter.com/olivercameron/status/1605280391446904832?s=12\&t=2FNPYO6fOI-5eB4kNE8Tbw))
+- The near **future of AI is action-driven**. ([link](https://blog.southparkcommons.com/the-near-future-of-ai-is-action-driven/))
+- An interactive **exploration of Transformer programming**. ([link](https://github.com/srush/raspy))
+- **ChatGPT for iMessage, WhatsApp, user feedback**, and beyond. ([link](https://www.producthunt.com/newsletter/17220-chatgpt-in-your-apps))
+- GPT gets chatty - **The future of artificial conversation**. ([link](https://newsletter.artofsaience.com/p/gpt-gets-chatty-the-future-of-artificial))
 
 ## **🖼 AI images of the day**
 

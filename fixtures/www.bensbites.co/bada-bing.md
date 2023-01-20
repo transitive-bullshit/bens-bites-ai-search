@@ -25,7 +25,7 @@ Now I, like you, have never used Bing, but if it were to have ChatGPT-like power
 
 Google's code 'really really red' is just about to kick off and we'll see what this year has in store for us. **Microsoft vs Google, The AI wars**. Sounds like an AI created movie.
 
-**Microsoft and OpenAI working on ChatGPT-powered Bing in challenge to Google**. ([<u>link</u>](https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google?utm_source=ti_app))
+**Microsoft and OpenAI working on ChatGPT-powered Bing in challenge to Google**. ([link](https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google?utm_source=ti_app))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/509d38f1-82f6-4761-a99e-2f083b170737/15072be3-f184-4325-8960-8a105803823d.png)
 
@@ -35,41 +35,41 @@ Check it out [here](https://waymark.com/).
 
 ### **🛠️ Cool Tools**
 
-- Rows introduce ASK\_OPENAI function to **use GTP-3 inside your spreadsheet** without any scripts, installs, or add-ons. ([<u>link</u>](https://twitter.com/RowsHQ/status/1610251490005815297?s=20\&t=bTClZ8RccGe3kwuWR6IOsw))
-- Cool Japan Diffusion 2.1.0 - **a fine-tuning model of Stable Diffusion to represent cool Japan in anime and manga**. ([<u>link</u>](https://huggingface.co/spaces/aipicasso/cool-japan-diffusion-2-1-0-demo))
-- Magize - Generate and publish **AI-generated ad campaigns in multiple languages**. ([<u>link</u>](https://twitter.com/florian_btc/status/1609987876242219008?s=20\&t=HcmhcE1O7b7sL_SSnhPfAw))
-- GPTZero - Quickly and efficiently **detect whether an essay is ChatGPT** or human-written. ([<u>link</u>](https://etedward-gptzero-main-zqgfwb.streamlit.app/))
-- Fashion AI - **Personalised style recommendations** tailored to your unique fashion preferences. ([<u>link</u>](https://apps.chatbotkit.com/fashionai))
-- Tortoise TTS model - **Voice cloning** from small numbers of samples. ([<u>link</u>](https://huggingface.co/spaces/mdnestor/tortoise))
+- Rows introduce ASK\_OPENAI function to **use GTP-3 inside your spreadsheet** without any scripts, installs, or add-ons. ([link](https://twitter.com/RowsHQ/status/1610251490005815297?s=20\&t=bTClZ8RccGe3kwuWR6IOsw))
+- Cool Japan Diffusion 2.1.0 - **a fine-tuning model of Stable Diffusion to represent cool Japan in anime and manga**. ([link](https://huggingface.co/spaces/aipicasso/cool-japan-diffusion-2-1-0-demo))
+- Magize - Generate and publish **AI-generated ad campaigns in multiple languages**. ([link](https://twitter.com/florian_btc/status/1609987876242219008?s=20\&t=HcmhcE1O7b7sL_SSnhPfAw))
+- GPTZero - Quickly and efficiently **detect whether an essay is ChatGPT** or human-written. ([link](https://etedward-gptzero-main-zqgfwb.streamlit.app/))
+- Fashion AI - **Personalised style recommendations** tailored to your unique fashion preferences. ([link](https://apps.chatbotkit.com/fashionai))
+- Tortoise TTS model - **Voice cloning** from small numbers of samples. ([link](https://huggingface.co/spaces/mdnestor/tortoise))
 - Artifec - an AI app that **generates images from quotes**. ([link](https://jacobgershkovich.com/artifec)) ([video](https://www.youtube.com/watch?v=k414lk_kJPs) of how it was built)
-- Detangle AI - AI-generated **summaries of your legal docs**. ([<u>link</u>](https://detangle.ai/))
+- Detangle AI - AI-generated **summaries of your legal docs**. ([link](https://detangle.ai/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2e5503a8-91ae-45d1-96b0-352989febdf0/Screenshot_2023-01-04_at_12.28.12.png)
 
 ### **🤓 Miscellaneous**
 
-- **Language styling made as accessible as text formatting** using GPT-3. ([<u>link</u>](https://twitter.com/zats/status/1609881792026218496?s=20\&t=7hTZ34qL9X38_YP0z-edtQ))
-- Does the textual corpus for large language models have **enough information to train an AGI**? This article discusses two hypotheses about whether LLMs are sufficient to progress to general AI, and the lack of consensus among experts on the potential of these models. ([<u>link</u>](https://shakoist.substack.com/p/does-the-textual-corpus-for-large))
-- **LLM uncanny valley hypothesis**. Basically, as AI gets smarter, it'll get slower and more expensive to use. And since it'll only be used for super complicated stuff, humans will have a lower tolerance for mistakes. So if an AI almost gets it right, but not quite, it'll be a huge pain for humans to fix it. It's like an 'uncanny valley' for AI - we don't know when it'll start happening or when it'll end. But hey, at least right now AI is cheap and powerful enough to be useful to lots of people. ([<u>link</u>](https://twitter.com/spolu/status/1610264020052754432?s=20\&t=uLtMRpYaj-UFwc0qUY1tuw))
-- Microsoft chief celebrates GitHub Copilot’s glory. ([<u>link</u>](https://analyticsindiamag.com/microsoft-chief-celebrates-github-copilots-glory/))
-- **Generative AI & LLM hackathon at Scale AI** HQ - applications open. ([<u>link</u>](https://7v96jeqxhgx.typeform.com/LLMhackathonapp))
-- **2023 will be the year of Interactive Machine Learning**. ([<u>link</u>](https://twitter.com/korymath/status/1610345837913145344))
-- Some **remarks on Large Language Models**. An overview of the current state of large language models, and the implications of their development for natural language understanding. ([<u>link</u>](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9))
-- The **call for papers for ICML 2023** is out - deadline Jan 26th, 2023, 3 pm EST. ([<u>link</u>](https://icml.cc/Conferences/2023/CallForPapers))
+- **Language styling made as accessible as text formatting** using GPT-3. ([link](https://twitter.com/zats/status/1609881792026218496?s=20\&t=7hTZ34qL9X38_YP0z-edtQ))
+- Does the textual corpus for large language models have **enough information to train an AGI**? This article discusses two hypotheses about whether LLMs are sufficient to progress to general AI, and the lack of consensus among experts on the potential of these models. ([link](https://shakoist.substack.com/p/does-the-textual-corpus-for-large))
+- **LLM uncanny valley hypothesis**. Basically, as AI gets smarter, it'll get slower and more expensive to use. And since it'll only be used for super complicated stuff, humans will have a lower tolerance for mistakes. So if an AI almost gets it right, but not quite, it'll be a huge pain for humans to fix it. It's like an 'uncanny valley' for AI - we don't know when it'll start happening or when it'll end. But hey, at least right now AI is cheap and powerful enough to be useful to lots of people. ([link](https://twitter.com/spolu/status/1610264020052754432?s=20\&t=uLtMRpYaj-UFwc0qUY1tuw))
+- Microsoft chief celebrates GitHub Copilot’s glory. ([link](https://analyticsindiamag.com/microsoft-chief-celebrates-github-copilots-glory/))
+- **Generative AI & LLM hackathon at Scale AI** HQ - applications open. ([link](https://7v96jeqxhgx.typeform.com/LLMhackathonapp))
+- **2023 will be the year of Interactive Machine Learning**. ([link](https://twitter.com/korymath/status/1610345837913145344))
+- Some **remarks on Large Language Models**. An overview of the current state of large language models, and the implications of their development for natural language understanding. ([link](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9))
+- The **call for papers for ICML 2023** is out - deadline Jan 26th, 2023, 3 pm EST. ([link](https://icml.cc/Conferences/2023/CallForPapers))
 
 ### **🎓 Learn**
 
-- Introduction to **graph machine learning**. ([<u>link</u>](https://huggingface.co/blog/intro-graphml))
-- PlayGroundAI - 1000 AI images per day, free for commercial usage. ([<u>link</u>](https://www.youtube.com/watch?v=xgTNdrTNf10))
+- Introduction to **graph machine learning**. ([link](https://huggingface.co/blog/intro-graphml))
+- PlayGroundAI - 1000 AI images per day, free for commercial usage. ([link](https://www.youtube.com/watch?v=xgTNdrTNf10))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🔬 Research**
 
-- A new **OpenAI human-feedback dataset** from the "learning to summarize from human feedback" paper. ([<u>link</u>](https://huggingface.co/datasets/openai/summarize_from_feedback#dataset-description))
-- New point-based representation to **compute neural point catacaustics** for novel-view synthesis of reflections from a set of casually-captured input photos. ([<u>link</u>](https://arxiv.org/abs/2301.01087))
-- TinyMIM: An empirical study of **distilling masked image modelling** for pre-training small models. ([<u>link</u>](https://arxiv.org/abs/2301.01296))
-- **Large language models as corporate lobbyists**. ([<u>link</u>](https://arxiv.org/abs/2301.01181))
+- A new **OpenAI human-feedback dataset** from the "learning to summarize from human feedback" paper. ([link](https://huggingface.co/datasets/openai/summarize_from_feedback#dataset-description))
+- New point-based representation to **compute neural point catacaustics** for novel-view synthesis of reflections from a set of casually-captured input photos. ([link](https://arxiv.org/abs/2301.01087))
+- TinyMIM: An empirical study of **distilling masked image modelling** for pre-training small models. ([link](https://arxiv.org/abs/2301.01296))
+- **Large language models as corporate lobbyists**. ([link](https://arxiv.org/abs/2301.01181))
 
 ## **🖼 AI images of the day**
 

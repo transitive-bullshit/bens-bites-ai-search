@@ -91,6 +91,8 @@ function remarkResolveLinks(opts: NormalizeMarkdownOptions = {}) {
     visit(tree, ['link'], (node, index, parent) => {
       if (node.type === 'link' && parent && typeof index === 'number') {
         const resolvedUrl = urlToResolvedUrlMap[node.url]
+        // console.log(node.url, resolvedUrl)
+
         if (resolvedUrl) {
           const replacement: Link = {
             type: 'link',
@@ -142,7 +144,6 @@ async function resolveLinkImpl(
       followRedirect: false
     })
 
-    // TODO: test this
     return res.headers.location || url
   } catch (err) {
     console.warn('error', url, err.toString(), err)

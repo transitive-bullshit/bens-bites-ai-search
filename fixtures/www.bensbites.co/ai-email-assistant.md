@@ -19,24 +19,24 @@ We've got **$27k to give away** and some awesome judges from StabilityAI/OSV, Hu
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/0ef0926c-404c-425b-beac-9ced8d617a7e/hero.png)
 
-- Harvard Business Review article, “**ChatGPT Is a Tipping Point for AI**”. ([<u>link</u>](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai))
-- “**The future of writing interfaces**”, a blog written by GPT-3 fine-tuned on 8 years of Linus’ blog writing. ([<u>link</u>](https://linus.zone/future-of-writing))
-- **Google execs warn company’s reputation could suffer** if it moves too fast on AI-chat technology. ([<u>link</u>](https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html))
+- Harvard Business Review article, “**ChatGPT Is a Tipping Point for AI**”. ([link](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai))
+- “**The future of writing interfaces**”, a blog written by GPT-3 fine-tuned on 8 years of Linus’ blog writing. ([link](https://linus.zone/future-of-writing))
+- **Google execs warn company’s reputation could suffer** if it moves too fast on AI-chat technology. ([link](https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html))
 
 ### **🛠️ Cool Tools**
 
-- Voicemode Text to Song - Tuna’s AI **text-to-funny song** generator. ([<u>link</u>](https://tuna.voicemod.net/text-to-song))
-- Cookup (Waitlist) - **No-code ChatGPT app builder**. ([<u>link</u>](https://cookup.ai/))
-  - All AI apps and use cases of Product Management using Cookup. ([<u>link</u>](https://cookup.ai/category/product-management/))
-- Awesome ChatGPT Prompts - A **collection of prompt examples** to be used with ChatGPT for better results. ([<u>link</u>](https://github.com/f/awesome-chatgpt-prompts))
-- Baith-al-suroor - App to **generate house interior design** with AI for free. ([<u>link</u>](https://huggingface.co/spaces/Xhaheen/Baith-al-suroor))
-- TweePT3 (Waitlist) - **GPT-3 powered Tweet writer** that integrates directly into Twitter via a Chrome extension. ([<u>link</u>](https://tweept3.com/))
-- AIChristmascards - Personalised **AI art greetings cards** for the season. ([<u>link</u>](https://aichristmascards.com/))
-- Marketingideas - AI-generated ideas to **grow a startup and attract customers**. ([<u>link</u>](https://marketingideas.ai/))
-- Hints - AI assistant to **create and update tickets and sales pipeline** from messengers, email, or SMS. ([<u>link</u>](https://hints.so/))
-- Avatalk (BETA) - **A Korean AI English tutor**. ([<u>link</u>](https://www.avatalk.ai/))
-- Plz - AI-powered command generator. **Copilot for your terminal**. ([<u>link</u>](https://github.com/m1guelpf/plz-cli))
-- Orchard (BETA) - **AI text editor for meaningful blogs, essays, and newsletters**. ([<u>link</u>](https://www.orchard.ink/))
+- Voicemode Text to Song - Tuna’s AI **text-to-funny song** generator. ([link](https://tuna.voicemod.net/text-to-song))
+- Cookup (Waitlist) - **No-code ChatGPT app builder**. ([link](https://cookup.ai/))
+  - All AI apps and use cases of Product Management using Cookup. ([link](https://cookup.ai/category/product-management/))
+- Awesome ChatGPT Prompts - A **collection of prompt examples** to be used with ChatGPT for better results. ([link](https://github.com/f/awesome-chatgpt-prompts))
+- Baith-al-suroor - App to **generate house interior design** with AI for free. ([link](https://huggingface.co/spaces/Xhaheen/Baith-al-suroor))
+- TweePT3 (Waitlist) - **GPT-3 powered Tweet writer** that integrates directly into Twitter via a Chrome extension. ([link](https://tweept3.com/))
+- AIChristmascards - Personalised **AI art greetings cards** for the season. ([link](https://aichristmascards.com/))
+- Marketingideas - AI-generated ideas to **grow a startup and attract customers**. ([link](https://marketingideas.ai/))
+- Hints - AI assistant to **create and update tickets and sales pipeline** from messengers, email, or SMS. ([link](https://hints.so/))
+- Avatalk (BETA) - **A Korean AI English tutor**. ([link](https://www.avatalk.ai/))
+- Plz - AI-powered command generator. **Copilot for your terminal**. ([link](https://github.com/m1guelpf/plz-cli))
+- Orchard (BETA) - **AI text editor for meaningful blogs, essays, and newsletters**. ([link](https://www.orchard.ink/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/614695ab-6b9a-4500-bd96-4617a9dff0b7/ezgif.com-gif-maker__38_.gif)
 
@@ -44,34 +44,34 @@ We've got **$27k to give away** and some awesome judges from StabilityAI/OSV, Hu
 
 ### **🎓 Learn**
 
-- How to **build your own ChatGPT** using OpenAI's GPT-3.5 using Python and Gradio. ([<u>link</u>](https://www.youtube.com/watch?v=LB4MVdpajsU))
-- ​​**Build your own AI avatar generator** with Stable Diffusion in Buildspace’s next cohort. ([<u>link</u>](https://buildspace.so/builds/ai-avatar))
+- How to **build your own ChatGPT** using OpenAI's GPT-3.5 using Python and Gradio. ([link](https://www.youtube.com/watch?v=LB4MVdpajsU))
+- ​​**Build your own AI avatar generator** with Stable Diffusion in Buildspace’s next cohort. ([link](https://buildspace.so/builds/ai-avatar))
 
 ### **🔬 Research**
 
-- Who said what? **Recorder's on-device solution for labelling speakers**. ([<u>link</u>](https://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html))
-- A new method for **creating detailed 3D humans** from images using artist-curated scans and deep implicit functions. ([<u>link</u>](https://arxiv.org/abs/2212.07422))
-- **An approach for semantic imitation**, which uses demonstrations from a source domain to accelerate reinforcement learning in a different target domain. ([<u>link</u>](https://arxiv.org/abs/2212.07407))
-- A new paradigm for **leveraging pre-trained vision-language foundation models** to adapt to unseen tasks and environments. ([<u>link</u>](https://arxiv.org/abs/2212.07398))
-- **Reproducible scaling laws** for contrastive language-image learning. ([<u>link</u>](https://arxiv.org/abs/2212.07143))
-- **Image compression with product quantised masked image modelling**. ([<u>link</u>](https://arxiv.org/abs/2212.07372))
-- Imagen Editor and EditBench: Advancing and evaluating **text-guided image inpainting**. ([<u>link</u>](https://arxiv.org/abs/2212.06909))
+- Who said what? **Recorder's on-device solution for labelling speakers**. ([link](https://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html))
+- A new method for **creating detailed 3D humans** from images using artist-curated scans and deep implicit functions. ([link](https://arxiv.org/abs/2212.07422))
+- **An approach for semantic imitation**, which uses demonstrations from a source domain to accelerate reinforcement learning in a different target domain. ([link](https://arxiv.org/abs/2212.07407))
+- A new paradigm for **leveraging pre-trained vision-language foundation models** to adapt to unseen tasks and environments. ([link](https://arxiv.org/abs/2212.07398))
+- **Reproducible scaling laws** for contrastive language-image learning. ([link](https://arxiv.org/abs/2212.07143))
+- **Image compression with product quantised masked image modelling**. ([link](https://arxiv.org/abs/2212.07372))
+- Imagen Editor and EditBench: Advancing and evaluating **text-guided image inpainting**. ([link](https://arxiv.org/abs/2212.06909))
 - PhoMoH: Implicit **photorealistic 3D models of human heads**. ([link](https://arxiv.org/abs/2212.07275))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🤓 Everything else**
 
-- Compilation of the 2022 **South Park Commons AI/LLM hackathon products**. ([<u>link</u>](https://www.youtube.com/watch?v=ie5b44LcC-Y))
-- All **Runway’s marketing videos in one place**. ([<u>link</u>](https://videos.runwayml.com/))
-- **Midjourney vs. human illustrators**: has AI already won? ([<u>link</u>](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won))
-- A thread of **improvements to the LLM interface by Langchain**. ([<u>link</u>](https://twitter.com/LangChainAI/status/1603070855193382913?s=20\&t=PsUE33FWo_Mh-m6IXfvojg))
-- **Artists can opt out** their art from the training of Stable Diffusion 3. ([<u>link</u>](https://haveibeentrained.com/))
-- A new **interactive AI-Generated scene** by Cristian Peñas. ([<u>link</u>](https://80.lv/articles/a-new-interactive-ai-generated-scene-by-cristian-pe-as/))
-- **Every software app will incorporate AI**. And AI-native apps will generally win over AI-retrofit. ([<u>link</u>](https://www.indexventures.com/perspectives/every-software-application-will-incorporate-ai/))
-- **ChatGPT in depth with Abran Maldonado**, official OpenAI ambassador. ([<u>link</u>](https://www.youtube.com/watch?app=desktop\&v=UDRsWZR9Kn0))
-- TIME article, “**He used AI to publish a children’s book in a weekend. Artists are not happy about it.**” ([<u>link</u>](https://time.com/6240569/ai-childrens-book-alice-and-sparkle-artists-unhappy/))
-- **EnCharge AI emerges from stealth with $21.7M** to develop AI accelerator hardware. ([<u>link</u>](https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/))
+- Compilation of the 2022 **South Park Commons AI/LLM hackathon products**. ([link](https://www.youtube.com/watch?v=ie5b44LcC-Y))
+- All **Runway’s marketing videos in one place**. ([link](https://videos.runwayml.com/))
+- **Midjourney vs. human illustrators**: has AI already won? ([link](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won))
+- A thread of **improvements to the LLM interface by Langchain**. ([link](https://twitter.com/LangChainAI/status/1603070855193382913?s=20\&t=PsUE33FWo_Mh-m6IXfvojg))
+- **Artists can opt out** their art from the training of Stable Diffusion 3. ([link](https://haveibeentrained.com/))
+- A new **interactive AI-Generated scene** by Cristian Peñas. ([link](https://80.lv/articles/a-new-interactive-ai-generated-scene-by-cristian-pe-as/))
+- **Every software app will incorporate AI**. And AI-native apps will generally win over AI-retrofit. ([link](https://www.indexventures.com/perspectives/every-software-application-will-incorporate-ai/))
+- **ChatGPT in depth with Abran Maldonado**, official OpenAI ambassador. ([link](https://www.youtube.com/watch?app=desktop\&v=UDRsWZR9Kn0))
+- TIME article, “**He used AI to publish a children’s book in a weekend. Artists are not happy about it.**” ([link](https://time.com/6240569/ai-childrens-book-alice-and-sparkle-artists-unhappy/))
+- **EnCharge AI emerges from stealth with $21.7M** to develop AI accelerator hardware. ([link](https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/))
 
 ## **🧑‍💻 Who's hiring in AI**
 

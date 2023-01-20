@@ -25,7 +25,7 @@ The introduction of core, stable platforms in Generative AI this year will affec
 
 In the last six years, Scale has gone from a startup to over six hundred employees and a $7.3 billion dollar valuation. The company, which was hatched at the famous YCombinator, still strives to maintain a startup culture that executes ideas at warp speed. Scale currently offers sixteen different products that annotate, manage and evaluate, automate, and generate different types of data. Its roster of clients include Toyota, SAP, Microsoft, Pinterest, and the U.S. Army.
 
-The launch of two new products, [<u>Scale Spellbook</u>](https://scale.com/spellbook)and [<u>Scale Forge</u>](https://scale.com/blog/catalog-forge-early-access)\*\*,\*\*which can generate apps and product imagery in minutes, and do not require any coding by the user, makes it easy for small businesses to harness the power of AI. The democratization of Generative AI is a huge part of Scale’s mission, and user accessibility is what Alex predicts will drive AI’s market value in the long term. Since AI models are being developed in open source, front end user value and building strong relationships with customers is the market trend that Alex sees developing over the next decade. “One area that we’re really excited as a company to work with people on, is how do we help you figure out how to best use your data that is specific to your problem set and fine tune and customize these models to help serve your use cases?” Use cases that Scale is gearing up to tackle include easing the burden of rote tasks for workers, as well as applying AI to pressing global issues like climate change, energy efficiency, pharmaceuticals, and healthcare.
+The launch of two new products, [Scale Spellbook](https://scale.com/spellbook)and [Scale Forge](https://scale.com/blog/catalog-forge-early-access)\*\*,\*\*which can generate apps and product imagery in minutes, and do not require any coding by the user, makes it easy for small businesses to harness the power of AI. The democratization of Generative AI is a huge part of Scale’s mission, and user accessibility is what Alex predicts will drive AI’s market value in the long term. Since AI models are being developed in open source, front end user value and building strong relationships with customers is the market trend that Alex sees developing over the next decade. “One area that we’re really excited as a company to work with people on, is how do we help you figure out how to best use your data that is specific to your problem set and fine tune and customize these models to help serve your use cases?” Use cases that Scale is gearing up to tackle include easing the burden of rote tasks for workers, as well as applying AI to pressing global issues like climate change, energy efficiency, pharmaceuticals, and healthcare.
 
 Removing barriers to Generative AI could also radically democratize the creative landscape. Alex foresees major disruption of film and television gatekeepers when all that will be required is a computer, the internet, and an afternoon to take an idea and create an animated storyboard. Instead of succumbing to the anxiety of AI sidelining creators, he suggests the technology may actually usher in a golden age of diversity in entertainment. Innovative content won’t carry the same financial risk when stories are already so fully realized before going into production.
 
@@ -37,7 +37,7 @@ Alex predicts conflicts in the next fifty years are going to be fought using tec
 
 Within the United States, AI ethics have largely been determined by the creators of the technology. Companies like OpenAI do not publish their work and have used their terms of service to decide who may use their technology and how it may be used. Currently, national security projects have been banned from the platform. Other platforms have taken a laissez-faire approach, which has sometimes resulted in tainted data polluting algorithms with bias. Using the institutions of our democracy to reach a middle ground, through policy making and regulation, is Alex’s answer to codifying the ethics of AI.
 
-One of the keys to understanding the frontier of AI can be found in Alex’s [<u>Substack</u>](https://alexw.substack.com/). In his post, “[<u>Betting on Unknown Unknowns</u>](https://alexw.substack.com/p/betting-on-unknown-unknowns),” which reflects on the nature of predicting the future, he writes, “There’s a peculiar thing where oftentimes it’s the wildly optimistic predictions that end up being right. Such predictions seem entirely crazy at the time—it feels like betting on everything going absolutely perfectly. On the contrary, they are betting on “unknown unknowns” which will meaningfully change the game.” The push towards achieving Artificial General Intelligence (AGI), or the ability of a machine to accomplish any intellectual task that a human can, is a case in point, Alex argues. Many were skeptical when OpenAI proclaimed back in 2015 that AGI would be achievable. The “unknown unknown” breakthrough of Transformer architecture at Google in 2017 though brought OpenAI’s powerful GPT3 platform to life in 2020, which the industry has recognized as an evolutionary step towards AGI. It’s these kinds of breakthroughs that may bring the next leap in the industry even if we are unable to immediately spot the landing.
+One of the keys to understanding the frontier of AI can be found in Alex’s [Substack](https://alexw.substack.com/). In his post, “[Betting on Unknown Unknowns](https://alexw.substack.com/p/betting-on-unknown-unknowns),” which reflects on the nature of predicting the future, he writes, “There’s a peculiar thing where oftentimes it’s the wildly optimistic predictions that end up being right. Such predictions seem entirely crazy at the time—it feels like betting on everything going absolutely perfectly. On the contrary, they are betting on “unknown unknowns” which will meaningfully change the game.” The push towards achieving Artificial General Intelligence (AGI), or the ability of a machine to accomplish any intellectual task that a human can, is a case in point, Alex argues. Many were skeptical when OpenAI proclaimed back in 2015 that AGI would be achievable. The “unknown unknown” breakthrough of Transformer architecture at Google in 2017 though brought OpenAI’s powerful GPT3 platform to life in 2020, which the industry has recognized as an evolutionary step towards AGI. It’s these kinds of breakthroughs that may bring the next leap in the industry even if we are unable to immediately spot the landing.
 
 This wild optimism did not get in the way of Alex telling us bluntly that Generative AI is currently overhyped. He thinks demoware and twitter shares are skewing people’s perception of where the technology is currently at: “It is very exciting technology, and it’s going to make its way through, but…it is going to take some time from here to actually result in real use cases that get a lot of adoption.”
 
@@ -47,52 +47,52 @@ We are predicting the unpredictable.
 
 ### **🛠️ Cool Tools**
 
-- Almostmagic - A package that allows you to **add AI to your app with one line of code.** ([<u>link</u>](https://github.com/losideadores/almostmagic))
-- Latent Web Browser - **A browser for web content** generated by GPT-3. ([<u>link</u>](https://github.com/jbilcke/web4))
-- Clerkie - **An AI in your terminal** that helps you understand, brainstorm and debug long stacktraces/ tracebacks/ error messages. ([<u>link</u>](https://clerkie.co/))
-- Ghostwryter - AI writer, content ideas generator and **writing assistant made for Google Docs.** ([<u>link</u>](https://ghostwryter.net/))
-- GTM Strategies - Describe your startup and get **AI generated go-to-market strategy** ideas. ([<u>link</u>](https://gtm.yohei.me/))
-- Leonardo - Create stunning **game assets with AI**. ([<u>link</u>](https://leonardo.ai/))
-- CalorieCoach - A texting app to help you **get in better shape by tracking what you eat**throughout the day. ([<u>link</u>](https://caloriecoach.ai/))
-- Trudo - Intuitive UI to **fine-tune, test, and deploy OpenAI models**. ([<u>link</u>](https://www.trudo.ai/))
-- Petals - **Run 100B+ language models at home** bit-torrent style. ([<u>link</u>](https://github.com/bigscience-workshop/petals))
+- Almostmagic - A package that allows you to **add AI to your app with one line of code.** ([link](https://github.com/losideadores/almostmagic))
+- Latent Web Browser - **A browser for web content** generated by GPT-3. ([link](https://github.com/jbilcke/web4))
+- Clerkie - **An AI in your terminal** that helps you understand, brainstorm and debug long stacktraces/ tracebacks/ error messages. ([link](https://clerkie.co/))
+- Ghostwryter - AI writer, content ideas generator and **writing assistant made for Google Docs.** ([link](https://ghostwryter.net/))
+- GTM Strategies - Describe your startup and get **AI generated go-to-market strategy** ideas. ([link](https://gtm.yohei.me/))
+- Leonardo - Create stunning **game assets with AI**. ([link](https://leonardo.ai/))
+- CalorieCoach - A texting app to help you **get in better shape by tracking what you eat**throughout the day. ([link](https://caloriecoach.ai/))
+- Trudo - Intuitive UI to **fine-tune, test, and deploy OpenAI models**. ([link](https://www.trudo.ai/))
+- Petals - **Run 100B+ language models at home** bit-torrent style. ([link](https://github.com/bigscience-workshop/petals))
 
 **[Join Discord](https://discord.gg/qd92NKjDdE) | [Hackathon](https://vanilla-peach-484.notion.site/Ben-s-Bites-AI-Hackathon-27k-324b3e8b3d474a12a2e828b7ac45f9f9) | [Partner with us](https://sponsor.bensbites.co/)** | [**Host or join a meetup**](https://meetups.bensbites.co/)
 
 ### **🎓 Learn**
 
-- Building a **cover letter generation app**with Wized, GPT-3, and Webflow. ([<u>link</u>](https://www.youtube.com/watch?v=hOZ8sgwtPXY))
-- How to **build your digital clone with Glasp**. ([<u>link</u>](https://www.youtube.com/watch?v=bctHUiL7kGs\&t=6s))
-- Build a **semantic search engine with OpenAI Embeddings and Pinecone**. ([<u>link</u>](https://github.com/mharrvic/semantic-search-openai-pinecone))
+- Building a **cover letter generation app**with Wized, GPT-3, and Webflow. ([link](https://www.youtube.com/watch?v=hOZ8sgwtPXY))
+- How to **build your digital clone with Glasp**. ([link](https://www.youtube.com/watch?v=bctHUiL7kGs\&t=6s))
+- Build a **semantic search engine with OpenAI Embeddings and Pinecone**. ([link](https://github.com/mharrvic/semantic-search-openai-pinecone))
 
 ### **🔬 Research**
 
-- **Large-scale vehicle classification**. ([<u>link</u>](https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/))
-- Learning one abstract bit at a time through **self-invented experiments encoded as neural networks**. ([<u>link</u>](https://arxiv.org/abs/2212.14374))
-- POMRL: **No-regret learning-to-plan**with increasing horizons. ([<u>link</u>](https://arxiv.org/abs/2212.14530))
-- NIRVANA: **Neural implicit representations of videos** with adaptive networks and autoregressive patch-wise modeling. ([<u>link</u>](https://arxiv.org/abs/2212.14593))
-- **MAUVE scores for generative models**: theory and practice. ([<u>link</u>](https://arxiv.org/abs/2212.14578))
-- **GPT takes the Bar** exam. ([<u>link</u>](https://arxiv.org/abs/2212.14402))
-- ResGrad: **Residual denoising diffusion probabilistic models** for text to speech. ([<u>link</u>](https://resgrad1.github.io/))
-- An E-book with **AI research experiences from Harvard**course, CS197. ([<u>link</u>](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit))
-- Dream3D: **Zero-shot text-to-3d synthesis** using 3d shape prior and text-to-image diffusion models. (<u>[link](https://bluestyle97.github.io/dream3d/)</u>)
-- New modes of **learning enabled by AI chatbots**: Three methods and assignments. ([<u>link</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783))
+- **Large-scale vehicle classification**. ([link](https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/))
+- Learning one abstract bit at a time through **self-invented experiments encoded as neural networks**. ([link](https://arxiv.org/abs/2212.14374))
+- POMRL: **No-regret learning-to-plan**with increasing horizons. ([link](https://arxiv.org/abs/2212.14530))
+- NIRVANA: **Neural implicit representations of videos** with adaptive networks and autoregressive patch-wise modeling. ([link](https://arxiv.org/abs/2212.14593))
+- **MAUVE scores for generative models**: theory and practice. ([link](https://arxiv.org/abs/2212.14578))
+- **GPT takes the Bar** exam. ([link](https://arxiv.org/abs/2212.14402))
+- ResGrad: **Residual denoising diffusion probabilistic models** for text to speech. ([link](https://resgrad1.github.io/))
+- An E-book with **AI research experiences from Harvard**course, CS197. ([link](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit))
+- Dream3D: **Zero-shot text-to-3d synthesis** using 3d shape prior and text-to-image diffusion models. ([link](https://bluestyle97.github.io/dream3d/))
+- New modes of **learning enabled by AI chatbots**: Three methods and assignments. ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🤓 Everything else**
 
-- Keep up to speed in AI with all relevant papers, podcasts, blogs, etc. with **the AI reading list by Jack Soslow**. ([<u>link</u>](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit#heading=h.hv0t5xjsqq7j))
-- Is **ChatGPT really a “Code Red” for Google** search? ([<u>link</u>](https://garymarcus.substack.com/p/is-chatgpt-really-a-code-red-for?r=4osy\&utm_medium=ios\&utm_campaign=post))
-- A thread of **highlights of RewindAI**. ([<u>link</u>](https://twitter.com/dsiroker/status/1608885654297153537?s=12\&t=nF9mcz0484KJ6lIGhuh6zQ))
-- The **WSJ columnists look ahead** to an Apple headset, Netflix password crackdowns, the next DALL-E and more. ([<u>link</u>](https://www.wsj.com/articles/tech-that-will-change-your-life-in-2023-11672405471?mod=djemalertNEWS))
-- A thread on **interesting features of ChatGPT** guessed based on minified JS code. ([<u>link</u>](https://twitter.com/eeeziii/status/1609069324643471363?s=12\&t=QSUxjtBWE87FKFlnGQLvtQ))
-- AI Rewind 2022 - **What can AI really do?** A year in review. ([<u>link</u>](https://www.youtube.com/watch?v=tYRTzWHOQio))
-- A thread highlighting **community contributions and projects with Stable Diffusion** in 2022. ([<u>link</u>](https://twitter.com/stablediffusion/status/1608661612776550401?s=12\&t=iEJ_GwOOJIyUyHyZO9NrMQ))
-- Four big **ideas for enterprise tech to tackle in 2023 by a16z**. (<u>[link](https://a16z.com/2022/12/15/big-ideas-in-tech-2023/)</u>)
-- **An epic AI Debate**—and why everyone should be at least a little bit worried about AI going into 2023. ([<u>link</u>](https://garymarcus.substack.com/p/an-epic-ai-debateand-why-everyone?sd=pf))
-- **AI Artists are CTO's** (timing your AI art projects). ([<u>link</u>](https://bakztfuture.substack.com/p/ai-artists-are-ctos-timing-your-ai))
-- **Graph ML in 2023**: The state of affairs. ([<u>link</u>](https://mgalkin.medium.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232))
+- Keep up to speed in AI with all relevant papers, podcasts, blogs, etc. with **the AI reading list by Jack Soslow**. ([link](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit#heading=h.hv0t5xjsqq7j))
+- Is **ChatGPT really a “Code Red” for Google** search? ([link](https://garymarcus.substack.com/p/is-chatgpt-really-a-code-red-for?r=4osy\&utm_medium=ios\&utm_campaign=post))
+- A thread of **highlights of RewindAI**. ([link](https://twitter.com/dsiroker/status/1608885654297153537?s=12\&t=nF9mcz0484KJ6lIGhuh6zQ))
+- The **WSJ columnists look ahead** to an Apple headset, Netflix password crackdowns, the next DALL-E and more. ([link](https://www.wsj.com/articles/tech-that-will-change-your-life-in-2023-11672405471?mod=djemalertNEWS))
+- A thread on **interesting features of ChatGPT** guessed based on minified JS code. ([link](https://twitter.com/eeeziii/status/1609069324643471363?s=12\&t=QSUxjtBWE87FKFlnGQLvtQ))
+- AI Rewind 2022 - **What can AI really do?** A year in review. ([link](https://www.youtube.com/watch?v=tYRTzWHOQio))
+- A thread highlighting **community contributions and projects with Stable Diffusion** in 2022. ([link](https://twitter.com/stablediffusion/status/1608661612776550401?s=12\&t=iEJ_GwOOJIyUyHyZO9NrMQ))
+- Four big **ideas for enterprise tech to tackle in 2023 by a16z**. ([link](https://a16z.com/2022/12/15/big-ideas-in-tech-2023/))
+- **An epic AI Debate**—and why everyone should be at least a little bit worried about AI going into 2023. ([link](https://garymarcus.substack.com/p/an-epic-ai-debateand-why-everyone?sd=pf))
+- **AI Artists are CTO's** (timing your AI art projects). ([link](https://bakztfuture.substack.com/p/ai-artists-are-ctos-timing-your-ai))
+- **Graph ML in 2023**: The state of affairs. ([link](https://mgalkin.medium.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232))
 
 ## **🖼 AI images of the day**
 
