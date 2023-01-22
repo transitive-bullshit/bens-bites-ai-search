@@ -1,7 +1,4 @@
 import * as visitor from 'unist-util-visit'
-import deburr from 'lodash.deburr'
-import { toMarkdown } from 'mdast-util-to-markdown'
-import { toString } from 'mdast-util-to-string'
 import pMap from 'p-map'
 import remarkParse from 'remark-parse'
 import { unified } from 'unified'
@@ -9,11 +6,22 @@ import { inspect } from 'unist-util-inspect'
 
 import * as config from './config'
 import * as types from './types'
+import {
+  renderMarkdownNodeAsMarkdown,
+  renderMarkdownNodeAsText,
+  replaceMarkdownLinksWithMetadata
+} from './utils'
 
 type PineconePendingVector = {
   id: string
   input: string
   metadata: types.PineconeMetadata
+}
+
+type PendingNode = {
+  node: any
+  markdown: string
+  text: string
 }
 
 export async function getEmbeddingsForPost({
@@ -29,68 +37,28 @@ export async function getEmbeddingsForPost({
 }) {
   const postId = post.id
 
+  const pendingNodes: PendingNode[] = []
   const pendingVectors: PineconePendingVector[] = []
 
   const ast = unified().use(remarkParse).parse(post.markdown)
-
   console.log(inspect(ast, { showPositions: false }))
-  let vectorIndex = 0
-
-  let prevHeading: {
-    text: string
-    markdown: string
-  } = null
+  console.log()
+  console.log()
+  console.log()
 
   visitor.visit(ast, (node, index) => {
     switch (node.type) {
       case 'paragraph':
       case 'heading': {
-        const markdown = toMarkdown(node, {
-          bullet: '-',
-          fences: true,
-          listItemIndent: 'one',
-          rule: '-'
+        const markdown = renderMarkdownNodeAsMarkdown(node)
+        const text = renderMarkdownNodeAsText(node)
+
+        pendingNodes.push({
+          node,
+          markdown,
+          text
         })
 
-        // deburr converts accents to non-accents
-        // déjà vu => 'deja vu
-        const text = deburr(
-          toString(node)
-            .trim()
-            .replace(/\(link\)$/i, '')
-        )
-          // .normalize('NFD') // normalize diacritics (accents)
-          // .replace(/[\u0300-\u036f]/g, '') // remove all accents
-          .replace(/[^\x00-\x7F]/g, '') // remove all non-ascii characters
-          .trim()
-        if (!text) return
-
-        const input =
-          prevHeading && node.type !== 'heading'
-            ? `${prevHeading.text}\n\n${text}`
-            : text
-
-        const vector: PineconePendingVector = {
-          id: `${postId}:${vectorIndex++}`,
-          input,
-          metadata: {
-            publicationId: post.publication_id,
-            postTitle: post.web_title,
-            postUrl: post.url,
-            postId,
-            markdown,
-            text
-          }
-        }
-
-        if (node.type === 'heading') {
-          prevHeading = {
-            text,
-            markdown
-          }
-        }
-
-        pendingVectors.push(vector)
         return [visitor.CONTINUE, index + 1]
       }
 
@@ -99,13 +67,58 @@ export async function getEmbeddingsForPost({
     }
   })
 
-  console.log(pendingVectors)
+  await replaceMarkdownLinksWithMetadata(ast)
+  console.log()
+  console.log()
+  console.log()
 
-  // TODO
+  console.log(inspect(ast, { showPositions: false }))
+
+  let vectorIndex = 0
+  let prevHeading: {
+    text: string
+    markdown: string
+  } = null
+
+  for (const pendingNode of pendingNodes) {
+    const { markdown, node } = pendingNode
+    // TODO: handle URLs
+
+    const text = renderMarkdownNodeAsText(node)
+    if (!text) return
+
+    const input =
+      prevHeading && node.type !== 'heading'
+        ? `${prevHeading.text}\n\n${text}`
+        : text
+
+    const vector: PineconePendingVector = {
+      id: `${postId}:${vectorIndex++}`,
+      input,
+      metadata: {
+        publicationId: post.publication_id,
+        postTitle: post.web_title,
+        postUrl: post.url,
+        postId,
+        markdown,
+        text: pendingNode.text
+      }
+    }
+
+    if (node.type === 'heading') {
+      prevHeading = {
+        text,
+        markdown
+      }
+    }
+
+    pendingVectors.push(vector)
+  }
+
+  console.log(pendingVectors)
   return []
 
-  // Evaluate all embeddings with a max concurrency
-  // const vectors: types.PineconeCaptionVector[] = await pMap(
+  // const vectors: types.PineconeVector[] = await pMap(
   //   pendingVectors,
   //   async (pendingVector) => {
   //     const { data: embed } = await openai.createEmbedding({
@@ -113,7 +126,7 @@ export async function getEmbeddingsForPost({
   //       model
   //     })
 
-  //     const vector: types.PineconeCaptionVector = {
+  //     const vector: types.PineconeVector = {
   //       id: pendingVector.id,
   //       metadata: pendingVector.metadata,
   //       values: embed.data[0].embedding

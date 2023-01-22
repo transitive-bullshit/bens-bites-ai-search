@@ -17,12 +17,6 @@ export type PineconeMetadata = {
   text: string
 }
 
-export type PineconeCaptionVector = {
-  id: string
-  values: number[]
-  metadata: PineconeMetadata
-}
-
 export type PineconeClient = PineconeClientGeneric<PineconeMetadata>
 export type PineconeVector = Vector<PineconeMetadata> & {
   metadata: PineconeMetadata

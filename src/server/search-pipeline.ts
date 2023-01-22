@@ -24,7 +24,7 @@ export interface Document {
   data: string
 }
 
-export type CorpusType = 'newsletter' | 'docs'
+export type CorpusType = 'newsletter'
 
 export abstract class ASearchProvider<
   D extends Document = Document,

@@ -1,21 +1,25 @@
 import http from 'node:http'
 import https from 'node:https'
 
-import ExpiryMap from 'expiry-map'
+import * as visitor from 'unist-util-visit'
 import isRelativeUrl from 'is-relative-url'
-import type { Link, Root } from 'mdast'
+import deburr from 'lodash.deburr'
+import type { Link, Root, Text } from 'mdast'
+import { toMarkdown } from 'mdast-util-to-markdown'
+import { toString } from 'mdast-util-to-string'
 import pMap from 'p-map'
 import pMemoize from 'p-memoize'
+import QuickLRU from 'quick-lru'
 import remarkInlineLinks from 'remark-inline-links'
 import remarkParse from 'remark-parse'
 import remarkStringify from 'remark-stringify'
 import { unified } from 'unified'
-import { visit } from 'unist-util-visit'
 
 import got from './got'
+import { LinkMetadata, getLinkMetadata } from './metascraper'
 
-const linkCache = new ExpiryMap(60 * 1000)
-export const resolveLink = pMemoize(resolveLinkImpl, { cache: linkCache })
+const lruLinkCache = new QuickLRU<string, string>({ maxSize: 10000 })
+export const resolveLink = pMemoize(resolveLinkImpl, { cache: lruLinkCache })
 export const protocolAllowList = new Set(['https:', 'http:'])
 export const domainAllowList = new Set(['flight.beehiiv.net'])
 
@@ -65,7 +69,7 @@ function remarkResolveLinks(opts: NormalizeMarkdownOptions = {}) {
     const urlToNodeMap: Record<string, Link> = {}
     const urlToResolvedUrlMap: Record<string, string> = {}
 
-    visit(tree, ['link'], (node, index, parent) => {
+    visitor.visit(tree, ['link'], (node, index, parent) => {
       if (node.type === 'link' && parent && typeof index === 'number') {
         urlToNodeMap[node.url] = node
       }
@@ -88,7 +92,7 @@ function remarkResolveLinks(opts: NormalizeMarkdownOptions = {}) {
       }
     )
 
-    visit(tree, ['link'], (node, index, parent) => {
+    visitor.visit(tree, ['link'], (node, index, parent) => {
       if (node.type === 'link' && parent && typeof index === 'number') {
         const resolvedUrl = urlToResolvedUrlMap[node.url]
         // console.log(node.url, resolvedUrl)
@@ -150,4 +154,94 @@ async function resolveLinkImpl(
     // fallback to the original URL
     return url
   }
+}
+
+export async function replaceMarkdownLinksWithMetadata(
+  tree: Root,
+  opts: NormalizeMarkdownOptions = {}
+) {
+  const { concurrency = 4 } = opts
+  const urlToNodeMap: Record<string, Link> = {}
+  const urlToMetadata: Record<string, LinkMetadata> = {}
+
+  visitor.visit(tree, ['link'], (node, index, parent) => {
+    if (node.type === 'link' && parent && typeof index === 'number') {
+      urlToNodeMap[node.url] = node
+    }
+  })
+
+  const urls = Object.keys(urlToNodeMap)
+
+  await pMap(
+    urls,
+    async (url) => {
+      try {
+        console.log('>>> metadata', url)
+        urlToMetadata[url] = await getLinkMetadata(url)
+        console.log('>>> metadata', url, urlToMetadata[url])
+      } catch (err) {
+        console.warn('error', url, err)
+        // ignore for now
+      }
+    },
+    {
+      concurrency
+    }
+  )
+
+  visitor.visit(tree, ['link'], (node, index, parent) => {
+    if (node.type === 'link' && parent && typeof index === 'number') {
+      const metadata = urlToMetadata[node.url]
+      // console.log(node.url, metadata)
+
+      if (metadata) {
+        const text = toString(node)
+        const value = [
+          text,
+          metadata.title,
+          metadata.description,
+          metadata.author,
+          metadata.publisher
+        ]
+          .map((value) => value?.trim())
+          .filter(Boolean)
+          .join(' ')
+
+        const replacement: Text = {
+          type: 'text',
+          value
+        }
+
+        parent.children[index] = replacement
+        return [visitor.CONTINUE, index + 1]
+      }
+    }
+  })
+
+  return tree
+}
+
+export function renderMarkdownNodeAsMarkdown(node: any): string {
+  return toMarkdown(node, {
+    bullet: '-',
+    fences: true,
+    listItemIndent: 'one',
+    rule: '-'
+  })
+}
+
+export function renderMarkdownNodeAsText(node: any): string {
+  // deburr converts accents to non-accents
+  // déjà vu => 'deja vu
+  const text = deburr(
+    toString(node)
+      .trim()
+      .replace(/\(link\)$/i, '')
+  )
+    // .normalize('NFD') // normalize diacritics (accents)
+    // .replace(/[\u0300-\u036f]/g, '') // remove all accents
+    .replace(/[^\x00-\x7F]/g, '') // remove all non-ascii characters
+    .trim()
+
+  return text
 }
