@@ -5,12 +5,24 @@
 [![Build Status](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/newsletter-ai-search/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 - [Intro](#intro)
+- [Pipeline](#pipeline)
 - [TODO](#todo)
 - [License](#license)
 
 ## Intro
 
 TODO
+
+## Pipeline
+
+- ingest newsletter
+  - crawl to resolve posts
+  - convert to markdown
+  - clean up
+- indexing
+  - tokenization, embedding generation, k-NN indexing
+- retrieval
+  - semantic search queries
 
 ## TODO
 

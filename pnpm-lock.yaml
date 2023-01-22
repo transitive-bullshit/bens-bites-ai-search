@@ -13,14 +13,17 @@ specifiers:
   husky: ^8.0.3
   is-relative-url: ^4.0.0
   lint-staged: ^13.0.3
+  lodash.deburr: ^4.1.0
   lqip-modern: ^2.0.0
   mdast: ^3.0.0
+  mdast-util-to-markdown: ^1.5.0
+  mdast-util-to-string: ^3.1.0
   npm-run-all: ^4.1.5
   openai: ^3.1.0
   p-map: ^5.5.0
   p-memoize: ^7.1.1
   pinecone-client: ^1.0.1
-  prettier: ^2.8.2
+  prettier: ^2.8.3
   remark-inline-links: ^6.0.1
   remark-parse: ^10.0.1
   remark-stringify: ^10.0.2
@@ -28,6 +31,7 @@ specifiers:
   tsx: ^3.12.2
   typescript: ^4.9.3
   unified: ^10.1.2
+  unist-util-inspect: ^7.0.1
   unist-util-visit: ^4.1.1
   zod: ^3.20.2
 
@@ -38,8 +42,11 @@ dependencies:
   got: 12.5.3
   html-to-md: 0.8.3
   is-relative-url: 4.0.0
+  lodash.deburr: 4.1.0
   lqip-modern: 2.0.0
   mdast: 3.0.0
+  mdast-util-to-markdown: 1.5.0
+  mdast-util-to-string: 3.1.0
   openai: 3.1.0
   p-map: 5.5.0
   p-memoize: 7.1.1
@@ -49,18 +56,19 @@ dependencies:
   remark-stringify: 10.0.2
   rmfr: 2.0.0
   unified: 10.1.2
+  unist-util-inspect: 7.0.1
   unist-util-visit: 4.1.1
   zod: 3.20.2
 
 devDependencies:
-  '@trivago/prettier-plugin-sort-imports': 4.0.0_prettier@2.8.2
+  '@trivago/prettier-plugin-sort-imports': 4.0.0_prettier@2.8.3
   '@types/mdast': 3.0.10
   '@types/node': 18.11.18
   dotenv-safe: 8.2.0
   husky: 8.0.3
   lint-staged: 13.1.0
   npm-run-all: 4.1.5
-  prettier: 2.8.2
+  prettier: 2.8.3
   tsx: 3.12.2
   typescript: 4.9.4
 
@@ -399,7 +407,7 @@ packages:
       defer-to-connect: 2.0.1
     dev: false
 
-  /@trivago/prettier-plugin-sort-imports/4.0.0_prettier@2.8.2:
+  /@trivago/prettier-plugin-sort-imports/4.0.0_prettier@2.8.3:
     resolution: {integrity: sha512-Tyuk5ZY4a0e2MNFLdluQO9F6d1awFQYXVVujEPFfvKPPXz8DADNHzz73NMhwCSXGSuGGZcA/rKOyZBrxVNMxaA==}
     peerDependencies:
       '@vue/compiler-sfc': 3.x
@@ -412,7 +420,7 @@ packages:
       '@babel/types': 7.17.0
       javascript-natural-sort: 0.7.1
       lodash: 4.17.21
-      prettier: 2.8.2
+      prettier: 2.8.3
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -1724,6 +1732,10 @@ packages:
       strip-bom: 3.0.0
     dev: true
 
+  /lodash.deburr/4.1.0:
+    resolution: {integrity: sha512-m/M1U1f3ddMCs6Hq2tAsYThTBDaAKFDX3dwDo97GEYzamXi9SqUpjWi/Rrj/gf3X2n8ktwgZrlP1z6E3v/IExQ==}
+    dev: false
+
   /lodash/4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
     dev: true
@@ -2323,8 +2335,8 @@ packages:
       tunnel-agent: 0.6.0
     dev: false
 
-  /prettier/2.8.2:
-    resolution: {integrity: sha512-BtRV9BcncDyI2tsuS19zzhzoxD8Dh8LiCx7j7tHzrkz8GFXAexeWFdi22mjE1d16dftH2qNaytVxqiRTGlMfpw==}
+  /prettier/2.8.3:
+    resolution: {integrity: sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -2826,6 +2838,12 @@ packages:
       is-plain-obj: 4.1.0
       trough: 2.1.0
       vfile: 5.3.6
+    dev: false
+
+  /unist-util-inspect/7.0.1:
+    resolution: {integrity: sha512-gEPeSrsYXus8012VJ00p9uZC8D0iogtLLiHlBgvS61hU22KNKduQhMKezJm83viHlLf3TYS2y9SDEFglWPDMKw==}
+    dependencies:
+      '@types/unist': 2.0.6
     dev: false
 
   /unist-util-is/5.1.1:

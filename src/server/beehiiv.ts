@@ -117,6 +117,9 @@ export async function resolveBeeHiivPostContent(
   const postHtml = $post('.rendered-post').html()
 
   const postMarkdown = html2md(postHtml, {
+    // TODO: we really only want to do this when <u> is inside of <a>
+    // TODO: same thing for <b> inside of <a>
+    // TODO: same thing for <b> inside of headings
     aliasTags: {
       u: 'span'
     }

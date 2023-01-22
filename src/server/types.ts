@@ -6,28 +6,36 @@ import type {
 
 export type { OpenAIApi }
 
-export type PineconeCaptionMetadata = {
-  title: string
-  videoId: string
-  text: string
-  start: string
+export type PineconeMetadata = {
+  postTitle: string
+  postId: string
+  postUrl: string
 
-  thumbnail?: string
-  preview?: string
+  publicationId: string
+
+  markdown: string
+  text: string
 }
 
 export type PineconeCaptionVector = {
   id: string
   values: number[]
-  metadata: PineconeCaptionMetadata
+  metadata: PineconeMetadata
 }
 
-export type PineconeClient = PineconeClientGeneric<PineconeCaptionMetadata>
-export type PineconeVector = Vector<PineconeCaptionMetadata> & {
-  metadata: PineconeCaptionMetadata
+export type PineconeClient = PineconeClientGeneric<PineconeMetadata>
+export type PineconeVector = Vector<PineconeMetadata> & {
+  metadata: PineconeMetadata
 }
 
 export namespace beehiiv {
+  export interface Newsletter {
+    domain: string
+    baseUrl: string
+    publication: beehiiv.Publication
+    posts: beehiiv.Post[]
+  }
+
   export interface Publication {
     id: string
     name: string

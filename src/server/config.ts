@@ -25,4 +25,6 @@ if (env.success === false) {
   process.exit(1)
 }
 
+export const openaiEmbeddingModel = 'text-embedding-ada-002'
+
 export default env

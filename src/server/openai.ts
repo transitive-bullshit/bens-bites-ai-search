@@ -1,118 +1,130 @@
+import * as visitor from 'unist-util-visit'
+import deburr from 'lodash.deburr'
+import { toMarkdown } from 'mdast-util-to-markdown'
+import { toString } from 'mdast-util-to-string'
 import pMap from 'p-map'
-import unescape from 'unescape'
+import remarkParse from 'remark-parse'
+import { unified } from 'unified'
+import { inspect } from 'unist-util-inspect'
 
-import * as config from '@/lib/config'
-
+import * as config from './config'
 import * as types from './types'
 
-type PineconeCaptionVectorPending = {
+type PineconePendingVector = {
   id: string
   input: string
-  metadata: types.PineconeCaptionMetadata
+  metadata: types.PineconeMetadata
 }
 
-export async function getEmbeddingsForVideoTranscript({
-  transcript,
-  title,
+export async function getEmbeddingsForPost({
+  post,
   openai,
   model = config.openaiEmbeddingModel,
-  maxInputTokens = 100, // TODO???
   concurrency = 4
 }: {
-  transcript: types.Transcript
-  title: string
+  post: types.beehiiv.Post
   openai: types.OpenAIApi
   model?: string
-  maxInputTokens?: number
   concurrency?: number
 }) {
-  const { videoId } = transcript
+  const postId = post.id
 
-  let pendingVectors: PineconeCaptionVectorPending[] = []
-  let currentStart = ''
-  let currentNumTokensEstimate = 0
-  let currentInput = ''
-  let currentPartIndex = 0
-  let currentVectorIndex = 0
-  let isDone = false
+  const pendingVectors: PineconePendingVector[] = []
 
-  // Pre-compute the embedding inputs, making sure none of them are too long
-  do {
-    isDone = currentPartIndex >= transcript.parts.length
+  const ast = unified().use(remarkParse).parse(post.markdown)
 
-    const part = transcript.parts[currentPartIndex]
-    const text = unescape(part?.text)
-      .replaceAll('[Music]', '')
-      .replaceAll(/[\t\n]/g, ' ')
-      .replaceAll('  ', ' ')
-      .trim()
-    const numTokens = getNumTokensEstimate(text)
+  console.log(inspect(ast, { showPositions: false }))
+  let vectorIndex = 0
 
-    if (!isDone && currentNumTokensEstimate + numTokens < maxInputTokens) {
-      if (!currentStart) {
-        currentStart = part.start
-      }
+  let prevHeading: {
+    text: string
+    markdown: string
+  } = null
 
-      currentNumTokensEstimate += numTokens
-      currentInput = `${currentInput} ${text}`
+  visitor.visit(ast, (node, index) => {
+    switch (node.type) {
+      case 'paragraph':
+      case 'heading': {
+        const markdown = toMarkdown(node, {
+          bullet: '-',
+          fences: true,
+          listItemIndent: 'one',
+          rule: '-'
+        })
 
-      ++currentPartIndex
-    } else {
-      currentInput = currentInput.trim()
-      if (isDone && !currentInput) {
-        break
-      }
+        // deburr converts accents to non-accents
+        // déjà vu => 'deja vu
+        const text = deburr(
+          toString(node)
+            .trim()
+            .replace(/\(link\)$/i, '')
+        )
+          // .normalize('NFD') // normalize diacritics (accents)
+          // .replace(/[\u0300-\u036f]/g, '') // remove all accents
+          .replace(/[^\x00-\x7F]/g, '') // remove all non-ascii characters
+          .trim()
+        if (!text) return
 
-      const currentVector: PineconeCaptionVectorPending = {
-        id: `${videoId}:${currentVectorIndex++}`,
-        input: currentInput,
-        metadata: {
-          title,
-          videoId,
-          text: currentInput,
-          start: currentStart
+        const input =
+          prevHeading && node.type !== 'heading'
+            ? `${prevHeading.text}\n\n${text}`
+            : text
+
+        const vector: PineconePendingVector = {
+          id: `${postId}:${vectorIndex++}`,
+          input,
+          metadata: {
+            publicationId: post.publication_id,
+            postTitle: post.web_title,
+            postUrl: post.url,
+            postId,
+            markdown,
+            text
+          }
         }
+
+        if (node.type === 'heading') {
+          prevHeading = {
+            text,
+            markdown
+          }
+        }
+
+        pendingVectors.push(vector)
+        return [visitor.CONTINUE, index + 1]
       }
 
-      pendingVectors.push(currentVector)
-
-      // reset current batch
-      currentNumTokensEstimate = 0
-      currentStart = ''
-      currentInput = ''
+      default:
+        break
     }
-  } while (!isDone)
+  })
+
+  console.log(pendingVectors)
+
+  // TODO
+  return []
 
   // Evaluate all embeddings with a max concurrency
-  const vectors: types.PineconeCaptionVector[] = await pMap(
-    pendingVectors,
-    async (pendingVector) => {
-      const { data: embed } = await openai.createEmbedding({
-        input: pendingVector.input,
-        model
-      })
+  // const vectors: types.PineconeCaptionVector[] = await pMap(
+  //   pendingVectors,
+  //   async (pendingVector) => {
+  //     const { data: embed } = await openai.createEmbedding({
+  //       input: pendingVector.input,
+  //       model
+  //     })
 
-      const vector: types.PineconeCaptionVector = {
-        id: pendingVector.id,
-        metadata: pendingVector.metadata,
-        values: embed.data[0].embedding
-      }
+  //     const vector: types.PineconeCaptionVector = {
+  //       id: pendingVector.id,
+  //       metadata: pendingVector.metadata,
+  //       values: embed.data[0].embedding
+  //     }
 
-      return vector
-    },
-    {
-      concurrency
-    }
-  )
+  //     return vector
+  //   },
+  //   {
+  //     concurrency
+  //   }
+  // )
 
-  return vectors
-}
-
-function getNumTokensEstimate(input: string): number {
-  const numTokens = (input || '')
-    .split(/\s/)
-    .map((token) => token.trim())
-    .filter(Boolean).length
-
-  return numTokens
+  // return vectors
 }
