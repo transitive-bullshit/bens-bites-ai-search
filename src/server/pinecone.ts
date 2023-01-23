@@ -37,7 +37,9 @@ export async function upsertEmbeddingsForNewsletter(
             'vectors'
           )
 
-          await pinecone.upsert({ vectors })
+          if (vectors.length) {
+            await pinecone.upsert({ vectors })
+          }
 
           return post
         } catch (err) {

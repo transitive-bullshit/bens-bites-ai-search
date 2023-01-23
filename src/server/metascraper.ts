@@ -16,9 +16,6 @@ export interface LinkMetadata {
   description: string
   publisher: string
   title: string
-  date: string
-  image?: string
-  video?: string
 }
 
 const cache = new QuickLRU<string, LinkMetadata>({ maxSize: 10000 })
@@ -51,7 +48,13 @@ async function getLinkMetadataImpl(url: string): Promise<LinkMetadata> {
     return null
   }
 
-  return getLinkContent(url).then(m)
+  const metadata = await getLinkContent(url).then(m)
+
+  delete metadata.date
+  delete metadata.image
+  delete (metadata as any).video
+
+  return metadata
 }
 
 async function getLinkContent(url: string) {

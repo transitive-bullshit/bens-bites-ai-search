@@ -50,8 +50,8 @@ export async function getEmbeddingsForPost({
     switch (node.type) {
       case 'paragraph':
       case 'heading': {
-        const markdown = renderMarkdownNodeAsMarkdown(node)
         const text = renderMarkdownNodeAsText(node)
+        const markdown = renderMarkdownNodeAsMarkdown(node)
 
         pendingNodes.push({
           node,
@@ -85,12 +85,20 @@ export async function getEmbeddingsForPost({
     // TODO: handle URLs
 
     const text = renderMarkdownNodeAsText(node)
-    if (!text) return
+    if (!text) continue
 
-    const input =
-      prevHeading && node.type !== 'heading'
-        ? `${prevHeading.text}\n\n${text}`
-        : text
+    if (node.type === 'heading') {
+      prevHeading = {
+        text,
+        markdown
+      }
+
+      continue
+    }
+
+    if (text.length < 10) continue
+
+    const input = prevHeading ? `${prevHeading.text}\n\n${text}` : text
 
     const vector: PineconePendingVector = {
       id: `${postId}:${vectorIndex++}`,
@@ -105,17 +113,11 @@ export async function getEmbeddingsForPost({
       }
     }
 
-    if (node.type === 'heading') {
-      prevHeading = {
-        text,
-        markdown
-      }
-    }
-
     pendingVectors.push(vector)
   }
 
   console.log(pendingVectors)
+  console.log(pendingVectors.length, 'vectors')
   return []
 
   // const vectors: types.PineconeVector[] = await pMap(

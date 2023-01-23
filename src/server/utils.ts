@@ -160,7 +160,7 @@ export async function replaceMarkdownLinksWithMetadata(
   tree: Root,
   opts: NormalizeMarkdownOptions = {}
 ) {
-  const { concurrency = 4 } = opts
+  const { concurrency = 8 } = opts
   const urlToNodeMap: Record<string, Link> = {}
   const urlToMetadata: Record<string, LinkMetadata> = {}
 
@@ -196,16 +196,19 @@ export async function replaceMarkdownLinksWithMetadata(
 
       if (metadata) {
         const text = toString(node)
-        const value = [
-          text,
-          metadata.title,
-          metadata.description,
-          metadata.author,
-          metadata.publisher
-        ]
-          .map((value) => value?.trim())
-          .filter(Boolean)
-          .join(' ')
+        const value = Array.from(
+          new Set(
+            [
+              text,
+              metadata.title,
+              metadata.description,
+              metadata.author,
+              metadata.publisher
+            ]
+              .map((value) => value?.trim())
+              .filter(Boolean)
+          )
+        ).join(' ')
 
         const replacement: Text = {
           type: 'text',
