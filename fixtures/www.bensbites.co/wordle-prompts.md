@@ -104,7 +104,7 @@ SPACEx is a method for [**generating high-resolution, expressive videos with rea
 
 [**The limitations of existing NeRF-based methods**](https://yifanjiang.net/alignerf) when reconstructing high-resolution real scenes, and proposes solutions to address these limitations.
 
-I can't believe there's no images![Learning visual tasks using only language data](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wOTc3OCIsInBvc3RfaWQiOiIyOTY0YTU1YS1jMDA4LTQwMmItYWM2Zi01YTFmMGM5OTFlZmYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZjI3YjY4MjMtMDZmMi00YjI5LTkwM2QtNmMwYTBlYzJjYjc2IiwiaWF0IjoxNjc0MjU0NzE4LjM3LCJpc3MiOiJvcmNoaWQifQ.FonEbfU4XQFRMZrAIw9zdejN4TNcgl0v3pZJacaHtcw).
+I can't believe there's no images![Learning visual tasks using only language data](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9hYnMvMjIxMS4wOTc3OCIsInBvc3RfaWQiOiIyOTY0YTU1YS1jMDA4LTQwMmItYWM2Zi01YTFmMGM5OTFlZmYiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiMDg4ODc3ZGUtYmMzYy00OGQ4LTk4NDgtZmQzNjA3Y2NjZGEwIiwiaWF0IjoxNjc0NDM1NTIzLjgxMSwiaXNzIjoib3JjaGlkIn0.qZTAOuy_Eo_Xsmq14apSRA6C1hiPgs26FG3KLv3PDWc).
 
 Conffusion - for [**generating confidence intervals around reconstructed pixels in an image**](https://www.vision.huji.ac.il/conffusion/). This method is designed to be faster and more accurate than existing methods.
 
