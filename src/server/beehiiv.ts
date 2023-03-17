@@ -9,16 +9,20 @@ import { normalizeMarkdown } from './utils'
 export async function resolveBeeHiivNewsletter(
   url: string,
   {
-    normalizeMarkdown: shouldNormalizeMarkdown = true
+    normalizeMarkdown: shouldNormalizeMarkdown = true,
+    beehiivCookie = process.env.BEEHIIV_COOKIE
   }: {
     normalizeMarkdown?: boolean
+    beehiivCookie?: string
   } = {}
 ) {
   const u = new URL(url)
   const domain = u.hostname
   const baseUrl = u.origin
 
-  const page = await got(baseUrl).text()
+  const page = await got(baseUrl, {
+    headers: { cookie: beehiivCookie }
+  }).text()
 
   const $ = cheerio.load(page)
   const s = $('script')
@@ -50,7 +54,9 @@ export async function resolveBeeHiivNewsletter(
     pages,
     async (index) => {
       const url = `${baseUrl}/posts?page=${index}&_data=routes%2F__loaders%2Fposts`
-      const page: any = await got(url).json()
+      const page: any = await got(url, {
+        headers: { cookie: beehiivCookie }
+      }).json()
       return page.posts
     },
     {
@@ -69,7 +75,8 @@ export async function resolveBeeHiivNewsletter(
       try {
         post.markdown = await resolveBeeHiivPostContent(url, {
           baseUrl,
-          normalizeMarkdown: shouldNormalizeMarkdown
+          normalizeMarkdown: shouldNormalizeMarkdown,
+          beehiivCookie
         })
       } catch (err) {
         console.warn('error processing beehiiv post', url, err.toString())
@@ -92,11 +99,16 @@ export async function resolveBeeHiivPostContent(
   url: string,
   {
     baseUrl,
-    normalizeMarkdown: shouldNormalizeMarkdown = true
-  }: { baseUrl?: string; normalizeMarkdown?: boolean } = {}
+    normalizeMarkdown: shouldNormalizeMarkdown = true,
+    beehiivCookie
+  }: {
+    baseUrl?: string
+    normalizeMarkdown?: boolean
+    beehiivCookie?: string
+  } = {}
 ) {
   console.log(url)
-  const page = await got(url).text()
+  const page = await got(url, { headers: { cookie: beehiivCookie } }).text()
 
   const $ = cheerio.load(page)
   const s = $('script')
