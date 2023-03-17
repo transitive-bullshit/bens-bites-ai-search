@@ -235,7 +235,7 @@ export function renderMarkdownNodeAsMarkdown(node: any): string {
 
 export function renderMarkdownNodeAsText(node: any): string {
   // deburr converts accents to non-accents
-  // déjà vu => 'deja vu
+  // déjà vu => deja vu
   const text = deburr(
     toString(node)
       .trim()
