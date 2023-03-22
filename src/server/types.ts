@@ -19,6 +19,14 @@ export type PineconeMetadata = {
   author_url?: string
   linkText?: string
 
+  thumbnail?: string
+  thumbnailWidth?: number
+  thumbnailHeight?: number
+
+  icon?: string
+  iconWidth?: number
+  iconHeight?: number
+
   url: string
   postTitle: string
   postDate: string
@@ -43,6 +51,14 @@ export interface LinkMetadata {
   date?: string
   author_url?: string
   linkText?: string
+
+  thumbnail?: string
+  thumbnailWidth?: number
+  thumbnailHeight?: number
+
+  icon?: string
+  iconWidth?: number
+  iconHeight?: number
 }
 
 export interface NewsletterLink extends LinkMetadata {
@@ -54,6 +70,24 @@ export interface NewsletterLink extends LinkMetadata {
 }
 
 export type NewsletterLinkMap = Record<string, NewsletterLink>
+
+export interface IFramelyLinks {
+  thumbnail: IFramelyImage[]
+  icon: IFramelyImage[]
+}
+
+export interface IFramelyImage {
+  href: string
+  rel: string[]
+  type: string
+  media?: IFramelyMedia
+  content_length?: number
+}
+
+export interface IFramelyMedia {
+  width: number
+  height: number
+}
 
 export namespace beehiiv {
   export interface Newsletter {
