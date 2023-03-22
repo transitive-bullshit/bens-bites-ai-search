@@ -20,36 +20,43 @@ async function main() {
   const newsletterLinkMap: types.NewsletterLinkMap = {}
   const newsletterLinkMapNew: types.NewsletterLinkMap = {}
 
-  try {
-    const parsed = papaparse.parse(
-      await fs.readFile(config.newsletterLinksPath, 'utf-8'),
-      {
-        header: true
-      }
-    )
-    const newsletterLinks: types.NewsletterLink[] = parsed.data
+  if (!force) {
+    try {
+      const parsed = papaparse.parse(
+        await fs.readFile(config.newsletterLinksPath, 'utf-8'),
+        {
+          header: true
+        }
+      )
+      const newsletterLinks: types.NewsletterLink[] = parsed.data
 
-    for (const link of newsletterLinks) {
-      if (link.url) {
-        newsletterLinkMap[link.url] = link
+      for (const link of newsletterLinks) {
+        if (link.url) {
+          newsletterLinkMap[link.url] = link
+        }
       }
+    } catch (err) {
+      console.warn(
+        'warning unable to read newsletter link cache',
+        err.toString()
+      )
     }
-  } catch (err) {
-    console.warn('warning unable to read newsletter link cache', err.toString())
   }
 
-  const posts = await pMap(
-    newsletter.posts,
-    async (post) => {
-      const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
-      const markdown = await fs.readFile(postPath, 'utf-8')
-      post.markdown = markdown
-      return post
-    },
-    {
-      concurrency: 8
-    }
-  )
+  const posts = (
+    await pMap(
+      newsletter.posts,
+      async (post) => {
+        const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
+        const markdown = await fs.readFile(postPath, 'utf-8')
+        post.markdown = markdown
+        return post
+      },
+      {
+        concurrency: 8
+      }
+    )
+  ).slice(0, 1)
 
   console.log(
     '\nprocessing',

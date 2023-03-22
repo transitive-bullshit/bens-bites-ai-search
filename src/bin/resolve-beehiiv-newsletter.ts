@@ -5,7 +5,6 @@ import rmfr from 'rmfr'
 
 import * as beehiiv from '@/server/beehiiv'
 import * as config from '@/server/config'
-import { resolveLink } from '@/server/utils'
 
 async function main() {
   // const url = 'https://t.co/9gy192Ct5d'
