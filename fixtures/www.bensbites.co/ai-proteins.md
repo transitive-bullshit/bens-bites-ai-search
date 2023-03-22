@@ -69,15 +69,15 @@ Let's get to it.
 - DifFace, for **blind face restoration** that is capable of dealing with unseen and complex degradations without complicated loss designs. ([link](https://arxiv.org/abs/2212.06512))
 - Neural technique for learning to **select a local sub-region around a point which can be used for mesh parameterisation**. ([link](https://arxiv.org/abs/2212.06344))
 - Structured 3D features for **reconstructing relightable and animatable avatars**. ([link](https://arxiv.org/abs/2212.06820))
-- GPViT: a high-resolution **non-hierarchical vision transformer** with group propagation. ([link](https://t.co/7UgzDiuTu6))
-- FastMIM: **expediting masked image modelling** pre-training for vision. ([link](https://t.co/nPLAsuKAbI))
+- GPViT: a high-resolution **non-hierarchical vision transformer** with group propagation. ([link](https://arxiv.org/abs/2212.06795))
+- FastMIM: **expediting masked image modelling** pre-training for vision. ([link](https://arxiv.org/abs/2212.06593))
 - Structure-guided image completion with **image-level and object-level semantic discriminators**. ([link](https://arxiv.org/abs/2212.06310))
 - DiffStack, a **differentiable and modular stack for prediction, planning, and control**. ([link](https://arxiv.org/abs/2212.06437))
 - ScanEnts3D: **exploiting phrase-to-3d-object correspondences** for improved Visio-linguistic models in 3d scenes. ([link](https://arxiv.org/abs/2212.06250))
-- You only need a **good embedding extractor to fix spurious correlations**. ([link](https://t.co/SYmWt8Vtmn))
-- Structured Prompting: **scaling in-context learning** to 1,000 examples. ([link](https://t.co/2bI3szwnrl))
-- **What do vision transformers learn**? A visual exploration. ([link](https://t.co/0xJ8UyglHP))
-- ERNIE-Code: beyond **English-centric cross-lingual pretraining** for programming languages. ([link](https://t.co/lH2krUY0IR))
+- You only need a **good embedding extractor to fix spurious correlations**. ([link](https://arxiv.org/abs/2212.06254))
+- Structured Prompting: **scaling in-context learning** to 1,000 examples. ([link](https://arxiv.org/abs/2212.06713))
+- **What do vision transformers learn**? A visual exploration. ([link](https://arxiv.org/abs/2212.06727))
+- ERNIE-Code: beyond **English-centric cross-lingual pretraining** for programming languages. ([link](https://arxiv.org/abs/2212.06742))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

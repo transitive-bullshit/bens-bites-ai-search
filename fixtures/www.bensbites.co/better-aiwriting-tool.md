@@ -47,7 +47,7 @@ Nathan writes for a living. **Creatives who embrace AI are going to be much more
 
 - Are you as bad at writing resumes as me? **[Upload your resume and get feedback](https://twitter.com/MakadiaHarsh/status/1580906494341500928%5D) in 30 seconds** from an AI created by the experts. It helps optimize your LinkedIn profile to land 5x more interviews.
 
-- [thismoviedoesnotexist.org](https://t.co/x2UjzonDMC) uses AI (GPT-3 + StableDiffusion) to [**generate fake movie posters + title + synopsis.**](https://twitter.com/slhomme/status/1580973304923713536?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g)
+- [thismoviedoesnotexist.org](https://thismoviedoesnotexist.org/) uses AI (GPT-3 + StableDiffusion) to [**generate fake movie posters + title + synopsis.**](https://twitter.com/slhomme/status/1580973304923713536?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g)
 
 - Ultra-large AI models are over. No, they’re not breaking up…But [here’s an analysis](https://twitter.com/alber_romgar/status/1580967562170732544?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g) on **why AI companies may have reasons not to pursue them.**
 

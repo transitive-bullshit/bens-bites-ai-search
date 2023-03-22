@@ -64,7 +64,7 @@ Check it out [here](https://waymark.com/).
 - SODA: **Million-scale dialogue distillation** with social commonsense contextualisation. ([link](https://arxiv.org/abs/2212.10465))
 - Panoptic Lifting, a novel approach for **learning panoptic 3D volumetric representations from images**of in-the-wild scene. ([link](https://arxiv.org/abs/2212.09802))
 - MetaCLUE, a set of **vision tasks on visual metaphor**, and a collection of high-quality and rich metaphor annotations. ([link](https://arxiv.org/abs/2212.09898))
-- LayoutDETR: **Detection transformer** is a good multimodal layout designer. ([link](https://t.co/tUqIq7xpg7))
+- LayoutDETR: **Detection transformer** is a good multimodal layout designer. ([link](https://arxiv.org/abs/2212.09877))
 - **Character-aware models improve visual text rendering**. ([link](https://arxiv.org/abs/2212.10562))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.

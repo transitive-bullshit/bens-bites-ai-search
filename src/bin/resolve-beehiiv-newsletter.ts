@@ -5,8 +5,13 @@ import rmfr from 'rmfr'
 
 import * as beehiiv from '@/server/beehiiv'
 import * as config from '@/server/config'
+import { resolveLink } from '@/server/utils'
 
 async function main() {
+  // const url = 'https://t.co/9gy192Ct5d'
+  // await resolveLink(url)
+  // return
+
   // const page = await beehiiv.resolveBeeHiivPostContent(
   //   'https://www.bensbites.co/p/wordle-prompts',
   //   //   'https://www.bensbites.co/p/microsoft-stepping-gear',

@@ -53,15 +53,15 @@ David Friedman talks about the how **complicated problems of the Westworld-like 
 
 - ImageNet-X: A set of human annotations pinpointing **failure types for the popular ImageNet dataset**. ([link](https://facebookresearch.github.io/imagenetx/site/home))
 - EHR-Safe: Generating **high-fidelity and privacy-preserving synthetic electronic health records**. ([link](https://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html))
-- **Language Models as inductive reasoners**. ([link](https://t.co/7TXSVdmix9))
-- **From images to textual prompts**: Zero-shot VQA with frozen large language models. ([link](https://t.co/LYwIgRP6EX))
-- ImPaKT: A dataset for **open-schema knowledge base construction**. ([link](https://t.co/xN4SmNVNJP))
-- mFACE: **Multilingual summarisation**with factual consistency evaluation. ([link](https://t.co/A70WNpaZxe))
-- 3D Highlighter: **Localising regions on 3d shapes** via text descriptions. ([link](https://t.co/8oviwYoIkX))
-- Parallel Context windows **improve in-context learning of large language models**. ([link](https://t.co/4Zkqdr8wBn))
-- X-Decoder: **Generalised decoding for pixel, image and language**. ([link](https://t.co/aqVdA3akGY))
+- **Language Models as inductive reasoners**. ([link](https://arxiv.org/abs/2212.10923))
+- **From images to textual prompts**: Zero-shot VQA with frozen large language models. ([link](https://arxiv.org/abs/2212.10846))
+- ImPaKT: A dataset for **open-schema knowledge base construction**. ([link](https://arxiv.org/abs/2212.10770))
+- mFACE: **Multilingual summarisation**with factual consistency evaluation. ([link](https://arxiv.org/abs/2212.10622))
+- 3D Highlighter: **Localising regions on 3d shapes** via text descriptions. ([link](https://arxiv.org/abs/2212.11263))
+- Parallel Context windows **improve in-context learning of large language models**. ([link](https://arxiv.org/abs/2212.10947))
+- X-Decoder: **Generalised decoding for pixel, image and language**. ([link](https://x-decoder-vl.github.io/))
 - WALDO: A trained detection (bounding-box) **deep neural network for UAV** enabling the detection of land-based objects. ([link](https://github.com/stephansturges/WALDO))
-- PaletteNeRF: **Palette-based appearance editing** of neural radiance fields. Explain like I'm 5: PaletteNeRF is a way to change how something looks in 3D space on a computer. It takes a bunch of little pieces and mixes them together to make a picture look different. You can change the colors of the pieces to make the picture look different. PaletteNeRF is really good at making the changes look real and not fake. ([link](https://t.co/zsA8STcoU9))
+- PaletteNeRF: **Palette-based appearance editing** of neural radiance fields. Explain like I'm 5: PaletteNeRF is a way to change how something looks in 3D space on a computer. It takes a bunch of little pieces and mixes them together to make a picture look different. You can change the colors of the pieces to make the picture look different. PaletteNeRF is really good at making the changes look real and not fake. ([link](https://arxiv.org/abs/2212.10699))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/359cfb9e-7349-4c7c-958f-e4fc2a187c37/Screen_Recording_2022-12-22_at_11.52.22.gif)
 

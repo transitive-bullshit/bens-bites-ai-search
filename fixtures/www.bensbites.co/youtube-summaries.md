@@ -48,7 +48,7 @@ Let's get to it.
 - ROSCOE: A suite of metrics for **scoring step-by-step reasoning.** ([link](https://arxiv.org/abs/2212.07919))
 - Constitutional AI: **Harmlessness from AI feedback**. ([link](https://www.anthropic.com/constitutional.pdf))
 - CarperAI announces a new release: CHEESE, a Co-adaptive Harness for Effective Evaluation, Steering, and Enhancement to **solve human feedback data collection** with a simple API. ([link](https://carper.ai/cheese-release/))
-- Confident Adaptive Language Modeling (CALM), a novel method that allows **language models to dynamically modify computational effort** when generating text. ([link](https://t.co/Nm7yyT8sMA))
+- Confident Adaptive Language Modeling (CALM), a novel method that allows **language models to dynamically modify computational effort** when generating text. ([link](https://goo.gle/3HJKzbM))
 - Rodin: A generative model for **sculpting 3d digital avatars** using diffusion. ([link](https://3d-avatar-diffusion.microsoft.com/#/))
 - **The alignment problem** from a deep learning perspective. ([link](https://arxiv.org/abs/2209.00626))
 - **Teaching small language models to reason**. ([link](https://arxiv.org/abs/2212.08410v1))

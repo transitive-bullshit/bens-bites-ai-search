@@ -6,12 +6,11 @@ import isRelativeUrl from 'is-relative-url'
 import pMemoize from 'p-memoize'
 import QuickLRU from 'quick-lru'
 
-import { protocolAllowList } from './config'
+import { domainAllowList, protocolAllowList } from './config'
 import got from './got'
 
 const lruLinkCache = new QuickLRU<string, string>({ maxSize: 10000 })
 export const resolveLink = pMemoize(resolveLinkImpl, { cache: lruLinkCache })
-export const domainAllowList = new Set(['flight.beehiiv.net', 't.co', 'bit.ly'])
 
 export const agent = {
   http: new http.Agent(),
@@ -20,7 +19,7 @@ export const agent = {
 
 async function resolveLinkImpl(
   url: string,
-  { baseUrl }: { baseUrl?: string } = {}
+  { baseUrl, depth = 0 }: { baseUrl?: string; depth?: number } = {}
 ) {
   try {
     if (isRelativeUrl(url)) {
@@ -28,6 +27,10 @@ async function resolveLinkImpl(
         url = new URL(url, baseUrl).toString()
       }
 
+      return url
+    }
+
+    if (depth >= 2) {
       return url
     }
 
@@ -42,10 +45,9 @@ async function resolveLinkImpl(
 
     const res = await got(url, {
       headers: {
-        accept:
-          'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        accept: '*/*',
         'accept-encoding': 'gzip, deflate, br',
-        'accept-language': 'en-US,en;q=0.9'
+        'user-agent': 'HTTPie/3.2.1'
       },
       agent,
       timeout: {
@@ -54,7 +56,19 @@ async function resolveLinkImpl(
       followRedirect: false
     })
 
-    return res.headers.location || url
+    const location = res.headers.location
+    if (location) {
+      const resolvedLink = await resolveLink(location, {
+        baseUrl,
+        depth: depth + 1
+      })
+
+      if (resolvedLink) {
+        return resolvedLink
+      }
+    }
+
+    return url
   } catch (err) {
     console.warn('error', url, err.toString(), err)
     // fallback to the original URL
