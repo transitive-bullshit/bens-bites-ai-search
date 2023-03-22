@@ -22,6 +22,20 @@ export type PineconeVector = Vector<PineconeMetadata> & {
   metadata: PineconeMetadata
 }
 
+export interface LinkMetadata {
+  title?: string
+  description?: string
+  site?: string
+  medium?: string
+  author?: string
+  category?: string
+  shortlink?: string
+  canonical?: string
+  date?: string
+  author_url?: string
+  linkText?: string
+}
+
 export namespace beehiiv {
   export interface Newsletter {
     domain: string
@@ -160,18 +174,4 @@ export namespace beehiiv {
   }
 
   export type PostStatus = 'published'
-}
-
-export interface LinkMetadata {
-  title?: string
-  description?: string
-  site?: string
-  medium?: string
-  author?: string
-  category?: string
-  shortlink?: string
-  canonical?: string
-  date?: string
-  author_url?: string
-  linkText?: string
 }

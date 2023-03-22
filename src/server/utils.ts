@@ -164,8 +164,6 @@ export async function replaceMarkdownLinksWithMetadata(
   tree: Root,
   opts: NormalizeMarkdownOptions = {}
 ) {
-  const { concurrency = 8 } = opts
-  const urlToNodeMap: Record<string, Link> = {}
   const urlToMetadata = await resolveMarkdownLinksWithMetadata(tree, opts)
 
   visitor.visit(tree, ['link'], (node, index, parent) => {

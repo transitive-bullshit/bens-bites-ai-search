@@ -1,37 +1,25 @@
 import * as fs from 'node:fs/promises'
 import path from 'node:path'
 
-import { Configuration, OpenAIApi } from 'openai'
-// import { upsertVideoTranscriptsForPlaylist } from '@/server/pinecone'
 import pMap from 'p-map'
 import papaparse from 'papaparse'
 import remarkParse from 'remark-parse'
 import { unified } from 'unified'
 
-import * as metascraper from '@/server/metascraper'
+import * as config from '@/server/config'
 import * as types from '@/server/types'
 import * as utils from '@/server/utils'
 import '@/server/config'
 
 async function main() {
-  const openai = new OpenAIApi(
-    new Configuration({
-      apiKey: process.env.OPENAI_API_KEY
-    })
-  )
-
-  const input = 'www.bensbites.co'
-  const folder = path.join('fixtures', input)
-  const newsletterPath = path.join(folder, 'newsletter.json')
-
   const newsletter: types.beehiiv.Newsletter = JSON.parse(
-    await fs.readFile(newsletterPath, 'utf-8')
+    await fs.readFile(config.newsletterMetadataPath, 'utf-8')
   )
 
   const posts = await pMap(
     newsletter.posts,
     async (post) => {
-      const postPath = path.join(folder, `${post.slug}.md`)
+      const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
       const markdown = await fs.readFile(postPath, 'utf-8')
       post.markdown = markdown
       return post
@@ -137,14 +125,9 @@ async function main() {
     }),
     'utf-8'
   )
-  // await metascraper.closeLinkMetadata()
 }
 
-main()
-  .catch((err) => {
-    console.error('error', err)
-    process.exit(1)
-  })
-  .finally(() => {
-    return metascraper.closeLinkMetadata()
-  })
+main().catch((err) => {
+  console.error('error', err)
+  process.exit(1)
+})
