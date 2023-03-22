@@ -1,3 +1,4 @@
+import crypto from 'node:crypto'
 import fs from 'node:fs/promises'
 import http from 'node:http'
 import https from 'node:https'
@@ -6,6 +7,7 @@ import isRelativeUrl from 'is-relative-url'
 import pMemoize from 'p-memoize'
 import QuickLRU from 'quick-lru'
 
+import * as types from './types'
 import { domainAllowList, protocolAllowList } from './config'
 import got from './got'
 
@@ -94,4 +96,17 @@ export function omit<T extends object, U = T>(obj: T, ...keys: string[]): U {
   return Object.fromEntries<T>(
     Object.entries(obj).filter(([key]) => !keys.includes(key))
   ) as U
+}
+
+export function hash(d: Buffer | string): string {
+  const buffer = Buffer.isBuffer(d) ? d : Buffer.from(d.toString())
+  return crypto.createHash('sha256').update(buffer).digest('hex')
+}
+
+export function sanitizePineconeString(input: string): string {
+  return input.replace(/[\ud800-\udfff]/g, '').trim()
+}
+
+export function getNewsletterLinkId(link: types.NewsletterLink): string {
+  return `${link.postId}-${hash(link.url).slice(0, 16)}`
 }

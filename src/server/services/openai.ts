@@ -1,6 +1,6 @@
 import { Configuration, OpenAIApi } from 'openai'
 
-import '@/config'
+import '../config'
 
 export const openai = new OpenAIApi(
   new Configuration({

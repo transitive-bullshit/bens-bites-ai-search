@@ -50,3 +50,43 @@ export async function upsertVectors(
     }
   )
 }
+
+export async function fetchVectors(
+  ids: string[],
+  {
+    batchSize = 500,
+    concurrency = 16
+  }: { batchSize?: number; concurrency?: number } = {}
+): Promise<types.PineconeVector[]> {
+  const batches: string[][] = []
+  const numBatches = Math.ceil(ids.length / batchSize)
+
+  for (let i = 0; i < numBatches; i++) {
+    const offset = i * batchSize
+    batches.push(ids.slice(offset, offset + batchSize))
+  }
+
+  console.log(
+    `fetching existing pinecone vectors (${ids.length} vectors across ${batches.length} batches)`
+  )
+
+  const vectors = (
+    await pMap(
+      batches,
+      async (batchIds, index) => {
+        try {
+          const res = await pinecone.fetch({ ids: batchIds })
+          return Object.values(res.vectors) as types.PineconeVector[]
+        } catch (err) {
+          console.warn('error fetching pinecone vectors', index, err.toString())
+          return []
+        }
+      },
+      {
+        concurrency
+      }
+    )
+  ).flat()
+
+  return vectors
+}
