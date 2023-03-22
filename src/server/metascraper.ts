@@ -11,12 +11,12 @@ import metascraperYouTube from 'metascraper-youtube'
 import pMemoize from 'p-memoize'
 import QuickLRU from 'quick-lru'
 
+import { protocolAllowList } from './config'
+
 export type LinkMetadata = Omit<Metadata, 'date' | 'image' | 'video'>
 
 const cache = new QuickLRU<string, LinkMetadata | null>({ maxSize: 10000 })
 export const getLinkMetadata = pMemoize(getLinkMetadataImpl, { cache })
-
-export const protocolAllowList = new Set(['https:', 'http:'])
 
 const m = metascraper([
   metascraperAuthor(),

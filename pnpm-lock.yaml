@@ -30,6 +30,7 @@ specifiers:
   openai: ^3.1.0
   p-map: ^5.5.0
   p-memoize: ^7.1.1
+  papaparse: ^5.4.0
   pinecone-client: ^1.0.1
   prettier: ^2.8.3
   puppeteer: ^19.5.2
@@ -68,6 +69,7 @@ dependencies:
   openai: 3.1.0
   p-map: 5.5.0
   p-memoize: 7.1.1
+  papaparse: 5.4.0
   pinecone-client: 1.0.1
   puppeteer: 19.5.2
   quick-lru: 6.1.1
@@ -4215,6 +4217,10 @@ packages:
 
   /papaparse/5.3.2:
     resolution: {integrity: sha512-6dNZu0Ki+gyV0eBsFKJhYr+MdQYAzFUGlBMNj3GNrmHxmz1lfRa24CjFObPXtjcetlOv5Ad299MhIK0znp3afw==}
+    dev: false
+
+  /papaparse/5.4.0:
+    resolution: {integrity: sha512-ZBQABWG09p+u8rFoJVl/GhgxZ5zy9Zh1Lu/LVc7VX5T4nljjC14/YTcpebYwqP218B9X307eBOP7Tuhoqv7v7w==}
     dev: false
 
   /parent-module/1.0.1:

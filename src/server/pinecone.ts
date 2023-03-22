@@ -15,7 +15,10 @@ export async function upsertEmbeddingsForNewsletter(
     concurrency?: number
   }
 ) {
-  const posts = newsletter.posts.filter((post) => post.markdown).slice(0, 1)
+  const posts = newsletter.posts
+    .filter((post) => post.markdown)
+    // TODO!! temporary
+    .slice(0, 1)
 
   return (
     await pMap(

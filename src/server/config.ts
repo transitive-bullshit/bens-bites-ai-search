@@ -26,5 +26,6 @@ if (env.success === false) {
 }
 
 export const openaiEmbeddingModel = 'text-embedding-ada-002'
+export const protocolAllowList = new Set(['https:', 'http:'])
 
 export default env

@@ -1,3 +1,4 @@
+import fs from 'node:fs/promises'
 import http from 'node:http'
 import https from 'node:https'
 
@@ -15,12 +16,15 @@ import remarkParse from 'remark-parse'
 import remarkStringify from 'remark-stringify'
 import { unified } from 'unified'
 
+import * as types from './types'
+import { protocolAllowList } from './config'
 import got from './got'
-import { LinkMetadata, getLinkMetadata } from './metascraper'
+import { getLinkMetadata } from './services/iframely'
+
+// import { LinkMetadata, getLinkMetadata } from './metascraper'
 
 const lruLinkCache = new QuickLRU<string, string>({ maxSize: 10000 })
 export const resolveLink = pMemoize(resolveLinkImpl, { cache: lruLinkCache })
-export const protocolAllowList = new Set(['https:', 'http:'])
 export const domainAllowList = new Set(['flight.beehiiv.net'])
 
 export const agent = {
@@ -162,32 +166,7 @@ export async function replaceMarkdownLinksWithMetadata(
 ) {
   const { concurrency = 8 } = opts
   const urlToNodeMap: Record<string, Link> = {}
-  const urlToMetadata: Record<string, LinkMetadata> = {}
-
-  visitor.visit(tree, ['link'], (node, index, parent) => {
-    if (node.type === 'link' && parent && typeof index === 'number') {
-      urlToNodeMap[node.url] = node
-    }
-  })
-
-  const urls = Object.keys(urlToNodeMap)
-
-  await pMap(
-    urls,
-    async (url) => {
-      try {
-        console.log('>>> metadata', url)
-        urlToMetadata[url] = await getLinkMetadata(url)
-        console.log('>>> metadata', url, urlToMetadata[url])
-      } catch (err) {
-        console.warn('error', url, err)
-        // ignore for now
-      }
-    },
-    {
-      concurrency
-    }
-  )
+  const urlToMetadata = await resolveMarkdownLinksWithMetadata(tree, opts)
 
   visitor.visit(tree, ['link'], (node, index, parent) => {
     if (node.type === 'link' && parent && typeof index === 'number') {
@@ -202,8 +181,9 @@ export async function replaceMarkdownLinksWithMetadata(
               text,
               metadata.title,
               metadata.description,
-              metadata.author,
-              metadata.publisher
+              metadata.site
+              // metadata.author,
+              // metadata.publisher
             ]
               .map((value) => value?.trim())
               .filter(Boolean)
@@ -222,6 +202,48 @@ export async function replaceMarkdownLinksWithMetadata(
   })
 
   return tree
+}
+
+export async function resolveMarkdownLinksWithMetadata(
+  tree: Root,
+  opts: NormalizeMarkdownOptions = {}
+) {
+  const { concurrency = 8 } = opts
+  const urlToNodeMap: Record<string, Link> = {}
+  const urlToMetadata: Record<string, types.LinkMetadata> = {}
+
+  visitor.visit(tree, ['link'], (node, index, parent) => {
+    if (node.type === 'link' && parent && typeof index === 'number') {
+      urlToNodeMap[node.url] = node
+    }
+  })
+
+  const urls = Object.keys(urlToNodeMap)
+
+  await pMap(
+    urls,
+    async (url) => {
+      try {
+        console.log('>>> metadata', url)
+        const metadata = await getLinkMetadata(url)
+        if (metadata) {
+          const node = urlToNodeMap[url]
+          const text = renderMarkdownNodeAsText(node)
+          metadata.linkText = text
+          urlToMetadata[url] = metadata
+        }
+        console.log('>>> metadata', url, metadata)
+      } catch (err) {
+        console.warn('error', url, err)
+        // ignore for now
+      }
+    },
+    {
+      concurrency
+    }
+  )
+
+  return urlToMetadata
 }
 
 export function renderMarkdownNodeAsMarkdown(node: any): string {
@@ -247,4 +269,24 @@ export function renderMarkdownNodeAsText(node: any): string {
     .trim()
 
   return text
+}
+
+export async function readJson<T = any>(filePath: string): Promise<T> {
+  return JSON.parse(await fs.readFile(filePath, 'utf-8'))
+}
+
+export async function writeJson<T = any>(filePath: string, json: T) {
+  return fs.writeFile(filePath, JSON.stringify(json, null, 2), 'utf-8')
+}
+
+export function pick<T extends object, U = T>(obj: T, ...keys: string[]): U {
+  return Object.fromEntries(
+    keys.filter((key) => key in obj).map((key) => [key, obj[key]])
+  ) as U
+}
+
+export function omit<T extends object, U = T>(obj: T, ...keys: string[]): U {
+  return Object.fromEntries<T>(
+    Object.entries(obj).filter(([key]) => !keys.includes(key))
+  ) as U
 }
