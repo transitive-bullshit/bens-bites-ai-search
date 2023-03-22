@@ -36,6 +36,16 @@ export interface LinkMetadata {
   linkText?: string
 }
 
+export interface NewsletterLink extends LinkMetadata {
+  url: string
+  postTitle: string
+  postDate: string
+  postId: string
+  postUrl: string
+}
+
+export type NewsletterLinkMap = Record<string, NewsletterLink>
+
 export namespace beehiiv {
   export interface Newsletter {
     domain: string

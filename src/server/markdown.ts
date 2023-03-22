@@ -16,6 +16,7 @@ import { getLinkMetadata } from './services/iframely'
 export interface NormalizeMarkdownOptions {
   baseUrl?: string
   concurrency?: number
+  isValidLink?: (url: string) => boolean
 }
 
 /**
@@ -143,7 +144,7 @@ export async function resolveMarkdownLinksWithMetadata(
   tree: Root,
   opts: NormalizeMarkdownOptions = {}
 ) {
-  const { concurrency = 8 } = opts
+  const { concurrency = 8, isValidLink } = opts
   const urlToNodeMap: Record<string, Link> = {}
   const urlToMetadata: Record<string, types.LinkMetadata> = {}
 
@@ -159,6 +160,10 @@ export async function resolveMarkdownLinksWithMetadata(
     urls,
     async (url) => {
       try {
+        if (isValidLink && !isValidLink(url)) {
+          return
+        }
+
         console.log('>>> metadata', url)
         const metadata = await getLinkMetadata(url)
         if (metadata) {

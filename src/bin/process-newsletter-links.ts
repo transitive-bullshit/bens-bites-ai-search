@@ -15,6 +15,28 @@ async function main() {
     await fs.readFile(config.newsletterMetadataPath, 'utf-8')
   )
 
+  let newsletterLinkMap: types.NewsletterLinkMap = {}
+  try {
+    const parsed = papaparse.parse(
+      await fs.readFile(config.newsletterLinksPath, 'utf-8'),
+      {
+        header: true
+      }
+    )
+    const newsletterLinks: types.NewsletterLink[] = parsed.data
+
+    for (const link of newsletterLinks) {
+      if (link.url) {
+        newsletterLinkMap[link.url] = link
+      }
+    }
+  } catch (err) {
+    console.log(err)
+  }
+
+  console.log(newsletterLinkMap)
+  return
+
   const posts = await pMap(
     newsletter.posts,
     async (post) => {
@@ -41,7 +63,21 @@ async function main() {
         const ast = unified().use(remarkParse).parse(post.markdown)
 
         const urlToMetadata = await markdown.resolveMarkdownLinksWithMetadata(
-          ast
+          ast,
+          {
+            isValidLink: (url: string) => {
+              try {
+                const parsedUrl = new URL(url)
+                if (/bensbites/i.test(parsedUrl.hostname)) {
+                  return false
+                }
+
+                return true
+              } catch (err) {
+                return false
+              }
+            }
+          }
         )
 
         console.log(
@@ -52,18 +88,6 @@ async function main() {
           Object.keys(urlToMetadata).length,
           'links'
         )
-
-        const urls = Object.keys(urlToMetadata)
-        for (const url of urls) {
-          try {
-            const parsedUrl = new URL(url)
-            if (/bensbites/.test(parsedUrl.hostname)) {
-              delete urlToMetadata[url]
-            }
-          } catch (err) {
-            delete urlToMetadata[url]
-          }
-        }
 
         postIdToUrlsMap[post.id] = urlToMetadata
       } catch (err) {
@@ -80,7 +104,7 @@ async function main() {
     }
   )
 
-  const urls = posts.flatMap((post) => {
+  const urls: types.NewsletterLink[] = posts.flatMap((post) => {
     const urls = postIdToUrlsMap[post.id]
     if (!urls) {
       return []
@@ -104,7 +128,7 @@ async function main() {
   console.log(JSON.stringify(urls, null, 2))
 
   await fs.writeFile(
-    'out/links.csv',
+    config.newsletterLinksPath,
     papaparse.unparse(urls, {
       columns: [
         'linkText',

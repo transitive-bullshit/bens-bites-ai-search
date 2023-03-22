@@ -39,5 +39,6 @@ export const newsletterMetadataPath = path.join(
   newsletterDir,
   'newsletter.json'
 )
+export const newsletterLinksPath = path.join(newsletterDir, 'links.csv')
 
 export default env
