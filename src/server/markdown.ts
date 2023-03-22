@@ -164,15 +164,14 @@ export async function resolveMarkdownLinksWithMetadata(
           return
         }
 
-        console.log('>>> metadata', url)
         const metadata = await getLinkMetadata(url)
         if (metadata) {
           const node = urlToNodeMap[url]
           const text = renderMarkdownNodeAsText(node)
           metadata.linkText = text
           urlToMetadata[url] = metadata
+          console.log('metadata', url, metadata)
         }
-        console.log('>>> metadata', url, metadata)
       } catch (err) {
         console.warn('error', url, err)
         // ignore for now

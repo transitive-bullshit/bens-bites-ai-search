@@ -51,9 +51,12 @@ async function main() {
     }
   )
 
-  console.log('\nprocessing', posts.length, 'posts\n')
-
-  const postIdToUrlsMap: Record<string, Record<string, types.LinkMetadata>> = {}
+  console.log(
+    '\nprocessing',
+    posts.length,
+    'posts',
+    `(${Object.keys(newsletterLinkMap).length} cached links)\n`
+  )
 
   await pMap(
     posts,
@@ -72,6 +75,10 @@ async function main() {
 
               try {
                 const parsedUrl = new URL(url)
+                if (!config.protocolAllowList.has(parsedUrl.protocol)) {
+                  return false
+                }
+
                 if (/bensbites/i.test(parsedUrl.hostname)) {
                   return false
                 }
@@ -96,7 +103,21 @@ async function main() {
           'new links'
         )
 
-        postIdToUrlsMap[post.id] = urlToMetadata
+        for (const url of Object.keys(urlToMetadata)) {
+          const metadata = urlToMetadata[url]
+
+          const link = {
+            ...metadata,
+            url,
+            postTitle: post.web_title,
+            postDate: post.created_at,
+            postId: post.id,
+            postUrl: post.url
+          }
+
+          newsletterLinkMap[url] = link
+          newsletterLinkMapNew[url] = link
+        }
       } catch (err) {
         console.warn(
           'error processing post',
@@ -111,29 +132,6 @@ async function main() {
     }
   )
 
-  for (const post of posts) {
-    const urls = postIdToUrlsMap[post.id]
-    if (!urls) {
-      return
-    }
-
-    for (const url of Object.keys(urls)) {
-      const metadata = urls[url]
-
-      const link = {
-        ...metadata,
-        url,
-        postTitle: post.web_title,
-        postDate: post.created_at,
-        postId: post.id,
-        postUrl: post.url
-      }
-
-      newsletterLinkMap[url] = link
-      newsletterLinkMapNew[url] = link
-    }
-  }
-
   function linkComparator(a: types.NewsletterLink, b: types.NewsletterLink) {
     const diff = new Date(a.postDate).getTime() - new Date(b.postDate).getTime()
     if (diff) {
@@ -147,7 +145,7 @@ async function main() {
   const newUrls = Object.values(newsletterLinkMapNew).sort(linkComparator)
 
   console.log(
-    'found',
+    '\n\n\n\nfound',
     newUrls.length,
     'new links',
     `(${urls.length} total)\n\n\n\n`
