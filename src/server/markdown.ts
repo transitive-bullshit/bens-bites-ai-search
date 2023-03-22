@@ -171,6 +171,10 @@ export async function resolveMarkdownLinksWithMetadata(
           url = parsedUrl.toString()
         }
 
+        if (isValidLink && !isValidLink(url)) {
+          return
+        }
+
         const metadata = await getLinkMetadata(url)
         if (metadata) {
           const node = urlToNodeMap[url]

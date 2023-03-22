@@ -25,7 +25,8 @@ async function main() {
       const parsed = papaparse.parse(
         await fs.readFile(config.newsletterLinksPath, 'utf-8'),
         {
-          header: true
+          header: true,
+          dynamicTyping: true
         }
       )
       const newsletterLinks: types.NewsletterLink[] = parsed.data
@@ -43,20 +44,20 @@ async function main() {
     }
   }
 
-  const posts = (
-    await pMap(
-      newsletter.posts,
-      async (post) => {
-        const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
-        const markdown = await fs.readFile(postPath, 'utf-8')
-        post.markdown = markdown
-        return post
-      },
-      {
-        concurrency: 8
-      }
-    )
-  ).slice(0, 1)
+  const posts = await pMap(
+    newsletter.posts,
+    async (post) => {
+      const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
+      const markdown = await fs.readFile(postPath, 'utf-8')
+      post.markdown = markdown
+      return post
+    },
+    {
+      concurrency: 8
+    }
+  )
+  // great for debugging a single post
+  // .slice(0, 1)
 
   console.log(
     '\nprocessing',
