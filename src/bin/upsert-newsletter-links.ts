@@ -32,13 +32,6 @@ async function main() {
           // pic.twitter.com/IvPV3QHaxn—
         }
 
-        if (
-          link.url ===
-          'https://twitter.com/alonsorobots/status/1587913514210840576?s=12&t=_ejXXak9WwXSFjlt1Tlb-Q'
-        ) {
-          console.log('NALAAAAAAA', { link, desc })
-        }
-
         const input = Array.from(
           new Set(
             [
