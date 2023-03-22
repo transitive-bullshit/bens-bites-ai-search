@@ -48,3 +48,5 @@ next-env.d.ts
 
 # data dumps
 out/
+
+fixtures/www.bensbites.co/links.csv
