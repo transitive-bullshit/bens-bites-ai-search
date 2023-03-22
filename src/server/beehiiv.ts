@@ -3,8 +3,8 @@ import html2md from 'html-to-md'
 import pMap from 'p-map'
 
 import got from './got'
+import { normalizeMarkdown } from './markdown'
 import { beehiiv } from './types'
-import { normalizeMarkdown } from './utils'
 
 export async function resolveBeeHiivNewsletter(
   url: string,
@@ -128,6 +128,7 @@ export async function resolveBeeHiivPostContent(
   const $post = cheerio.load(html)
   const postHtml = $post('.rendered-post').html()
 
+  // TODO: spaces between ! and link are being removed
   const postMarkdown = html2md(postHtml, {
     // TODO: we really only want to do this when <u> is inside of <a>
     // TODO: same thing for <b> inside of <a>

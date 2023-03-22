@@ -31,8 +31,10 @@ export const openaiEmbeddingModel = 'text-embedding-ada-002'
 export const openaiEmbeddingModelMaxTokens = 8191
 export const protocolAllowList = new Set(['https:', 'http:'])
 
-export const newsletterUrl = 'www.bensbites.co'
-export const newsletterDir = path.join('fixtures', newsletterUrl)
+export const newsletterUrl = process.env.BEEHIIV_URL
+export const newsletterParsedUrl = new URL(newsletterUrl)
+export const newsletterHostname = newsletterParsedUrl.hostname
+export const newsletterDir = path.join('fixtures', newsletterHostname)
 export const newsletterMetadataPath = path.join(
   newsletterDir,
   'newsletter.json'

@@ -7,9 +7,8 @@ import remarkParse from 'remark-parse'
 import { unified } from 'unified'
 
 import * as config from '@/server/config'
+import * as markdown from '@/server/markdown'
 import * as types from '@/server/types'
-import * as utils from '@/server/utils'
-import '@/server/config'
 
 async function main() {
   const newsletter: types.beehiiv.Newsletter = JSON.parse(
@@ -41,7 +40,9 @@ async function main() {
 
         const ast = unified().use(remarkParse).parse(post.markdown)
 
-        const urlToMetadata = await utils.resolveMarkdownLinksWithMetadata(ast)
+        const urlToMetadata = await markdown.resolveMarkdownLinksWithMetadata(
+          ast
+        )
 
         console.log(
           'post',

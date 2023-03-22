@@ -4,22 +4,22 @@ import path from 'node:path'
 import rmfr from 'rmfr'
 
 import * as beehiiv from '@/server/beehiiv'
-import '@/server/config'
+import * as config from '@/server/config'
 
 async function main() {
-  // const page = await beehiiv.resolveBeeHiivPostContent(
-  //   'https://www.bensbites.co/p/microsoft-stepping-gear',
-  //   // 'https://www.bensbites.co/p/wordle-prompts',
-  //   { baseUrl: 'https://www.bensbites.co' }
-  // )
-  // console.log(page)
-  // return
+  const page = await beehiiv.resolveBeeHiivPostContent(
+    'https://www.bensbites.co/p/wordle-prompts',
+    //   'https://www.bensbites.co/p/microsoft-stepping-gear',
+    { baseUrl: config.newsletterUrl }
+  )
+  console.log(page)
+  return
 
-  const newsletterUrl = process.env.BEEHIIV_URL
+  const newsletter = await beehiiv.resolveBeeHiivNewsletter(
+    config.newsletterUrl
+  )
 
-  const newsletter = await beehiiv.resolveBeeHiivNewsletter(newsletterUrl)
-
-  const outDir = `fixtures/${newsletter.domain}`
+  const outDir = config.newsletterDir
   await rmfr(outDir)
   await fs.mkdir(outDir, { recursive: true })
 
@@ -31,9 +31,8 @@ async function main() {
     }
   }
 
-  const newsletterFile = path.join(outDir, 'newsletter.json')
   await fs.writeFile(
-    newsletterFile,
+    config.newsletterMetadataPath,
     JSON.stringify(newsletter, null, 2),
     'utf-8'
   )
