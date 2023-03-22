@@ -11,11 +11,15 @@ import * as markdown from '@/server/markdown'
 import * as types from '@/server/types'
 
 async function main() {
+  const force = !!process.env.FORCE
+
   const newsletter: types.beehiiv.Newsletter = JSON.parse(
     await fs.readFile(config.newsletterMetadataPath, 'utf-8')
   )
 
-  let newsletterLinkMap: types.NewsletterLinkMap = {}
+  const newsletterLinkMap: types.NewsletterLinkMap = {}
+  const newsletterLinkMapNew: types.NewsletterLinkMap = {}
+
   try {
     const parsed = papaparse.parse(
       await fs.readFile(config.newsletterLinksPath, 'utf-8'),
@@ -31,11 +35,8 @@ async function main() {
       }
     }
   } catch (err) {
-    console.log(err)
+    console.warn('warning unable to read newsletter link cache', err.toString())
   }
-
-  console.log(newsletterLinkMap)
-  return
 
   const posts = await pMap(
     newsletter.posts,
@@ -66,6 +67,9 @@ async function main() {
           ast,
           {
             isValidLink: (url: string) => {
+              if (!url) return false
+              if (!force && newsletterLinkMap[url]) return false
+
               try {
                 const parsedUrl = new URL(url)
                 if (/bensbites/i.test(parsedUrl.hostname)) {
@@ -80,13 +84,16 @@ async function main() {
           }
         )
 
+        const numLinks = Object.keys(urlToMetadata).length
+        if (numLinks <= 0) return
+
         console.log(
           'post',
           post.url,
           `"${post.web_title}"`,
           'found',
-          Object.keys(urlToMetadata).length,
-          'links'
+          numLinks,
+          'new links'
         )
 
         postIdToUrlsMap[post.id] = urlToMetadata
@@ -104,16 +111,16 @@ async function main() {
     }
   )
 
-  const urls: types.NewsletterLink[] = posts.flatMap((post) => {
+  for (const post of posts) {
     const urls = postIdToUrlsMap[post.id]
     if (!urls) {
-      return []
+      return
     }
 
-    return Object.keys(urls).map((url) => {
+    for (const url of Object.keys(urls)) {
       const metadata = urls[url]
 
-      return {
+      const link = {
         ...metadata,
         url,
         postTitle: post.web_title,
@@ -121,11 +128,31 @@ async function main() {
         postId: post.id,
         postUrl: post.url
       }
-    })
-  })
 
-  console.log('found', urls.length, 'links\n\n\n\n')
-  console.log(JSON.stringify(urls, null, 2))
+      newsletterLinkMap[url] = link
+      newsletterLinkMapNew[url] = link
+    }
+  }
+
+  function linkComparator(a: types.NewsletterLink, b: types.NewsletterLink) {
+    const diff = new Date(a.postDate).getTime() - new Date(b.postDate).getTime()
+    if (diff) {
+      return diff
+    }
+
+    return a.url.localeCompare(b.url)
+  }
+
+  const urls = Object.values(newsletterLinkMap).sort(linkComparator)
+  const newUrls = Object.values(newsletterLinkMapNew).sort(linkComparator)
+
+  console.log(
+    'found',
+    newUrls.length,
+    'new links',
+    `(${urls.length} total)\n\n\n\n`
+  )
+  console.log(JSON.stringify(newUrls, null, 2))
 
   await fs.writeFile(
     config.newsletterLinksPath,
