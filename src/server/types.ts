@@ -7,14 +7,23 @@ import type {
 export type { OpenAIApi }
 
 export type PineconeMetadata = {
+  title?: string
+  description?: string
+  site?: string
+  medium?: string
+  author?: string
+  category?: string
+  shortlink?: string
+  canonical?: string
+  date?: string
+  author_url?: string
+  linkText?: string
+
+  url: string
   postTitle: string
+  postDate: string
   postId: string
   postUrl: string
-
-  publicationId: string
-
-  markdown: string
-  text: string
 }
 
 export type PineconeClient = PineconeClientGeneric<PineconeMetadata>

@@ -164,6 +164,13 @@ export async function resolveMarkdownLinksWithMetadata(
           return
         }
 
+        const parsedUrl = new URL(url)
+        if (parsedUrl.hostname === 'twitter.com') {
+          parsedUrl.searchParams.delete('s')
+          parsedUrl.searchParams.delete('t')
+          url = parsedUrl.toString()
+        }
+
         const metadata = await getLinkMetadata(url)
         if (metadata) {
           const node = urlToNodeMap[url]

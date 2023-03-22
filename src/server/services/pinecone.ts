@@ -1,5 +1,6 @@
 import pMap from 'p-map'
 import { PineconeClient } from 'pinecone-client'
+import plur from 'plur'
 
 import * as types from '@/server/types'
 import '@/server/config'
@@ -10,21 +11,25 @@ export const pinecone = new PineconeClient<types.PineconeMetadata>({
   namespace: process.env.PINECONE_NAMESPACE
 })
 
-export async function upsertTweetVectorBatches(
-  tweetVectors: types.PineconeVector[],
+export async function upsertVectors(
+  vectors: types.PineconeVector[],
   {
-    batchSize = 100 // max 100
-  }: { batchSize?: number } = {}
+    batchSize = 100, // max 100
+    concurrency = 4
+  }: { batchSize?: number; concurrency?: number } = {}
 ) {
-  const numBatches = Math.ceil(tweetVectors.length / batchSize)
+  const numBatches = Math.ceil(vectors.length / batchSize)
   const batches: types.PineconeVector[][] = []
   for (let i = 0; i < numBatches; ++i) {
     const offset = i * batchSize
-    batches.push(tweetVectors.slice(offset, offset + batchSize))
+    batches.push(vectors.slice(offset, offset + batchSize))
   }
 
   console.log(
-    `\nupserting ${tweetVectors.length} embedding vectors across ${numBatches} batches\n`
+    `\nupserting ${vectors.length} vectors into pinecone (${numBatches} ${plur(
+      'batch',
+      numBatches
+    )})\n`
   )
 
   await pMap(
@@ -41,7 +46,7 @@ export async function upsertTweetVectorBatches(
       }
     },
     {
-      concurrency: 4
+      concurrency
     }
   )
 }

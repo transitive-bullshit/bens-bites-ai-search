@@ -11,7 +11,7 @@ import got from './got'
 
 const lruLinkCache = new QuickLRU<string, string>({ maxSize: 10000 })
 export const resolveLink = pMemoize(resolveLinkImpl, { cache: lruLinkCache })
-export const domainAllowList = new Set(['flight.beehiiv.net'])
+export const domainAllowList = new Set(['flight.beehiiv.net', 't.co', 'bit.ly'])
 
 export const agent = {
   http: new http.Agent(),
