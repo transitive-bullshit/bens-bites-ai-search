@@ -32,7 +32,6 @@ specifiers:
   remark-stringify: ^10.0.2
   rmfr: ^2.0.0
   tsx: ^3.12.6
-  turndown: ^7.1.2
   typescript: ^5.0.2
   unified: ^10.1.2
   unist-util-inspect: ^7.0.2
@@ -62,7 +61,6 @@ dependencies:
   remark-parse: 10.0.1
   remark-stringify: 10.0.2
   rmfr: 2.0.0
-  turndown: 7.1.2
   unified: 10.1.2
   unist-util-inspect: 7.0.2
   unist-util-visit: 4.1.2
@@ -704,10 +702,6 @@ packages:
     engines: {node: '>= 4'}
     dependencies:
       domelementtype: 2.3.0
-    dev: false
-
-  /domino/2.1.6:
-    resolution: {integrity: sha512-3VdM/SXBZX2omc9JF9nOPCtDaYQ67BGp5CoLpIQlO2KCAPETs8TcDHacF26jXadGbvUteZzRTeos2fhID5+ucQ==}
     dev: false
 
   /domutils/3.0.1:
@@ -2614,12 +2608,6 @@ packages:
     resolution: {integrity: sha512-McnNiV1l8RYeY8tBgEpuodCC1mLUdbSN+CYBL7kJsJNInOP8UjDDEwdk6Mw60vdLLrr5NHKZhMAOSrR2NZuQ+w==}
     dependencies:
       safe-buffer: 5.2.1
-    dev: false
-
-  /turndown/7.1.2:
-    resolution: {integrity: sha512-ntI9R7fcUKjqBP6QU8rBK2Ehyt8LAzt3UBT9JR9tgo6GtuKvyUzpayWmeMKJw1DPdXzktvtIT8m2mVXz+bL/Qg==}
-    dependencies:
-      domino: 2.1.6
     dev: false
 
   /type-fest/0.21.3:

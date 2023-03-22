@@ -116,7 +116,7 @@ Exclusively for Ben's Bites subscribers, get an extra 10% off with code **BENSBI
 ### 📰 Unclassifieds
 
 - **AutomationTown** - A scripted, bingeable pod about automation & AI, boasting a cast of professional actors. Listen to the [**season 3 trailer>>**](https://jo.my/i8tbvs)
-- **Perplexity AI**islooking for an experienced **research engineer** to join its team and help develop and deploy LLMs. ([link](https://gigs.bensbites.co/jobs/research-engineer-ai-52fa2a38))
+- **Perplexity AI**is looking for an experienced **research engineer** to join its team and help develop and deploy LLMs. ([link](https://gigs.bensbites.co/jobs/research-engineer-ai-52fa2a38))
 - **Prufrock Ventures** is inviting applications for **builders in residence**. ([link](https://gigs.bensbites.co/jobs/builder-in-residence-eir-095d4683))
 - **Hubble** is hiring a **senior product designer** for helping students write better essays. ([link](https://gigs.bensbites.co/jobs/senior-product-designer-658fc05f))
 - **Virtuzone**, a Middle East business accelerator, is seeking expert help with fine-tuning Open AI models. ([link](https://gigs.bensbites.co/jobs/looking-for-an-expert-at-fine-tuning-and-training-open-ai-s-chatgpt-0bcf3d68))

@@ -40,7 +40,7 @@ Ruth Card and her husband were tricked by a phone scammer pretending to be their
 
 **4/ Ben’s Bites challenge**
 
-I ran a very casual challenge where I put up 2x $1000 prizes for the most impressive projects built with ChatGPT API and Whisper API. I’ll be announcing winners shortly,[but just check out the quality of submissions](https://projects.bensbites.co/)(70+).
+I ran a very casual challenge where I put up 2x $1000 prizes for the most impressive projects built with ChatGPT API and Whisper API. I’ll be announcing winners shortly,[but just check out the quality of submissions](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Byb2plY3RzLmJlbnNiaXRlcy5jby8iLCJwb3N0X2lkIjoiMWNjYjllYjMtOTg5MS00MjEzLWFjNjItMjU3YzdlYzQ5MWZkIiwicHVibGljYXRpb25faWQiOiI0NDdmNmU2MC1lMzZhLTQ2NDItYjZmOC00NmJlYjE5MDQ1ZWMiLCJ2aXNpdF90b2tlbiI6IjRjMjA2ZWJmLTJiZWUtNGVlMy04NWJkLWYwYzg0M2Y2NDA1NSIsImlhdCI6MTY3OTUwODkzMC44NDIsImlzcyI6Im9yY2hpZCJ9.uUQar0uldIYDmTcD7AX20SRVZxDNzv2-pkVM_E-Dahk)(70+).
 
 **Stop doomscrolling. Build a daily learning habit instead. (Sponsor)**
 

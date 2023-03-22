@@ -126,9 +126,10 @@ export async function resolveBeeHiivPostContent(
 
   const html = route.gatedHTML
   const $post = cheerio.load(html)
-  const postHtml = $post('.rendered-post').html()
+  const postHtml = $post('.rendered-post')
+    .html()
+    .replaceAll(/<b>\s*&nbsp;\s*<\/b>/g, '  ')
 
-  // TODO: spaces between ! and link are being removed
   const postMarkdown = html2md(postHtml, {
     // TODO: we really only want to do this when <u> is inside of <a>
     // TODO: same thing for <b> inside of <a>

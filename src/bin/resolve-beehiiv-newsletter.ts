@@ -7,13 +7,13 @@ import * as beehiiv from '@/server/beehiiv'
 import * as config from '@/server/config'
 
 async function main() {
-  const page = await beehiiv.resolveBeeHiivPostContent(
-    'https://www.bensbites.co/p/wordle-prompts',
-    //   'https://www.bensbites.co/p/microsoft-stepping-gear',
-    { baseUrl: config.newsletterUrl }
-  )
-  console.log(page)
-  return
+  // const page = await beehiiv.resolveBeeHiivPostContent(
+  //   'https://www.bensbites.co/p/wordle-prompts',
+  //   //   'https://www.bensbites.co/p/microsoft-stepping-gear',
+  //   { baseUrl: config.newsletterUrl }
+  // )
+  // console.log(page)
+  // return
 
   const newsletter = await beehiiv.resolveBeeHiivNewsletter(
     config.newsletterUrl
