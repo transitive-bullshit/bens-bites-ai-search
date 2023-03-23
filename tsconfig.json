@@ -17,9 +17,18 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
-      "@/public/*": ["./public/*"]
-    }
+      "@/public/*": ["./public/*"],
+      "@/styles/*": ["./styles/*"]
+    },
+    "plugins": [
+      {
+        "name": "next"
+      },
+      {
+        "name": "typescript-plugin-css-modules"
+      }
+    ]
   },
-  "exclude": ["node_modules", "build"],
-  "include": ["**/*.ts", "**/*.tsx"]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "build"]
 }

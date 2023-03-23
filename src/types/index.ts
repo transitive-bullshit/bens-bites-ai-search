@@ -1,13 +1,11 @@
 import { z } from 'zod'
 
-import type { PineconeCaptionMetadata } from '@/server'
+import type { PineconeMetadata } from '@/server/types'
 
 export type SearchResult = {
   id: string
   score: number
-  matchedHtml: string
-  metadata: PineconeCaptionMetadata
-  // TODO: include offset in url
+  metadata: PineconeMetadata
 }
 
 export const SearchQuerySchema = z.object({
@@ -16,10 +14,3 @@ export const SearchQuerySchema = z.object({
 })
 
 export type SearchQuery = z.infer<typeof SearchQuerySchema>
-
-export const YouTubeThumbnailQuerySchema = z.object({
-  videoId: z.string(),
-  time: z.string().optional()
-})
-
-export type YouTubeThumbnailQuery = z.infer<typeof YouTubeThumbnailQuerySchema>

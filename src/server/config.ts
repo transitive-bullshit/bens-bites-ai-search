@@ -30,7 +30,6 @@ if (env.success === false) {
 export const openaiEmbeddingModel = 'text-embedding-ada-002'
 export const openaiEmbeddingModelMaxTokens = 8191
 export const protocolAllowList = new Set(['https:', 'http:'])
-// export const domainAllowList = new Set(['flight.beehiiv.net', 't.co', 'bit.ly'])
 export const domainAllowList = new Set(['flight.beehiiv.net', 't.co'])
 
 export const newsletterUrl = process.env.BEEHIIV_URL

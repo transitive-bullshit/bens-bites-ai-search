@@ -1,28 +1,26 @@
-# TODO <!-- omit in toc -->
+<a href="https://bensbites.vercel.app">
+  <img alt="Ben's Bites" src="/public/social.jpg">
+</a>
 
-> TODO
+<h1 align="center">Ben's Bites Link Search</h1>
 
-[![Build Status](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/newsletter-ai-search/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/newsletter-ai-search/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+<p align="center">
+  Search across all of the AI-related links in the <a href="https://www.bensbites.co">Ben's Bites</a> newsletter – using AI-powered semantic search.
+</p>
+
+<p align="center">
+  <a href="https://github.com/transitive-bullshit/bens-bites-ai-search/actions/workflows/test.yml"><img alt="Build Status" src="https://github.com/transitive-bullshit/bens-bites-ai-search/actions/workflows/test.yml/badge.svg" /></a>
+  <a href="https://github.com/transitive-bullshit/bens-bites-ai-search/blob/main/license"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
+  <a href="https://prettier.io"><img alt="Prettier Code Formatting" src="https://img.shields.io/badge/code_style-prettier-brightgreen.svg" /></a>
+</p>
 
 - [Intro](#intro)
-- [Pipeline](#pipeline)
 - [TODO](#todo)
 - [License](#license)
 
 ## Intro
 
 TODO
-
-## Pipeline
-
-- ingest newsletter
-  - crawl to resolve posts
-  - convert to markdown
-  - clean up
-- indexing
-  - tokenization, embedding generation, k-NN indexing
-- retrieval
-  - semantic search queries
 
 ## TODO
 
@@ -36,5 +34,3 @@ TODO
 MIT © [Travis Fischer](https://transitivebullsh.it)
 
 If you found this project interesting, please consider [sponsoring me](https://github.com/sponsors/transitive-bullshit) or <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
-
-The API and server costs add up over time, so if you can spare it, [sponsoring on Github](https://github.com/sponsors/transitive-bullshit) is greatly appreciated. 💕
