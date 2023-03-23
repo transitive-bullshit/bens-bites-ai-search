@@ -44,6 +44,8 @@ async function main() {
     }
   }
 
+  const newsletterLinkMapOld: types.NewsletterLinkMap = { ...newsletterLinkMap }
+
   const posts = await pMap(
     newsletter.posts,
     async (post) => {
@@ -79,7 +81,10 @@ async function main() {
           {
             isValidLink: (url: string) => {
               if (!url) return false
-              if (!force && newsletterLinkMap[url]) return false
+              if (!force && newsletterLinkMap[url]) {
+                delete newsletterLinkMapOld[url]
+                return false
+              }
 
               try {
                 const parsedUrl = new URL(url)
@@ -139,6 +144,15 @@ async function main() {
       concurrency: 4
     }
   )
+
+  if (!force) {
+    for (const url of Object.keys(newsletterLinkMapOld)) {
+      if (!newsletterLinkMap[url]) {
+        console.log('removing old link', url)
+        delete newsletterLinkMap[url]
+      }
+    }
+  }
 
   function linkComparator(a: types.NewsletterLink, b: types.NewsletterLink) {
     const diff = new Date(a.postDate).getTime() - new Date(b.postDate).getTime()

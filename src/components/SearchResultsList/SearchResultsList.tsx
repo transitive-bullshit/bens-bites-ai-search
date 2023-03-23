@@ -9,6 +9,8 @@ import styles from './styles.module.css'
 export const SearchResultsList: React.FC<{
   results: types.SearchResult[]
 }> = ({ results }) => {
+  console.log('results', results)
+
   return (
     <div className={styles.searchResultsList}>
       <AnimatePresence mode='popLayout' initial={false}>

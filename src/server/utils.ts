@@ -32,13 +32,42 @@ async function resolveLinkImpl(
       return url
     }
 
-    if (depth >= 2) {
+    if (depth >= 8) {
       return url
     }
 
     const parsedUrl = new URL(url)
     if (!protocolAllowList.has(parsedUrl.protocol)) {
       return url
+    }
+
+    if (
+      parsedUrl.hostname === 'www.google.com' ||
+      parsedUrl.hostname === 'google.com'
+    ) {
+      if (parsedUrl.pathname === '/url') {
+        const q = parsedUrl.searchParams.get('q')
+        if (q) {
+          const resolvedLink = await resolveLink(q, {
+            baseUrl,
+            depth: depth + 1
+          })
+
+          if (resolvedLink) {
+            return resolvedLink
+          }
+        }
+      }
+    }
+
+    if (
+      parsedUrl.hostname === 'twitter.com' ||
+      parsedUrl.hostname === 't.co' ||
+      parsedUrl.hostname === 'www.twitter.com'
+    ) {
+      parsedUrl.searchParams.delete('s')
+      parsedUrl.searchParams.delete('t')
+      url = parsedUrl.toString()
     }
 
     if (!domainAllowList.has(parsedUrl.hostname)) {
