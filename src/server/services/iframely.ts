@@ -56,7 +56,7 @@ async function getLinkMetadataImpl(
           images[0]
 
         if (image?.href) {
-          metadata.icon = image.href
+          metadata.icon = image.href.replace(/^view-source:/, '')
           metadata.iconWidth = image.media?.width
           metadata.iconHeight = image.media?.height
         }
@@ -67,7 +67,7 @@ async function getLinkMetadataImpl(
         const image = images[0]
 
         if (image?.href) {
-          metadata.thumbnail = image.href
+          metadata.thumbnail = image.href.replace(/^view-source:/, '')
           metadata.thumbnailWidth = image.media?.width
           metadata.thumbnailHeight = image.media?.height
         }

@@ -158,7 +158,7 @@ async function main() {
     'new links',
     `(${urls.length} total)\n\n\n\n`
   )
-  console.log(JSON.stringify(newUrls, null, 2))
+  // console.log(JSON.stringify(newUrls, null, 2))
 
   await fs.writeFile(
     config.newsletterLinksPath,
