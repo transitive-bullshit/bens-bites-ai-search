@@ -2,6 +2,7 @@ import * as React from 'react'
 import cs from 'clsx'
 import Image from 'next/image'
 import Link from 'next/link'
+import { format } from 'timeago.js'
 
 import * as types from '@/types'
 import { Globe } from '@/icons'
@@ -33,6 +34,12 @@ export const SearchResult: React.FC<{
   const icon = metadata.icon
 
   const title = metadata.title || metadata.site || metadata.url
+  const parsedUrl = new URL(metadata.url)
+  const url = [parsedUrl.hostname.replace(/^www\./, ''), parsedUrl.pathname]
+    .map((p) => (p === '/' ? '' : p))
+    .filter(Boolean)
+    .join('')
+  const relativeTime = format(metadata.date || metadata.postDate)
 
   return (
     <a
@@ -59,22 +66,24 @@ export const SearchResult: React.FC<{
           </div>
 
           <div className={styles.headerRhs}>
-            <div className={styles.site}>{metadata.site}</div>
-            <div className={styles.url}>{metadata.url}</div>
+            <div className={styles.site}>
+              {metadata.site || metadata.author}
+            </div>
+
+            <div className={styles.url}>{url}</div>
           </div>
         </div>
 
-        <Link
-          href={metadata.url}
-          target='_blank'
-          rel='noopener noreferrer'
-          aria-label={title}
-          className={cs('link', styles.title)}
-        >
-          <h3>{metadata.title}</h3>
-        </Link>
+        <h3 className={cs('link', styles.title)}>{metadata.title}</h3>
 
-        {metadata.description && <p>{metadata.description}</p>}
+        {metadata.description && (
+          <p className={styles.desc}>
+            {relativeTime && (
+              <span className={styles.timeago}>{relativeTime} — </span>
+            )}
+            {metadata.description}
+          </p>
+        )}
       </div>
 
       {thumbnail && (

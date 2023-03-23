@@ -27,10 +27,22 @@
 
 .site {
   font-size: 0.9em;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .url {
   font-size: 0.8em;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .iconWrapper {
@@ -63,6 +75,13 @@
 
 .searchResult p {
   font-size: 15px;
+
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 :global(.dark) .searchResult p {
@@ -74,6 +93,13 @@
   font-size: 1.1em;
   margin-bottom: 0.5em;
   color: #1a0dab;
+
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 :global(.dark) .title {
@@ -95,6 +121,14 @@
 
 :global(.dark) .thumbnail {
   border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.desc {
+  line-height: 1.5;
+}
+
+.timeago {
+  color: #70757a;
 }
 
 @media (max-width: 700px) {
