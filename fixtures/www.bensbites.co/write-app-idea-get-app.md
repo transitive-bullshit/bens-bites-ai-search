@@ -35,15 +35,15 @@ Coatue is **[raising a $500 million early-stage fund with a focus on AI](https:/
 \- For this fund, AI is a big focus. They're bullish on the space (aren't we all 😉).\
 \- They're looking to fund everything from "how you run AI in production on the chip all the way up to writing and having products and applications on AI"
 
-🤯 Holy shit. A **[proof-of-concept AI assistant designer](https://twitter.com/imcharleslo/status/1580591523447844865?s=12\&t=rthsf6MTikLe3MAZwpQnvA)**. In the demo, a guy speaks out loud to a human/cyborg on a screen asking how they are etc and it responds. But the crazy thing is then the guy asks the AI to draw an apple, a cat in a bottle (*he switches from Chinese to English when speaking here - using Whisper*) and even crazier, he says ‘let's design a house’, it asks for materials, location, season etc…Honestly you [have to watch it](https://twitter.com/imcharleslo/status/1580591523447844865?s=12\&t=rthsf6MTikLe3MAZwpQnvA).
+🤯 Holy shit. A **[proof-of-concept AI assistant designer](https://twitter.com/imcharleslo/status/1580591523447844865)**. In the demo, a guy speaks out loud to a human/cyborg on a screen asking how they are etc and it responds. But the crazy thing is then the guy asks the AI to draw an apple, a cat in a bottle (*he switches from Chinese to English when speaking here - using Whisper*) and even crazier, he says ‘let's design a house’, it asks for materials, location, season etc…Honestly you [have to watch it](https://twitter.com/imcharleslo/status/1580591523447844865).
 
-**PlaygroundAI [just released ‘draw-to-image’](https://twitter.com/playground_ai/status/1580695471894319105?s=12\&t=rthsf6MTikLe3MAZwpQnvA)** which is impressive for many reasons. One is that you can draw literally a stick outline of a duck, and it’ll generate full digital variations of an image. I'll have a deep-dive with the founder soon 😏
+**PlaygroundAI [just released ‘draw-to-image’](https://twitter.com/playground_ai/status/1580695471894319105)** which is impressive for many reasons. One is that you can draw literally a stick outline of a duck, and it’ll generate full digital variations of an image. I'll have a deep-dive with the founder soon 😏
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f09b8822-a219-4ea2-b1cf-d083d43ea944/Group_1__2_.png)
 
 \*\*[Training AI to have feelings](https://www.lesswrong.com/posts/m7uoh44qcQzGSnKme/feelings)\*\*😳. When AI understands emotion, it could help distil information to be less chaotic for example.
 
-A great, [funny thread of responses](https://twitter.com/anloremi/status/1580220950163099649?s=12\&t=yiIznVBTXhQLIBZwguU8zg) to ‘**Complete this image in a way that proves you won’t be replaced by AI**’.
+A great, [funny thread of responses](https://twitter.com/anloremi/status/1580220950163099649) to ‘**Complete this image in a way that proves you won’t be replaced by AI**’.
 
 Following the Stable Diffusion Discord Drama (which I spoke about 2 emails ago). **Emad (SD founder) [posts a public apology](https://www.reddit.com/r/StableDiffusion/comments/y34h2a/emad_posts_a_public_apology_to_automatic1111_on/) to the moderator**. Although it was posted on GitHub, and it was apparently after doing so in person yesterday 🤔.
 

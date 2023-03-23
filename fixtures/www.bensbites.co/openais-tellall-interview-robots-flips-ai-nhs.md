@@ -23,7 +23,7 @@ Beyond Altman’s involvement with AI, he also gave us some clues (in part 1 abo
 
 #### 2/
 
-For a video of a **robot** spinning, bouncing, jumping, pushing, \*throwing,\*and flipping, as well as some seriously corny 80s acting, check out **Boston Dynamics’** [**most recent demo**](https://twitter.com/bostondynamics/status/1615728730969710592?s=12\&t=LuqfePezl-21Tm2qoRy_nA) of their robot, Atlas. With so much focus on marketable AI at the moment, it’s easy to forget the **awesome work going on in robotics**. I can’t help but imagine the possibilities of combining the OpenAI tech-of-knowledge with the robotics tech-of-action, as well as the potential dangers it could pose in the context of **AI alignment**.
+For a video of a **robot** spinning, bouncing, jumping, pushing, \*throwing,\*and flipping, as well as some seriously corny 80s acting, check out **Boston Dynamics’** [**most recent demo**](https://twitter.com/bostondynamics/status/1615728730969710592) of their robot, Atlas. With so much focus on marketable AI at the moment, it’s easy to forget the **awesome work going on in robotics**. I can’t help but imagine the possibilities of combining the OpenAI tech-of-knowledge with the robotics tech-of-action, as well as the potential dangers it could pose in the context of **AI alignment**.
 
 #### 3/
 
@@ -38,12 +38,12 @@ It’s not every day that you’re lucky enough to hear about [**efficiency in t
 
 ### 🛠️ Cool Tools
 
-- Bias Buster by Neeva - Improving **news experience** by quick retrieval of POVs from broad & fresh sources.([link](https://twitter.com/Neeva/status/1615739111154802695?s=20\&t=kMCZJX5hmQULY8cCP7A5TQ))
+- Bias Buster by Neeva - Improving **news experience** by quick retrieval of POVs from broad & fresh sources.([link](https://twitter.com/Neeva/status/1615739111154802695))
 - Vowel AI - Generative AI-powered **meeting summaries.** ([link](https://www.vowel.com/features/automated-meeting-summaries))
 - Skim It - Get an **AI summary**of any article delivered to your inbox. ([link](https://www.skimit.ai/))
 - All Search AI - **Google Books on steroids.** Search through the contents of 1000s of books! ([link](https://www.allsearch.ai/))
 - TweetMe - The AI tweet writer that **writes like you.** ([link](https://no-code-ai-model-builder.com/tweet-me))
-- Do Not Sign - DoNotPay’s ChatGPT extension that **reads** **terms and conditions**, and **flags anything** that is non-standard. ([link](https://twitter.com/jbrowder1/status/1615543292057497603?s=12\&t=LuqfePezl-21Tm2qoRy_nA))
+- Do Not Sign - DoNotPay’s ChatGPT extension that **reads** **terms and conditions**, and **flags anything** that is non-standard. ([link](https://twitter.com/jbrowder1/status/1615543292057497603))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5f797ea1-5e80-477b-94df-6bdf3e6961f0/ezgif.com-gif-maker__45_.gif)
 
@@ -51,7 +51,7 @@ It’s not every day that you’re lucky enough to hear about [**efficiency in t
 
 - After most of the educational coverage of ChatGPT being around the risk of students' learning experiences, it’s refreshing to read this **teacher’s account of how ChatGPT is used to enhance his classes**. ([link](https://oneusefulthing.substack.com/p/all-my-classes-suddenly-became-ai))
 - The future of **coding in India and on mobile.** ([link](https://sarharibhakti.substack.com/p/future-of-coding-in-india-and-on))
-- A relevant **counterpoint to the OpenAI-Kenyan-labour story**. ([link](https://twitter.com/ericnewcomer/status/1615797018986790912?s=46\&amp;t=nHICBh2J1cDDJNI6WWmDZQ))
+- A relevant **counterpoint to the OpenAI-Kenyan-labour story**. ([link](https://twitter.com/ericnewcomer/status/1615797018986790912?amp%3Bt=nHICBh2J1cDDJNI6WWmDZQ))
 - Gary Marcus and Luis Lamb - **Neurosymbolic models.**([link](https://podcasts.apple.com/br/podcast/54-gary-marcus-and-luis-lamb-neurosymbolic-models/id1510472996?i=1000524207821))
 - Adobe, facing blowback, says **customer data not used** to train AI. ([link](https://www.bloomberg.com/news/articles/2023-01-18/adobe-says-ai-tools-not-being-trained-with-customer-data))
 - **A look back at Google AI's 2022 achievements**for their first blog post of 2023 - language, vision, generative models and beyond. ([link](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html))
@@ -60,19 +60,19 @@ It’s not every day that you’re lucky enough to hear about [**efficiency in t
 - Can generative AI change the **future of the gaming industry?**([link](https://www.youtube.com/watch?v=2a8GJg18HjY))
 - With all the excitable hype, it's sometimes sensible to take a more cynical look, with 24 seriously **embarrassing hours for AI.** ([link](https://garymarcus.substack.com/p/24-seriously-embarrassing-hours-for))
 - **The future of ML** with Replit and Weights & Biases. ([link](https://www.youtube.com/watch?app=desktop\&v=pFsj9V6-1NE))
-- Interested in attending **Runway’s AI Film Festival**in New York? Request a spot here. ([link](https://twitter.com/runwayml/status/1615732364222627844?s=12\&t=nHICBh2J1cDDJNI6WWmDZQ))
+- Interested in attending **Runway’s AI Film Festival**in New York? Request a spot here. ([link](https://twitter.com/runwayml/status/1615732364222627844))
 
 ### 🎓 Learn
 
 - A guide on how to approach **building products with AI.** ([link](https://www.readle.com/p/building-products-with-ai))
-- Generating **video characters** in a few minutes. ([link](https://twitter.com/linusekenstam/status/1615656127416631296?s=12\&t=LuqfePezl-21Tm2qoRy_nA))
+- Generating **video characters** in a few minutes. ([link](https://twitter.com/linusekenstam/status/1615656127416631296))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### 🔬 Research
 
 - Compositional generation using Stable Diffusion -\*\*Applying conjunction (AND) and negation (NOT)\*\*to conditional diffusion models. ([link](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/))
-- GLIGEN -**Expanding from text inputs** by creating grounded keypoints for image generation. ([link](https://twitter.com/hardmaru/status/1615766551113744384?s=12\&t=nHICBh2J1cDDJNI6WWmDZQ))
+- GLIGEN -**Expanding from text inputs** by creating grounded keypoints for image generation. ([link](https://twitter.com/hardmaru/status/1615766551113744384))
 - InstructPix2Pix: Learning to follow **image editing** instructions. ([link](https://github.com/timothybrooks/instruct-pix2pix))
 - An RL model at scale acts as an Adaptive Agent (AdA) - **adapting to open-ended 3D problems**as quickly as humans. ([link](https://arxiv.org/abs/2301.07608))
 - OmniObject3D - A **large vocabulary of 3D object dataset**with massive high-quality real-scanned 3D objects. ([link](https://arxiv.org/abs/2301.07525))

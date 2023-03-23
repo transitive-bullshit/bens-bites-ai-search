@@ -41,7 +41,7 @@ I was **on the Infinite Loops podcast** with Jim O'Shaughnessy to talk about AI.
 ### **🛠️ Cool Tools**
 
 - HTTPie AI - **Generate API requests** using plain language. ([link](https://httpie.io/))
-- **GitHub Copilot Labs now comes with a test generator** to create and refine tests. ([link](https://twitter.com/oegerikus/status/1610945035888955392?s=20\&t=_9HYJWSg3xQ4HcdB4UEHrw))
+- **GitHub Copilot Labs now comes with a test generator** to create and refine tests. ([link](https://twitter.com/oegerikus/status/1610945035888955392))
 - Asknow AI - **Ask famous personalities anything** and get an AI summarised answer with references. ([link](https://www.asknow.ai/))
 - Buildt: **Google for your codebase!** AI-powered search to find code by searching for what it does, not just what it is. ([link](https://www.buildt.ai/))
 - The Jam Machine - **Generative AI composer** trained on text transcription of MIDI music. ([link](https://huggingface.co/spaces/JammyMachina/the-jam-machine-app))
@@ -50,8 +50,8 @@ I was **on the Infinite Loops podcast** with Jim O'Shaughnessy to talk about AI.
 - Fact GPT - Generate **fresh and relevant user-sourced content with citations**. ([link](https://www.longshot.ai/features/longshot-fact-gpt))
 - Empath - **Test your empathy** with GPT-3 chatbot. ([link](https://empath-kappa.vercel.app/))
 - GPTDuck - **Question answering against any Github repository**. ([link](https://www.gptduck.com/))
-- GPTQL - A gpt agent that can **adaptively query GraphQL schemas**. ([link](https://twitter.com/hanrelan/status/1610736893683183617?s=20\&t=qSu8_m33fTmgUjnxwmgD9A))
-- Widget by ChatBotKit - Allows anyone to easily **integrate AI chatbots into their website** without coding. ([link](https://twitter.com/pdp/status/1611086021684256770?s=20\&t=5CY5vZw-Hf2VdRgSkW4-XA))
+- GPTQL - A gpt agent that can **adaptively query GraphQL schemas**. ([link](https://twitter.com/hanrelan/status/1610736893683183617))
+- Widget by ChatBotKit - Allows anyone to easily **integrate AI chatbots into their website** without coding. ([link](https://twitter.com/pdp/status/1611086021684256770))
 - Autocommit - **AI-Generated Git commit messages**, editable before performing the commit. ([link](https://github.com/abi/autocommit))
 - Nostalgia Photo - **Bring old photos back to life** with AI. ([link](https://www.nostalgia.photo/))
 
@@ -60,13 +60,13 @@ I was **on the Infinite Loops podcast** with Jim O'Shaughnessy to talk about AI.
 ### **🤓 Miscellaneous**
 
 - **Samsung’s 2023 TV lineup bets everything on picture upgrades and AI tricks**. ([link](https://www.theverge.com/2023/1/3/23537839/samsung-2023-tvs-announced-neo-qled-microled-features))
-- Why **use your own key apps can make sense for developers?** ([link](https://twitter.com/marckohlbrugge/status/1610927012750950400?s=20\&t=PD1l2coEcYJJa-d1V1D5pg))
+- Why **use your own key apps can make sense for developers?** ([link](https://twitter.com/marckohlbrugge/status/1610927012750950400))
 - **100+ trends reports for 2023**, including Adobe, Accenture, Gartner, and more. ([link](https://spacecadet.ventures/2023roundup/))
 - **Open source highlights 2022 for machine learning & AI.** ([link](https://sebastianraschka.com/blog/2023/open-source-highlights-2022.html))
 - **NYC education department blocks ChatGPT** on school devices, networks. ([link](https://ny.chalkbeat.org/2023/1/3/23537987/nyc-schools-ban-chatgpt-writing-artificial-intelligence))
 - My **predictions for 2023** by Greg Isenberg - AI, internet, and social networks. ([link](https://latecheckout.substack.com/p/my-predictions-for-2023))
 - **Top AI conference bans use of ChatGPT** and AI language tools to write academic papers. ([link](https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper))
-- Sketch of an **LLM idea maze** a la Balaji. ([link](https://twitter.com/maxolson/status/1611086767813464064?s=12\&t=RrE-JpHf8SKm4GZhtopS-Q))
+- Sketch of an **LLM idea maze** a la Balaji. ([link](https://twitter.com/maxolson/status/1611086767813464064))
 - Teachers are absolutely loving the student who made a **tool that shows if your essay was written by AI.** ([link](https://www.buzzfeednews.com/article/katienotopoulos/ai-writing-detection-tool-homework-students))
 - **Self-assembling proteins can store cellular “memories.”** ([link](https://mcgovern.mit.edu/2023/01/02/self-assembling-proteins-can-store-cellular-memories/))
 
@@ -102,7 +102,7 @@ Had to throw this in too:
 > Before OpenAI → during OpenAI
 >
 > [— Ben Tossell (@bentossell)\
-> Jan 5, 2023](https://twitter.com/bentossell/status/1611100859311575059?s=20\&t=WI3ANX7UehH8z0cHf9Eo8w)
+> Jan 5, 2023](https://twitter.com/bentossell/status/1611100859311575059)
 
 ## **🤗 Share Ben's Bites**
 

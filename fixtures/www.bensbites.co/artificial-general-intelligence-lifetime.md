@@ -13,7 +13,7 @@ Getting all my ducks in a row before I head off to Austin next week for the Zapi
 
 Let's get to it.
 
-*p.s. [ChatGPT Pro is rolling out](https://twitter.com/chillzaza_/status/1616927021472354304?s=20\&t=3wRn2vEvGxtpnNbUlhQt8Q) slowly for $42/mo. They promise more uptime, faster speeds and priority access to new features. I keep refreshing but I don't have the option yet!*
+*p.s. [ChatGPT Pro is rolling out](https://twitter.com/chillzaza_/status/1616927021472354304) slowly for $42/mo. They promise more uptime, faster speeds and priority access to new features. I keep refreshing but I don't have the option yet!*
 
 Have a product, service, job, event, newsletter, app, book, movie, tool, or anything you'd like to share with over 20k subscribers?*[Check out our sponsor options](https://sponsor.bensbites.co/).*
 
@@ -35,14 +35,14 @@ The announcement is quite disconcerting - reducing risk capabilities at one of t
 
 #### 3/
 
-And whilst we’re on ChatGPT: if you **need to pass an exam**, why not give it a try? It managed to [**get a decent score**](https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c) on one of Wharton’s core MBA modules, and also [**passed the US Medical Licensing Exam**](https://twitter.com/noor_siddiqui_/status/1617194845810077697?s=12\&t=F9zHRQFBXjP9x0OliPAgcA), which people study for *years* to complete. I’m concerned that a knee-jerk reaction to these reports will be to use more in-house exam-based testing, further encouraging the study-to-pass attitude that’s currently damaging much of the education system. Better approaches might be to assess based on in-class interactions, workshops, or **longer-form reports where good use of AI technologies could actually be show-cased**.
+And whilst we’re on ChatGPT: if you **need to pass an exam**, why not give it a try? It managed to [**get a decent score**](https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c) on one of Wharton’s core MBA modules, and also [**passed the US Medical Licensing Exam**](https://twitter.com/noor_siddiqui_/status/1617194845810077697), which people study for *years* to complete. I’m concerned that a knee-jerk reaction to these reports will be to use more in-house exam-based testing, further encouraging the study-to-pass attitude that’s currently damaging much of the education system. Better approaches might be to assess based on in-class interactions, workshops, or **longer-form reports where good use of AI technologies could actually be show-cased**.
 
 #### 4/
 
 \*\*Scale AI hosted its AI hackathon on Sunday.\*\*Some say it was the first time they physically felt 'Silicon Valley' in a while. Here are some tools that came out of it:
 
 - Pierre Bhat, a **prolific AI coder** who roams GitHub resolving issues with PRs ([link](https://github.com/pierrebhat))
-- An approach to add **long-term memory** of relevant entities for making AI chatbots smarter. ([link](https://twitter.com/sjwhitmore/status/1617318051455840258?s=12\&t=xa4SJNCARw8ws5tA7bFIQA))
+- An approach to add **long-term memory** of relevant entities for making AI chatbots smarter. ([link](https://twitter.com/sjwhitmore/status/1617318051455840258))
 - ActGPT - Chatbot that can **perform tasks on browser.** ([link](https://yihui.dev/actgpt))
 - Rap Battle - Pick any two people and **generate a rap battle**on the fly. ([link](https://www.airapbattle.com/))
 - GPT-3 Auditor - **Scanning code for vulnerabilities** with LLMs. ([link](https://github.com/handrew/gpt3-auditor))
@@ -59,17 +59,17 @@ All in one easy-to-use Desktop app. (I use the Chrome extension a lot too)\
 
 - Roast Dating - Get real feedback, boost your profile, and get up to **10X more matches** on dating apps. ([link](https://roast.dating/))
 - Extrapolate - See**how well you age** by transforming your face using AI. ([link](https://extrapolate.app/))
-- Hal - Get any article or Youtube video **summarised on iMessage.**([link](https://twitter.com/ahmeditate/status/1616203386897965056?s=20\&t=BmurXN8xPcHYU3MQj7Cn_A))
+- Hal - Get any article or Youtube video **summarised on iMessage.**([link](https://twitter.com/ahmeditate/status/1616203386897965056))
 - Quickie - An extension for **multiple AI tools.** I'm sorry but that name **has** to be changed. ([link](https://quickie.ai/))
-- Agent HQ - **Create LLM agents** and tools directly in the browser for making AI powered chatbots. ([link](https://twitter.com/brunotorious/status/1616647654519312384?s=20\&t=DOHZu14z_ywp15hf9sLXfg))
+- Agent HQ - **Create LLM agents** and tools directly in the browser for making AI powered chatbots. ([link](https://twitter.com/brunotorious/status/1616647654519312384))
 - CodeGPT: **VS Code extension** with ChatGPT like functionalities. ([link](https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-functionalities-783323a916c3))
-- ChatLangChain - Answer questions about the **LangChain codebase**and generate code. ([link](https://twitter.com/ishaan_jaff/status/1616566249835884545?s=20\&t=ZV87pePmJFF4WTmUQaJdgg))
+- ChatLangChain - Answer questions about the **LangChain codebase**and generate code. ([link](https://twitter.com/ishaan_jaff/status/1616566249835884545))
 - GPT Agent - Go straight from an **idea to a deployable AI app.**([link](https://www.gptagent.com/))
 - Genmo Video - A generative media platform with a new text-to-video mode to create **immersive live artwork.** ([link](https://alpha.genmo.ai/))
 - Realhousewives AI - Ask any question about the **Real Housewives of Beverley Hills.** My wife's interest in AI suddenly peaked yesterday when I told her about this. ([link](https://realhousewivesai.com/))
 - ChefGPT - AI-powered **recipe recommendations** based on your available ingredients. ([link](https://www.chefgpt.xyz/))
 - StockGPT - an AI **financial search**tool. ([link](https://www.askstockgpt.com/))
-- A conversational UI for**image editing** is coming. ([link](https://twitter.com/natfriedman/status/1616704551037419523?s=20\&t=eg061cts4yY1mBEjZWE5Bw))
+- A conversational UI for**image editing** is coming. ([link](https://twitter.com/natfriedman/status/1616704551037419523))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/bd81826d-2746-4540-9e4e-92eeed3139dc/ezgif.com-gif-maker__46_.gif)
 
@@ -87,17 +87,17 @@ All in one easy-to-use Desktop app. (I use the Chrome extension a lot too)\
 - Using ChatGPT to make **content production** process faster, more efficient, and more interesting. ([link](https://www.justinwelsh.me/e/BAh7BjoWZW1haWxfZGVsaXZlcnlfaWRsKwgKtz2VAgA%3D--9493b13e8578e9cfdd23568f1523757e3c8feb8a?skip_click_tracking=true))
 - **I fell in love with an algorithm.** ([link](https://www.newcomer.co/p/i-fell-in-love-with-an-algorithm#details))
 - 80th birthday of the **McCulloch-Pitts neuron** - the fundamental idea behind all neural networks. ([link](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf))
-- **Eye contact feature**from NVIDIA uses AI to make you look into the camera. ([link](https://twitter.com/jousefm2/status/1616878021280993284?s=12\&t=arHFrWXx0Eu61BC68hDxgw))
-- **100+ cheat sheets** on various topics including machine learning, data structures, statistics and more. ([link](https://twitter.com/mervenoyann/status/1616919162495827971?s=20\&t=pTmVCpvU4VpRdOOhrHGg7Q))
+- **Eye contact feature**from NVIDIA uses AI to make you look into the camera. ([link](https://twitter.com/jousefm2/status/1616878021280993284))
+- **100+ cheat sheets** on various topics including machine learning, data structures, statistics and more. ([link](https://twitter.com/mervenoyann/status/1616919162495827971))
 - **AGI** will not happen in your lifetime. Or will it? ([link](https://garymarcus.substack.com/p/agi-will-not-happen-in-your-lifetime))
 - AI chatbot’s **MBA exam pass** poses test for business schools. ([link](https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c), without paywall [here](https://archive.is/nKbcQ))
-- ChatGPT has passed the United States **medical licensing examination.** ([link](https://twitter.com/noor_siddiqui_/status/1617194845810077697?s=12\&t=F9zHRQFBXjP9x0OliPAgcA))
+- ChatGPT has passed the United States **medical licensing examination.** ([link](https://twitter.com/noor_siddiqui_/status/1617194845810077697))
 - **The Generative AI Landscape** - A collection of awesome generative AI applications. ([link](https://github.com/ai-collection/ai-collection))
 
 ### 🎓 Learn
 
 - Fine-tuning GPT-3/ChatGPT and Zapier integration for **no code OpenAI developers.**([link](https://www.youtube.com/watch?v=oNIHOX_j0qU))
-- Get AI to **write software** for you. ([link](https://twitter.com/replit/status/1616481968212021249?s=12\&t=5TmA8dRwiD93M4I0JmIHkQ))
+- Get AI to **write software** for you. ([link](https://twitter.com/replit/status/1616481968212021249))
 - Learn to **outpaint with DALL·E.** ([link](https://www.jousefmurad.com/ai/outpainting-with-dalle/))
 - Build GPT3-powered **Shopify app** that generates (a) product descriptions, ([link](https://medium.com/@ralfelfving/tutorial-gpt3-powered-shopify-app-that-generates-product-descriptions-e598369493f9)) and (b) blog articles. ([link](https://medium.com/@ralfelfving/20-min-tutorial-build-a-gpt-3-powered-shopify-app-that-generates-blog-articles-using-product-72dd2ce6983b))
 - How I built **a viral AI** web app. ([link](https://www.youtube.com/watch?v=FRQtFDDrUXQ))

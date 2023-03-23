@@ -112,7 +112,7 @@ Need developers with startup grit? Go to [Lemon.io](https://lemon.io/?utm_source
 
 - **Facebook's**powerful large language **model leaks**online. ([link](https://www.vice.com/en/article/xgwqgw/facebooks-powerful-large-language-model-leaks-online-4chan-llama))
 
-- 10 free **open-source AI projects** on Vercel. ([link](https://twitter.com/steventey/status/1633156135443382272?s=20))
+- 10 free **open-source AI projects** on Vercel. ([link](https://twitter.com/steventey/status/1633156135443382272))
 
 - Here’s what it would take to **slow or stop AI.** ([link](https://www.jonstokes.com/p/heres-what-it-would-take-to-slow))
 

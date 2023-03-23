@@ -23,7 +23,7 @@ Have a product, service, job, event, newsletter, app, book, movie, tool, or anyt
 
 **[PhotoAI.io transforms your photos into a benchmark style](https://photoai.io/)**
 
-I’ve always fancied myself to be a hit in the modelling industry (😂 ofc not), and now I can basically turn myself into one with [**PhotoAI.io**](https://photoai.io/). This is [**the guy**](https://twitter.com/levelsio/status/1624118401043161089?s=20\&t=C6jxGzyRUiG_ygZHDZi7mQ) (Pieter Levels) that brought us those insanely popular personalised avatars last year. Now he's propelled that into photorealism - select a model photo and get your photos fully transformed into that style. Adjust your clothes, your stance, your setting, and more. Although, errr, it’s kind of catfisher heaven right!?
+I’ve always fancied myself to be a hit in the modelling industry (😂 ofc not), and now I can basically turn myself into one with [**PhotoAI.io**](https://photoai.io/). This is [**the guy**](https://twitter.com/levelsio/status/1624118401043161089) (Pieter Levels) that brought us those insanely popular personalised avatars last year. Now he's propelled that into photorealism - select a model photo and get your photos fully transformed into that style. Adjust your clothes, your stance, your setting, and more. Although, errr, it’s kind of catfisher heaven right!?
 
 **2/**
 
@@ -73,13 +73,13 @@ Our readers get a 30-day free trial and [20% off an annual subscription with Bri
 - What if the**future of AGI** rhymes with the history of flight? ([link](https://www.jonstokes.com/p/what-if-the-future-of-agi-rhymes))
 - Inside the heart of **ChatGPT’s darkness.** ([link](https://garymarcus.substack.com/p/inside-the-heart-of-chatgpts-darkness))
 - What would**Joseph Schumpeter** have made of Apple? ([link](https://www.economist.com/business/2023/02/09/what-would-joseph-schumpeter-have-made-of-apple))
-- What if GPT had **internal context** on your business? ([link](https://twitter.com/replit/status/1624433919843094534?s=12\&t=RReFtORiyR2KW0_lHYOlzw))
+- What if GPT had **internal context** on your business? ([link](https://twitter.com/replit/status/1624433919843094534))
 - The coach behind Sam Altman, Naval, Brian Armstrong Shares the **mistakes that all CEOs make.**([link](https://www.youtube.com/watch?app=desktop\&v=G-rbS-prQwg))
 - **Opera enters the generative AI space**with new features in browsers and content apps. (official announcement - [link](https://blogs.opera.com/news/2023/02/opera-aigc-integration/), Verge coverage - [link](https://www.theverge.com/2023/2/11/23595784/opera-browser-chatgpt-sidebar-ai))
 - The**AI boom**that could make Google and Microsoft even more powerful. ([link](https://www.wsj.com/articles/the-ai-boom-that-could-make-google-and-microsoft-even-more-powerful-9c5dd2a6))
 - **Reddit thinks AI**chatbots will ‘complement’ human connection, not replace it. ([link](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard))
 - What **Google**should really be **worried about?**([link](https://garymarcus.substack.com/p/what-google-should-really-be-worried))
-- Some **UX predictions** for the coming age of LLMs. ([link](https://twitter.com/amasad/status/1624828377264955392?s=12\&t=Ri7hVzcm8oOV7T9OuLQTXw))
+- Some **UX predictions** for the coming age of LLMs. ([link](https://twitter.com/amasad/status/1624828377264955392))
 - Why I chose **OpenAI over academia**, part 2 - Reflections on the CS academic and industry job markets. ([link](https://rowanzellers.com/blog/rowan-job-search2/))
 - The**next generation** of large language models. ([link](https://www.forbes.com/sites/robtoews/2023/02/07/the-next-generation-of-large-language-models/), without paywall [here](https://archive.vn/WFZnG))
 - Searching the**real images** island - Understanding how diffusion-based generative models work. ([link](https://artste.github.io/blog/posts/real-images-island/))

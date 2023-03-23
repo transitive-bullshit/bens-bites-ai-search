@@ -45,7 +45,7 @@ Anthropic also added one more weapon to their **bias busters** kit yesterday by 
 
 - Two techniques that work: instruction following (IF) prompt and chain of thought (CoT) reasoning. IF**reduces bias** by 43% and CoT by 84%.
 
-The concern, though, is that they can sometimes over-correct if not checked. Check out this [thread](https://twitter.com/AnthropicAI/status/1626260971227586560?s=20) where they explain the three experiments they did with IF and CoT. The paper is [here](https://arxiv.org/abs/2302.07459).
+The concern, though, is that they can sometimes over-correct if not checked. Check out this [thread](https://twitter.com/AnthropicAI/status/1626260971227586560) where they explain the three experiments they did with IF and CoT. The paper is [here](https://arxiv.org/abs/2302.07459).
 
 **3/**
 
@@ -131,7 +131,7 @@ The Chrome extension (works on your favourite sites) and understands what you're
 
 - **Revenge**of the chatbots. ([link](https://www.nytimes.com/2023/02/16/business/dealbook/microsoft-chatgpt-revenge-chatbots.html))
 
-- GPT labs launch new open**AI libraries.**([link](https://twitter.com/ctjlewis/status/1626080726687924224?s=12\&t=Ai7do3r3THpzBXwXlDNhtg))
+- GPT labs launch new open**AI libraries.**([link](https://twitter.com/ctjlewis/status/1626080726687924224))
 
 ### 🎓️ Learn
 

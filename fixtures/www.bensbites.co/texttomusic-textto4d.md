@@ -87,8 +87,8 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 
 ### 🎓 Learn
 
-- How to create a **realistic video character** using only free AI tools. ([link](https://twitter.com/yokodechef/status/1618553099177857025?s=20\&t=b7ICnnfMXsbLb_hW2fJSJA))
-- How to turn any video clip into an**AI masterpiece** with today's Runway Academy. ([link](https://twitter.com/runwayml/status/1618647085687128066?s=12\&t=L64BTcDhhCXfv2q-Z1JJ7w))
+- How to create a **realistic video character** using only free AI tools. ([link](https://twitter.com/yokodechef/status/1618553099177857025))
+- How to turn any video clip into an**AI masterpiece** with today's Runway Academy. ([link](https://twitter.com/runwayml/status/1618647085687128066))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

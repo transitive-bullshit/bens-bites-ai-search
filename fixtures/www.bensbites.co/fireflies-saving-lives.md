@@ -35,7 +35,7 @@ Guys, we have a big dog wading into the generative art space, so this is*Cliffor
 
 **4/**
 
-[NVIDIA are becoming an enterprise-first AI provider](https://twitter.com/drjimfan/status/1638211601944948736?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A)
+[NVIDIA are becoming an enterprise-first AI provider](https://twitter.com/drjimfan/status/1638211601944948736)
 
 Talking of big dogs wading into spaces,**NVIDIA**are about to take itself from computer chip nerds to a full-on AI service provider, and they’re going*all out*. With**NVIDIA AI Foundations**, they’re marketing themselves as an enterprise-first AI provider, helping clients to build**custom multimodal LLMs**and generative models for their varying and fine-tuned use cases. There are some big partnerships going on for the generative images side of the “multi” in “multimodal”: Getty Images, Shutterstock, and Adobe. Looks like they’ve taken heed of the copyright complaints😅. Check out the link for examples of projects based around Foundations.
 
@@ -57,13 +57,13 @@ Talking of big dogs wading into spaces,**NVIDIA**are about to take itself from c
 
 - Bob from Magrathea AI - An advanced assistant that delivers **personalised insights**24/7 in a judgement-free space. ([link](https://bob.magrathea.ai))
 
-- API for **uptime status of Open AI’s** text and chat models. ([link](https://twitter.com/brettunhandled/status/1638192604180525057?s=20))
+- API for **uptime status of Open AI’s** text and chat models. ([link](https://twitter.com/brettunhandled/status/1638192604180525057))
 
-- Luma AR - Reshoot with NeRFs deployed as **AR from your iPhone.** ([link](https://twitter.com/LumaLabsAI/status/1638197756778156034?s=20))
+- Luma AR - Reshoot with NeRFs deployed as **AR from your iPhone.** ([link](https://twitter.com/LumaLabsAI/status/1638197756778156034))
 
 - Chatblade - An **one in all CLI** swiss army knife for ChatGPT. ([link](https://github.com/npiv/chatblade))
 
-- Vowel - The AI meeting tool adds a feature to generate **action items**for different members. ([link](https://twitter.com/berman66/status/1638224558065852419?s=20))
+- Vowel - The AI meeting tool adds a feature to generate **action items**for different members. ([link](https://twitter.com/berman66/status/1638224558065852419))
 
 - Chatshape - Build **AI chatbots** from your content, remarkably fast. ([link](https://www.chatshape.com/))
 
@@ -101,7 +101,7 @@ Talking of big dogs wading into spaces,**NVIDIA**are about to take itself from c
 
 - **Apple and AI,** lobotomized lovers, XR companions. ([link](https://stratechery.com/2023/apple-and-ai-lobotomized-lovers-xr-companions/))
 
-- A podcast with**AI avatars of All In Pod**’s hosts. ([link](https://twitter.com/edwardbrawer/status/1637904779253805057?s=20))
+- A podcast with**AI avatars of All In Pod**’s hosts. ([link](https://twitter.com/edwardbrawer/status/1637904779253805057))
 
 - **Bing image creator** is now live in the new Bing. ([link](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/))
 
@@ -157,11 +157,11 @@ Talking of big dogs wading into spaces,**NVIDIA**are about to take itself from c
 
 - **AI Proof - Course** from Metacrafters on prompt engineering and using AI as a coding copilot. ([link](https://academy.metacrafters.io/content/chatgpt-and-generative-ai))
 
-- Building a**CSV to JSON converter** using GPT-4 and Replit. ([link](https://twitter.com/Replit/status/1638194080852131841?s=20))
+- Building a**CSV to JSON converter** using GPT-4 and Replit. ([link](https://twitter.com/Replit/status/1638194080852131841))
 
 - Using **English as the programming language** for recursive LLM prompts. ([link](https://github.com/andyk/recursive_llm))
 
-- How to **build a functioning chrome extension** in 10 steps and 45 minutes, with no coding experience. ([link](https://twitter.com/charlierward/status/1638303596595892224?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A))
+- How to **build a functioning chrome extension** in 10 steps and 45 minutes, with no coding experience. ([link](https://twitter.com/charlierward/status/1638303596595892224))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

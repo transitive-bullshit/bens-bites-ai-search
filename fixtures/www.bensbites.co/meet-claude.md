@@ -55,7 +55,7 @@ Join 17k subscribers and [Sign up for free](https://bit.ly/wonderjan23)
 - **Photoshop plugin for Stable Diffusion**with Automatic1111 as backend. ([link](https://github.com/isekaidev/stable.art))
 - Simplified - All-in-one **design platform** to create social posts, presentations and turn them to video. ([link](https://app.simplified.com/ai-writer/templates/design))
 - Komo - **Search** **engine** powered by generative AI. ([link](https://komo.ai/))
-- Cursor - A brand new **IDE with LLMs**, built from the ground up. ([link](https://twitter.com/amanrsanger/status/1615539968772050946?s=12\&t=UQhzKNvsx0WeumJ5UerO1w))
+- Cursor - A brand new **IDE with LLMs**, built from the ground up. ([link](https://twitter.com/amanrsanger/status/1615539968772050946))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6208393c-bd01-4b17-a447-95cd31ee47e7/FmuJ1wSacAA95xY.jpeg)
 
@@ -65,7 +65,7 @@ Join 17k subscribers and [Sign up for free](https://bit.ly/wonderjan23)
 - **CNET's** article-writing AI is already publishing very **dumb errors**. ([link](https://futurism.com/cnet-ai-errors))
 - **Notion, AI, and me.** ([link](https://thesephist.notion.site/Notion-AI-and-Me-8e6fcd0e61394d6391236c6183bf97e7))
 - Hey Contigo - Our experiment building a real-time, interactive, agentic **voice AI application.** ([link](https://gilbertgravis.substack.com/p/hey-contigo?sd=pf))
-- **Behind the scenes** of the first NeRF in a TV commercial! ([link](https://twitter.com/karenxcheng/status/1615406394030817286?s=20\&t=3EZ0mijTYmLLNhXA-kvDLg))
+- **Behind the scenes** of the first NeRF in a TV commercial! ([link](https://twitter.com/karenxcheng/status/1615406394030817286))
 - The state of **generative AI.** ([link](https://tanay.substack.com/p/the-state-of-generative-ai))
 
 ### 🎓 Learn

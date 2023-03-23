@@ -55,24 +55,24 @@ Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/sta
 - Layer AI - Create pixel-perfect **game assets** in seconds. ([link](https://layer.ai/))
 - LangChainHub - A place to share and **discover LangChainAI**prompts, chains, and agents. ([link](https://github.com/hwchase17/langchain-hub))
 - Broadcast - Quickly**draft weekly updates**with AI and share on Slack and Email. ([link](https://www.withbroadcast.com/))
-- **You Imagine** now has a MidJourney option. ([link](https://twitter.com/RichardSocher/status/1617669017938063360?s=20\&t=J4X36s3ahvzdfAQnitjIug))
-- **Luma NeRF captures** are clearer, sharper, and higher resolution after their latest update. ([link](https://twitter.com/lumalabsai/status/1617980340613840896?s=12\&t=LPYBuaLgpOHMcva8D68YXw))
+- **You Imagine** now has a MidJourney option. ([link](https://twitter.com/RichardSocher/status/1617669017938063360))
+- **Luma NeRF captures** are clearer, sharper, and higher resolution after their latest update. ([link](https://twitter.com/lumalabsai/status/1617980340613840896))
 - Sutro - Pioneering a radically new approach to**software development** using GPT-3. ([link](https://withsutro.com/))
 - Present AI - Create amazing **presentations**10X faster with AI. ([link](https://present.yaara.ai/))
 - Spell Social - **Remix images** with your friends. ([link](https://twitter.com/_alfredw/status/1617946170667720706))
 - Vacay AI chatbot - **Design a custom trip**, give you inspiration and generate local recommendations for hotels, restaurants, and attractions. ([link](https://www.usevacay.com/chatbot))
-- MediaPipe Studio from Tensorflow - **On-device ML solutions** in your web browser without writing a single line of code. ([link](https://twitter.com/tensorflow/status/1617977448456486930?s=12\&t=7gd1-P7Jio2z8FrSdC4tHA))
+- MediaPipe Studio from Tensorflow - **On-device ML solutions** in your web browser without writing a single line of code. ([link](https://twitter.com/tensorflow/status/1617977448456486930))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5a59a9d9-7534-41e5-9202-c9bb16602478/FnQ16dXXgAsmg4I.jpeg)
 
 ### 🤓 Miscellaneous
 
 - **The ChatGPT revolution:** Powering up programmers and beyond. ([link](https://www.youtube.com/watch?v=pXVVji7CfI8))
-- **AI will bring zero platform disruption**… don’t kid yourself, the big players will continue to be the big players. ([link](https://twitter.com/lessin/status/1617680326716952576?s=20\&t=vCUb2bs_IjBi42_luxQXnQ))
+- **AI will bring zero platform disruption**… don’t kid yourself, the big players will continue to be the big players. ([link](https://twitter.com/lessin/status/1617680326716952576))
 - But what about for film? Apparently generative AI is bringing the biggest **disruption to film making** in 100 years. ([link](https://tech.eu/2023/01/23/flawless-brings/))
 - **Will Chinese LLMs be much worse?** ([link](https://marginalrevolution.com/marginalrevolution/2023/01/will-chinese-llms-be-much-worse.html))
 - Thinking through the bull case for **OpenAI’s threat to Google’s**dominance. ([link](https://sarahtavel.medium.com/thinking-through-the-bull-case-for-openais-threat-to-google-s-dominance-65668af286cf))
-- GPT3 can build **no code workflows** with AI. ([link](https://twitter.com/yoheinakajima/status/1617954171780747265?s=20\&t=gsNs1I1bYt6GO1uq-9dBpg))
+- GPT3 can build **no code workflows** with AI. ([link](https://twitter.com/yoheinakajima/status/1617954171780747265))
 - **Summer camp programs** for children. Track and follow each step with AI. ([link](https://www.bestparents.com/))
 - I get overwhelmed by how much stuff I read online. So I **outsourced my memory** to an AI app. ([link](https://www.businessinsider.in/tech/news/i-get-overwhelmed-by-how-much-stuff-i-read-online-so-i-outsourced-my-memory-to-an-ai-app-/articleshow/97280094.cms))
 - **The human-AI reflective equilibrium.** ([link](https://www.lesswrong.com/posts/W7sEv69cQzW8D8SMr/the-human-ai-reflective-equilibrium))
@@ -83,7 +83,7 @@ Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/sta
 - The**practical guide to using AI** to do stuff. ([link](https://oneusefulthing.substack.com/p/the-practical-guide-to-using-ai-to))
 - Build your own **GPT-3 AI app**with Next.js and OpenAI. ([link](https://www.youtube.com/watch?v=JcE-1xzQTE0))
 - **How a transformer works** at inference vs training time. ([link](https://www.youtube.com/watch?v=IGu7ivuy1Ag))
-- How To**fine-tune Donut**- A document AI model to extract data from docs. ([link](https://twitter.com/andrejusb/status/1617614247290376192?s=20\&t=1jUgKhTfWm0a982J0cQgpQ))
+- How To**fine-tune Donut**- A document AI model to extract data from docs. ([link](https://twitter.com/andrejusb/status/1617614247290376192))
 - **How ChatGPT is trained.**([link](https://www.youtube.com/watch?app=desktop\&v=VPRSBzXzavo))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
@@ -96,7 +96,7 @@ Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/sta
 - **The Semantic Scholar**- Open data platform to help scholars discover and understand scientific literature. ([link](https://arxiv.org/abs/2301.10140))
 - K-planes - A white-box model for **radiance fields in arbitrary dimensions.**([link](https://arxiv.org/abs/2301.10241))
 - SMART - **Self-supervised multi-task pre training** with control transformers. ([link](http://arxiv.org/abs/2301.09816))
-- A **watermark** for large language models. ([link](https://twitter.com/_akhaliq/status/1618061836393349120?s=12\&t=7gd1-P7Jio2z8FrSdC4tHA))
+- A **watermark** for large language models. ([link](https://twitter.com/_akhaliq/status/1618061836393349120))
 - Google’s general LM to decipher clinical abbreviations and enable **training without patient data.**([link](https://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html))
 
 ### 📰 Unclassifieds

@@ -55,7 +55,7 @@ Instead of patching together automated workflows or cloud functions, with Patter
 ### 🛠️ Cool Tools
 
 - Perplexity AI’s new chrome extension can now provide **answers focused**on the website you're currently on. ([link](https://chrome.google.com/webstore/detail/perplexity/hlgbcneanomplepojfcnclggenpcoldo))
-- LangChain**document loaders** in TypeScript. ([link](https://twitter.com/hwchase17/status/1628075160711622658?s=20))
+- LangChain**document loaders** in TypeScript. ([link](https://twitter.com/hwchase17/status/1628075160711622658))
 - Open source **CSV importer**powered by GPT3. ([link](https://github.com/yobulkdev/yobulkdev))
 - PicWonderful - AI-powered**photo toolkit.**([link](https://www.picwonderful.com/))
 - Dreamphilic - **Frontpage for AI**generated content. ([link](https://dreamphilic.com/))
@@ -64,7 +64,7 @@ Instead of patching together automated workflows or cloud functions, with Patter
 - Read Easy - Make the text of your website or app**easy to read**for people with low literacy skills. ([link](https://readeasy.ai/))
 - Empy AI - Promote **empathic language** in your Slack workspace. ([link](https://empy.ai/))
 - ‎Scribbler - Draw**beautiful art.** ([link](https://apps.apple.com/us/app/scribbler-draw-beautiful-art/id1671885963))
-- Private web-app to turn any arbitrary CSV file into a dashboard of**data visualisations.** ([link](https://twitter.com/thisisnikolai/status/1627861561296711681?s=12))
+- Private web-app to turn any arbitrary CSV file into a dashboard of**data visualisations.** ([link](https://twitter.com/thisisnikolai/status/1627861561296711681))
 - Networkoracle -**Search on your contacts** and ask an AI assistant questions. ([link](https://networkoracle.chat/))
 - Truewind - AI-powered **bookkeeping & finance**for startups. ([link](https://www.truewind.ai/))
 - Clarity AI - Implement **up-to-date info** from the web into OpenAI powered search queries. ([link](https://clarity-ai.vercel.app/))

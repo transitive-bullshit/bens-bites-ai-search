@@ -45,7 +45,7 @@ Let's get to it.
 - Native Swift app for Stable Diffusion - App that shows**how to integrate Apple's Core ML Stable Diffusion implementation in a native Swift UI application**. ([link](https://github.com/huggingface/swift-coreml-diffusers))
 - Tome - **Generative storytelling** app, in BETA. ([link](https://beta.tome.app/))
 - Bedtimestory - Personalised, **instant bedtime stories** created in seconds. ([link](https://www.bedtimestory.ai/))
-- Unofficial **Hugging Face integration for Zapier**. ([link](https://twitter.com/yoheinakajima/status/1602902350238453760?s=12\&t=kN9ooR1_cIgr64e1J9oudg))
+- Unofficial **Hugging Face integration for Zapier**. ([link](https://twitter.com/yoheinakajima/status/1602902350238453760))
 - Creative Reality Studio - Platform to **combine GPT-3, Stable Diffusion and D-ID’s unique face animation** technology to create future-facing videos. ([link](https://studio.d-id.com/?ref=producthunt))
 - ‍AI Data Sidekick - **Write SQL, documentation and more** 10x faster for free. ([link](https://www.airops.com/))
 - Mindy - Brainstorm and flesh out ideas through **mind mapping and chatting with AI**. ([link](https://vzakharov.github.io/mindy/))
@@ -57,7 +57,7 @@ Let's get to it.
 ### **🎓 Learn**
 
 - Create **100 programmatic SEO pages in 20 minutes with OpenAI + Webflow + Whalesync**. ([link](https://www.youtube.com/watch?v=SXnOeyO9kOQ))
-- How to **replace, reimagine and remix any background, in any photo with Runway's Backdrop Remix**. ([link](https://twitter.com/runwayml/status/1602657819483947010?s=20\&t=gAKMo1d5OKZQRhyl4amp2w))
+- How to **replace, reimagine and remix any background, in any photo with Runway's Backdrop Remix**. ([link](https://twitter.com/runwayml/status/1602657819483947010))
 - How to build **a book recommendation site** with ChatGPT & Webflow. ([link](https://www.youtube.com/watch?v=8_GD11Q-oGg))
 
 ### **🔬 Research**
@@ -93,7 +93,7 @@ Let's get to it.
 - GPT Index:**a simple, flexible interface between your external data and LLMs**. ([link](https://gpt-index.readthedocs.io/en/latest/))
 - A**subreddit for entrepreneurs to stay in the loop about how advances in AI can make running or starting a business easier**. ([link](https://www.reddit.com/r/AIforEntrepreneurs/))
 - Yann LeCun elaborates on their latest research and **critiques the chain of citations** in a latest interview. ([link](https://analyticsindiamag.com/angels-demons-of-ai/))
-- A thread explaining **RT-1, a robotic model**that can execute over 700 instructions in the real world at 97% success rate. ([link](https://twitter.com/hausman_k/status/1602720768965898240?s=12\&t=BepnGqtZkDtoeKXIM578JQ))
+- A thread explaining **RT-1, a robotic model**that can execute over 700 instructions in the real world at 97% success rate. ([link](https://twitter.com/hausman_k/status/1602720768965898240))
 - The New Yorker article, “T**he world-changing race to develop the quantum computer**.” ([link](https://www.newyorker.com/magazine/2022/12/19/the-world-changing-race-to-develop-the-quantum-computer))
 
 ## **🧑‍💻 Who's hiring in AI**

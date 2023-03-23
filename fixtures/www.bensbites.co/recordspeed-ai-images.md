@@ -25,9 +25,9 @@ I remember at some point in secondary school (high school for our friends across
 
 **2/**
 
-[**Photorealistic 3D photo rendering using NeRF**](https://twitter.com/lumalabsai/status/1628832654840979457?s=12\&t=HGCqSH9MlRxEMSHyuV8nKQ)
+[**Photorealistic 3D photo rendering using NeRF**](https://twitter.com/lumalabsai/status/1628832654840979457)
 
-Whenever I see these **NeRF** shots of images it makes me feel really weird but in an excitable and good way! It’s so cool how the camera develops this ability to make it **feel like you’re really in the scene**, poking and prodding around and viewing 3D objects at all angles. The Luma AI team have taken this technology to the next level, showing **volumetric photorealistic 3D rendering** in real time. To really see how awesome this is, click the [**link**](https://twitter.com/lumalabsai/status/1628832654840979457?s=12\&t=HGCqSH9MlRxEMSHyuV8nKQ) and check out the demo.
+Whenever I see these **NeRF** shots of images it makes me feel really weird but in an excitable and good way! It’s so cool how the camera develops this ability to make it **feel like you’re really in the scene**, poking and prodding around and viewing 3D objects at all angles. The Luma AI team have taken this technology to the next level, showing **volumetric photorealistic 3D rendering** in real time. To really see how awesome this is, click the [**link**](https://twitter.com/lumalabsai/status/1628832654840979457) and check out the demo.
 
 **3/**
 
@@ -37,7 +37,7 @@ Writing sentences like that pick header often makes me wonder what new-joiners t
 
 **4/**
 
-[**Some very funny logo modifications using AI**](https://twitter.com/fofrai/status/1628882166900744194?s=12\&t=2wJb6MMA_F6CmLIjck---w)
+[**Some very funny logo modifications using AI**](https://twitter.com/fofrai/status/1628882166900744194)
 
 Time to finish the week on a light-hearted note that’ll send you into a weekend of fun. ControlNet is a new model that allows you to take control of parts of an image, and then let AI work its magic on the rest. This Twitter thread shows someone’s experiments passing famous logos (Starbucks, Burger King etc) through ControlNet and seeing what AI can muster up… Some of the results are hilarious, especially the Starbucks one for me 🤣. Happy Friday all!
 
@@ -96,7 +96,7 @@ Need developers with startup grit? **[Go to](https://lemon.io/?utm_source=newsle
 
 ### 🎓 Learn
 
-- How users can **use RLHF** in their own assistants with trlX. ([link](https://twitter.com/carperai/status/1628544125120430081?s=20))
+- How users can **use RLHF** in their own assistants with trlX. ([link](https://twitter.com/carperai/status/1628544125120430081))
 - **Text-to-Image**Diffusion Models - A guide for non-technical readers. ([link](https://www.shinyobjects.gg/blog/Text-to-Image-Diffusion-Models))
 - Techniques for **improving the training performance**of your PyTorch model without compromising its accuracy. ([link](https://sebastianraschka.com/blog/2023/pytorch-faster.html))
 - **All about prompt engineering** - Guides, papers, lecture, and resources for prompt engineering. ([link](https://github.com/dair-ai/Prompt-Engineering-Guide))

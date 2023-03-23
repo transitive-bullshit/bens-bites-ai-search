@@ -11,7 +11,7 @@ Thanks for reading! Ben’s Bites is a roundup of what’s going on in AI.\
 *Not subscribed? Do that [here](https://magic.beehiiv.com/v1/447f6e60-e36a-4642-b6f8-46beb19045ec?email={{email}}\&utm_source=top-of-email).\
 Link overload? Refer 2 friends [with this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and get access to the filterable+searchable database.*
 
-**Two AI companies valued at $1.5 Billion**. [Stability AI](https://twitter.com/erinkwoo/status/1582234609592328192?s=12\&t=ebJDTDuIDUTP0fO6NJeTnw) (makers of Stable Diffusion) and just announced [Jasper](https://twitter.com/DaveRogenmoser/status/1582362508362280960) - writing tool, **raised $101M and $125m**, respectively. These are astronomical numbers! We've hopefully got an interview with Jasper CEO coming this week.
+**Two AI companies valued at $1.5 Billion**. [Stability AI](https://twitter.com/erinkwoo/status/1582234609592328192) (makers of Stable Diffusion) and just announced [Jasper](https://twitter.com/DaveRogenmoser/status/1582362508362280960) - writing tool, **raised $101M and $125m**, respectively. These are astronomical numbers! We've hopefully got an interview with Jasper CEO coming this week.
 
 I got access to Lex, the writing tool I talked about yesterday and used it to write this email. Although I don't use any tools to actually write the snippets. So I like it but not using its AI potential yet.
 
@@ -47,19 +47,19 @@ Let's get to it.
 
 - [This article](https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10?r=US\&IR=T) has been making the rounds (I should’ve included it in yesterday’s email, whoops). Essentially the points made are that **Artists say they work for years on their portfolios and now people can now make copycat images in seconds**. But some AI companies argue that the **new artworks are unique and can be copyrighted**. What’s your take?
 
-- [This thread](https://twitter.com/clemnt/status/1582031407932899328?s=12\&t=yyqJn3iqMnyz8jsxj1gT5w) discusses **different use cases for using AI tools**. It includes; overcoming writer’s block, outline generation, re-writing/enhancing content, ad copy, and more. [Related thread](https://twitter.com/lkr/status/1579945483514286080) from people who actually use these products and what they use them for.
+- [This thread](https://twitter.com/clemnt/status/1582031407932899328) discusses **different use cases for using AI tools**. It includes; overcoming writer’s block, outline generation, re-writing/enhancing content, ad copy, and more. [Related thread](https://twitter.com/lkr/status/1579945483514286080) from people who actually use these products and what they use them for.
 
 - Is [this](https://www.reddit.com/r/singularity/comments/y6eth3/is_this_imagination/) imagination? A reddit user created **a character and asked AI to imagine stuff** and wrote how AI could have its own imagination. Related phenomenon - [The AI effect](https://en.wikipedia.org/wiki/AI_effect).
 
 - **Another writing tool** that I was linked to - [Moonbeam](https://www.gomoonbeam.com/)
 
-- Imagic: Text-Based Real Image Editing with Diffusion Models. Basically, it can let you **[change the posture and composition](https://twitter.com/_akhaliq/status/1582175757153230849?s=12\&t=ebJDTDuIDUTP0fO6NJeTnw) of one or multiple objects inside an image** while preserving its original characteristics.
+- Imagic: Text-Based Real Image Editing with Diffusion Models. Basically, it can let you **[change the posture and composition](https://twitter.com/_akhaliq/status/1582175757153230849) of one or multiple objects inside an image** while preserving its original characteristics.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c57a44b8-c2cb-4810-ac17-02fdaca8678f/Screenshot_2022-10-18_at_12.38.33.png)
 
-- PhotoRoom is able to [**generate marketing images for any product**](https://twitter.com/matthieurouif/status/1581969062271520768?s=12\&t=ebJDTDuIDUTP0fO6NJeTnw) using stable diffusion. The example is: capture this car toy & prompt “a photo of this car driving a scenic mountain road”.
+- PhotoRoom is able to [**generate marketing images for any product**](https://twitter.com/matthieurouif/status/1581969062271520768) using stable diffusion. The example is: capture this car toy & prompt “a photo of this car driving a scenic mountain road”.
 
-- DiffLinker is [now on Hugging Face](https://twitter.com/ilvailvail/status/1581999299910864898?s=12\&t=ebJDTDuIDUTP0fO6NJeTnw). Given a set of disconnected fragments in 3D, **it places missing atoms in between and designs a molecule** incorporating all the initial fragments.
+- DiffLinker is [now on Hugging Face](https://twitter.com/ilvailvail/status/1581999299910864898). Given a set of disconnected fragments in 3D, **it places missing atoms in between and designs a molecule** incorporating all the initial fragments.
 
 - AI created [**a 4K stock video**](https://twitter.com/mcreed/status/1582031033146363904) with music!
 

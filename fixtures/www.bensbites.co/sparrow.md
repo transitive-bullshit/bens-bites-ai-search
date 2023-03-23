@@ -53,8 +53,8 @@ I just have to proudly say this - my wife asked if I wanted a McDonald's breakfa
 
 - **Personalised AI chatbot** created using a newsletter’s content. ([link](http://chat.ntkris.xyz))
 - **Sara Dietschy**published a YouTube **video**"14 AI tools creators should actually use". ([link](https://www.youtube.com/watch?v=03iSjMQ3a1U))
-- **Google’s reply** to large websites using AI generated content with human editors. ([link](https://twitter.com/blairmacgregor/status/1613170333938511875?s=20\&t=BF64pvbsBJNtlmuo82NBYw))
-- Researchers have started adding **ChatGPT as co-author** on their papers. ([link](https://twitter.com/rasbt/status/1613652370113855488?s=20\&t=HVKxVlUxRDLEFQoDCKxGDA))
+- **Google’s reply** to large websites using AI generated content with human editors. ([link](https://twitter.com/blairmacgregor/status/1613170333938511875))
+- Researchers have started adding **ChatGPT as co-author** on their papers. ([link](https://twitter.com/rasbt/status/1613652370113855488))
 - What **OpenAI’s ‘bonkers’ deal** structure means for Silicon Valley. ([link](https://www.theinformation.com/articles/what-openai-s-bonkers-deal-structure-means-for-silicon-valley?utm_source=ti_app))
 - **Inbenta**, a provider of AI-powered chatbots and more, **lands** **$40M**. ([link](https://techcrunch.com/2023/01/11/inbenta-a-provider-of-ai-powered-chatbots-and-more-lands-40m/))
 - How **AI** **is changing** **art** - a FT podcast. ([link](https://www.ft.com/content/db560270-4dca-4402-bc66-6368a18e59e9))

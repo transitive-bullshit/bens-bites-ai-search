@@ -55,7 +55,7 @@ Let's get to it!
 
 ### **🤓 Everything else**
 
-- A **chatbot based on Andrew Huberman’s podcast** ([link](https://twitter.com/danshipper/status/1602126357953142784?s=20\&t=Wgj6Htde3Ha8L5PJ2kdzfw))
+- A **chatbot based on Andrew Huberman’s podcast** ([link](https://twitter.com/danshipper/status/1602126357953142784))
 - 2023 prediction: **A new kind of language model** - introducing matrix models ([link](https://bakztfuture.substack.com/p/2023-prediction-a-new-kind-of-language))
 - A thread on **how written work might survive in the age of AI** ([link](https://twitter.com/venturetwins/status/1601991096816390144))
 - AI tech **makes it trivial to generate harmful fake photos** from a few social media pictures. ([link](https://arstechnica.com/information-technology/2022/12/thanks-to-ai-its-probably-time-to-take-your-photos-off-the-internet/))

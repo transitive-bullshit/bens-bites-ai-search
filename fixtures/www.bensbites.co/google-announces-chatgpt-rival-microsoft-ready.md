@@ -74,14 +74,14 @@ Get in touch to arrange your [free trial of Encord.](https://encord.com/trial-co
 - **Chat your data challenge**from LangChain. ([link](https://blog.langchain.dev/chat-your-data-challenge/))
 - CapitalG - Alphabet’s independent **fund for growth stage**companies. ([link](https://www.capitalg.com/))
 - **Latent Technology raises** $2.1M to bring generative AI to video games. ([link](https://www.axios.com/2023/02/06/latent-technology-21-million-generative-ai-video-games))
-- ChatGPT + natural language + personal context = a more useful **personal home device.**([link](https://twitter.com/localghost/status/1622703134127853568?s=12\&t=eZ7OuG45t6HjQ-gSzU5sHQ))
+- ChatGPT + natural language + personal context = a more useful **personal home device.**([link](https://twitter.com/localghost/status/1622703134127853568))
 - Voice AI - **General public licence violations**with a side of DRM. ([link](https://undeleted.ronsor.com/voice.ai-gpl-violations-with-a-side-of-drm/))
 - **AI-generated ‘Seinfeld’ suspended** on Twitch for AI-generated transphobic jokes. ([link](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/))
 - **Getty Images sues** AI art generator Stable Diffusion in the US for copyright infringement. ([link](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion))
 - **Baidu surges** as hope mounts over Chinese answer to ChatGPT. ([link](https://www.bloomberg.com/news/articles/2023-02-07/baidu-surges-after-prepping-chatgpt-style-ernie-bot-for-march#xj4y7vzkg))
 - ChatGPT and generative **AI in the enterprise.**([link](https://cresta.com/blog/chatgpt-and-generative-ai-in-the-enterprise/))
 - Stable Attribution: A new tool could**ruin generative AI**, or it could save it. ([link](https://www.jonstokes.com/p/stable-attribution-a-new-tool-could))
-- How will**productivity**using ChatGPT evolve? ([link](https://twitter.com/stevesi/status/1622842851137830912?s=12\&t=99Plw1QwBubgw6gMUoBPLA))
+- How will**productivity**using ChatGPT evolve? ([link](https://twitter.com/stevesi/status/1622842851137830912))
 
 ### 🎓 Learn
 

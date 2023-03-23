@@ -60,7 +60,7 @@ A method for [**automatically generating instructions for LLMs**](https://arxiv.
 
 A [**step-by-step guide on fine-tuning Whisper**](https://huggingface.co/blog/fine-tune-whisper) using Hugging Face Transformers.
 
-A thread by Peter Diamandis on [**the rise of artificial intelligence**](https://twitter.com/peterdiamandis/status/1588223283610062850?s=12\&t=CbDv33J6Hm_aw0A8PxKsVQ).
+A thread by Peter Diamandis on [**the rise of artificial intelligence**](https://twitter.com/peterdiamandis/status/1588223283610062850).
 
 [**Cohere Sandbox**](https://txt.cohere.ai/introducing-sandbox-coheres-experimental-open-source-initiative/)**:** **open-source libraries to help developers experiment with language AI**. A collection of open-source repositories for building applications with LLMs, designed to help developers quickly build and deploy applications and it includes a variety of tools and demos for building conversational agents, semantic search engines, and more. A demo of how a [**toy semantic search engine can be quickly built**](https://github.com/cohere-ai/sandbox-toy-semantic-search) using Cohere's platform.
 

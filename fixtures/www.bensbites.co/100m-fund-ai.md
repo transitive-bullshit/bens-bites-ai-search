@@ -49,7 +49,7 @@ A [**fully-fledged AI voice studio**](https://twitter.com/coqui_ai/status/157988
 
 **Hugging Face** is not only a company 'named after an emoji' 🤗. It started as a chat app for bored teens, now it offers a library of Natural Language Processing models - quite the pivot\*\*.\*\*
 
-They've just [released 3 BIG things](https://twitter.com/julien_c/status/1580274425022541824?s=46\&t=jnP_510npLc2LSvCnduk8Q)...(I'd say one big and 2 basic things)
+They've just [released 3 BIG things](https://twitter.com/julien_c/status/1580274425022541824)...(I'd say one big and 2 basic things)
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/a27d467b-53df-4527-b40c-0c66b1d504cb/Fe4-pqJXEAMLVCO.jpeg)
 
@@ -65,7 +65,7 @@ They've just [released 3 BIG things](https://twitter.com/julien_c/status/1580274
 
 A [podcast with Sarah Guo](https://techcrunch.com/2022/10/12/sarah-guo-conviction-isnt-late-to-the-ai-party/) (ex-Greylock investor) who has just **raised $101m to fund AI** companies. It's so awesome to see funds specific to these areas BUT why not just cap it at $100M, it's a much nicer number.
 
-A community for [**discovering and sharing AI art**](https://twitter.com/divamgupta/status/1580274233812271105?s=46\&t=jnP_510npLc2LSvCnduk8Q) and prompts. A few of these are popping up consistently. I've been promised a deep dive next week on one of the most powerful! Stay tuned.
+A community for [**discovering and sharing AI art**](https://twitter.com/divamgupta/status/1580274233812271105) and prompts. A few of these are popping up consistently. I've been promised a deep dive next week on one of the most powerful! Stay tuned.
 
 20min video on how Imagen & Parti [**make the artistic process more accessible**](https://youtu.be/R_f-v6prMqI). Context: *Imagen and Parti, Google’s text-to-image models, have the ability to generate photorealistic images with different approaches. Imagen is a Diffusion model, which learns to convert a pattern of random dots to images. Parti’s approach takes advantage of existing research and infrastructure for large language models such as PaLM and is critical for handling long, complex text prompts to produce high-quality images.*
 
@@ -86,9 +86,9 @@ Raoul Pal, former hedge fund manager, came in with this bold prediction:
 > It is written.
 >
 > [— Raoul Pal (@RaoulGMI)\
-> Oct 12, 2022](https://twitter.com/RaoulGMI/status/1580234698155884545?s=20\&t=fHyPuxJenbuJt3nCWw89zA)
+> Oct 12, 2022](https://twitter.com/RaoulGMI/status/1580234698155884545)
 
-[This](https://twitter.com/andrewpprice/status/1580258369964630016?s=46\&t=jnP_510npLc2LSvCnduk8Q) video demo shows Luma AI - It **uses self-learning AI to guess parts of the missing scan when you're photo scanning**. Shoutout to [Amit](https://twitter.com/gravicle) who's building Luma (ex cameras, CV, AR at )
+[This](https://twitter.com/andrewpprice/status/1580258369964630016) video demo shows Luma AI - It **uses self-learning AI to guess parts of the missing scan when you're photo scanning**. Shoutout to [Amit](https://twitter.com/gravicle) who's building Luma (ex cameras, CV, AR at )
 
 An article came out yesterday about a ghostwriter making **$200k/yr writing tweets for** **VCs**. Alexis Ohanian tweeted the below, which I imagine is already happening!
 
@@ -97,9 +97,9 @@ An article came out yesterday about a ghostwriter making **$200k/yr writing twee
 > Make fun of the paid tweeter for VCs all you want, but I'm gonna have GPT-3 writing half my tweets in a year. 🤪
 >
 > [— AlexisOhanian7️⃣7️⃣6️⃣ (@alexisohanian)\
-> Oct 12, 2022](https://twitter.com/alexisohanian/status/1580311973077536768?s=20\&t=dE40SPGONUD7gID8QL1DZA)
+> Oct 12, 2022](https://twitter.com/alexisohanian/status/1580311973077536768)
 
-If you didn't watch the **Elad Gil interview with Sam Altman** (which i summarised in the last email) [here's a transcription](https://kazuk.notion.site/Live-Fireside-Sam-Altman-CEO-of-OpenAI-w-Elad-Gil-051ecb6968ec4afc95959c5cdb9024ad) (made by Whisper of course!) created by [Kazuki](https://twitter.com/kazuki_sf_/status/1580383407552442369?s=46\&t=4ZBWAdOXC-n379jzdg3wNQ).
+If you didn't watch the **Elad Gil interview with Sam Altman** (which i summarised in the last email) [here's a transcription](https://kazuk.notion.site/Live-Fireside-Sam-Altman-CEO-of-OpenAI-w-Elad-Gil-051ecb6968ec4afc95959c5cdb9024ad) (made by Whisper of course!) created by [Kazuki](https://twitter.com/kazuki_sf_/status/1580383407552442369).
 
 Agreed, Tren, everything's moving super quickly
 
@@ -110,9 +110,9 @@ Agreed, Tren, everything's moving super quickly
 > The pace of change feels similarly nonlinear. The unexpected will happen. Big changes due. twitter.com/trengriffin/st…
 >
 > [— Tren Griffin (@trengriffin)\
-> Oct 13, 2022](https://twitter.com/trengriffin/status/1580395702106361856?s=46\&t=4ZBWAdOXC-n379jzdg3wNQ)
+> Oct 13, 2022](https://twitter.com/trengriffin/status/1580395702106361856)
 
-Reid Hoffman (the other ' The Hoff') [digs into](https://twitter.com/reidhoffman/status/1580383760532484096?s=46\&t=4ZBWAdOXC-n379jzdg3wNQ) the **latest on autonomous vehicles, safety and challenges.**
+Reid Hoffman (the other ' The Hoff') [digs into](https://twitter.com/reidhoffman/status/1580383760532484096) the **latest on autonomous vehicles, safety and challenges.**
 
 **AI is [now an expert](https://twitter.com/polynoamial/status/1580185706735218689) at the games**; no-press Diplomacy and Hanabi.
 

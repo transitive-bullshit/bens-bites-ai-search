@@ -35,7 +35,7 @@ The Instagram founders are BAAAAAACKKKK. Kevin and Mike have announced their new
 
 **3/**
 
-[**Model extracts training data from generative art models**](https://twitter.com/arankomatsuzaki/status/1620241696431935489?s=12\&t=J72JV-DTkBJikVn-1JM9BQ)
+[**Model extracts training data from generative art models**](https://twitter.com/arankomatsuzaki/status/1620241696431935489)
 
 Oh god, it’s time to drag the AI art lawsuits back up again. This [**paper**](https://arxiv.org/abs/2301.13188) is *insane* - it manages to extract images from the AI training data that it memorises, and it dredges up a load of stuff, including… **copyrighted images**. Legal implications are around the corner, whereas the **privacy concern** is smiling from a distance—still ignored by all the models in the market.
 
@@ -60,9 +60,9 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 - Block Survey - **Create your survey**in just a few clicks, using AI-generated questions. ([link](https://blocksurvey.io/ai-surveys))
 - Liblab - Endless AI generated **stories for you** to leave your mark on. ([link](https://liblab.gg/))
 - AskYC - Ask anything to get **answers from Y Combinator**’s content library. ([link](http://askyc.com))
-- Rose AI - A new way to find, visualise, and **transform** **data.** ([link](https://twitter.com/colecallinan/status/1620476857232797697?s=20\&t=hdtHhqffrGIHLu9EZvbaCQ))
+- Rose AI - A new way to find, visualise, and **transform** **data.** ([link](https://twitter.com/colecallinan/status/1620476857232797697))
 - GPT Minus1 -**Fool GPT**by randomly replacing words with synonyms in your text. ([link](https://gptminus1.vercel.app/))
-- Intercom introduces a bunch of chatGPT features to their **customer service** stack. ([link](https://twitter.com/destraynor/status/1620478505720123392?s=20\&t=HuOkzW60XOq6gd8KylQISQ))
+- Intercom introduces a bunch of chatGPT features to their **customer service** stack. ([link](https://twitter.com/destraynor/status/1620478505720123392))
 - GPT For Me - Use GPT-3 to interact with your **private data.** ([link](https://gptfor.me/))
 - Paint by Text - Web app to **edit your photos**using written instructions. ([link](https://paintbytext.chat/))
 
@@ -73,14 +73,14 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 - **The state of computer vision** at Hugging Face. ([link](https://huggingface.co/blog/cv_state))
 - The**race of the AI labs** heats up. ([link](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up))
 - The next edition of Character Labs’ **sprint program** is optimised for AI startups. ([link](https://www.character.vc/labs))
-- I created an**AI-generated podcast**to help me learn and keep up with topics I care about. ([link](https://twitter.com/jheitzeb/status/1620584063781462020?s=20\&t=HAvvjgzu5kD3UEF9ednrLw))
+- I created an**AI-generated podcast**to help me learn and keep up with topics I care about. ([link](https://twitter.com/jheitzeb/status/1620584063781462020))
 - **The AI literacy project.** ([link](https://www.thegp.com/news/the-ai-literacy-project))
-- 2 hottest AI and LLM **research questions**for 2023. ([link](https://twitter.com/spolu/status/1620381471583399936?s=20\&t=jGlmTSmiUm5iIfPgd5w1yg))
+- 2 hottest AI and LLM **research questions**for 2023. ([link](https://twitter.com/spolu/status/1620381471583399936))
 
 ### 🎓 Learn
 
 - The **complete playbook** to build your first GPT-3 powered product. ([link](https://buildbystl.com/gpt-3-guide))
-- How to turn any **book into a chatbot**using GPT-3. ([link](https://twitter.com/danshipper/status/1620464918515302401?s=20\&t=2cDfD_LwkZKJaoWVSLlIpg))
+- How to turn any **book into a chatbot**using GPT-3. ([link](https://twitter.com/danshipper/status/1620464918515302401))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
@@ -110,7 +110,7 @@ Have a product, service, job, event, newsletter, app, book, movie, tool, or anyt
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6b6ba14b-e481-4b77-bc63-4833c8576ea3/image.png)
 
-<https://twitter.com/peterborodatyy/status/1620734140676214784?s=20&t=ft7gHVgBBYqL99Q7jSKsQg>
+[https://twitter.com/peterborodatyy/status/1620734140676214784?s=20\&t=ft7gHVgBBYqL99Q7jSKsQg](https://twitter.com/peterborodatyy/status/1620734140676214784)
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/04d24fbd-89e4-48f9-9018-56f6df4cecd0/image.png)
 

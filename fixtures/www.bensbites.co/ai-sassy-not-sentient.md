@@ -56,7 +56,7 @@ I’m imagining a scenario where a court hearing consists of us all sitting in a
 
 **3/**
 
-[**Conversational AI in your IDE to make your coding more efficient**](https://twitter.com/Replit/status/1625916916593463296?s=20\&t=RGwc8ZAT3TyqonRvbFhv_w)
+[**Conversational AI in your IDE to make your coding more efficient**](https://twitter.com/Replit/status/1625916916593463296)
 
 Forget about “debugging”, it’s all about “chat-bugging” these days. (Sorry about that, let’s stick to debugging.) **Replit** has introduced **Ghostwriter Chat**, a conversational AI to snuggle up with inside your IDE, and it looks *damn cool*. You can ask questions about existing code (yes, I know the struggle); it can **give you bug-fixing solutions**, explaining where the bugs originate from; it can **explain how code works**, generate new code, and generally **improve existing code**. Coding environments can teach you code, as you build your thing, it'll help you understand why certain things do what they do and why they are where they are. Like my wife does to me when we're in a furniture shop...
 
@@ -133,7 +133,7 @@ Add 'why' you like it on the next page 😊. Pick your top if you use multiple (
 - Create your custom **AI avatar generation website** with Stable Diffusion. ([link](https://freyja.software/posts/how-to-create-website-for-ai-avatars-with-stable-diffusion))
 - Build your own **ChatGPT in your terminal** in 30 lines of code. ([link](https://twitter.com/colinfortuner/status/1625882700665036801))
 - **Control Midjourney** to create beautiful images. ([link](https://twitter.com/nickfloats/status/1625915218722160646))
-- Host a customised ChatGPT-style **chatbot**in seconds. ([link](https://twitter.com/getsteamship/status/1625873868517769220?s=12\&t=2p7rL0cCZWEG2OfL_hr6jQ))
+- Host a customised ChatGPT-style **chatbot**in seconds. ([link](https://twitter.com/getsteamship/status/1625873868517769220))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

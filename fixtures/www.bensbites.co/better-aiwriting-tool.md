@@ -27,13 +27,13 @@ Let's get to it.
 
 ## **🫦 BEN'S BITES**
 
-**Google docs with AI baked in**. [That’s the promise](https://twitter.com/nbashaw/status/1581673516360876032?s=12\&t=PmEphRc6WiFw49jRs1S7aA) of a new product ‘Lex’ from Nathan Baschez. The waitlist is now over 20k users (I’m around 2k). You can [view the demo here](https://www.youtube.com/watch?v=7Cao0oy1CBg) and [sign up for the list here](https://lex.page/).
+**Google docs with AI baked in**. [That’s the promise](https://twitter.com/nbashaw/status/1581673516360876032) of a new product ‘Lex’ from Nathan Baschez. The waitlist is now over 20k users (I’m around 2k). You can [view the demo here](https://www.youtube.com/watch?v=7Cao0oy1CBg) and [sign up for the list here](https://lex.page/).
 
 Why is this product interesting? Well, it follows the path that Github Copilot has taken. It helps you when you’re in the workflow. It’s not something to generate the perfect output off the bat. You write, and it suggests content based on that. **This interface for AI is going to be the big winner**. Otherwise, we end up with a chatbot problem. Enter a question, get an undesirable output, give up, cry, and move on.
 
 Nathan writes for a living. **Creatives who embrace AI are going to be much more productive than those of us trying to BE a writer by using an AI tool.**
 
-*Luckily I know Nathan (fun fact: he wrote the original code for Product Hunt) and am interviewing him about Lex. Hopefully, he’ll give us all an early invite to use the product. If you’re interested in that, [tweet this](https://twitter.com/intent/tweet?via=bentossell\&text=@nbashaw%20can%20we%20get%20early%20access%20to%20Lex%20for%20Ben%27s%20Bites%20readers%20pls%3F).*
+*Luckily I know Nathan (fun fact: he wrote the original code for Product Hunt) and am interviewing him about Lex. Hopefully, he’ll give us all an early invite to use the product. If you’re interested in that, [tweet this](https://twitter.com/intent/tweet?via=bentossell\&text=%40nbashaw+can+we+get+early+access+to+Lex+for+Ben%27s+Bites+readers+pls%3F).*
 
 ![Lex in action](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4e139e64-2d32-429c-bf3c-4c5e3a7fba6b/Screenshot_2022-10-17_at_12.47.47.png)
 
@@ -47,27 +47,27 @@ Nathan writes for a living. **Creatives who embrace AI are going to be much more
 
 - Are you as bad at writing resumes as me? **[Upload your resume and get feedback](https://twitter.com/MakadiaHarsh/status/1580906494341500928%5D) in 30 seconds** from an AI created by the experts. It helps optimize your LinkedIn profile to land 5x more interviews.
 
-- [thismoviedoesnotexist.org](https://thismoviedoesnotexist.org/) uses AI (GPT-3 + StableDiffusion) to [**generate fake movie posters + title + synopsis.**](https://twitter.com/slhomme/status/1580973304923713536?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g)
+- [thismoviedoesnotexist.org](https://thismoviedoesnotexist.org/) uses AI (GPT-3 + StableDiffusion) to [**generate fake movie posters + title + synopsis.**](https://twitter.com/slhomme/status/1580973304923713536)
 
-- Ultra-large AI models are over. No, they’re not breaking up…But [here’s an analysis](https://twitter.com/alber_romgar/status/1580967562170732544?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g) on **why AI companies may have reasons not to pursue them.**
+- Ultra-large AI models are over. No, they’re not breaking up…But [here’s an analysis](https://twitter.com/alber_romgar/status/1580967562170732544) on **why AI companies may have reasons not to pursue them.**
 
-- (NO) Panic at The Gradio Disco. Disco stands for Disentangled Image Colorization via Global Anchors. Catchy huh?! **[Essentially, this colourizes images](https://twitter.com/_akhaliq/status/1580959950515277824?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g).**
+- (NO) Panic at The Gradio Disco. Disco stands for Disentangled Image Colorization via Global Anchors. Catchy huh?! **[Essentially, this colourizes images](https://twitter.com/_akhaliq/status/1580959950515277824).**
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4e9fb884-8f55-4f98-9d09-c21ba84339a7/Screenshot_2022-10-17_at_12.37.33.png)
 
-- [An animation-focused workflow](https://twitter.com/_akhaliq/status/1580937732049993728?s=12\&t=wn7R0HPjXcQs8RvNd4VT0g) frontend for Stable Diffusion
+- [An animation-focused workflow](https://twitter.com/_akhaliq/status/1580937732049993728) frontend for Stable Diffusion
 
 - **Prompt engineering,**[**with a twist** that makes it easier](https://twitter.com/max__drake/status/1580931058392272896)! Live drag-and-drop AI writing augmentation.
 
 - Outpainting/inpainting [with a simple editor](https://www.reddit.com/r/StableDiffusion/comments/y3shh0/getimgai_ive_made_outpaintinginpainting_editor/) - getimg.ai
 
-- Google [has released](https://twitter.com/googleai/status/1580996679779901440?s=12\&t=MVhJAl6yTHceQjVYOD8LTw) a **novel language pre-training paradigm** that improves the performance of language models by using a mixture of training objectives. Called UL2
+- Google [has released](https://twitter.com/googleai/status/1580996679779901440) a **novel language pre-training paradigm** that improves the performance of language models by using a mixture of training objectives. Called UL2
 
-- [**600M AI-generated high-quality captions**](https://twitter.com/laion_ai/status/1581006102308978689?s=12\&t=MVhJAl6yTHceQjVYOD8LTw) for publicly available web-images.
+- [**600M AI-generated high-quality captions**](https://twitter.com/laion_ai/status/1581006102308978689) for publicly available web-images.
 
 - Hate sending emails? Me too\*. You can **[generate email responses](https://twitter.com/kambanthemaker/status/1581086931924185088) in seconds** with Elephas.\*except these emails. I love sending these :)
 
-- A [clear example](https://twitter.com/dweekly/status/1580676295444217857?s=12\&t=RRSjm4Q9upFQF4li6aHdgA) of the experience **searching on Google vs asking GPT-3**.
+- A [clear example](https://twitter.com/dweekly/status/1580676295444217857) of the experience **searching on Google vs asking GPT-3**.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/05267fd8-49dd-472e-a0b6-335976bf0eec/Group_2__1_.png)
 
@@ -83,17 +83,17 @@ Nathan writes for a living. **Creatives who embrace AI are going to be much more
 
 - [**15 industries that DALL-E 2 is already disrupting**](https://www.indiehackers.com/post/15-industries-that-dall-e-2-is-already-disrupting-opportunities-for-indie-hackers-1bc229cebd) (opportunities for indie hackers)
 
-- GitHub’s Copilot AI [can write up to 40% of the code](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html) for programmers and is heading **up to 80% within five years**. But, what code is it trained on to give its suggestions? [This user](https://twitter.com/docsparse/status/1581461734665367554?s=12\&t=WwOwlgcWLbvK-59LdGOT2A) found **his copyrighted code was used as a suggestion with no attribution**. We’ll be on the lookout for how this progresses.
+- GitHub’s Copilot AI [can write up to 40% of the code](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html) for programmers and is heading **up to 80% within five years**. But, what code is it trained on to give its suggestions? [This user](https://twitter.com/docsparse/status/1581461734665367554) found **his copyrighted code was used as a suggestion with no attribution**. We’ll be on the lookout for how this progresses.
 
-- [**Restore blurry/low-res faces from old photos**](https://twitter.com/debarghya_das/status/1581105841897209858?s=12\&t=oelJlIza8Tcoa3ZBJxTxRA). CRAZILY well.
+- [**Restore blurry/low-res faces from old photos**](https://twitter.com/debarghya_das/status/1581105841897209858). CRAZILY well.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d139188d-181b-4861-a999-312b0a143b64/FfE3Yd7VsAAHW5e.jpeg)
 
-- [**Lex Fridman spoke with Kate Darling**](https://twitter.com/lexfridman/status/1581369007294533632?s=12\&t=WigPJCFB3atczyyZjMhQpQ), human-robot interaction and robot ethics researcher at MIT.
+- [**Lex Fridman spoke with Kate Darling**](https://twitter.com/lexfridman/status/1581369007294533632), human-robot interaction and robot ethics researcher at MIT.
 
-- A [great resource](https://twitter.com/fedhoneypot/status/1580324141621649409?s=12\&t=oelJlIza8Tcoa3ZBJxTxRA) to **learn GPT tricks and tips**.
+- A [great resource](https://twitter.com/fedhoneypot/status/1580324141621649409) to **learn GPT tricks and tips**.
 
-- **[Edit your AI-generated images](https://twitter.com/_akhaliq/status/1581527281318920192?s=12\&t=ufktorHC9tYFOgKil8wLmg) directly with prompts**. Prompt-to-prompt from Google is out now.
+- **[Edit your AI-generated images](https://twitter.com/_akhaliq/status/1581527281318920192) directly with prompts**. Prompt-to-prompt from Google is out now.
 
 - [Meet the Army of Robots Coming to Fill In for Scarce Workers](https://archive.ph/M8Axg#selection-109.5-109.65) by Ben's Bites reader Christopher Mims, WSJ.
 

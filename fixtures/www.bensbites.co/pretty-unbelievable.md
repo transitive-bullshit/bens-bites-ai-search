@@ -34,7 +34,7 @@ The **[new Lexica Model looks INSANE](https://twitter.com/sharifshameem/status/1
 
 [**Training Stable Diffusion with Dreambooth**](https://huggingface.co/blog/dreambooth) using 🧨 Diffusers.
 
-**[Animating focal lengths](https://twitter.com/nerfstudioteam/status/1589493512529383426?s=12\&t=FjVqfJr8bgmaHKBk8Mm0uA)** is now enabled in nerfstudio.
+**[Animating focal lengths](https://twitter.com/nerfstudioteam/status/1589493512529383426)** is now enabled in nerfstudio.
 
 **[Adobe just rolled out a beta of AI-powered podcast audio recording and editing](https://podcast.adobe.com/)**, all on the web. It includes auto-enhanced audio, easy-to-invite guests with a link, and more to come.
 
@@ -72,11 +72,11 @@ DeepMind’s looking for [**applicants for its scholarship programme**](https://
 
 [**The Stability Photoshop plugin**](https://christiancantrell.com/#ai-ml) allows you to generate and edit images using both Stable Diffusion and DALL•E 2 right inside Photoshop.
 
-Meta-FAIR's [**NLLB-200 content translation system is getting used more and more by Wikipedia editors**](https://twitter.com/metaai/status/1589683795720310785?s=12\&t=xJHYQYLsAaPY-EMkjEoQsA) and produces higher-quality results than other translation systems.
+Meta-FAIR's [**NLLB-200 content translation system is getting used more and more by Wikipedia editors**](https://twitter.com/metaai/status/1589683795720310785) and produces higher-quality results than other translation systems.
 
 A little [**more info on the AI lawsuit**](https://www.theregister.com/2022/11/07/in_brief_ai/) against OpenAI, GitHub and Microsoft.
 
-AI Avatars may have looked a little gimmicky and there were plenty of projects that effectively did the same thing…however, [**Pieter Levels’ AvatarAI has made $100k+ since launching 10 days ago**](https://twitter.com/levelsio/status/1589737798244118528?s=12\&t=RbntBcl2EVdfbppHkXjS-A). Impressive!
+AI Avatars may have looked a little gimmicky and there were plenty of projects that effectively did the same thing…however, [**Pieter Levels’ AvatarAI has made $100k+ since launching 10 days ago**](https://twitter.com/levelsio/status/1589737798244118528). Impressive!
 
 [**Transcribe music from YouTube videos**](https://huggingface.co/spaces/juancopi81/youtube-music-transcribe).
 
@@ -96,7 +96,7 @@ A [**new method for video-and-language pre-training**](https://arxiv.org/abs/221
 
 [**A list of AI startups in San Francisco**](https://docs.google.com/document/d/18b12miTZyMpBida_C3eswar9fHP1AF0v4dmIOoy-N2s/edit).
 
-[**Carbon Re has raised a $4.8m seed round**](https://twitter.com/nntsn/status/1589739810578915328?s=12\&t=zT1ZqQhP2a2p1x4URVGAYA) for the world's first AI-powered platform designed to enable zero carbon manufacturing.
+[**Carbon Re has raised a $4.8m seed round**](https://twitter.com/nntsn/status/1589739810578915328) for the world's first AI-powered platform designed to enable zero carbon manufacturing.
 
 [**Dreambooth Extension for Stable-Diffusion-WebUI**](https://github.com/d8ahazard/sd_dreambooth_extension)**.**
 

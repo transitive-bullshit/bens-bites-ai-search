@@ -35,7 +35,7 @@ Speaking of **chatbot search engines**and Microsoft, this post gives readers a s
 
 **3/**
 
-[**Quora’s new chatbot AI called Poe**](https://twitter.com/adamdangelo/status/1621544019930279936?s=20\&t=yxf6onEDSoVv04Ka95LufA)
+[**Quora’s new chatbot AI called Poe**](https://twitter.com/adamdangelo/status/1621544019930279936)
 
 **Quora** is now doing more than providing a website that consumes me for hours, reading about things I didn’t even know I found interesting. They’ve just released **Poe**. Sitting as an iPhone app (with plans for Android and a web experience soon), it has a slick messaging interface, is actually **much** **faster than ChatGPT** for me, provides suggested follow-up prompts, clickable topics to go further down the rabbit hole and has multiple different bots with cute little names. Don't let their cuteness fool you, they are different models - Sage is from OpenAI, Heron is from Anthropic and Dragonfly is another OpenAI model.
 
@@ -64,7 +64,7 @@ Damon, the founder of [testimonial.io](https://testimonial.to/?via=io), managed 
 - Pal - Get an **A.I. assistant for your website** in seconds. ([link](http://heypal.chat))
 - Free PFP Maker - Create a **stunning profile picture**with just a few clicks. ([link](https://www.producthunt.com/posts/free-pfp-maker))
 - **Spread Positivity Today**- Let someone know you appreciate them with a custom note using the magic of AI. ([link](https://spreadpositivitytoday.com/))
-- Tensai v0.2 - **Copilot for complex features.** ([link](https://twitter.com/mathemagic1an/status/1621536929937526784?s=20\&t=yxf6onEDSoVv04Ka95LufA))
+- Tensai v0.2 - **Copilot for complex features.** ([link](https://twitter.com/mathemagic1an/status/1621536929937526784))
 - Hume - Compose**personalised messages**to interview candidates. ([link](https://interviews.gethume.com/outreachfull))
 - Fuego - An interface for running **code in the cloud.** ([link](https://github.com/huggingface/fuego))
 - Podcast Summariser - OpenAI Whisper + Davinci for **podcast summarization.** ([link](https://github.com/FanaHOVA/podcast-summarizer))
@@ -72,7 +72,7 @@ Damon, the founder of [testimonial.io](https://testimonial.to/?via=io), managed 
 - Sketch Pro AI - Bring **sketches to reality**for amateurs and architects. ([link](https://sketchpro.ai/))
 - Humata - **ChatGPT for your files.**([link](https://www.humata.ai/))
 - FYLI - Create a **personalised AI chat bot**without writing a single line of code. ([link](https://fyli.ai/))
-- Chatbase - Create a **chatbot from any PDF document.** ([link](https://www.chatbase.co/), [demo](https://twitter.com/yasser_elsaid_/status/1622315953479421963?s=20\&t=aFB3CWjJkUmpUKn5w5ygBg))
+- Chatbase - Create a **chatbot from any PDF document.** ([link](https://www.chatbase.co/), [demo](https://twitter.com/yasser_elsaid_/status/1622315953479421963))
 - Portalpix - Generate **sci-fi style images**with auto-complete prompt feature. ([link](https://portalpix.app/))
 - IconifyAI - Create beautiful **icons for your apps**or websites in seconds. ([link](http://iconifyai.com))
 - **Ask Quran** - A web app to answer questions from the Quran. ([link](https://askquranai.vercel.app/))
@@ -105,14 +105,14 @@ Damon, the founder of [testimonial.io](https://testimonial.to/?via=io), managed 
 - Oh the things you’ll do with**Bing’s ChatGPT.** ([link](https://medium.com/@owenyin/scoop-oh-the-things-youll-do-with-bing-s-chatgpt-62b42d8d7198))
 - **Hustle bros** are jumping on the AI bandwagon. ([link](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web))
 - **Some things GaryMarcus might say** - A satirical post from Gary Marcus on his arguments with Yann LeCun. ([link](https://garymarcus.substack.com/p/some-things-garymarcus-might-say))
-- Thread of awesome **AI projects by Stanford students.**([link](https://twitter.com/itsandrewgao/status/1622028461849317376?s=12\&t=CYGiAMXHHQ5wCzk6y6Wcgg))
+- Thread of awesome **AI projects by Stanford students.**([link](https://twitter.com/itsandrewgao/status/1622028461849317376))
 - **AI and product management**with Marily Nika (Meta, prev. Google). ([link](https://www.youtube.com/watch?app=desktop\&v=qNPPoj1qUG0))
 - **Do not fear AI, puny humans**... that is not meant as a threat. ([link](https://oneusefulthing.substack.com/p/do-not-fear-ai-puny-humans-that-is))
 - All the Answers - How much**should Google worry** about ChatGPT? ([link](https://www.generalist.com/briefing/all-the-answers))
 - **Your guide to AI** - February 2023. ([link](https://nathanbenaich.substack.com/p/your-guide-to-ai-february-2023))
 - **Talking with AI**version of streamer Asmongold on The Athene AI Show. ([link](https://www.youtube.com/watch?v=feGoNile9Nc) to the full stream, a short clip [here](https://m.twitch.tv/clip/ColorfulSoftPhoneMau5-RBU-USvso94FruGU))
 - A judge just used ChatGPT to make a **court decision.**([link](https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision))
-- **AI can legally run a company.**([link](https://twitter.com/johnjnay/status/1622319172955901952?s=12\&t=KNGDIAhNVBdm9so6pfkOaw))
+- **AI can legally run a company.**([link](https://twitter.com/johnjnay/status/1622319172955901952))
 - **Reverse engineered ChatGPT API.**([link](https://github.com/acheong08/ChatGPT))
 - ChatGPT will replace some jobs, but **traders**say not theirs. ([link](https://www.bloomberg.com/news/articles/2023-02-06/chatgpt-adds-to-reasons-for-layoffs-in-big-tech-journalism-finance#xj4y7vzkg))
 - ChatGPT must be **regulated**and A.I. ‘can be used by **bad actors,**’ warns OpenAI’s CTO. ([link](https://fortune.com/2023/02/05/artificial-intelligence-must-be-regulated-chatgpt-openai-cto-mira-murati/))
@@ -121,8 +121,8 @@ Damon, the founder of [testimonial.io](https://testimonial.to/?via=io), managed 
 ### 🎓 Learn
 
 - Deploying**document QA**with GPTIndex & Langchain. ([link](https://berri-ai.ghost.io/deploying-document-qa-with-gptindex-langchain/))
-- Building an **email summarising**feature using GPT3 and life-like AI generated voice on iOS. ([link](https://twitter.com/justlv/status/1621253007492141056?s=12\&t=41rLaGfUg_k-7QXM4SzQBg))
-- How to build a **question answer bot in typescript.**([link](https://twitter.com/colinfortuner/status/1621695854955610114?s=12\&t=41rLaGfUg_k-7QXM4SzQBg))
+- Building an **email summarising**feature using GPT3 and life-like AI generated voice on iOS. ([link](https://twitter.com/justlv/status/1621253007492141056))
+- How to build a **question answer bot in typescript.**([link](https://twitter.com/colinfortuner/status/1621695854955610114))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

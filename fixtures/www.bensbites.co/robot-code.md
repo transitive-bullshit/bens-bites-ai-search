@@ -50,21 +50,21 @@ You can now [**generate seamless video from still images with just one click**](
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/74974eb7-827e-4130-abe6-5af3db8c42f9/ezgif.com-gif-maker__15_.gif)
 
-Coqui is aiming to [**combine a bunch of generative AI tools**](https://twitter.com/coqui_ai/status/1587880375505735680?s=12\&t=uQFnNcP0ggAfefbx35TuMQ) together in their platform.
+Coqui is aiming to [**combine a bunch of generative AI tools**](https://twitter.com/coqui_ai/status/1587880375505735680) together in their platform.
 
-Another AI avatar platform to add to our lists - [“Portrait” by Vana](https://portrait.vana.com/) is a **generative art studio that can create self-portraits** of you in infinite styles. [**Packy McCormick is a fan.**](https://twitter.com/packym/status/1587894959264481282?s=12\&t=uQFnNcP0ggAfefbx35TuMQ)
+Another AI avatar platform to add to our lists - [“Portrait” by Vana](https://portrait.vana.com/) is a **generative art studio that can create self-portraits** of you in infinite styles. [**Packy McCormick is a fan.**](https://twitter.com/packym/status/1587894959264481282)
 
 We’ve all seen that woman in website customers, right? She apparently uses a lot of software! Well instead of using her face, why not use[**an ultra-realistic AI-generated face**](https://realfacesfakepeople.com/)**?**
 
 [**OpenAI opens its first accelerator**](https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/) -it will give roughly **10 AI startups $1M each** and early access to its systems. I wonder if Ben’s Bites counts as an ‘AI startup’ 🤔, what could we do with $1M 👀.
 
-Do you know that all of these recent DreamBooth and Stable Diffusion apps (avatars etc) are [**all using one API**](https://twitter.com/caffeinatedwes/status/1587831493790834688?s=12\&t=gJmTqWDRE24PSLV4IxQkyw)? Astria was actually mentioned previously and they provide the API that powers these apps.
+Do you know that all of these recent DreamBooth and Stable Diffusion apps (avatars etc) are [**all using one API**](https://twitter.com/caffeinatedwes/status/1587831493790834688)? Astria was actually mentioned previously and they provide the API that powers these apps.
 
 Notion lover? Then you’ll enjoy this [**AI writer in Notion**](https://www.webcopilot.co/).
 
 A cool new tool that lets you [**animate two Stable Diffusion images**](https://replicate.com/andreasjansson/stable-diffusion-animation) together.
 
-[**AI short film**](https://twitter.com/alonsorobots/status/1587913514210840576?s=12\&t=_ejXXak9WwXSFjlt1Tlb-Q) created with text-to-video.
+[**AI short film**](https://twitter.com/alonsorobots/status/1587913514210840576) created with text-to-video.
 
 ## **🖼 AI IMAGES OF THE DAY**
 

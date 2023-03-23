@@ -53,7 +53,7 @@ Product of the Month" (23 January) by Product Hunt. Seats are limited. [Sign up 
 - **React GPT**- a POC ChatGPT client that answers questions about React. ([link](https://react-gpt.fly.dev/))
 - Neural frames - Create **animations** from text. ([link](https://www.neuralframes.com/))
 - Please advise - AI generated excuses for the **modern trucker.**([link](https://www.pleaseadvise.ai/))
-- **NPM package** with 3 different ways to access ChatGPT. ([link](https://twitter.com/transitive_bs/status/1627594532618665984?s=20))
+- **NPM package** with 3 different ways to access ChatGPT. ([link](https://twitter.com/transitive_bs/status/1627594532618665984))
 - Bad Cook Club - Generate a **recipe for ingredients** that you have available. ([link](https://www.badcook.club/))
 - HF space for the paper “a **watermark** for large language models.” ([link](https://huggingface.co/spaces/tomg-group-umd/lm-watermarking))
 - **Text to Texture**- Generate an infinite number of texture variants from a text prompt for a 3D model. ([link](https://leonardo-ai.typeform.com/text2texture?typeform-source=t.co))

@@ -49,7 +49,7 @@ Almost the weekend, let's get to it.
 
 - Generate images and stitch them together into a video with **[StableDiffusion-Interpolation Community Pipeline](https://huggingface.co/spaces/fffiloni/stablediffusion-interpolation).**
 
-- **Stable Diffusion’s launch** was last week and [they compiled a thread](https://twitter.com/StabilityAI/status/1585047427136229376?s=20\&t=8yP7WsPrj9i7TpCudclxVQ) of some projects they’re working on. (bonus: [launch video](https://www.youtube.com/watch?v=S3qlqY_sOPw))
+- **Stable Diffusion’s launch** was last week and [they compiled a thread](https://twitter.com/StabilityAI/status/1585047427136229376) of some projects they’re working on. (bonus: [launch video](https://www.youtube.com/watch?v=S3qlqY_sOPw))
 
 - **[Save highlights from youtube, newsletters and Twitter](https://snipets.co/)** in seconds.
 
@@ -79,9 +79,9 @@ Almost the weekend, let's get to it.
 
 - The Gradio demo for **[Mubert - text-to-music](https://huggingface.co/spaces/Mubert/Text-to-Music)** is out on Hugging Face
 
-- Ford, VW-backed **[Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/)**. [This thread](https://twitter.com/tweetermeyer/status/1585345011583188992?s=12\&t=ipR7uXp4ZcRNRJ7Of0dKzA) is a good explainer of the situation. TL;DR: they're focusing on driver assistance systems and not autonomous vehicle technology.
+- Ford, VW-backed **[Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/)**. [This thread](https://twitter.com/tweetermeyer/status/1585345011583188992) is a good explainer of the situation. TL;DR: they're focusing on driver assistance systems and not autonomous vehicle technology.
 
-- **Google Research is [hosting its first AI event](https://twitter.com/googleai/status/1585399612323471362?s=12\&t=ipR7uXp4ZcRNRJ7Of0dKzA)**: “a showcase of our latest and greatest work in AI” on Nov 2 at 9 am EST.
+- **Google Research is [hosting its first AI event](https://twitter.com/googleai/status/1585399612323471362)**: “a showcase of our latest and greatest work in AI” on Nov 2 at 9 am EST.
 
 - Improving [**speech-to-speech translation through unlabelled text**](https://arxiv.org/abs/2210.14514)**.**
 

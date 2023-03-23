@@ -20,13 +20,13 @@ Let's get into it.
 
 ## **🫦 BEN'S BITES**
 
-[**Run GPT-3 prompts in Google Sheets**](https://twitter.com/shubroski/status/1587136794797244417?s=12\&t=rXq0kqy06BMz2jmX-Jr7-Q) =GPT3(). You can sanitize data, write thank-you cards, summarize product reviews, and categorize feedback...
+[**Run GPT-3 prompts in Google Sheets**](https://twitter.com/shubroski/status/1587136794797244417) =GPT3(). You can sanitize data, write thank-you cards, summarize product reviews, and categorize feedback...
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b43331c2-4d00-453f-b4b2-2d7911bbecca/ezgif.com-gif-maker__10_.gif)
 
 Replit, the coding platform, released [**Ghostwriter - its in-browser coding AI**](https://replit.com/site/ghostwriter)\*\*.\*\*Kinda like GitHub’s Copilot, but it’s faster and has a ton of features.
 
-There are **rap battles for prompts** now. No, seriously, [check it out](https://twitter.com/alexabruck/status/1587108608482869251?s=12\&t=LJd92s0dVvwISdQRLtw9Yw).
+There are **rap battles for prompts** now. No, seriously, [check it out](https://twitter.com/alexabruck/status/1587108608482869251).
 
 How to [**build a PHP app using the OpenAI API**](https://tectalic.com/blog/build-an-app-using-openai-api)**.**
 
@@ -38,9 +38,9 @@ How to [**build a PHP app using the OpenAI API**](https://tectalic.com/blog/buil
 
 Guess the answer based on the pictures. An [**AI-generated Twitter game**](https://www.promptogame.com/)- Prompto.
 
-[**OpenAI relaxed its policies**](https://twitter.com/borismpower/status/1587241622458073088?s=12\&t=TBcxYzL21TP1W8TiLoyJug) for GPT-3 apps.
+[**OpenAI relaxed its policies**](https://twitter.com/borismpower/status/1587241622458073088) for GPT-3 apps.
 
-PromptEdit — [**edit a random input image based on just a text prompt**](https://twitter.com/fahimfarook/status/1587019571780796416?s=12\&t=rXq0kqy06BMz2jmX-Jr7-Q).
+PromptEdit — [**edit a random input image based on just a text prompt**](https://twitter.com/fahimfarook/status/1587019571780796416).
 
 Google DeepMind CEO Demis Hassabis explains how its[**AlphaFold AI program predicted the 3-D structure of every known protein**](https://www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved/). AI has been successful in predicting the structures, and this achievement has the potential to revolutionize fields such as molecular biology and drug development.
 
@@ -54,11 +54,11 @@ Your [**social media bio, created by AI**](https://aisocialbio.com/).
 
 The **Jukebox Web UI** I talked about yesterday is live. Find it on [Colab](https://colab.research.google.com/drive/1ZrF6fJFMUaqloHJP1PqJTxMSJxKd-BVg) or [Github](https://github.com/vzakharov/jukebox-webui/blob/main/docs/getting-started.md).
 
-[**AI answers questions by searching the web**](https://twitter.com/dust4ai/status/1587104029712203778?s=12\&t=BwPJC4vwDunPi-Wx4vPWlw), summarizing content and compiling a final answer with references.
+[**AI answers questions by searching the web**](https://twitter.com/dust4ai/status/1587104029712203778), summarizing content and compiling a final answer with references.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/87a2e610-d23d-4905-92a1-03025a880e7d/Screenshot_2022-11-01_at_12.33.05.png)
 
-Lex’s new feature "Ask Lex" helps if you need to [**look something up while writing**](https://twitter.com/nbashaw/status/1587101103811764231?s=12\&t=BwPJC4vwDunPi-Wx4vPWlw). Ask your question in a simple chat interface.
+Lex’s new feature "Ask Lex" helps if you need to [**look something up while writing**](https://twitter.com/nbashaw/status/1587101103811764231). Ask your question in a simple chat interface.
 
 There’s an [**AI film festival**](https://www.eventbrite.com/e/the-culture-dao-fable-present-ai-film-festival-tickets-428250116627) coming up on Friday in SF. With a ~$3k audience prize.
 

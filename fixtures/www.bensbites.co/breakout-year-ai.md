@@ -13,7 +13,7 @@ Let's get to it.
 
 ### **🤌 Ben's Picks**
 
-A thread on **how Home Alone in the style of the opening credits of White Lotus season two was made with Runway**. This is just such a wonderful look at how creative you can be using AI tools. Most likely this would've taken much longer and with a lot more technical skill if AI wasn't as powerful as it is today. (and about to get a whole lot more powerful!) ([link](https://twitter.com/umpherj/status/1605592055450738688?s=20\&t=M5X7Ie2309iwQHS1pEqqKA))
+A thread on **how Home Alone in the style of the opening credits of White Lotus season two was made with Runway**. This is just such a wonderful look at how creative you can be using AI tools. Most likely this would've taken much longer and with a lot more technical skill if AI wasn't as powerful as it is today. (and about to get a whole lot more powerful!) ([link](https://twitter.com/umpherj/status/1605592055450738688))
 
 **A breakout year for AI art brings as many questions as answers**. A summary: In 2022, companies working on generative AI raised $1.3bn, a 15% year-on-year increase, according to Pitchbook data. OpenAI's DALL-E 2 image-generation model went viral, with over 3 million users generating over 4 million images per day within five weeks of its public release. Generative AI has been used in a range of industries, but it has also raised ethical and legal questions, including how leading image platforms should approach AI-generated content. One programmer recently sued Microsoft, GitHub, and OpenAI over GitHub Copilot, a generative AI tool that used publicly available computer code to learn to write its own code. ([link](https://www.emergingtechbrew.com/stories/2022/12/20/a-breakout-year-for-ai-art-brings-as-many-questions-as-answers))
 
@@ -47,7 +47,7 @@ David Friedman talks about the how **complicated problems of the Westworld-like 
 - A free course on ‘**Effective MLOps: Model Development**.’ ([link](https://www.wandb.courses/courses/effective-mlops-model-development))
 - A guide on **how you can use CLIPSeg**, a zero-shot image segmentation model, using transformers. ([link](https://huggingface.co/blog/clipseg-zero-shot))
 - How to make **an entire slide presentation using Tome**. ([link](https://www.youtube.com/watch?v=5Kjex9N_wnc))
-- How you can **use your own artwork to train custom AI style models** with Runway. ([link](https://twitter.com/notiansans/status/1605700201053765632?s=12\&t=627yjrqi1exqBQijI3pHeQ))
+- How you can **use your own artwork to train custom AI style models** with Runway. ([link](https://twitter.com/notiansans/status/1605700201053765632))
 
 ### **🔬 Research**
 
@@ -70,15 +70,15 @@ David Friedman talks about the how **complicated problems of the Westworld-like 
 ### **🤓 Everything else**
 
 - **Mapping the Generative AI landscape**. ([link](https://www.antler.co/blog/generative-ai))
-- A **book on copywriting written 100% with AI**. ([link](https://twitter.com/grsl_fr/status/1605483635628421122?s=20\&t=0iqkGSyq-iC7MkVJoofAhQ))
+- A **book on copywriting written 100% with AI**. ([link](https://twitter.com/grsl_fr/status/1605483635628421122))
 - ​​Gradio **demo of The-Jam-Machine**, a Generative AI trained on text transcription of MIDI music on Hugging Face spaces. ([link](https://huggingface.co/spaces/JammyMachina/the-jam-machine-app))
-- A thread on **prediction for GPT-4 in 2023**. ([link](https://twitter.com/ramaswmysridhar/status/1605603043046674435?s=12\&t=627yjrqi1exqBQijI3pHeQ))
+- A thread on **prediction for GPT-4 in 2023**. ([link](https://twitter.com/ramaswmysridhar/status/1605603043046674435))
 - New York Times article on **how OpenAI's ChatGPT & search AI innovations could threaten Google's search dominance**. ChatGPT made Google declare 'code red' (apparently) and got management to seriously think about what the implications are (apparently). Google doesn't want to cannibalise it's ad revenues on search so it'll be interesting to see what their response will be (if any). ([link](https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html)) Related: another article talking about Google's 'code red'. ([link](https://9to5google.com/2022/12/21/google-code-red-chatgpt/))
 - A journalist **used OpenAI's ChatGPT chatbot to write essays for high school English classes to test its capabilities**. The chatbot was able to write an 800-word essay on "Ferris Bueller's Day Off" as an existentialist text in under a minute, but it struggled with demand and experienced network errors. It also successfully wrote an essay on "The Great Gatsby," but the teacher noticed some factual errors and that the writing style was too advanced for a high school student. ([link](https://www.wsj.com/articles/chatgpt-wrote-my-ap-english-essayand-i-passed-11671628256?mod=e2tw)) (no paywall [link](https://archive.vn/DiNYU) 🤫)
 - **Amazon's Machine Learning University debuts responsible AI course**. ([link](https://www.amazon.science/latest-news/amazon-machine-learning-university-debuts-free-responsible-ai-course))
 - Understanding **Hugging Face’s Model Cards.** ([link](https://huggingface.co/blog/model-cards))
 - ChatGPT and the **professional's guide to using AI**. ([link](https://www.linkedin.com/pulse/chatgpt-professionals-guide-using-ai-allie-k-miller/))
-- A thread on **AI projects built as part of Replit Bounties**. ([link](https://twitter.com/replit/status/1605701084688707584?s=12\&t=627yjrqi1exqBQijI3pHeQ))
+- A thread on **AI projects built as part of Replit Bounties**. ([link](https://twitter.com/replit/status/1605701084688707584))
   - Do you have an **AI app idea that you need built?** Get it built with Replit’s bounty program. ([link](https://replit.typeform.com/to/tLtYQMOw?typeform-source=t.co))
 
 ## **🖼 AI images of the day**

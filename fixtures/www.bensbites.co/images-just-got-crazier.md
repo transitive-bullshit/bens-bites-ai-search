@@ -30,7 +30,7 @@ Midjourney v4 is out! And the results are pretty effing epic. Here are some exam
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2b8acfab-bcb9-4b71-95c7-79253757d56d/Group_4.png)
 
-<https://twitter.com/fabianstelzer/status/1588856386540417024?s=12&t=4grH4P_JLn-cYkujwPiUVg>
+[https://twitter.com/fabianstelzer/status/1588856386540417024?s=12\&t=4grH4P\_JLn-cYkujwPiUVg](https://twitter.com/fabianstelzer/status/1588856386540417024)
 
 A v3/v4 comparison.
 
@@ -38,11 +38,11 @@ A v3/v4 comparison.
 
 <https://twitter.com/projectgreybird/status/1589282542246850567>
 
-Also, you can **[create your own app icons](https://twitter.com/zats/status/1589267833883873280?s=12\&t=jsmK-15S4hiXp5s5LCiTSw)** pretty easily with it.
+Also, you can **[create your own app icons](https://twitter.com/zats/status/1589267833883873280)** pretty easily with it.
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-Sam Altman did [a Twitter AMA about their 5-week program](https://twitter.com/sama/status/1588622966115684352?s=12\&t=7cm7bG1q3q4FkgE_OFR3Dg), [Converge](https://openai.fund/news/introducing-converge).
+Sam Altman did [a Twitter AMA about their 5-week program](https://twitter.com/sama/status/1588622966115684352), [Converge](https://openai.fund/news/introducing-converge).
 
 What would happen in [**a world largely driven by AI content**](https://andreilyskov.medium.com/beware-the-generative-ai-driven-internet-8886921f6001)?
 

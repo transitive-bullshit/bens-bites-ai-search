@@ -48,7 +48,7 @@ Let's get to it. I'll see you Monday!
 
 - Daniel Gross built a videobook. It **generates images as it reads the story to you**. Demo [here](https://twitter.com/danielgross/status/1585643099531141122) and code [here](https://github.com/danielgross/videobook).
 
-- **[Scale built a way for marketers to AI-generate UNLIMITED and INFINITELY CREATIVE images of products](https://twitter.com/alexandr_wang/status/1585660889067290625?s=12\&t=w1CUqnPxdB7mgMwNb90nqw)** for - ad creatives - brand campaigns - social media. It's in early access. And no, coconut is horrid - I'm a Pamplemousse kinda guy 😉
+- **[Scale built a way for marketers to AI-generate UNLIMITED and INFINITELY CREATIVE images of products](https://twitter.com/alexandr_wang/status/1585660889067290625)** for - ad creatives - brand campaigns - social media. It's in early access. And no, coconut is horrid - I'm a Pamplemousse kinda guy 😉
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1235f181-73f6-44f9-9e88-53536a96fdaf/Group_3.png)
 
@@ -66,7 +66,7 @@ Let's get to it. I'll see you Monday!
 
 - [**Apple is now hiring for AI/ML residencies**](https://machinelearning.apple.com/updates/aiml-residency-program-application-2023%E2%80%A6) for summer 2023. Job listings are [here](https://jobs.apple.com/en-us/search?search=aimlresidency).
 
-- **[A multiplayer experiment for Stable Diffusion](https://twitter.com/radamar/status/1585775004196556800?s=12\&t=wZGpHiin8UN9MkhGMQsRzw)**, SD infinity - coming soon. Similar to the SD canvas I shared yesterday.
+- **[A multiplayer experiment for Stable Diffusion](https://twitter.com/radamar/status/1585775004196556800)**, SD infinity - coming soon. Similar to the SD canvas I shared yesterday.
 
 - This study extends **[Maestro, a speech-text joint pretraining framework for automatic speech recognition](https://arxiv.org/abs/2210.15447)** (ASR), to speech-generation tasks.
 

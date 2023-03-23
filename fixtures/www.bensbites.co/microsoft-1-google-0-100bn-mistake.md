@@ -52,7 +52,7 @@ We’ve all been in that situation on street view where you try to move down the
 - Galileo AI - Generate **UI designs** beyond imagination using natural language. ([link](https://www.usegalileo.ai/))
 - AI-assisted Prompt Builder - Generate and deploy a prompt from scratch to**add gen AI to a product.**([link](https://app.outset.ai/ai-builder))
 - TunifyAI - No-code platform to**train custom GPT-3 models**without any coding required. ([link](https://beta.tunify.ai/))
-- Orbofi - AI-generated**content layer for a social metaverse** for users to create their own communities. ([link](https://twitter.com/hbcoop_/status/1623362371803574272?s=12\&t=g4PhkDDVFuIY6yZcoA8cnA))
+- Orbofi - AI-generated**content layer for a social metaverse** for users to create their own communities. ([link](https://twitter.com/hbcoop_/status/1623362371803574272))
 - Woz - A generative design tool that helps your **product teams** design faster, align smarter. ([link](https://www.usewoz.com/))
 - **ChatGPT for StackOverflow** - See ChatGPT's response to every question on StackOverflow, even the unanswered ones. ([link](https://stackoverflow.gg/))
 - Jenni, the AI writing assistant now**cites her sources** for all generations. ([link](https://twitter.com/Davidjpark96/status/1623379366641303552), tool [here](https://jenni.ai/))

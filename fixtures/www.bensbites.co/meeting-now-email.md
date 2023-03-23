@@ -31,7 +31,7 @@ Un-paywalled FT article [**here**](https://archive.is/9FB0D).
 
 **2/**
 
-[**AskFred by fireflies.ai is the best-looking AI assistant for meetings yet**](https://twitter.com/krishramineni/status/1625085660762873857?s=12\&t=7sr2qz6OssiyHsXbIU9XRw)
+[**AskFred by fireflies.ai is the best-looking AI assistant for meetings yet**](https://twitter.com/krishramineni/status/1625085660762873857)
 
 I’ll be honest, I’m getting a bit exasperated by the deluge of tools doing the same things built on **ChatGPT**, but all the **AI-assistants-for-meetings** ones are really piquing my interest, including **AskFred from fireflies.ai**. “Knowledge originates, and is buried, in meetings”, and we spend a hell of a lot of time in them - probably too long. This tech unravels that buried knowledge by listening to meetings you’ve been in. It can then draft follow-up emails, write specs, consolidate feedback, and complete actions. All with a slick little UI to match.
 
@@ -55,7 +55,7 @@ Join over 500 successfully trained professionals and improve your skills. Custom
 - Fireflies.ai - Help your team record, transcribe, search, and analyse**meeting notes.** ([link](https://fireflies.ai/))
 - WAAS -**Whisper as a service,** GUI and API for OpenAI Whisper. ([link](https://github.com/schibsted/WAAS))
 - HeyCLI - **Command line**in natural language. ([link](https://www.heycli.com/))
-- Script file to train GPT-3 on your own data inside **Google Sheets.**([link](https://twitter.com/DannyRichman/status/1625178646649487370?s=20))
+- Script file to train GPT-3 on your own data inside **Google Sheets.**([link](https://twitter.com/DannyRichman/status/1625178646649487370))
 - **The GPT who lived**- GPT-3 read the Harry Potter books so you can ask it questions. ([link](https://huggingface.co/spaces/johnnygreco/the-gpt-who-lived))
 - Bifrost - A tool that uses AI to turn anything from **Figma into clean React code**automatically. ([link](https://www.bifrost.so/))
 - GPTflix - **Movie reviews** to help you choose what's next on Netflix. ([link](https://gptflix.streamlit.app/))
@@ -98,7 +98,7 @@ Join over 500 successfully trained professionals and improve your skills. Custom
 
 ### 🔬 Research
 
-- **Level generation** through large language models. ([link](http://arxiv.org/abs/2302.05817), [thread](https://twitter.com/togelius/status/1625322824884711425?s=20\&t=Re5BYOT_5WlhuWpzL1fh9g))
+- **Level generation** through large language models. ([link](http://arxiv.org/abs/2302.05817), [thread](https://twitter.com/togelius/status/1625322824884711425))
 - Using TracIn to improve model performance in the **parameter-efficient tuning**from Google. ([link](https://arxiv.org/abs/2302.06598))
 - Towards**agile text classifiers** for everyone from Google. ([link](http://arxiv.org/abs/2302.06541))
 - Image-to-image Schrödinger bridge for **image restoration** from Nvidia. ([link](https://i2sb.github.io/))

@@ -29,7 +29,7 @@ Let's just get into it, shall we? Oliver, our AI narrator has the [audio version
 
 ## **🫦 BEN'S BITES**
 
-I spoke with Jasper founder, Dave Rogenmoser and asked him a couple of questions given their insane growth in 18 months to a $1.5bn valuation. The standard questions of backstory, pivots etc can be found in [his thread](https://twitter.com/DaveRogenmoser/status/1582362508362280960?s=20\&t=l_nxEygu8WKJmj1frYypUw). But here’s what I asked him:
+I spoke with Jasper founder, Dave Rogenmoser and asked him a couple of questions given their insane growth in 18 months to a $1.5bn valuation. The standard questions of backstory, pivots etc can be found in [his thread](https://twitter.com/DaveRogenmoser/status/1582362508362280960). But here’s what I asked him:
 
 \*\*What is one belief about ai that may be contrary to most people?\*\*I don't know how contrary this is to people in the know, but the models are a commodity in the future. No moat there. One great moat is in the data you use to train and fine-tune the models. I also think too many people are geeking out on AI tech and the real money to be made is in taking that and making it truly useful to the world.
 
@@ -41,15 +41,15 @@ Jasper [wrote a note to customers](https://www.jasper.ai/blog/2022-customer-lett
 
 - **AI is not here to get rid of writers, it’s [here to augment human creativity](https://every.to/cybernaut/an-ai-might-have-written-this)**. An article from Every writer (the company behind Lex), [FADEKE ADEGBUYI,](https://every.to/@fadeke_adegbuyi) wrote this piece (and Nathan didn’t know it was being written, very timely). The article explores how writers are writing *with* AI, one example said “I don’t use it to generate words, more for giving me ideas and provocations for directions that I should go,”.
 
-- [**Create your own 3D avatar**](https://twitter.com/liuziwei7/status/1582370918147293186?s=12\&t=O0TN3wp_AhpDvthvj50VYA), in plain English. Now you CAN put your height as 6ft on Tinder. (but asterisk it as your 3D avatar, that’s sure to help with dates)
+- [**Create your own 3D avatar**](https://twitter.com/liuziwei7/status/1582370918147293186), in plain English. Now you CAN put your height as 6ft on Tinder. (but asterisk it as your 3D avatar, that’s sure to help with dates)
 
 - We all know the ways we can manipulate images, colour, contrast, saturation, blur, sharpen etc. But **why aren’t we thinking of manipulating text** in the same way? [This blog post](https://stephanango.com/photoshop-for-text) explores that idea.
 
-- [UniTune](https://twitter.com/_akhaliq/status/1582532143884173312?s=12\&t=O0TN3wp_AhpDvthvj50VYA): **Text-driven image editing** by fine-tuning an image generation model on a single image.
+- [UniTune](https://twitter.com/_akhaliq/status/1582532143884173312): **Text-driven image editing** by fine-tuning an image generation model on a single image.
 
-- [An example](https://twitter.com/shivamshrirao/status/1582604961300779008?s=12\&t=O0TN3wp_AhpDvthvj50VYA) of **text-based real image editing**.
+- [An example](https://twitter.com/shivamshrirao/status/1582604961300779008) of **text-based real image editing**.
 
-- **[Adding a robot arm to a four-’legged’ machine](https://twitter.com/_akhaliq/status/1582561713714434048?s=12\&t=O0TN3wp_AhpDvthvj50VYA)** so it can perform tasks. No, you can't put it on your dog.
+- **[Adding a robot arm to a four-’legged’ machine](https://twitter.com/_akhaliq/status/1582561713714434048)** so it can perform tasks. No, you can't put it on your dog.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/66b07293-a9ac-47a8-b767-a12fd04e8d14/ezgif.com-gif-maker__4_.gif)
 
@@ -57,9 +57,9 @@ Jasper [wrote a note to customers](https://www.jasper.ai/blog/2022-customer-lett
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 2 friends [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
-- No more folding clothes, Hurray! **[Robotic arms can now fold clothes](https://twitter.com/_akhaliq/status/1582555774177665025?s=12\&t=O0TN3wp_AhpDvthvj50VYA)** for you. Erm, 1, please.
+- No more folding clothes, Hurray! **[Robotic arms can now fold clothes](https://twitter.com/_akhaliq/status/1582555774177665025)** for you. Erm, 1, please.
 
-- [A short thread](https://twitter.com/annarchyy/status/1582530538711052288?s=12\&t=O0TN3wp_AhpDvthvj50VYA) on **why Generative AI may be similar to the web3 hype**. It touches on raising money on insane valuations (which we’ve seen), whether will they become long-budget arms for business etc. My view is that AI is just another tool. Computers enable you to do a job productively. Google is a tool to look up anything I don’t know. AI is a tool that enables more productive work. Sure there’s going to be a bunch of gimmicks along the way. Everything starts off as a toy…
+- [A short thread](https://twitter.com/annarchyy/status/1582530538711052288) on **why Generative AI may be similar to the web3 hype**. It touches on raising money on insane valuations (which we’ve seen), whether will they become long-budget arms for business etc. My view is that AI is just another tool. Computers enable you to do a job productively. Google is a tool to look up anything I don’t know. AI is a tool that enables more productive work. Sure there’s going to be a bunch of gimmicks along the way. Everything starts off as a toy…
 
 - **[Combining world models with human imitation learning](https://wayve.ai/blog/learning-a-world-model-and-a-driving-policy/)** for autonomous driving.
 

@@ -37,7 +37,7 @@ Is Artificial Domain Intelligence the route to commercialising AGI? I’ve been 
 
 #### 4/
 
-Playground AI announces AI-first image editing. Instruct an AI to synthesise **spectacular yet subtle edits**. We're seeing a lot of products implementing [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions, which I believe is what's being used here. ([link](https://twitter.com/Suhail/status/1617651599710752768?s=20\&t=pxrog8I-hvPxYJCNCCwJLA))
+Playground AI announces AI-first image editing. Instruct an AI to synthesise **spectacular yet subtle edits**. We're seeing a lot of products implementing [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions, which I believe is what's being used here. ([link](https://twitter.com/Suhail/status/1617651599710752768))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/452c2ae2-279d-4597-ae40-acc3089dc5db/FnMDgkqaAAIRLQc.jpeg)
 
@@ -80,7 +80,7 @@ The first-ever AI-generated high-end fashion brand in collaboration with top cre
 
 ### 🔬 Research
 
-- H3 - Generative language modelling with **only 2 attention layers.**([link](https://arxiv.org/abs/2212.14052)) One of the authors explains the model in [this thread](https://twitter.com/realDanFu/status/1617605971395891201?s=20\&t=ern0TpN2yh-BO02k02sP7A).
+- H3 - Generative language modelling with **only 2 attention layers.**([link](https://arxiv.org/abs/2212.14052)) One of the authors explains the model in [this thread](https://twitter.com/realDanFu/status/1617605971395891201).
 - Green **hierarchical vision transformer**for masked image modelling. ([link](https://arxiv.org/abs/2205.13515))
 - HexPlane: A fast representation for **dynamic 3D scenes** by 6 planes only. ([link](https://arxiv.org/abs/2301.09632))
 - **Summarise the past to predict the future**- Natural language descriptions of context can forecast the next object interactions. ([link](https://arxiv.org/abs/2301.09209))

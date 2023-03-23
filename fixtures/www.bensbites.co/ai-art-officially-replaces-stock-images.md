@@ -25,9 +25,9 @@ This article discusses the impact of OpenAI's ChatGPT chatbot, which has been us
 
 **2/**
 
-**[Five pieces of advice](https://twitter.com/nbashaw/status/1618298006138421249?s=20\&t=p-B-V0B3C8yivzBfJd1njA)**[for those building in AI right now](https://twitter.com/nbashaw/status/1618298006138421249?s=20\&t=p-B-V0B3C8yivzBfJd1njA).
+**[Five pieces of advice](https://twitter.com/nbashaw/status/1618298006138421249)**[for those building in AI right now](https://twitter.com/nbashaw/status/1618298006138421249).
 
-I really like Nathan and the way he articulates what he's thinking when building products. I also happen to really like the products he builds. Some advice he shares in his thread: Resist broad generalisations, AI isn't anyones moat, products using AI aren't just 'wrappers', ignore the hype, and AI-powered applications are mostly not about AI. ([link](https://twitter.com/nbashaw/status/1618298006138421249?s=20\&t=p-B-V0B3C8yivzBfJd1njA))
+I really like Nathan and the way he articulates what he's thinking when building products. I also happen to really like the products he builds. Some advice he shares in his thread: Resist broad generalisations, AI isn't anyones moat, products using AI aren't just 'wrappers', ignore the hype, and AI-powered applications are mostly not about AI. ([link](https://twitter.com/nbashaw/status/1618298006138421249))
 
 **3/**
 
@@ -64,7 +64,7 @@ Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/sta
 - OpenJourney: **Midjourney, but open source**. ([link](https://open-journey.github.io/))
 - **NeevaAI** officially launched on Product Hunt today. NeevaAI allows users to get a single **coherent answer to their queries** while also showing citation cards. ([link](https://www.producthunt.com/posts/neevaai))
 - HappyMama - Get instant answers to your **pregnancy questions.** ([link](https://happy-mama.vercel.app/))
-- Mini Yohei 2.0 - A **VC expert** who answers questions using knowledge from 100+ VC blogs. ([link](https://twitter.com/yoheinakajima/status/1618321263801544704?s=20\&t=aU37sVB3EjVib_eCUYNmjA))
+- Mini Yohei 2.0 - A **VC expert** who answers questions using knowledge from 100+ VC blogs. ([link](https://twitter.com/yoheinakajima/status/1618321263801544704))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6d635ce2-c4aa-4cd5-a6ae-c94043b76109/image.png)
 
@@ -85,7 +85,7 @@ Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/sta
 
 - **Getting started with LLMs** using LangChain. ([link](https://www.pinecone.io/learn/langchain-intro/))
 - Deploying AI-driven **apps on Vercel.**([link](https://vercel.com/blog/deploying-ai-applications))
-- **Introduction to embeddings** - The bread and butter of language models. ([link](https://twitter.com/CohereAI/status/1618237043116593152?s=20\&t=dKwdFmWoq1_1so4MYxkIQA))
+- **Introduction to embeddings** - The bread and butter of language models. ([link](https://twitter.com/CohereAI/status/1618237043116593152))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

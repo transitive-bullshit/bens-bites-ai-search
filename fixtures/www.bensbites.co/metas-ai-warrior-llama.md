@@ -35,7 +35,7 @@ Take from this what you will, but it’s comforting to see such big players taki
 
 **2/**
 
-[Meta release LLaMA, beating benchmarks with more parameters](https://twitter.com/guillaumelample/status/1629151231800115202?s=46\&t=zOjbl0Nu_24jlD9efnk8Aw)
+[Meta release LLaMA, beating benchmarks with more parameters](https://twitter.com/guillaumelample/status/1629151231800115202)
 
 **Meta**have released**LLaMA**, an LLM comprising 4 foundation models with 7B to 65B parameters, claiming that it outperforms many benchmark models on various tasks, including GPT-3. And all this with\*\*<10% of parameters\*\*! There’s also a big emphasis on their openness with the model, claiming to lead the way on making models accessible. But not so fast…[Accusations](https://twitter.com/marktenenholtz/status/1629485367715065856)have been floating around that Meta has been somewhat deceptive here, and that actually the weights and tokeniser are not open-sourced at all. If true, they’re claiming openness on a model that has no API, no interface, and no discernible commercial use. I’ll let you guys be the judge on this one.
 

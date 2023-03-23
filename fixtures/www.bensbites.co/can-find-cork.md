@@ -58,17 +58,17 @@ Let's get into it.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fb596fb9-05f1-4a85-ba7b-4cd0ddd03765/Media-1.png)
 
-- **[Get 1 second cold boots for large ML models](https://twitter.com/erikdunteman/status/1584704039182569472?s=12\&t=qaV3lgJFY8B1251nYLlfHA)**. WTF is a boot? Luckily Erik also wrote a [short thread on this](https://twitter.com/erikdunteman/status/1584992673240616960?s=12\&t=LReSyf12LeSOF6Q_e4jKgw).
+- **[Get 1 second cold boots for large ML models](https://twitter.com/erikdunteman/status/1584704039182569472)**. WTF is a boot? Luckily Erik also wrote a [short thread on this](https://twitter.com/erikdunteman/status/1584992673240616960).
 
 - [Using **GPT-3 to help you write emails**.](https://github.com/danimelchor/gpt3-email) Not this one though! (yet\_
 
-- [This sweater](https://twitter.com/morningbrew/status/1584976046197071873?s=12\&t=qaV3lgJFY8B1251nYLlfHA) developed by the University of Maryland is **an invisibility cloak against AI**. It uses "adversarial patterns" to stop AI from recognising the person wearing it. \[insert Harry Potter reference]
+- [This sweater](https://twitter.com/morningbrew/status/1584976046197071873) developed by the University of Maryland is **an invisibility cloak against AI**. It uses "adversarial patterns" to stop AI from recognising the person wearing it. \[insert Harry Potter reference]
 
 - [These brothers got rejected](https://www.mrdbourke.com/rejected-from-the-ai-grant/) by AI Grant, and I think it’s a pretty cool tool. [Nutrify](https://www.nutrify.app/) - **Upload a photo of food and find out its macronutrients**. Fun fact: Ben’s Bites was what I called my funny food reviews on Instagram.
 
 - [Compose AI](https://www.compose.ai/) - a free Chrome extension that **cuts your writing time by 40%** with AI-powered autocompletion.
 
-- Yesterday we learnt about NeRFs. [Here’s another demo](https://twitter.com/karenxcheng/status/1584927545870340096?s=12\&t=LReSyf12LeSOF6Q_e4jKgw) of **creating "drone" shots from your phone footage**, including the process too.
+- Yesterday we learnt about NeRFs. [Here’s another demo](https://twitter.com/karenxcheng/status/1584927545870340096) of **creating "drone" shots from your phone footage**, including the process too.
 
 - **[A book written by GPT-3, illustrated by DALL-E 2 and Stable Diffusion](https://drozd.gumroad.com/l/the-curator)**. Cool, now I can read it with AI and get it summarised with AI. An AI circle of life.
 
@@ -82,7 +82,7 @@ Let's get into it.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ce4500a9-f4f5-4a7b-b93a-72fbbd0311f3/plant_qual.gif)
 
-- Who’s building a **[next-gen search engine using LLM/generative AI](https://twitter.com/alexandr_wang/status/1585022891594510336?s=12\&t=KtRhY0BSsmUdmGZwqTboxg)**? Will Google move fast enough vs other incumbents or startups? **The economic opportunity here may be bigger than everything else, combined.**
+- Who’s building a **[next-gen search engine using LLM/generative AI](https://twitter.com/alexandr_wang/status/1585022891594510336)**? Will Google move fast enough vs other incumbents or startups? **The economic opportunity here may be bigger than everything else, combined.**
 
 - **[Instantly summarise text](https://www.summari.com/).**
 

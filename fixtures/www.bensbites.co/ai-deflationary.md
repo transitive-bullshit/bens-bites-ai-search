@@ -57,9 +57,9 @@ DeepMind released [TAP-Vid](https://arxiv.org/abs/2211.03726), a new benchmark f
 
 [**Deploy a Gradio app to Spaces from a notebook**](https://nbdev.fast.ai/blog/posts/2022-11-07-spaces/) without having to refactor your code into a script (which Hugging Face currently requires you to do).
 
-[**Why generative AI for music is harder than images**](https://twitter.com/cheriehu42/status/1590006092779905024?s=12\&t=yW5vTGAmyCsaBcchzEWryQ)…TL;DR - training and it’s not visual!
+[**Why generative AI for music is harder than images**](https://twitter.com/cheriehu42/status/1590006092779905024)…TL;DR - training and it’s not visual!
 
-This magician has been conjuring up [**AI-generated potions on Twitter.**](https://twitter.com/emmanuel_2m/status/1589995198289182720?s=12\&t=ijtqQpVc7664Wq5mCONhgw)
+This magician has been conjuring up [**AI-generated potions on Twitter.**](https://twitter.com/emmanuel_2m/status/1589995198289182720)
 
 ReAct by Google - a combo of reasoning and acting advances that [**enable language models to solve various language reasoning and decision-making tasks**](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html).
 
@@ -67,9 +67,9 @@ ReAct by Google - a combo of reasoning and acting advances that [**enable langua
 
 A tutorial for [**creating a low poly bedroom in Blender.**](https://www.youtube.com/watch?v=pcnCaMB8j7A)
 
-A deep-dive on [**Musk’s move to eliminate the responsible AI team at Twitter**](https://twitter.com/alber_romgar/status/1590074284256669697?s=12\&t=ijtqQpVc7664Wq5mCONhgw).
+A deep-dive on [**Musk’s move to eliminate the responsible AI team at Twitter**](https://twitter.com/alber_romgar/status/1590074284256669697).
 
-I asked for this on Twitter! A simple AI-terminology breakdown. AssemblyAI wrote [**an explanation of 10 AI terms you should know**](https://twitter.com/assemblyai/status/1590009488408735744?s=12\&t=fCDdvFEXqCw17fWx8qEtNw) (in plain English).
+I asked for this on Twitter! A simple AI-terminology breakdown. AssemblyAI wrote [**an explanation of 10 AI terms you should know**](https://twitter.com/assemblyai/status/1590009488408735744) (in plain English).
 
 Contrastive search can generate human-level text using off-the-shelf language models across 16 languages. [**Generating human-level text with contrastive search**](https://huggingface.co/blog/introducing-csearch) in Transformers. [A demo](https://huggingface.co/spaces/joaogante/contrastive_search_generation) that directly compares contrastive search with other popular decoding methods.
 

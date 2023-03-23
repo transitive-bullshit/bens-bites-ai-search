@@ -37,7 +37,7 @@ Amongst all the excitement of Google and Microsoft, let’s not forget that the 
 
 **3/**
 
-[**Warmest.ai writes your emails in your own style**](https://twitter.com/garywupx/status/1623004850790494212?s=20\&t=Ju-Pjhzkvd6SF5MEbFJP8Q)
+[**Warmest.ai writes your emails in your own style**](https://twitter.com/garywupx/status/1623004850790494212)
 
 I had an excruciatingly painful call today with someone who insisted on sharing his screen whilst he drafted a very boring email incredibly slowly, so this tool is ringing very true to me right now! **Warmest.ai** uses your email history to learn how you respond to certain scenarios, and then **drafts emails for you in your own tone** - pretty nifty business.
 
@@ -69,7 +69,7 @@ Exclusively for Ben's Bites subscribers, get an extra 10% off with code **BENSBI
 - Polymath - Open-source tool that converts any**music library**into a sample library with machine learning. ([link](https://github.com/samim23/polymath))
 - Supabase Clippy - ChatGPT for **Supabase docs.**([link](https://supabase.com/blog/chatgpt-supabase-docs))
 - **Image to Sound FX** - Convert an image to a corresponding sound effect. ([link](https://huggingface.co/spaces/fffiloni/image-to-sound-fx))
-- AI.TA - AI **teaching assistant** that generates lesson plans, google slides, quizzes and more. ([link](https://twitter.com/__BCG__/status/1623074131770998784?s=20\&t=q2zn7vjkjvHCncVE1NX9ug))
+- AI.TA - AI **teaching assistant** that generates lesson plans, google slides, quizzes and more. ([link](https://twitter.com/__BCG__/status/1623074131770998784))
 - Mendable - Deploy anywhere to**answer developer questions** with one line of code. ([link](https://www.mendable.ai/))
 - CodeComplete - AI coding assistant similar to **GitHub Copilot built for enterprise**companies. ([link](https://www.ycombinator.com/launches/Hxe-codecomplete-github-copilot-for-enterprise))
 - Tweetmonk - Write and schedule**tweets & threads** that engage your audience. ([link](https://tweetmonk.com/))
@@ -95,7 +95,7 @@ Exclusively for Ben's Bites subscribers, get an extra 10% off with code **BENSBI
 
 - A step-by-step guide to building an**AI chatbot.**([link](https://www.lennysnewsletter.com/p/i-built-a-lenny-chatbot-using-gpt))
 - **Understanding LLMs**- A transformative reading list. ([link](https://sebastianraschka.com/blog/2023/llm-reading-list.html))
-- Boltus, The God of AI - A four episode series of**learning to use AI**with funny production. ([link](https://twitter.com/LightningAI/status/1622997933192011776?s=20\&t=pwcLuSlyElpSOQS8FjrmZw))
+- Boltus, The God of AI - A four episode series of**learning to use AI**with funny production. ([link](https://twitter.com/LightningAI/status/1622997933192011776))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

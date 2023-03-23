@@ -48,7 +48,7 @@ A great piece by Rex Woodbury, **[AI in 2023: The Application Layer Has Arrived]
 - Check for AI - **Detect AI written text** in essays, emails, and more! ([link](https://checkforai.com/))
 - Image Mixer - **Mix up concepts in multiple images** and words to generate novel pictures! ([link](https://huggingface.co/spaces/lambdalabs/image-mixer-demo))
 - Promptable - The ultimate workspace for **prompt engineering.**([link](https://promptable.ai/))
-- **Luma Shares and Embeds** - Luma's interactive NeRFs, panoramas, video renders in your own websites. ([link](https://twitter.com/LumaLabsAI/status/1616067691051380738?s=20\&t=2HrZTHyfKRK_BRSIlygOUQ))
+- **Luma Shares and Embeds** - Luma's interactive NeRFs, panoramas, video renders in your own websites. ([link](https://twitter.com/LumaLabsAI/status/1616067691051380738))
 - Hippocratic AI - Free search tool for peer-reviewed **medical knowledge.** ([link](https://hippocratic-medical-questions.herokuapp.com/?fbclid=IwAR0_P_0sEDlWX4hfuIoHNDByiJEIwbg2qE_ySAtPj-WPE7B-OyLjNDwncdk))
 - Olli AI - Your team’s **AI data analyst.** Answer questions and create charts 10x faster. ([link](https://www.olli.ai/))
 
@@ -70,7 +70,7 @@ A great piece by Rex Woodbury, **[AI in 2023: The Application Layer Has Arrived]
 
 ### 🎓 Learn
 
-- Bring **still images to life** with Runway Academy. ([link](https://twitter.com/runwayml/status/1616103238423531524?s=20\&t=3FVUEJXsBSBNRtbbXjDkdw))
+- Bring **still images to life** with Runway Academy. ([link](https://twitter.com/runwayml/status/1616103238423531524))
 - **Generative AI and long-term memory for LLMs.** ([link](https://www.youtube.com/watch?v=rrAChpbwygE))
 - \*\*Transformer models:\*\*an introduction and catalogue — 2023 edition. ([link](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/))
 - **Universal image segmentation**with Mask2Former and OneFormer. ([link](https://huggingface.co/blog/mask2former))

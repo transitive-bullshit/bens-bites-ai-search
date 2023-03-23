@@ -38,7 +38,7 @@ Let's get into it
 
 - Research aimed at increasing **[the capabilities of Neuroscience and AI](https://arxiv.org/pdf/2210.08340.pdf)**. Based on the premise that a better understanding of neural computation will reveal basic ingredients of intelligence and catalyze the next revolution in AI. Potentially surpassing human capabilities.
 
-- **WTF are NeRFs?!** No, not the toy guns or whistling footballs. **Neural Radiance Fields (NeRFs)** of course! [This thread is a simple explainer](https://twitter.com/ai__pub/status/1584152707622846466?s=12\&t=Ier6eliJeL0KkOUJEgqdNA) (the account breaks down technical AI, worth a follow if that’s your jam).
+- **WTF are NeRFs?!** No, not the toy guns or whistling footballs. **Neural Radiance Fields (NeRFs)** of course! [This thread is a simple explainer](https://twitter.com/ai__pub/status/1584152707622846466) (the account breaks down technical AI, worth a follow if that’s your jam).
 
 - **AI-generated movie trailers**?! MovieCLIP: Visual Scene Recognition in Movies. [This paper](https://arxiv.org/abs/2210.11065) shows leveraging features from models pre-trained on MovieCLIP benefits downstream tasks such as multi-label scene and genre classification of web videos and movie trailers.
 

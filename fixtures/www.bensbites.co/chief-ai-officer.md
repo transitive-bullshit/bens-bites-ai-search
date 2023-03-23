@@ -19,7 +19,7 @@ Have a product, service, job, event, newsletter, app, book, movie, tool, or anyt
 
 **1/**
 
-[**MedARC: The decentralised, open-source Medical AI Research Center**](https://twitter.com/MedARC_AI/status/1623731098181337089?s=20\&t=zijrYMNz_eDOpJduEg_-cg)
+[**MedARC: The decentralised, open-source Medical AI Research Center**](https://twitter.com/MedARC_AI/status/1623731098181337089)
 
 Chatbot AI has become *very important*. Medicine is somewhat *more important*. So what’s going on in the world of **medical AI**? Enter **MedARC**, partnered with **StabilityAI**. Given the importance of getting medical advice right, their premise is that medical AI should be a **foundational model**, like that of ChatGPT or Stable Diffusion.
 
@@ -81,7 +81,7 @@ Instead of using tools like this, it me:
 
 ### 🤓 Miscellaneous
 
-- Creating a video with **ASCII frames** using AI. ([link](https://twitter.com/itsandrewgao/status/1623486041536724992?s=20\&t=tW11PkDVARbiOFRS5sYxsg))
+- Creating a video with **ASCII frames** using AI. ([link](https://twitter.com/itsandrewgao/status/1623486041536724992))
 - Infinite Loops podcast with David Ha - \*\*AI & evolution,\*\*learning to do more with less. ([link](https://www.infiniteloopspodcast.com/david-ha-ai-evolution-learning-to-do-more-with-less-ep146/))
 - Microsoft will soon let you create **your own chatbot** using ChatGPT tech. ([link](https://mspoweruser.com/microsoft-will-soon-let-you-create-your-own-chatbot-using-chatgpt-tech/))
 - Can AI write**super bowl**spots? ([link](https://addition.substack.com/p/can-ai-write-super-bowl-spots))
@@ -103,7 +103,7 @@ Instead of using tools like this, it me:
 - Is this the week**AI changed everything?** ([link](https://www.theatlantic.com/technology/archive/2023/02/google-bing-race-to-launch-ai-chatbot-powered-search-engines/673006/))
 - **OpenAI rival Cohere AI**has flown under the radar. That may be about to change. ([link](https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/))
 - Why all our classes suddenly became**AI classes.** ([link](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes))
-- Connecting **private data**in SnowflakeDB and Wikipedia to answer questions. Chat Your Data challenge submission. ([link](https://twitter.com/paulinebhyang/status/1623783336044032000?t=NMBwIdElFThtR8GNm1kLDQ\&s=19))
+- Connecting **private data**in SnowflakeDB and Wikipedia to answer questions. Chat Your Data challenge submission. ([link](https://twitter.com/paulinebhyang/status/1623783336044032000))
 
 ### 🎓 Learn
 
@@ -153,7 +153,7 @@ Rick Astley gives up
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/bc45fcfa-ae80-46ca-8f32-59238c4712b1/image.png)
 
-<https://twitter.com/weirddalle/status/1623761009826471936?s=46&t=0x0PcRON7FA2xd7BWo_rOw>
+[https://twitter.com/weirddalle/status/1623761009826471936?s=46\&t=0x0PcRON7FA2xd7BWo\_rOw](https://twitter.com/weirddalle/status/1623761009826471936)
 
 ## 🤗 Share Ben's Bites
 

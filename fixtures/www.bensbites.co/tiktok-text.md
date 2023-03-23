@@ -21,7 +21,7 @@ Have a product, service, job, event, newsletter, app, book, movie, tool, or anyt
 
 **1/**
 
-[**Massive funding round for storytelling start-up Tome**](https://twitter.com/alexrkonrad/status/1628387173631246338?s=12\&t=430HwaY1R-r6DiuaJwqqaA)
+[**Massive funding round for storytelling start-up Tome**](https://twitter.com/alexrkonrad/status/1628387173631246338)
 
 That is one *monster* funding round - **$43m**, valuing the start-up at a whopping $300m, *before* revenue. When you hear of **Tome** as a “storytelling” company, you’re probably imagining less than it is - but these guys are lining up to be PowerPoint’s first big competitor. By “story” they mean “narrative”, and the idea is AI-generated tiles able to create a compelling narrative behind anything: children’s stories, pitch decks, 3D prototypes - you name it. (Basically PowerPoint but… better.) This is a really cool start-up and provides some welcome competition. But what’s Microsoft’s response going to be when they get backed into an AI corner?
 
@@ -70,7 +70,7 @@ Exclusively for Ben's Bite's subscribers, get an extra 10% off with code **BENSB
 - Ad Creative - Generate conversion focused**ad creatives** and social media post creatives in a matter of seconds. ([link](https://www.adcreative.ai/))
 - AskHN - The collective GPT-embodied wisdom of**Hacker News.** ([link](https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/))
 - Raycast AI - Write smarter, **code**faster and answer questions quicker. ([link](https://www.raycast.com/ai))
-- **Notion AI** is now available to everyone. ([link](https://twitter.com/NotionHQ/status/1628425613651640320?s=20))
+- **Notion AI** is now available to everyone. ([link](https://twitter.com/NotionHQ/status/1628425613651640320))
 - Chart - Package your models into high-performant C++ servers and **deploy**them into your own cloud account. ([link](https://www.getcharteditor.com/))
 - Byterat - Data platform for battery engineers that unlocks the full potential of **battery testing data.**([link](https://www.byterat.io/))
 - Lavo Life Science - AI-Accelerated **quantum chemistry**for rapid drug development. ([link](https://www.lavo.ai/))
@@ -101,7 +101,7 @@ Exclusively for Ben's Bite's subscribers, get an extra 10% off with code **BENSB
 ### 🎓 Learn
 
 - Complete **guide to ControlNet**for Stable Diffusion img2img. ([link](https://aituts.com/controlnet/))
-- Different**parallelism approaches**to train models like ChatGPT and stable-diffusion? ([link](https://twitter.com/mlpowered/status/1628106214516359168?s=20))
+- Different**parallelism approaches**to train models like ChatGPT and stable-diffusion? ([link](https://twitter.com/mlpowered/status/1628106214516359168))
 - **Introduction to PPO**with sample-factory. ([link](https://huggingface.co/deep-rl-course/unit8/introduction-sf))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.

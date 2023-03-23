@@ -67,7 +67,7 @@ When the critics ask what’s the use of a random image generator for my busines
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/740ee61f-83fa-4283-a1a3-49c350289a26/Line_1.png)
 
-- Reflect AI - Your tool for **thought capture**, now with GPT 4 and custom prompts. ([link](https://twitter.com/reflectnotes/status/1638541075907514368?s=20))
+- Reflect AI - Your tool for **thought capture**, now with GPT 4 and custom prompts. ([link](https://twitter.com/reflectnotes/status/1638541075907514368))
 
 - ChatLLaMA - An experimental **chatbot interface** for interacting with variants of Facebook's LLaMA. ([link](https://chatllama.baseten.co/))
 
@@ -77,7 +77,7 @@ When the critics ask what’s the use of a random image generator for my busines
 
 - Glide actions - Build **custom workflows** that connect directly with tools that drive your business forward. ([link](https://www.glideapps.com/actions))
 
-- **Triple Whale Lighthouse**is now open for everyone without a waitlist. ([link](https://twitter.com/AY_Orbach/status/1638643508948111361?s=20))
+- **Triple Whale Lighthouse**is now open for everyone without a waitlist. ([link](https://twitter.com/AY_Orbach/status/1638643508948111361))
 
 - Lindy - AI assistant putting your **life on autopilot.**([link](https://www.lindy.ai/))
 

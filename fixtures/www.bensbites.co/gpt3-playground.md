@@ -46,7 +46,7 @@ Let's get to it!
 
 - **Google’s former CEO Eric Schmidt** was appointed to the National Security Commission on AI. He made direct investments in AI startups. There’s**no indication that he did anything wrong** but [government ethics advisors say his investments presented a huge conflict of interest.](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html)
 
-- **[Behind the scenes](https://twitter.com/paultrillo/status/1584543033449533441?s=12\&t=bNuzXyKLnNCAssgdTqYz2g) of that crazy video with masks, and effects** using Runway that I wrote about last week.
+- **[Behind the scenes](https://twitter.com/paultrillo/status/1584543033449533441) of that crazy video with masks, and effects** using Runway that I wrote about last week.
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
@@ -58,7 +58,7 @@ Let's get to it!
 
 - Making sure robots don’t bump into each other (in factories etc), is a core building block. **[This model can generate collision-free, smooth motion](https://mpinets.github.io/)** from just a single depth camera observation.
 
-- Sequoia has (quickly) **updated its Gen AI market map**. [Here’s a V2](https://twitter.com/sonyatweetybird/status/1584580362339962880?s=12\&t=DEyWoA1Azh0Z5btVqoTY4g). They’re also **hosting AI office hours** which you can sign up for [here](https://docs.google.com/forms/d/e/1FAIpQLSenbhM2l1n4DJvKmY4pZbqU2B-2CFguQEMvgHRt3gqE575UTw/viewform?usp=send_form).
+- Sequoia has (quickly) **updated its Gen AI market map**. [Here’s a V2](https://twitter.com/sonyatweetybird/status/1584580362339962880). They’re also **hosting AI office hours** which you can sign up for [here](https://docs.google.com/forms/d/e/1FAIpQLSenbhM2l1n4DJvKmY4pZbqU2B-2CFguQEMvgHRt3gqE575UTw/viewform?usp=send_form).
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5fc87050-3aa6-4af0-9662-8ed1ccf0789c/Ff2PNSJUUAElDry.png)
 
@@ -78,7 +78,7 @@ Let's get to it!
 
 - FreeCodeCamp has released a course "**[The basics of Machine Learning](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)"**.
 
-- [Sam Lessin wrote a screenshot essay](https://twitter.com/lessin/status/1584572317270568961?s=12\&t=DEyWoA1Azh0Z5btVqoTY4g) on **“Why you should be ‘default out’ on investing in ‘Generative AI’ companies for the next few years.”** - I like to throw in some against-the-grain points every now and then. And Sam makes some good ones here.
+- [Sam Lessin wrote a screenshot essay](https://twitter.com/lessin/status/1584572317270568961) on **“Why you should be ‘default out’ on investing in ‘Generative AI’ companies for the next few years.”** - I like to throw in some against-the-grain points every now and then. And Sam makes some good ones here.
 
 - An official **[Stable Diffusion API](https://stablediffusionapi.com/)**.
 

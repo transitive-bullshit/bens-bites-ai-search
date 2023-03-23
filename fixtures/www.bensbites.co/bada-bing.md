@@ -35,9 +35,9 @@ Check it out [here](https://waymark.com/).
 
 ### **🛠️ Cool Tools**
 
-- Rows introduce ASK\_OPENAI function to **use GTP-3 inside your spreadsheet** without any scripts, installs, or add-ons. ([link](https://twitter.com/RowsHQ/status/1610251490005815297?s=20\&t=bTClZ8RccGe3kwuWR6IOsw))
+- Rows introduce ASK\_OPENAI function to **use GTP-3 inside your spreadsheet** without any scripts, installs, or add-ons. ([link](https://twitter.com/RowsHQ/status/1610251490005815297))
 - Cool Japan Diffusion 2.1.0 - **a fine-tuning model of Stable Diffusion to represent cool Japan in anime and manga**. ([link](https://huggingface.co/spaces/aipicasso/cool-japan-diffusion-2-1-0-demo))
-- Magize - Generate and publish **AI-generated ad campaigns in multiple languages**. ([link](https://twitter.com/florian_btc/status/1609987876242219008?s=20\&t=HcmhcE1O7b7sL_SSnhPfAw))
+- Magize - Generate and publish **AI-generated ad campaigns in multiple languages**. ([link](https://twitter.com/florian_btc/status/1609987876242219008))
 - GPTZero - Quickly and efficiently **detect whether an essay is ChatGPT** or human-written. ([link](https://etedward-gptzero-main-zqgfwb.streamlit.app/))
 - Fashion AI - **Personalised style recommendations** tailored to your unique fashion preferences. ([link](https://apps.chatbotkit.com/fashionai))
 - Tortoise TTS model - **Voice cloning** from small numbers of samples. ([link](https://huggingface.co/spaces/mdnestor/tortoise))
@@ -48,9 +48,9 @@ Check it out [here](https://waymark.com/).
 
 ### **🤓 Miscellaneous**
 
-- **Language styling made as accessible as text formatting** using GPT-3. ([link](https://twitter.com/zats/status/1609881792026218496?s=20\&t=7hTZ34qL9X38_YP0z-edtQ))
+- **Language styling made as accessible as text formatting** using GPT-3. ([link](https://twitter.com/zats/status/1609881792026218496))
 - Does the textual corpus for large language models have **enough information to train an AGI**? This article discusses two hypotheses about whether LLMs are sufficient to progress to general AI, and the lack of consensus among experts on the potential of these models. ([link](https://shakoist.substack.com/p/does-the-textual-corpus-for-large))
-- **LLM uncanny valley hypothesis**. Basically, as AI gets smarter, it'll get slower and more expensive to use. And since it'll only be used for super complicated stuff, humans will have a lower tolerance for mistakes. So if an AI almost gets it right, but not quite, it'll be a huge pain for humans to fix it. It's like an 'uncanny valley' for AI - we don't know when it'll start happening or when it'll end. But hey, at least right now AI is cheap and powerful enough to be useful to lots of people. ([link](https://twitter.com/spolu/status/1610264020052754432?s=20\&t=uLtMRpYaj-UFwc0qUY1tuw))
+- **LLM uncanny valley hypothesis**. Basically, as AI gets smarter, it'll get slower and more expensive to use. And since it'll only be used for super complicated stuff, humans will have a lower tolerance for mistakes. So if an AI almost gets it right, but not quite, it'll be a huge pain for humans to fix it. It's like an 'uncanny valley' for AI - we don't know when it'll start happening or when it'll end. But hey, at least right now AI is cheap and powerful enough to be useful to lots of people. ([link](https://twitter.com/spolu/status/1610264020052754432))
 - Microsoft chief celebrates GitHub Copilot’s glory. ([link](https://analyticsindiamag.com/microsoft-chief-celebrates-github-copilots-glory/))
 - **Generative AI & LLM hackathon at Scale AI** HQ - applications open. ([link](https://7v96jeqxhgx.typeform.com/LLMhackathonapp))
 - **2023 will be the year of Interactive Machine Learning**. ([link](https://twitter.com/korymath/status/1610345837913145344))

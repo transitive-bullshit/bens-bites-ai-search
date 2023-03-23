@@ -61,7 +61,7 @@ On to the email!
 - I was on **Marketing Against the Grain podcast**talking about AI. ([link](https://link.chtbl.com/hf8ujdLi?sid=Ben%20Tossell%20EP%2072))
 - SellScale has raised $3.4m to give **AI superpowers to sales teams**. ([link](https://www.sellscale.com/post/sellscale-raises-3-4-million-to-give-ai-superpowers-to-sales-teams))
 - **ChatGPT is now on Hugging Face**. ([link](https://huggingface.co/spaces/Xhaheen/ChatGPT_HF))
-- **ChatGPT writing a product roadmap** for Instagram Stories. ([link](https://twitter.com/keithpeiris/status/1599796755591483392?s=20\&t=hFGcSKLCO7aL_cwwAle5jw))
+- **ChatGPT writing a product roadmap** for Instagram Stories. ([link](https://twitter.com/keithpeiris/status/1599796755591483392))
 - How **AI agents can better communicate and cooperate in Diplomacy**. ([link](https://www.nature.com/articles/s41467-022-34473-5))
 - An article in the New York Times “**The Brilliance and Weirdness of ChatGPT**”. ([link](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html))
 - Using **ChatGPT to simulate a React app**. You type in a description of an "app" and it's rendered straight into the browser. ([link](https://twitter.com/_danlever/status/1600125789479276545))

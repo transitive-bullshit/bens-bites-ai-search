@@ -24,7 +24,7 @@ Ben ✌️
 ### **🛠️ Cool Tools**
 
 - **Automated pitch deck parsing + AI analysis** using Docparser, Zapier and GPT-3. The user uploads a pitch deck, it pulls out all the info into a readable memo and can also assess various risks. ([link](https://twitter.com/yoheinakajima/status/1595488002234806272))
-- **AvatarAI just got 50+ new styles** added. ([link](https://twitter.com/levelsio/status/1595469440363151360?s=20\&t=Tbzmt7_YUcyqHv-FiJ069g))
+- **AvatarAI just got 50+ new styles** added. ([link](https://twitter.com/levelsio/status/1595469440363151360))
 - DocQuery - Upload a document, **ask a question and this tool will answer it**. ([link](https://huggingface.co/spaces/impira/docquery))
 - Flowjin - **Turn podcasts into clips with AI.** ([link](https://www.flowjin.com/))
 - Friday Go - **Answers your Google searches for you**, instead of trawling through pages of results. ([link](https://go.friday.education/))

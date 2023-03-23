@@ -59,7 +59,7 @@ A really good **overview of the AI market, what's happened and what's to come**.
 
 ### **🤓 Everything else**
 
-- A thread on ‘**2023 AI prediction: the gap between generative and predictive AI will widen.**’ ([link](https://twitter.com/ajratner/status/1604533075714756609?s=12\&t=-z7a0HIDKBDVDeOmVxKQAw))
+- A thread on ‘**2023 AI prediction: the gap between generative and predictive AI will widen.**’ ([link](https://twitter.com/ajratner/status/1604533075714756609))
 - UMass Amherst’s assistant professors **Marco Serafini and Hui Guan have received Amazon Research Award** and a grant from the National Science Foundation totalling over $500K to support their work improving training for graph neural networks. ([link](https://www.cics.umass.edu/news/serafini-guan-working-improve-training-graph-neural-networks))
 - A video made with Runway using the prompt, ‘**Home Alone. But as the opening credits of White Lotus season two**.’ So fun that Runway make new employees create a video in there first week! ([link](https://twitter.com/umpherj/status/1604856745645707264))
 - **Tinder users are using ChatGPT to message matches**. ([link](https://in.mashable.com/sex-dating-relationships/43849/tinder-users-are-using-chatgpt-to-message-matches))

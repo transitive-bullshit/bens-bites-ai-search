@@ -27,9 +27,9 @@ Let’s get to it.
 
 [Zapier’s Natural Language Actions make LLM APIs way easier to use](https://zapier.com/l/natural-language-actions)
 
-Let’s be honest, getting the most out of all these natural language models isn’t*really*as accessible as everyone says it is - all the API authorisations, the API calls, and the generation of outputs can be a real pain in the bum. The team at**Zapier**have been working around the clock to pull together their[Natural Language Actions](https://twitter.com/mikeknoop/status/1636387943211491328?s=20)**(NLA) API**, which essentially uses LLMs to make LLM APIs easier to use. Super nifty stuff!
+Let’s be honest, getting the most out of all these natural language models isn’t*really*as accessible as everyone says it is - all the API authorisations, the API calls, and the generation of outputs can be a real pain in the bum. The team at**Zapier**have been working around the clock to pull together their[Natural Language Actions](https://twitter.com/mikeknoop/status/1636387943211491328)**(NLA) API**, which essentially uses LLMs to make LLM APIs easier to use. Super nifty stuff!
 
-Zapier’s 5k+ apps and 20k+ actions are all available, and all*their*API requires is a cheeky language instructions field. Looking beyond this, it’s even been[integrated into](https://twitter.com/hwchase17/status/1636383376633651203?s=20)the**LangChain package**, allowing you to use just a few lines of code to generate a Zapier Toolkit to get hold of Zapier’s actions right inside your code.
+Zapier’s 5k+ apps and 20k+ actions are all available, and all*their*API requires is a cheeky language instructions field. Looking beyond this, it’s even been[integrated into](https://twitter.com/hwchase17/status/1636383376633651203)the**LangChain package**, allowing you to use just a few lines of code to generate a Zapier Toolkit to get hold of Zapier’s actions right inside your code.
 
 **3/**
 
@@ -39,7 +39,7 @@ Apple's putting Siri through a linguistic workout with their **new natural langu
 
 **4/**
 
-[ChatGPT Chrome extension to use generative AI in any web text boxes](https://twitter.com/ihorstefurak/status/1636460060099371008?s=20)
+[ChatGPT Chrome extension to use generative AI in any web text boxes](https://twitter.com/ihorstefurak/status/1636460060099371008)
 
 If you need any evidence that ChatGPT is able to turn inexperienced coders into those who can produce an awesome Chrome extension, then look no further. (Don’t worry, it’s*self-proclaimed*inexperience, check the thread.) This chap used**ChatGPT**as a guide to building a**Chrome extension**that allows you to insert prompt responses into… basically anything? It seems to live inside the text boxes of any websites you visit, and all you need to do is start it off with “/ai”, follow up with a prompt, and out comes a response. I love this. It’s a true demonstration of a cool home project by someone who claims to lack expertise, producing something that looks really useful. Let’s wait to see how it holds up in practice!
 
@@ -73,9 +73,9 @@ Use the AI transcription by Riverside as subtitles, show notes, or first drafts 
 
 - Superteam - AI that manages **customer service & sales** for you. ([link](https://www.ycombinator.com/launches/IIU-superteam-ai-that-manages-customer-service-sales-for-you))
 
-- Warp AI - Your **terminal**fully integrated with AI without need for any external tools. ([link](https://twitter.com/zachlloydtweets/status/1636385520082386944?s=20))
+- Warp AI - Your **terminal**fully integrated with AI without need for any external tools. ([link](https://twitter.com/zachlloydtweets/status/1636385520082386944))
 
-- GPT-4 can build a bespoke **iOS app**in minutes. ([link](https://twitter.com/localghost/status/1636458020136964097?s=20))
+- GPT-4 can build a bespoke **iOS app**in minutes. ([link](https://twitter.com/localghost/status/1636458020136964097))
 
 - /ai - An**invisible AI assistant** that lives in the text boxes of websites you visit. ([link](https://ai.opryshok.com/))
 

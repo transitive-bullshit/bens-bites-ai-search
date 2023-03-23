@@ -22,7 +22,7 @@ Oh yeah, Happy Halloween if you're into that.
 
 ## **🫦 BEN'S BITES**
 
-- [**Generate music from an image**](https://huggingface.co/spaces/fffiloni/img-to-music). [This is what I generated](https://huggingface.co/spaces/fffiloni/img-to-music/discussions/74). You could imagine new ways to consume content; [reading books with an AI-generated soundtrack](https://twitter.com/packyM/status/1586716410465722377?s=20\&t=X3gxIKq8M4PGMpF-7v8uDQ), as suggested by Packy McCormick.
+- [**Generate music from an image**](https://huggingface.co/spaces/fffiloni/img-to-music). [This is what I generated](https://huggingface.co/spaces/fffiloni/img-to-music/discussions/74). You could imagine new ways to consume content; [reading books with an AI-generated soundtrack](https://twitter.com/packyM/status/1586716410465722377), as suggested by Packy McCormick.
 
 - A teaser of the [Jukebox Web UI](https://twitter.com/vovahimself/status/1585989844492341248) Vova is building. It’s basically an **AI-powered music studio at your fingertips**. Generate lyrics, use Artists’ styles, samples and more.
 
@@ -42,7 +42,7 @@ Oh yeah, Happy Halloween if you're into that.
 
 - A more [**accurate subtitle generator**](https://twitter.com/ramsri_goutham/status/1586291323534909440), coming soon.
 
-- A [short thread](https://twitter.com/alexreibman/status/1586494043302658049?s=12\&t=l--Mmh-xfek_JeoVUrziAw) on **how DreamBooth works**.
+- A [short thread](https://twitter.com/alexreibman/status/1586494043302658049) on **how DreamBooth works**.
 
 - James Douma, Scott Walter, and John (Dr Know it All) join Farzad Mesbahi in discussing [**the latest developments in robotics and AI**](https://www.youtube.com/watch?v=M8zs8Ca7YlI) and how these developments will impact Tesla's future. Friday, 11/4 3:30PM CENTRAL.
 
@@ -56,7 +56,7 @@ Oh yeah, Happy Halloween if you're into that.
 
 - This is a project where [**an ML model is trained to edit images based on natural language prompts**](https://arxiv.org/abs/2210.11427). The model is able to preserve context when making edits, as opposed to other methods which tend to completely re-imagine the background elements.
 
-- [**Searching an e-book**](https://twitter.com/dwarkesh_sp/status/1586853685119700992?s=12\&t=qSbxt8ZY33KlMABfLXXdLQ) using OpenAI. [Code is here.](https://colab.research.google.com/drive/1PDT-jho3Y8TBrktkFVWFAPlc7PaYvlUG?usp=sharing)
+- [**Searching an e-book**](https://twitter.com/dwarkesh_sp/status/1586853685119700992) using OpenAI. [Code is here.](https://colab.research.google.com/drive/1PDT-jho3Y8TBrktkFVWFAPlc7PaYvlUG?usp=sharing)
 
 - [**The history of artificial intelligence**](https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/) starts with early attempts by humans to create machines that could think and process information. “History Of AI In 33 Breakthroughs: The First ‘Thinking Machine’”.
 

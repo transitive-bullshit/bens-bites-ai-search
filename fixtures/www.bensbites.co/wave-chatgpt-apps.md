@@ -23,13 +23,13 @@ Let’s get to it.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7dfbc517-fcf6-4e5b-a4da-163bf4fb703f/Line_1.png)
 
-**1/** **Building AI apps gets even easier on Zapier;** **[ChatGPT](https://zapier.com/apps/chatgpt/integrations)** **and** **[Zapbots](https://twitter.com/bentossell/status/1631331539626721286?s=20)** **.**
+**1/** **Building AI apps gets even easier on Zapier;** **[ChatGPT](https://zapier.com/apps/chatgpt/integrations)** **and** **[Zapbots](https://twitter.com/bentossell/status/1631331539626721286)** **.**
 
-For those that don’t know, I work at Zapier (they acquired my previous company 2 years ago this week actually). Anyway, we’ve been experimenting with AI and yesterday shipped; **[ChatGPT Integration on Zapier](https://zapier.com/apps/chatgpt/integrations)** (it includes a memory feature 🤯 ) and Zapbots. Zapbots is the **[easiest way to build AI apps](https://twitter.com/bentossell/status/1631331539626721286?s=20)**, simply enter the fields you want users to submit, add the logic (e.g. make a recipe for ) and the app is live for you to share with others!
+For those that don’t know, I work at Zapier (they acquired my previous company 2 years ago this week actually). Anyway, we’ve been experimenting with AI and yesterday shipped; **[ChatGPT Integration on Zapier](https://zapier.com/apps/chatgpt/integrations)** (it includes a memory feature 🤯 ) and Zapbots. Zapbots is the **[easiest way to build AI apps](https://twitter.com/bentossell/status/1631331539626721286)**, simply enter the fields you want users to submit, add the logic (e.g. make a recipe for ) and the app is live for you to share with others!
 
 Massive probs to the Zapier team shipping this these - more releases coming soon.
 
-**2/**[Megathread with everything you need to know on the OpenAI release](https://twitter.com/labenz/status/1631346679893958658?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A)
+**2/**[Megathread with everything you need to know on the OpenAI release](https://twitter.com/labenz/status/1631346679893958658)
 
 This Twitter mega thread might look like a daunting length to dive into, but I promise you won’t regret it. There’s so much useful info on the recent**OpenAI release**, I even assumed the guy worked there until I got to the end! Their 90% cost reduction is actually 96% when you factor in last year’s drop; he gives us a neat little spreadsheet to**compare LLM providers**; and finds that actually, this new one can’t quite handle the complexity of**ChatGPT**, but the**accessibility and speed**makes it worth it. Also, let’s appreciate the coining of this phrase:**“Universal Basic Intelligence”**. The chatbot revolution is providing a basic level of intelligence to everyone at cheap costs -*nice*.
 
@@ -85,7 +85,7 @@ Struggling to be productive on Mac? Elephas helps busy professionals save time o
 
 - Q Chat - Meet your new AI**study coach.** ([link](https://quizlet.com/labs/qchat))
 
-- LangChain-powered **documentation search** for the new LangChainAI JS docs site. ([link](https://twitter.com/0xSamHogan/status/1631064379138473984?s=20))
+- LangChain-powered **documentation search** for the new LangChainAI JS docs site. ([link](https://twitter.com/0xSamHogan/status/1631064379138473984))
 
 - Nara - **Nutrition assistant**for personalised recipes, dine-out options, and food delivery recommendations. ([link](https://www.trynara.com/))
 
@@ -129,7 +129,7 @@ Struggling to be productive on Mac? Elephas helps busy professionals save time o
 
 - I got **early access** to ChatGPT API and then pushed it to its limits. Here’s what you need to know. ([link](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq))
 
-- Eleuther AI is forming a **nonprofit**research institute. ([link](https://twitter.com/AiEleuther/status/1631198112889839616?s=20))
+- Eleuther AI is forming a **nonprofit**research institute. ([link](https://twitter.com/AiEleuther/status/1631198112889839616))
 
 - How I learned to **stop worrying** and love our slightly creepy new AI overlords. ([link](https://www.semafor.com/article/03/01/2023/how-i-learned-to-stop-worrying-and-love-our-slightly-creepy-new-ai-overlords))
 

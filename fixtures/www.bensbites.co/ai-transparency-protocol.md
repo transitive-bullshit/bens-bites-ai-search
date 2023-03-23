@@ -18,7 +18,7 @@ Yeh, let’s just get to it, shall we?
 
 **Snapchat**is bringing chatbot AI to the cool kids on the block, with an announcement that they’re rolling out an in-app chatbot called**My AI**. (My assumption of “cool” is based on the fact that everyone about 10 years younger than me seems to use it…) The Snapchat chatbot will act more like a contact in the app, with its own avatar and the ability to converse with it when you like. Given the**young user base**of Snapchat, it’s important that this AI is extensively regulated, and they’re off to the right start: it does indeed have strong personality constraints, refuses to answer homework questions, and is extra careful around politics.
 
-**2/**[OpenAI’s leaked Foundry pricing - an insightful thread](https://twitter.com/labenz/status/1630284912853917697?s=12\&t=BPoebVzWzbAIu-BGrIQS4g)
+**2/**[OpenAI’s leaked Foundry pricing - an insightful thread](https://twitter.com/labenz/status/1630284912853917697)
 
 **Foundry**, OpenAI’s upcoming platform for **AI model training**, has just had its pricing scheme leaked. And now we can see where **Microsoft** might start clawing that $10billy back: Model instances range from $250k/year to $1.5m/year! The mega-thread in the link above will give you the full low-down, but overall the platform is there to provide **robust fine-tuning options**, and *might* be using **GPT-4**… This is a big step, giving capital-backed companies the chance to really develop/tune their own tools to their own domains, which will be great for adoption and value. Furthermore, a push to in-house fine-tuning might be a **move towards reducing hallucinations** as we build an ecosystem of expert AI machines.
 
@@ -82,7 +82,7 @@ It's not one of these regular AI writers, [definitely worth checking out.](https
 
 - **Snapchat**is releasing its own AI chatbot powered by ChatGPT. ([link](https://www.theverge.com/2023/2/27/23614959/snapchat-my-ai-chatbot-chatgpt-openai-plus-subscription))
 
-- How much do **customers actually care**that your product has AI? ([link](https://twitter.com/Patticus/status/1630229530265747456?s=20))
+- How much do **customers actually care**that your product has AI? ([link](https://twitter.com/Patticus/status/1630229530265747456))
 
 - **Anthropic begin supplying** its text-generating AI models to select startups. ([link](https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/))
 

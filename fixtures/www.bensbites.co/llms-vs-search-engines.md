@@ -36,12 +36,12 @@ Neeva AI - **Authentic, real-time AI search**. ([link](https://neeva.com/blog/in
 - Magician by Diagram - AI design tool that allows you to **write and edit copy in Figma**. ([link](https://twitter.com/vincentmvdm/status/1611462953626374145))
 - Codeium announces **free AI-powered code completion in Jupyter notebooks** for all developers. ([link](https://www.codeium.com/blog/codeium-in-jupyter-notebooks))
 - PromptLayer - **Free platform for prompt engineering.** Track, debug, and tag old completions. ([link](https://promptlayer.com/))
-- NeRF Reshoot by Luma AI - Capture lifelike 3D and **create multiple incredible shots without reshooting using AI.** ([link](https://twitter.com/LumaLabsAI/status/1611466398546690048?s=20\&t=hQZXM9bX7rVIGptcX_ykAg))
-- Context - **Ask a question to your favourite podcast host.** ([link](https://twitter.com/joeliomartini/status/1611459659885604864?s=20\&t=zRzi4ocIBpo3nDUxOdriuw))
+- NeRF Reshoot by Luma AI - Capture lifelike 3D and **create multiple incredible shots without reshooting using AI.** ([link](https://twitter.com/LumaLabsAI/status/1611466398546690048))
+- Context - **Ask a question to your favourite podcast host.** ([link](https://twitter.com/joeliomartini/status/1611459659885604864))
 - PeopleAI - **Converse with some of human history’s most influential and significant figures and learn.** ([link](https://chatbotkit.com/apps/peopleai))
-- RoastOrToastGPT - Tag it in a reply, and it will either **praise or roast the original tweet.** ([link](https://twitter.com/_nateraw/status/1612247569941336064?s=20\&t=7u46Mva_EI-0EyZEI3mNdw))
+- RoastOrToastGPT - Tag it in a reply, and it will either **praise or roast the original tweet.** ([link](https://twitter.com/_nateraw/status/1612247569941336064))
 - arXiv Xplorer - **Semantic search engine for arXiv papers.** ([link](https://arxivxplorer.com/))
-- GPT Index 0.2.0 - **Structured data support introduced to GPT Index.** ([link](https://twitter.com/gpt_index/status/1612151080821075969?s=20\&t=MiYW3n0XjC3KGBSZKbTFDQ))
+- GPT Index 0.2.0 - **Structured data support introduced to GPT Index.** ([link](https://twitter.com/gpt_index/status/1612151080821075969))
 - AIHelperBot - Build **SQL queries instantly** with AI. ([link](https://aihelperbot.com/))
 - Connect OpenAI to **Albato and integrate with Telegram**. ([link](https://albato.com/blog/publications/openai-automate-with-albato))
 
@@ -59,7 +59,7 @@ Neeva AI - **Authentic, real-time AI search**. ([link](https://neeva.com/blog/in
 - **Database of PhD fellowships** with 195 fellowships and funding opportunities. ([link](https://research.jhu.edu/rdt/funding-opportunities/graduate/))
 - Microsoft vs Google: **Will language models overtake search engines?** ([link](https://thealgorithmicbridge.substack.com/p/microsoft-vs-google-will-language))
 - **A chat with dead legends & 3 forecasts.**([link](https://www.implications.com/p/a-chat-with-dead-legends-and-3-forecasts))
-- The **current climate in AI** has many parallels to 2021 web3. ([link](https://twitter.com/fchollet/status/1612142423425138688?s=20\&t=3ZQ0MoJxlSMv2clGTBpJhw))
+- The **current climate in AI** has many parallels to 2021 web3. ([link](https://twitter.com/fchollet/status/1612142423425138688))
 
 ### **🎓 Learn**
 
@@ -70,7 +70,7 @@ Neeva AI - **Authentic, real-time AI search**. ([link](https://neeva.com/blog/in
 
 ### **🔬 Research**
 
-- Constitutional AI - **Training a harmless AI assistant** through self-improvement, without any human labels identifying harmful outputs. ([link](https://twitter.com/mathemagic1an/status/1611565584512331777?s=20\&t=LAWS18tvLhWBlTehHj5CWw))
+- Constitutional AI - **Training a harmless AI assistant** through self-improvement, without any human labels identifying harmful outputs. ([link](https://twitter.com/mathemagic1an/status/1611565584512331777))
 - GLM 130B - **Open-source model that beats GPT-3 175B** and is competitive with Google’s PALM 540B. ([link](https://github.com/THUDM/GLM-130B))
 - Filtering, distillation, and hard negatives - **Improvements in the contrastive pre-training pipeline** **for vision language models.** ([link](https://arxiv.org/abs/2301.02280))
 

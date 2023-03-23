@@ -35,11 +35,11 @@ Unlike Apple, **Amazon's Audible service only allows human narrators** (at the m
 
 **Apple Books quietly launches AI-narrated audiobooks**. ([link](https://www.theverge.com/2023/1/5/23540261/apple-text-to-speech-audiobooks-ebooks-artificial-intelligence-narrator-madison-jackson))
 
-**DoNotPay AI bot with deepfake voice**calls Wells Fargo to negotiate wire fees overturn. ([link](https://twitter.com/jbrowder1/status/1610655628820877315?s=20\&t=KtblhjWS_Nmn2kTJgTGj7A))
+**DoNotPay AI bot with deepfake voice**calls Wells Fargo to negotiate wire fees overturn. ([link](https://twitter.com/jbrowder1/status/1610655628820877315))
 
 ### **🛠️ Cool Tools**
 
-- **Interpret age and personality from an image** using GPT-3 and Everypixel. ([link](https://twitter.com/DannyRichman/status/1610632062805094401?s=20\&t=59-wMy-FNkdI4wdvGfXVGQ))
+- **Interpret age and personality from an image** using GPT-3 and Everypixel. ([link](https://twitter.com/DannyRichman/status/1610632062805094401))
 - Prompt Box - **Organise, edit, and save your AI prompts** across different AI tools. ([link](https://www.promptbox.ai/))
 - ToWords - Transform your **YouTube videos into engaging blog posts.** ([link](https://www.producthunt.com/posts/towords))
 - Dreamlike Photoreal 2.0 - Generate a**photorealistic image** based on your prompt. ([link](https://dreamlike.art/))
@@ -50,14 +50,14 @@ Unlike Apple, **Amazon's Audible service only allows human narrators** (at the m
 
 ### **🤓 **Miscellaneous****
 
-- **7 cool OpenAI milestones** in games, agents & robotics. In a nod to OpenAI's 7th Birthday! 🎉 ([link](https://twitter.com/DrJimFan/status/1610715965372911616?s=20\&t=L41uOoTt1O66Yb5PNtkJbg))
-- **Can AI decentralise Hollywood?** $1000 bounty for the best 140-second video on Satoshi Nakamoto. ([link](https://twitter.com/balajis/status/1610551422009085954?s=12\&t=DxQ63xXmsPtdbTLSv-DgOw))
+- **7 cool OpenAI milestones** in games, agents & robotics. In a nod to OpenAI's 7th Birthday! 🎉 ([link](https://twitter.com/DrJimFan/status/1610715965372911616))
+- **Can AI decentralise Hollywood?** $1000 bounty for the best 140-second video on Satoshi Nakamoto. ([link](https://twitter.com/balajis/status/1610551422009085954))
 - The Expanding Dark Forest and Generative AI. **Proving you're a human on a web flooded with generative AI content**. ([link](https://maggieappleton.com/ai-dark-forest))
 - **Top AI newsletters of 2023.** ([link](https://aisupremacy.substack.com/p/top-ai-newsletters-of-2023))
 - Contribute to a **repository of ChatGPT/LLM errors** across different models. ([link](https://docs.google.com/forms/d/e/1FAIpQLSc1gMv53rBdC_xN2gtBzodwPvK0XD_Jq9daU09-kOlR8Igg9Q/viewform))
 - **Government + AI = does not compute.** What will happen when governments are confronted with sentience that can match or outpace humans? ([link](https://michellerempelgarner.substack.com/p/government-ai-does-not-compute))
 - **10x your VC productivity with ChatGPT.** ([link](https://www.datadrivenvc.io/p/data-driven-vc-17-10x-your-productivity))
-- **List of AI projects built on NextJS and Vercel.** ([link](https://twitter.com/steventey/status/1610656840412696578?s=20\&t=n38fxLmWcdI3E5fi9K1-qw))
+- **List of AI projects built on NextJS and Vercel.** ([link](https://twitter.com/steventey/status/1610656840412696578))
 - NIA podcast - **Bearly AI & top AI predictions for 2023.** ([link](https://www.youtube.com/watch?v=lK8i7idNgtI))
 - **The fourth age of programming.** ([link](https://blog.replit.com/fourth))
 - Nim game in which a **human plays against a GPT-3.5 powered AI**. ([link](https://huggingface.co/spaces/JavaFXpert/NimGPT-3.5))
@@ -73,7 +73,7 @@ Unlike Apple, **Amazon's Audible service only allows human narrators** (at the m
 - A quick**intro to state-of-the-art semantic search** in python. ([link](https://www.youtube.com/watch?v=ejpc-nbKY2Y))
 - **The hello world of deep learning!**([link](https://ahmedtambal.medium.com/the-hello-world-of-deep-learning-7398f8f6da83))
 - Get started with **ML and model hosting in under 30 minutes** with Replit Explorer. ([link](https://www.youtube.com/watch?v=n-Cd4YQ9gIw\&t=2s))
-- Tutorial to**train your own AI models**. ([link](https://twitter.com/ClaireSilver12/status/1609868153529503745?s=20\&t=coBZ9abICXBQLzrn4HzOxw))
+- Tutorial to**train your own AI models**. ([link](https://twitter.com/ClaireSilver12/status/1609868153529503745))
 - **Basic facts about language model internals.** ([link](https://www.lesswrong.com/posts/PDLfpRwSynu73mxGw/basic-facts-about-language-model-internals-1))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.

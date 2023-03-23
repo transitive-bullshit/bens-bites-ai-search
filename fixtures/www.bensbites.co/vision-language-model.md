@@ -40,7 +40,7 @@ The**next update**from Microsoft is on March 16th for “workspace productivity,
 
 As always, where others are adding AI to products, Google is releasing more papers on new models.*(when will they ship products?!!)*
 
-First one is PALM-E, a **general-purpose vision language model** trained with 562 billion parameters. This combines the visual question-answer capacity of language models with robotics to perform actions in the real world. This [thread](https://twitter.com/DannyDriess/status/1632904675124035585?s=20) from one of the authors gives an overview of the model.
+First one is PALM-E, a **general-purpose vision language model** trained with 562 billion parameters. This combines the visual question-answer capacity of language models with robotics to perform actions in the real world. This [thread](https://twitter.com/DannyDriess/status/1632904675124035585) from one of the authors gives an overview of the model.
 
 In November last year, Google announced its plans to make a language model with **automatic speech recognition** that supports 1000 languages. They are making steps towards it with the Universal Speech Model (USM). The Verge also reported it here: [Google’s one step closer to building its 1,000-language AI model.](https://www.theverge.com/2023/3/6/23627788/google-1000-language-ai-universal-speech-model)
 

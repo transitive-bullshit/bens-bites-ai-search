@@ -35,9 +35,9 @@ Follow [**this link**](https://archive.is/jOrZJ) to remove the paywall.
 
 **3/**
 
-[**Using NeRF for creative filmmaking shots**](https://twitter.com/karenxcheng/status/1620118281393954818?s=12\&t=EK3CWdz_VldixPKcb_KO0w)
+[**Using NeRF for creative filmmaking shots**](https://twitter.com/karenxcheng/status/1620118281393954818)
 
-This **NeRF tech**is so damn cool, and I can’t wait to give it a try on my mobile. In [**this Tweet**](https://twitter.com/karenxcheng/status/1620118281393954818?s=12\&t=EK3CWdz_VldixPKcb_KO0w), Karen shows how you can create some kind of **morphing effect to the surroundings** of the object that you’re videoing. Pretty cool! Although, I have to say, I’ll probably find it kind of embarrassing staying completely still whilst my friend walks around me with a camera in public… In fact, I’ll probably just keep it to myself at home for now.
+This **NeRF tech**is so damn cool, and I can’t wait to give it a try on my mobile. In [**this Tweet**](https://twitter.com/karenxcheng/status/1620118281393954818), Karen shows how you can create some kind of **morphing effect to the surroundings** of the object that you’re videoing. Pretty cool! Although, I have to say, I’ll probably find it kind of embarrassing staying completely still whilst my friend walks around me with a camera in public… In fact, I’ll probably just keep it to myself at home for now.
 
 **Patterns is the simple way to build complex apps. (Sponsor)**\
 Leverage cutting-edge AI models and build mission-critical automations, workflows, and apps with less code by utilizing a powerful set of building blocks and a whole ecosystem of code and apps you can clone.
@@ -66,7 +66,7 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 - GPTZeroX - A new**AI detection model**built for educators. ([link](https://gptzero.me/))
 - Cron AI - Words to**cron expression.** ([link](https://cron-ai.vercel.app/))
 - Crowd View - A **search engine for niche forums** and message boards. ([link](https://crowdview.ai/), HN thread [here](https://news.ycombinator.com/item?id=34507965))
-- Playground introduces **high precision masked editing**without any bleeding in images. ([link](https://twitter.com/suhail/status/1620183881273196544?s=12\&t=KqBCLLMWlCmID7xEMN9aHA))
+- Playground introduces **high precision masked editing**without any bleeding in images. ([link](https://twitter.com/suhail/status/1620183881273196544))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/86abdbf0-c75e-4c06-96c3-3a3d57273e05/image.png)
 
@@ -87,7 +87,7 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 ### 🎓 Learn
 
 - How to use LangChainAI to **answer natural language questions.** ([link](https://modal.com/docs/guide/ex/potus_speech_qanda))
-- Using NeRF for **creative filmmaking shots.** ([link](https://twitter.com/karenxcheng/status/1620118281393954818?s=20\&t=MlNV_HJ1DZi_2-CtH-z-hQ))
+- Using NeRF for **creative filmmaking shots.** ([link](https://twitter.com/karenxcheng/status/1620118281393954818))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
@@ -98,7 +98,7 @@ If you’re thinking of developing a new AI product, definitely go [check them o
 - AdaTape from Google - Enabling **dynamic computation in neural networks** via adaptive tape tokens. ([link](https://arxiv.org/abs/2301.13195))
 - SeaFormer by Tencent -**Mobile semantic segmentation** with superior cost-effectiveness. ([link](https://arxiv.org/abs/2301.13156))
 - STAIR by Apple - Learning**sparse text and image representation** in grounded tokens. ([link](https://arxiv.org/abs/2301.13081))
-- **SingSong by Google** - Generating musical accompaniments from singing. ([link](https://arxiv.org/abs/2301.12662), [thread](https://twitter.com/chrisdonahuey/status/1620232090066497536?s=12\&t=KqBCLLMWlCmID7xEMN9aHA) by an author)
+- **SingSong by Google** - Generating musical accompaniments from singing. ([link](https://arxiv.org/abs/2301.12662), [thread](https://twitter.com/chrisdonahuey/status/1620232090066497536) by an author)
 - **Looped transformers as programmable computers.** ([link](http://arxiv.org/abs/2301.13196))
 - BLIP-2 by Salesforce - A generic and efficient **pre-training strategy** that bootstraps vision-language pre-training. ([link](https://arxiv.org/abs/2301.12597))
 - Using pre-trained vision-language models (VLMs) to **supervise embodied agents.** ([link](https://arxiv.org/abs/2301.12507))
@@ -122,11 +122,11 @@ Selfie before the last supper.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6cc03987-f9a2-45fb-bbae-6d240bd23284/image.png)
 
-<https://twitter.com/weirddalle/status/1620193465496924160?s=20&t=rOL-7LG_8zwedeD3LXfpEw>
+[https://twitter.com/weirddalle/status/1620193465496924160?s=20\&t=rOL-7LG\_8zwedeD3LXfpEw](https://twitter.com/weirddalle/status/1620193465496924160)
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ed21238d-a430-4caf-94b7-28d7db42271a/image.png)
 
-<https://twitter.com/mitabi333/status/1617358206925250560?s=20&t=rOL-7LG_8zwedeD3LXfpEw>
+[https://twitter.com/mitabi333/status/1617358206925250560?s=20\&t=rOL-7LG\_8zwedeD3LXfpEw](https://twitter.com/mitabi333/status/1617358206925250560)
 
 ## 🤗 Share Ben's Bites
 

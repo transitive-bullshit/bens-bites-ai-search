@@ -20,7 +20,7 @@ Week by week we update you with a new big tech company wading into the AI scene,
 
 For YouTube updates going beyond AI, check out the link above.
 
-**2/**[OpenAI being us APIs for ChatGPT and Whisper at a reduced cost](https://twitter.com/sama/status/1631001111594401793?s=46\&t=KN6q1sosUn2E3wn0g43PwQ)
+**2/**[OpenAI being us APIs for ChatGPT and Whisper at a reduced cost](https://twitter.com/sama/status/1631001111594401793)
 
 🚨OpenAI technology update🚨
 
@@ -112,7 +112,7 @@ When everyone on your team can **ask questions and get the answers they need**to
 
 - **Question & answer** using LangChain JS. ([link](https://langchainers.hashnode.dev/question-answer-qa-using-langchainjs))
 
-- Training your own**custom Cohere models** without knowing ML. ([link](https://twitter.com/CohereAI/status/1630932121207357444?s=20))
+- Training your own**custom Cohere models** without knowing ML. ([link](https://twitter.com/CohereAI/status/1630932121207357444))
 
 - How to turn a voice recording into a **to-do list.**([link](https://www.youtube.com/watch?v=rQHAh8cdgVc))
 

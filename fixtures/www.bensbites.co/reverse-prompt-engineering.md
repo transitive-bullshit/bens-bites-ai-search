@@ -24,7 +24,7 @@ The first **open-source version of ChatGPT**, but with PaLM (Google’s large la
 ### **🛠️ Cool Tools**
 
 - What cake to bake - **Get recipes to bake a delicious cake or cookie by AI**. ([link](https://www.whatcaketobake.com/))
-- Ghostwriter Chat by Replit (Not released yet) - **Talk with AI to generate code, debug, follow up & iterate—right in your editor**. ([link](https://twitter.com/amasad/status/1606139822837338112?s=12\&t=i2oluifDWIBrvkvpE5SbHw))
+- Ghostwriter Chat by Replit (Not released yet) - **Talk with AI to generate code, debug, follow up & iterate—right in your editor**. ([link](https://twitter.com/amasad/status/1606139822837338112))
 - **ChatGPT for Search Engines**- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results. ([link](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban))
 - Tl;dr (Beta) - Get **summaries of your unread emails** delivered to your inbox everyday. ([link](https://app.tldrmail.co/))
 - SumlyAI - **Podcast summaries, in your inbox**. Once a new episode goes live, you'll receive its summary in your inbox in less than 24 hours. ([link](https://www.sumly.ai/))
@@ -33,7 +33,7 @@ The first **open-source version of ChatGPT**, but with PaLM (Google’s large la
 
 ### **🎓 Learn**
 
-- A thread on how to **build a prototype for book whisperer**, which let's you talk to an AI (GPT-3) and ask questions on a particular book. ([link](https://twitter.com/abacaj/status/1608163940726358024?s=12\&t=4UxoLPirh3WhuN-PYfM_PQ))
+- A thread on how to **build a prototype for book whisperer**, which let's you talk to an AI (GPT-3) and ask questions on a particular book. ([link](https://twitter.com/abacaj/status/1608163940726358024))
 - How to **use OpenAI's new embedding model** text-embedding-ada-002. ([link](https://www.youtube.com/watch?v=ocxq84ocYi0\&t=1s))
 
 ### **🔬 Research**

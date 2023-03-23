@@ -28,7 +28,7 @@ Check out[this post](https://til.simonwillison.net/llms/llama-7b-m2)for how to r
 
 **2/**
 
-[Together release OpenChatKit, their open-source version of ChatGPT](https://twitter.com/ItakGol/status/1634590622286741504?s=20)
+[Together release OpenChatKit, their open-source version of ChatGPT](https://twitter.com/ItakGol/status/1634590622286741504)
 
 Talking of open-sourcing language models, there’s another band of ex-OpenAI employees on the loose, and it’s not the Anthropic team.**Together**(that’s the name of the company) has released[OpenChatKit](https://www.together.xyz/blog/openchatkit)- their**alternative to ChatGPT**. With model weights, model code, and training data fully available, this is truly open. I have no idea how, but somehow it’s been trained with 100%**negative carbon compute**; it’s got customisation recipes for fine-tuning to get yourself an expert chatbot; and it has a top-notch retrieval system to apply live-updating data to your models.
 
@@ -58,7 +58,7 @@ Special offer for Ben's Bites subscribers – [get your 10% off with this link](
 
 - Supermeme AI’s Magic - Enter any text and **get relevant GIFs** along with funny overlayed text on it! ([link](https://www.supermeme.ai/))
 
-- Kids Draw Magic - Let kids turn **finger drawings**into cool art. ([link](https://twitter.com/mikiovsh/status/1634234425494974464?s=20))
+- Kids Draw Magic - Let kids turn **finger drawings**into cool art. ([link](https://twitter.com/mikiovsh/status/1634234425494974464))
 
 - Kindle GPT - Use OpenAI to search over & chat with your books via **Kindle highlights.**([link](https://kindle-gpt.vercel.app/))
 

@@ -18,7 +18,7 @@ Let's kick off the week.
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/82b471d1-c32f-4337-ab3a-60a2480a08e3/Screenshot_2022-11-28_at_11.13.27.png)
 
 - These AI-powered smart glasses will **change the game for the deaf or hard of hearing**. They provide real-time subtitles during conversations. ([link](https://www.youtube.com/watch?v=NBNti0NZmiA))
-- Michelle**trained an AI chatbot on their childhood journal entries** - so that they could engage in real-time dialogue with their "inner child". ([link](https://twitter.com/michellehuang42/status/1597005489413713921?s=12\&t=GwouZGr7ztvTrtEuI5yh2A\&sa=D\&source=docs\&ust=1669637472060072\&usg=AOvVaw2a0Z6flSouyS7f_A0cHfEx))
+- Michelle**trained an AI chatbot on their childhood journal entries** - so that they could engage in real-time dialogue with their "inner child". ([link](https://twitter.com/michellehuang42/status/1597005489413713921?sa=D\&source=docs\&ust=1669637472060072\&usg=AOvVaw2a0Z6flSouyS7f_A0cHfEx))
 - Daniel Gross made a **GPT-3 summariser that reads websites** just like humans do. It scrolls pages and reads in visible text in chunks, which it then attempts to summarise. ([link](https://mobile.twitter.com/danielgross/status/1596623671560396800))
 
 ### **🛠️ Cool Tools**

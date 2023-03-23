@@ -17,7 +17,7 @@ This article has been doing the rounds, "**The end of programming**" ([link](htt
 
 Semi-related;
 
-Observations from**spending Christmas programming with ChatGPT**. A key point made here is that you still need to have some coding knowledge to really benefit the most from using ChatGPT in this way (for now!). Much like an artist will likely produce better AI generated images than I'd be able to. ([link](https://twitter.com/danshipper/status/1609931358213935105?s=12\&t=ZTcA4vZ7tx5ZmoaQ_w6eJg))
+Observations from**spending Christmas programming with ChatGPT**. A key point made here is that you still need to have some coding knowledge to really benefit the most from using ChatGPT in this way (for now!). Much like an artist will likely produce better AI generated images than I'd be able to. ([link](https://twitter.com/danshipper/status/1609931358213935105))
 
 Zoomscape - Create stunning **Zoom backgrounds with AI**. ([link](https://zoomscape.ai/))
 

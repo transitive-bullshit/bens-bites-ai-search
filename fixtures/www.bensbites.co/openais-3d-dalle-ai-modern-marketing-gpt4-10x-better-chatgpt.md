@@ -32,7 +32,7 @@ Check it out [here](https://waymark.com/).
 - GPT-3 + HARO Journo Response Generator - A tool that uses GPT-3 to **identify and respond to press requests** from journalists looking for sources for a story. ([link](https://www.seotraininglondon.org/gpt3-haro-press-requests/))
 - Sentenceviz - A streamlit application to **visualise sentence embeddings**. ([link](https://github.com/imohitmayank/sentenceviz))
 - Kailua Labs Image Search API - An API to **easily search images, video, audio**, and more with AI. ([link](https://app.kailualabs.com/image-search?ref=producthunt\&q=dog+with+sunglasses\&fq=))
-- Softr Studio now has AI - **Generate images and copy within Softr** with just one click. ([link](https://twitter.com/softr_io/status/1605174024077803523?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
+- Softr Studio now has AI - **Generate images and copy within Softr** with just one click. ([link](https://twitter.com/softr_io/status/1605174024077803523))
 - Gradio Discord Bot (BETA) - **Use any Hugging Face Space as a Bot** from within your Discord server. ([link](https://github.com/gradio-app/gradio-discord-bot))
 - Tele-Prompter - An on-device AI for your meetings that **listens to you and makes charismatic quote suggestion**. ([link](https://github.com/danielgross/teleprompter))
 - Project Relate by Google (Beta) - Android app that uses machine learning to offer **personalized speech recognition for non-standard speakers**. ([link](https://sites.research.google/relate/))
@@ -46,7 +46,7 @@ Check it out [here](https://waymark.com/).
 
 ### **🎓 Learn**
 
-- **Transcribe and summarise YouTube video with 2 clicks** with AssemblyAI. ([link](https://twitter.com/AssemblyAI/status/1605149941525106688?s=20\&t=cIPVqNUdwvfeojUkSEZR0A))
+- **Transcribe and summarise YouTube video with 2 clicks** with AssemblyAI. ([link](https://twitter.com/AssemblyAI/status/1605149941525106688))
 - **What are Hugging Face Model Cards**? ([link](https://www.youtube.com/watch?v=oh2Ahuk936M\&t=8s))
 - Ebook: **Natural Language Processing (NLP) for semantic search**. ([link](https://www.pinecone.io/learn/nlp/))
 
@@ -74,14 +74,14 @@ Check it out [here](https://waymark.com/).
 - Here’s **what I saw at an AI Hackathon**, an account by Dan Shipper. Some really interesting projects and observations from Dan's time at a hackathon in SF. ([link](https://every.to/superorganizers/the-knee-of-the-exponential-curve))
 - How **AI is being used in modern marketing**: A beginner’s guide. ([link](https://martechbase.com/blog/how-ai-is-being-used-in-modern-marketing-a-beginners-guide))
 - **OpenAI human-feedback dataset** has been added to the Hugging Face Hub. ([link](https://huggingface.co/datasets/openai/webgpt_comparisons))
-- **Unwrap this Twitter thread with delightful Christmas AI art**. ([link](https://twitter.com/daniel_eckler/status/1605193825265205248?s=20\&t=d2Fv9ExnOpLz6vHpqcbL3Q))
+- **Unwrap this Twitter thread with delightful Christmas AI art**. ([link](https://twitter.com/daniel_eckler/status/1605193825265205248))
 - How are **students using AI**? ([link](https://oneusefulthing.substack.com/p/the-street-finds-its-own-uses-for))
 - Petals is creating a free, **distributed network for running text-generating AI**. ([link](https://techcrunch.com/2022/12/20/petals-is-creating-a-free-distributed-network-for-running-text-generating-ai/?guccounter=1\&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8\&guce_referrer_sig=AQAAAFkVEbhzk6u78Pr7EV1o8ozGNSgErrH3xlXrm97K-eozRXRZ7Vs0zrp_uiK-47t7MijdjC-WtqUzQld-ZW33BML2my9W8dY1g2uP55Jl0FI2jtNjiHtcnmznB6_gK7Y5gb1rZEQfuIW_UP_eADaBNELmVNJGx1ka-Ow0z0jSPiAN))
 - An investigative article on **the origins of 15 video stills taken from inside homes by robot vacuums** and shared to social media. ([link](https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/))
 - Australian **Universities seek to curb ChatGPT** use by students. ([link](https://synthedia.substack.com/p/australian-universities-seek-to-curb?utm_source=share\&utm_medium=android))
 - **Google Search testing search in video**. ([link](https://searchengineland.com/google-search-testing-search-in-video-390565))
 - Predictions: **Future Versions of DALL-E 2, Midjourney,** and more. ([link](https://bakztfuture.substack.com/p/predictions-future-versions-of-dall))
-- A thread with **companies using AI in fascinating applications**. ([link](https://twitter.com/olivercameron/status/1605280391446904832?s=12\&t=2FNPYO6fOI-5eB4kNE8Tbw))
+- A thread with **companies using AI in fascinating applications**. ([link](https://twitter.com/olivercameron/status/1605280391446904832))
 - The near **future of AI is action-driven**. ([link](https://blog.southparkcommons.com/the-near-future-of-ai-is-action-driven/))
 - An interactive **exploration of Transformer programming**. ([link](https://github.com/srush/raspy))
 - **ChatGPT for iMessage, WhatsApp, user feedback**, and beyond. ([link](https://www.producthunt.com/newsletter/17220-chatgpt-in-your-apps))

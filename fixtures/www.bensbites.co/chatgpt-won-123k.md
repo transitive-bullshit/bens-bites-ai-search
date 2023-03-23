@@ -21,7 +21,7 @@ p.p.s. I’m looking for a salesperson/people - 25% commission (no base), to app
 
 **1/**
 
-[The “Her” voice assistant allows you to interact with your emails by voice](https://twitter.com/justLV/status/1637876167763202053?s=20)
+[The “Her” voice assistant allows you to interact with your emails by voice](https://twitter.com/justLV/status/1637876167763202053)
 
 As much as I love chatting with my Alexa, it’s great to see that we’re finally getting**better\*\*\*\*voice assistants**than Amazon’s and Apple’s. This guy has built a voice assistant that lets you**converse with your emails**to level-up productivity, and he’s used Eleven Labs to hook it up with a**realistic (?) voice**. The inclusion of GPT-3.5 and LLM chaining means you can ask it to do things like “Check for emails in the last month about X”, “Who was CCd on that last email?”, and even generate responses for you. If this sorta interactive tech can be integrated into your email apps, then there’ll be pretty awesome extensions to day-to-day products that’ll basically just be better than Alexa.
 
@@ -53,29 +53,29 @@ from our sponsor
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/740ee61f-83fa-4283-a1a3-49c350289a26/Line_1.png)
 
-- Unschooler - **AI-powered video courses** for your personal career goal. ([link](https://unschooler.me/)) A [thread](https://twitter.com/l_dorogenskaya/status/1637807785722236932?s=20) from the founder on some of their product thinking.
+- Unschooler - **AI-powered video courses** for your personal career goal. ([link](https://unschooler.me/)) A [thread](https://twitter.com/l_dorogenskaya/status/1637807785722236932) from the founder on some of their product thinking.
 
 - Find your **AI templates** by Vercel - Discover templates for building AI applications. ([link](https://vercel.com/templates/ai))
 
 - Scrip AI — AI TikTok, Reel & YT Shorts **script writer**. ([link](https://scripai.com/))
 
-- Using Stable Diffusion and ControlNet to **re-do the Friends intro**. ([link](https://twitter.com/ThoseSixFaces/status/1637272805107728385?s=20))
+- Using Stable Diffusion and ControlNet to **re-do the Friends intro**. ([link](https://twitter.com/ThoseSixFaces/status/1637272805107728385))
 
 - **Access GPT4** without a key or invitation on Hugging Face. ([link](https://huggingface.co/spaces/ysharma/ChatGPT4))
 
-- Making a **single-screen Mario game**100% using ChatGPT code and Replit. ([link](https://twitter.com/petergyang/status/1637661850920960001?s=20))
+- Making a **single-screen Mario game**100% using ChatGPT code and Replit. ([link](https://twitter.com/petergyang/status/1637661850920960001))
 
-- **GPT-4 game experiment**: convince the rasta man to give you his hat. ([link](https://twitter.com/mayfer/status/1637767003078533122?s=20))
+- **GPT-4 game experiment**: convince the rasta man to give you his hat. ([link](https://twitter.com/mayfer/status/1637767003078533122))
 
-- Installing and operating a **full ChatGPT knowledge** set and interface fully trained on a local computer and it needs no Internet once installed. ([link](https://twitter.com/BrianRoemmele/status/1637871062246649856?s=20))
+- Installing and operating a **full ChatGPT knowledge** set and interface fully trained on a local computer and it needs no Internet once installed. ([link](https://twitter.com/BrianRoemmele/status/1637871062246649856))
 
-- Building a **Slack bot** that uses GPT 3.5 that ANY team and workspace can use (built without code). ([link](https://twitter.com/MichaelRouveure/status/1637855791582691328?s=20))
+- Building a **Slack bot** that uses GPT 3.5 that ANY team and workspace can use (built without code). ([link](https://twitter.com/MichaelRouveure/status/1637855791582691328))
 
-- Turn Voiceflow into a **visual collaborative LangChain**. ([link](https://twitter.com/ReamBraden/status/1637862164814782481?s=20))
+- Turn Voiceflow into a **visual collaborative LangChain**. ([link](https://twitter.com/ReamBraden/status/1637862164814782481))
 
 - Your friendly ZK bot contains the entirety of the **ZKPodcast knowledge**. ([link](https://zkpod.ai/))
 
-- 2-way voice **conversations with Steve Jobs** about anything. ([link](https://twitter.com/BEASTMODE/status/1637613704312242176?s=20))
+- 2-way voice **conversations with Steve Jobs** about anything. ([link](https://twitter.com/BEASTMODE/status/1637613704312242176))
 
 - YouTube University - extract **knowledge** from any **YouTube** video. ([link](https://magic.jxnl.co/youtube))
 
@@ -125,7 +125,7 @@ from our sponsor
 
 - Meet the new face of **Agility Robotics’ Digit**. ([link](https://techcrunch.com/2023/03/20/meet-the-new-face-and-hands-of-agility-robotics-digit/))
 
-- OpenAI is **discontinuing Codex.** ([link](https://twitter.com/mckaywrigley/status/1638011552401096705?s=20))
+- OpenAI is **discontinuing Codex.** ([link](https://twitter.com/mckaywrigley/status/1638011552401096705))
 
 - Yoda and Harry Potter chatbots could be the **next big legal battle**. ([link](https://www.bloomberg.com/news/newsletters/2023-03-20/character-ai-s-custom-chatbot-raises-legal-concerns-over-intellectual-property)) (no paywall [here](https://archive.vn/UgyES))
 
@@ -133,7 +133,7 @@ from our sponsor
 
 - What are **foundation models**, and how can they help implement AI at scale? ([link](https://itrexgroup.com/blog/what-are-foundation-models/))
 
-- You can **leave secret messages** to Bing Chat in web pages. ([link](https://twitter.com/mark_riedl/status/1637986261859442688?s=20))
+- You can **leave secret messages** to Bing Chat in web pages. ([link](https://twitter.com/mark_riedl/status/1637986261859442688))
 
 ### 🎓 Learn
 

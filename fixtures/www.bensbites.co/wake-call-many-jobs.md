@@ -39,7 +39,7 @@ With my bedroom decor starting to look*very*tired, I could really do with an ass
 
 **4/**
 
-[If you haven’t already, then get to know about llama.cpp](https://twitter.com/ggerganov/status/1637550966814777345?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A)
+[If you haven’t already, then get to know about llama.cpp](https://twitter.com/ggerganov/status/1637550966814777345)
 
 For all you AI hacky types out there, you’ve either already heard of**llama.cpp**, or you haven’t and need to hear about it ASAP. For those of you that don’t know, this developer in Bulgaria put it together to compress**Meta’s LLaMA models**into a far more manageable size for your home laptops - a 4-bit quantization approach for your Macs. Big jumps towards democratising AI! And according to him, the llama.cpp repo is buzzing with activity, with double-digit numbers of pull requests in the space of an hour*on a Sunday*.
 

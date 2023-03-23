@@ -19,7 +19,7 @@ ChatGPT generated content vs McKinsey article on "**How tools like ChatGPT can c
 
 ### **🛠️ Cool Tools**
 
-- **AI assistant for spreadsheets** (launching soon) - Ultimate AI assistant to autofill entire sheets based off context and generate formulas and filter rows using text commands. ([link](https://twitter.com/mehran__jalali/status/1608159307513618433?s=20\&t=hLl_lsfWspvtovM9bVLDbw))
+- **AI assistant for spreadsheets** (launching soon) - Ultimate AI assistant to autofill entire sheets based off context and generate formulas and filter rows using text commands. ([link](https://twitter.com/mehran__jalali/status/1608159307513618433))
 - Automata - **Repurpose blogs and videos as LinkedIn posts, Twitter threads, and newsletters** with AI. ([link](https://byautomata.io/))
 - **Predict 2023 with AI** - Choose from a few prompts and impress your audience with the best predictions for the upcoming year. ([link](https://www.praline.ai/predict2023))
 - Addcontext - Create an **AI-powered contextual search engine from a YouTube playlist.** ([link](https://addcontext.xyz/create))
@@ -31,8 +31,8 @@ ChatGPT generated content vs McKinsey article on "**How tools like ChatGPT can c
 
 ### **🎓 Learn**
 
-- Generate **stunning AI art visuals with Midjourney** in 10 simple steps. ([link](https://twitter.com/hbcoop_/status/1608507404920004609?s=12\&t=qaAGwaH5Vln7QwGFrxv2_g))
-- How to **do video scripts on ChatGPT.** ([link](https://twitter.com/scottcmillard/status/1608519748605644800?s=12\&t=DLBfaDGyuzGzCaLKt_NkNA))
+- Generate **stunning AI art visuals with Midjourney** in 10 simple steps. ([link](https://twitter.com/hbcoop_/status/1608507404920004609))
+- How to **do video scripts on ChatGPT.** ([link](https://twitter.com/scottcmillard/status/1608519748605644800))
 - Hands-on **guide to semantic search with CohereAI** embeddings. ([link](https://harishgarg.com/writing/semantic-search-with-cohereai-embeddings/))
 
 ### **🔬 Research**
@@ -46,18 +46,18 @@ ChatGPT generated content vs McKinsey article on "**How tools like ChatGPT can c
 
 - **Generative AI for creative work.** ([link](https://www.youtube.com/watch?v=DCXvXdaWqN4))
 - **ChatGPT banned on Chinese social media app WeChat.** Although it seems it's actually an unofficial proxy prohibited by OpenAI's ToS. ([link](https://voicebot.ai/2022/12/28/chatgpt-banned-on-chinese-social-media-app-wechat/))
-  - Related tweet. ([link](https://twitter.com/goodside/status/1608539491458760704?s=12\&t=WygrgzqgdI0w5UYFoaNbcQ))
+  - Related tweet. ([link](https://twitter.com/goodside/status/1608539491458760704))
 - **Introduction to ChatGPT: Basics**. ([link](https://buildspace.so/notes/intro-to-chatgpt))
 - **Google’s PaLM is ready for the GPT challenge**. ([link](https://analyticsindiamag.com/googles-palm-is-ready-for-the-gpt-challenge/))
 - The Washington Post article, ‘**The year AI became eerily human**.’ ([link](https://www.washingtonpost.com/technology/2022/12/28/ai-chatgpt-dalle-year-in-review/))
-- **Keras 2022 year-in-review**. ([link](https://twitter.com/fchollet/status/1608486627365748741?s=12\&t=WygrgzqgdI0w5UYFoaNbcQ))
-- **Ask My Book is now open source**. ([link](https://twitter.com/shl/status/1608554223607906304?s=12\&t=WygrgzqgdI0w5UYFoaNbcQ))
+- **Keras 2022 year-in-review**. ([link](https://twitter.com/fchollet/status/1608486627365748741))
+- **Ask My Book is now open source**. ([link](https://twitter.com/shl/status/1608554223607906304))
 - **Recall.ai that helps companies make the most of virtual meeting data** raised $2.7M seed. ([link](https://techcrunch.com/2022/12/29/recall-ai/))
 - Forbed article on ‘**Generative AI will continue to accelerate in 2023: Are you ready?**’ ([link](https://www.forbes.com/sites/cindygordon/2022/12/29/generative-ai-will-continue-to-accelerate-in-2023-are-you-ready/?sh=1443a17e650c))
 - ‘**I asked ChatGPT to write my cover letters**. Multiple hiring managers say they would have given me an interview but the letters lacked personality’, an account in Business Insider. ([link](https://www.businessinsider.in/tech/news/i-asked-chatgpt-to-write-my-cover-letters-multiple-hiring-managers-say-they-would-have-given-me-an-interview-but-the-letters-lacked-personality-/articleshow/96596552.cms))
 - **Stable Diffusion 2.0 & 2.1: An Overview**. ([link](https://www.jonstokes.com/p/stable-diffusion-20-and-21-an-overview))
 - A **primer to using GPT Index**. ([link](https://gpt-index.readthedocs.io/en/latest/guides/primer.html))
-- **Live with Sharif from Lexica**, ‘From zero to 1M users in one month.’ Lexica was started in a hackathon! Who knew? ([link](https://twitter.com/_buildspace/status/1608145552520118272?s=12\&t=WygrgzqgdI0w5UYFoaNbcQ))
+- **Live with Sharif from Lexica**, ‘From zero to 1M users in one month.’ Lexica was started in a hackathon! Who knew? ([link](https://twitter.com/_buildspace/status/1608145552520118272))
 
 ## **🖼 AI images of the day**
 

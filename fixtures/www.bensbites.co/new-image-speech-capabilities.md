@@ -16,13 +16,13 @@ Let’s get to it.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7dfbc517-fcf6-4e5b-a4da-163bf4fb703f/Line_1.png)
 
-**1/** **[Midjourney v5 is released to level up your AI art skills](https://twitter.com/nickfloats/status/1636116959267004416?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A)**
+**1/** **[Midjourney v5 is released to level up your AI art skills](https://twitter.com/nickfloats/status/1636116959267004416)**
 
 Remember that crazy period when some kind of generative art stuff came out and changed the world years ago 6 months ago, and then we all got distracted by language models? Just kidding, but hot on the heels of GPT-4 is **Midjourney v5**, and it’s equally as awesome. The thread linked above goes through a whole host of examples, and the results are stunning, albeit with subtle improvements over v4. It strikes me as better at capturing angular views of faces, is slightly less cartoonish, and captures the ‘vibe’ of the prompts more effectively. I’m keen to see assessments from the art experts out there!
 
 Check out [this video](https://www.youtube.com/watch?v=AI4zU5NTOtk) for how to get access.
 
-**2/** **[AssemblyAI’s speech recognition model is the most powerful one yet](https://twitter.com/AssemblyAI/status/1636050346240884744?s=20)**
+**2/** **[AssemblyAI’s speech recognition model is the most powerful one yet](https://twitter.com/AssemblyAI/status/1636050346240884744)**
 
 Time for Shazaam to take a leaf out of**AssemblyAI’s**book and level up their ability to spot song lyrics in a noisy room… These guys are releasing Conformer-1, a**speech recognition model**that’s achieving near-human-level performance after being trained on 650,000 hours of audio data. That’s about an entire lifetime, or a whole day for all of the people that open this email added together… It has 43% fewer errors on noisy data than other publications, a 29% speed-up at inference, and actually uses novel tech. Check out some live examples on their website[here](https://www.assemblyai.com/blog/conformer-1/).
 
@@ -54,17 +54,17 @@ It's like having a data analyst who never sleeps. Who can instantly drill into y
 
 - Ask your PDF - Upload a**PDF to chat** with it. ([link](https://askyourpdf.com/))
 
-- **Paper pages** on the Hugging Face Hub - Discover models, datasets and spaces for a specific paper. ([link](https://twitter.com/victormustar/status/1636019619461754881?s=20))
+- **Paper pages** on the Hugging Face Hub - Discover models, datasets and spaces for a specific paper. ([link](https://twitter.com/victormustar/status/1636019619461754881))
 
 - Collato - AI search for **product teams.** ([link](https://collato.com/))
 
 - Klarity - **Chat**with your document **and discover**detailed insights. ([link](http://demo.tryklarity.com/))
 
-- **Auto transcribing**is now faster and more accurate with Banner Bear + Whisper. ([link](https://twitter.com/yongfook/status/1635896636655435776?s=20))
+- **Auto transcribing**is now faster and more accurate with Banner Bear + Whisper. ([link](https://twitter.com/yongfook/status/1635896636655435776))
 
 - Smart Chat - Transform your **Obsidian notes** into interactive AI-powered conversations. ([link](https://wfhbrian.com/introducing-smart-chat-transform-your-obsidian-notes-into-interactive-ai-powered-conversations/))
 
-- Darby Dashboards - Connect your APIs/data sources and create **dynamic dashboards**in seconds. ([link](https://twitter.com/aryxnsharma/status/1636026151909859328?s=20))
+- Darby Dashboards - Connect your APIs/data sources and create **dynamic dashboards**in seconds. ([link](https://twitter.com/aryxnsharma/status/1636026151909859328))
 
 - DocLime - Say goodbye to manual **document search** and get answers within seconds. ([link](https://doclime.com/))
 
@@ -76,7 +76,7 @@ It's like having a data analyst who never sleeps. Who can instantly drill into y
 
 - Nabla Copilot - Superpowers for **health providers.** ([link](https://www.nabla.com/))
 
-- **Replit + GPT4** - Ready to go templates for Node.js and Python. Just create a Repl, place your API key, and run. ([link](https://twitter.com/replit/status/1636094420251721728?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A))
+- **Replit + GPT4** - Ready to go templates for Node.js and Python. Just create a Repl, place your API key, and run. ([link](https://twitter.com/replit/status/1636094420251721728))
 
 - Chatgpt Asteriods - A **game**coded by ChatGPT. ([link](https://hudak.info/pico8/chatgpt-asteroids/index.html))
 
@@ -86,7 +86,7 @@ It's like having a data analyst who never sleeps. Who can instantly drill into y
 
 - ChatFriday - A **minimalistic UI** for ChatGPT. ([link](https://www.chatfriday.com/))
 
-- Cal, the meeting scheduler, announces **AI powered search** to its docs. ([link](https://twitter.com/calcom/status/1636150100463431681?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A))
+- Cal, the meeting scheduler, announces **AI powered search** to its docs. ([link](https://twitter.com/calcom/status/1636150100463431681))
 
 - Double - Start using GPT to automatically **research your leads** on the internet and answer questions. ([link](https://www.usedouble.com/))
 
@@ -140,7 +140,7 @@ It's like having a data analyst who never sleeps. Who can instantly drill into y
 
 - Building a**SVB Q\&A chatbot** with Next.js and LangChain JS. ([link](https://scottschindler.substack.com/p/building-a-svb-q-and-a-chatbot-with))
 
-- Create a basic **3D game** prototype like Doom using GPT-4. ([link](https://twitter.com/javilopen/status/1636085116400451584?s=12\&t=4DFLsyWB2nlmdJs1ZUkj1A))
+- Create a basic **3D game** prototype like Doom using GPT-4. ([link](https://twitter.com/javilopen/status/1636085116400451584))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

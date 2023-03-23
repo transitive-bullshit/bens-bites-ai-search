@@ -38,16 +38,16 @@ But, Chris Tucker, we DO have jobs and we DO have shit to do! Luckily I've done 
 - ShareGPT has two new features; Search: **Find prompt ideas** by searching our database of 6.5K+ conversations, and comments: **Leave comments on your favourite conversations**. ([link](https://sharegpt.com/))
 - Mentioned - **Influencer outreach & link building on auto-pilot**. ([link](https://www.mentioned.ai/))
   - Use the code BENSBITES for 50% off any plan for life
-- AI Video Avatars - **AvatarAI’s new feature to animate your avatar into a video** saying any text like you. ([link](https://twitter.com/levelsio/status/1603441742384140288?s=12\&t=wOww3Z2JPGm1ntJZ-0KNFw))
+- AI Video Avatars - **AvatarAI’s new feature to animate your avatar into a video** saying any text like you. ([link](https://twitter.com/levelsio/status/1603441742384140288))
 - **Whisper with Speaker Recognition** - Gradio app that adds speaker diarisation to OpenAI’s Whisper. ([link](https://huggingface.co/spaces/dwarkesh/whisper-speaker-recognition))
 - Ask a Computer - A GPT-3 powered tool for **asking your computer questions about itself**. ([link](https://george.mand.is/2022/12/ask-a-computer-a-toy-powered-by-gpt-3-and-reckless-abandon/)) - *Use with caution, it can run commands on your computer. Only do it if you know what you're doing!*
-- Elephas AI assistant for Mac now has a **smart reply feature**. ([link](https://twitter.com/KambanTheMaker/status/1603356154242834432?s=20\&t=FfVleDabJS8UGI25rOF6vw))
+- Elephas AI assistant for Mac now has a **smart reply feature**. ([link](https://twitter.com/KambanTheMaker/status/1603356154242834432))
 
 **[Join Discord](https://discord.gg/qd92NKjDdE) | [Hackathon](https://vanilla-peach-484.notion.site/Ben-s-Bites-AI-Hackathon-27k-324b3e8b3d474a12a2e828b7ac45f9f9) | [Partner with us](https://sponsor.bensbites.co/)** | [**Host or join a meetup**](https://meetups.bensbites.co/)
 
 ### **🎓 Learn**
 
-- How to **add a cinematic look to your videos in Runway** with just a few clicks. ([link](https://twitter.com/runwayml/status/1603402175396323329?s=20\&t=-thnW_bvT8eF935yqyh2Bg))
+- How to **add a cinematic look to your videos in Runway** with just a few clicks. ([link](https://twitter.com/runwayml/status/1603402175396323329))
 - **​​GPT3 and Prompts: A quick primer**. ([link](https://buildspace.so/notes/intro-to-gpt3-prompts))
 - **Generative AI with Cohere**: Part 1. ([link](https://txt.cohere.ai/generative-ai-part-1/))
 - **Create your own ChatGPT with OpenAI API and Streamlit**. ([link](https://twitter.com/itsafiz/status/1603705147405651969))
@@ -73,7 +73,7 @@ But, Chris Tucker, we DO have jobs and we DO have shit to do! Luckily I've done 
 - **ChatGPT is my co-founder**: Common barriers hold entrepreneurs back, AI can help founders cross them. ([link](https://oneusefulthing.substack.com/p/chatgtp-is-my-co-founder))
 - The second **Hugging Face’s Ethics & Society newsletter** issue. ([link](https://huggingface.co/blog/ethics-soc-2))
 - **OpenAI's tokenizer is now officially open-sourced**. ([link](https://github.com/openai/tiktoken))
-- Create **beautiful waveform visualisations** in Gradio 3.14. ([link](https://twitter.com/gradio/status/1603525848006393856?s=12\&t=LLeGO6uK5ySGrj_XqojizQ))
+- Create **beautiful waveform visualisations** in Gradio 3.14. ([link](https://twitter.com/gradio/status/1603525848006393856))
 
 ## **🧑‍💻 Who's hiring in AI**
 

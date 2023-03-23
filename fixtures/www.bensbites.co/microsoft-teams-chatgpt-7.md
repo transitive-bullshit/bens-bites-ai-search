@@ -63,19 +63,19 @@ A new, binge-worthy podcast about automation & AI. What if you hired a cast of *
 ### 🤓 Miscellaneous
 
 - **Gaslighting and reality in AI.** ([link](https://garymarcus.substack.com/p/gaslighting-and-reality-in-ai))
-- **Flan-T5 beats all public models** for instruction tuning. Data and methods now released by Google. ([link](https://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html), author’s [thread](https://twitter.com/ShayneRedford/status/1620805305801261058?s=20\&t=uGZs6VxZh8GBTS8ljMjjUA))
+- **Flan-T5 beats all public models** for instruction tuning. Data and methods now released by Google. ([link](https://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html), author’s [thread](https://twitter.com/ShayneRedford/status/1620805305801261058))
 
 ### 🎓 Learn
 
 - How to**run GTR T5 LLM offline**on a Macbook? ([link](https://til.simonwillison.net/python/gtr-t5-large))
 - **Introduction to multi-agents** and AI vs AI challenge. ([link](https://huggingface.co/deep-rl-course/unit7/introduction))
-- How to build a**simple semantic search engine.** ([link](https://twitter.com/CohereAI/status/1620783720738308099?s=20\&t=tELjIoyeRqP7IIjOgA_iDg))
+- How to build a**simple semantic search engine.** ([link](https://twitter.com/CohereAI/status/1620783720738308099))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### 🔬 Research
 
-- FROMAGe - A model that efficiently**bootstraps frozen LLMs** for images. ([link](https://twitter.com/kohjingyu/status/1620602402813648898?s=20\&t=VVEMciVRCbDmdcrPOkLoKg))
+- FROMAGe - A model that efficiently**bootstraps frozen LLMs** for images. ([link](https://twitter.com/kohjingyu/status/1620602402813648898))
 - Epic-Sounds - A large-scale **dataset of actions that sound.** ([link](http://arxiv.org/abs/2302.00646))
 - Jointist from ByteDance - An instrument-aware framework capable of **transcribing, recognizing, and separating multiple musical instruments.** ([link](https://arxiv.org/abs/2302.00286))
 - Improving **few-shot generalisation** by exploring and exploiting auxiliary data. ([link](http://arxiv.org/abs/2302.00674))

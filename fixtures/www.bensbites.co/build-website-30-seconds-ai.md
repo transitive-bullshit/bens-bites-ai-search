@@ -58,15 +58,15 @@ Let's get into it!
 
 - TANGO: [**Text-driven Photorealistic and Robust 3D Stylization**](https://cyw-3d.github.io/tango/) via Lighting Decomposition
 
-- [A demo video of AI-powered writing](https://twitter.com/kazuki_sf_/status/1583217722057334784?s=12\&t=2Q7IXdTQWzb9G06ODmOHaA) with Glasp. **The system can reflect your taste/identity in the writing!** The fine-tuned model is based on curated information, and it can compensate for one of the weaknesses of the current AI models: the old data issue.
+- [A demo video of AI-powered writing](https://twitter.com/kazuki_sf_/status/1583217722057334784) with Glasp. **The system can reflect your taste/identity in the writing!** The fine-tuned model is based on curated information, and it can compensate for one of the weaknesses of the current AI models: the old data issue.
 
-- **[Generate music based on your own music dataset](https://twitter.com/marco_ppasini/status/1583160997942276096?s=12\&t=2Q7IXdTQWzb9G06ODmOHaA)**
+- **[Generate music based on your own music dataset](https://twitter.com/marco_ppasini/status/1583160997942276096)**
 
-- [This animation](https://twitter.com/paultrillo/status/1583114762035961858?s=12\&t=mztODWLbEkB1sSKXZ62I4w) shows off **animated face masks, generates jewellery and creates organic rock formations**. Created with DALL-E and Runway.
+- [This animation](https://twitter.com/paultrillo/status/1583114762035961858) shows off **animated face masks, generates jewellery and creates organic rock formations**. Created with DALL-E and Runway.
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/77d9f8a9-b298-4f07-a5d1-031cd61c1a28/ezgif.com-gif-maker__8_.gif)
 
-- **[Text to 3D animation](https://twitter.com/virtualbeings1/status/1583169934057943040?s=12\&t=2Q7IXdTQWzb9G06ODmOHaA)**. Imagine making your own Pixar movie!
+- **[Text to 3D animation](https://twitter.com/virtualbeings1/status/1583169934057943040)**. Imagine making your own Pixar movie!
 
 - **StabilityAI’s 1.5 version was ‘leaked’ and requested a takedown of the published model (then later retracted it)**. [Daniel Jeffries wrote a bit about it](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai), what happened and the reason for it. TLDR is “that if we don't go a little slower + deal with sound feedback from society, our own ML researchers + regulators then there is a chance open source AI simply won't exist.”
 

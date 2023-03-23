@@ -35,7 +35,7 @@ How many unpaid coding interviews does it take to build up a training set for a 
 
 [**Multi·ON: Web browsing co-pilot using ChatGPT**](https://multion.ai/)
 
-Does anyone else find it kinda unnerving when you give control of your computer to a tech support person and their mouse is jumping around your page working its magic? Well you’ll find it even spookier with the [**Multi·ON plugin**](https://multion.ai/), which is exactly that except it’s **ChatGPT** doing your tasks **on your actual browser**. In [**this example**](https://twitter.com/divgarg9/status/1619073088192417792?s=12\&t=XUeaXLAme0lYbXomhWklig) ChatGPT successfully gets hold of the world’s first **AI-ordered burger** using Doordash in Palo Alto - as if I needed any more temptations to add to my Christmas pounds this early in 2023!
+Does anyone else find it kinda unnerving when you give control of your computer to a tech support person and their mouse is jumping around your page working its magic? Well you’ll find it even spookier with the [**Multi·ON plugin**](https://multion.ai/), which is exactly that except it’s **ChatGPT** doing your tasks **on your actual browser**. In [**this example**](https://twitter.com/divgarg9/status/1619073088192417792) ChatGPT successfully gets hold of the world’s first **AI-ordered burger** using Doordash in Palo Alto - as if I needed any more temptations to add to my Christmas pounds this early in 2023!
 
 It’s not clear from the demos how complicated the tasks can get, with the examples being pretty basic things like navigating well-known websites, posting tweets, and following Sam Altman. So it’ll be cool to see how this develops with time, such as being able to execute the statements without having to watch it click around.
 
@@ -55,12 +55,12 @@ Just connect your payment provider and let it track referrals, discounts, and co
 - Read Pilot - Analyses online articles and generates Q\&A cards for you for **intelligent reading.** ([link](https://readpilot.vercel.app/))
 - Make Log - Transform **product updates** into your most powerful asset. ([link](https://www.makelog.com/))
 - MagicSlides - Creating AI powered **presentations**in seconds. ([link](https://www.magicslides.app/))
-- Ambient - Use AI to instantly convert what's on your screen into a **calendar invite.** ([link](https://twitter.com/bryanhpchiang/status/1618371653456760835?s=20\&t=ClbI1qgfHmTcRMXhyLmnxg))
+- Ambient - Use AI to instantly convert what's on your screen into a **calendar invite.** ([link](https://twitter.com/bryanhpchiang/status/1618371653456760835))
 - Kadoa - Effortless **data extraction** in seconds. ([link](https://www.kadoa.com/))
 - HoustonAI - Experimental AI assistant trained on the **Astro docs** to answer questions about Astro 2.0. ([link](http://houston.astro.build))
 - Cova - Supercharge your job search with AI generated**cover letters.**([link](https://cover-letter-generator-alpha.vercel.app/))
 - MultiOn - Your AI**web co-pilot**powered by ChatGPT. ([link](https://multion.ai/))
-- Mirage introduces AI powered **3D search**on Objaverse, the largest annotated 3D dataset. ([link](https://twitter.com/mirage_ml/status/1619094504375738372?s=20\&t=ivhuWhZgWlV5OQjwxHBMDQ))
+- Mirage introduces AI powered **3D search**on Objaverse, the largest annotated 3D dataset. ([link](https://twitter.com/mirage_ml/status/1619094504375738372))
 - Diff models from Carper AI - **Generate changes to code**described by a commit message. ([link](https://carper.ai/diff-models-a-new-way-to-edit-code/))
 - ChatGPT Plagiarism - Find out if your **students are using ChatGPT** or other AI for their assignments. ([link](https://www.chatgptplagiarism.com/))
 - Langchain Chat Next JS - Open source frontend for a versatile **Next.js chat interface** on Langchain documentation. ([link](https://github.com/zahidkhawaja/langchain-chat-nextjs))
@@ -69,7 +69,7 @@ Just connect your payment provider and let it track referrals, discounts, and co
 - Glow AI - Generate your next **skincare routine**in seconds. ([link](https://glow-ai.vercel.app/))
 - Camira - Unlock the full potential of your **photography and videography** with CAMIRA's AI-powered tools. ([link](https://www.camira.ai/))
 - Article Summary - Create a **short summary of any article** to quickly share the main points. ([link](https://article-summary.vercel.app/))
-- Shoppy AI - A bot taught using **Shopify's help centre documentation** + embeddings. ([link](https://twitter.com/gilgNYC/status/1619493246375432194?s=20\&t=MGZOflV_pc7jntjnK4SdDA))
+- Shoppy AI - A bot taught using **Shopify's help centre documentation** + embeddings. ([link](https://twitter.com/gilgNYC/status/1619493246375432194))
 - ColBERT adds index updater and base models feature to their state of the art **neural search.** ([link](https://twitter.com/lateinteraction/status/1619854874338025472))
 - Tailwind CSS Answer Bot - Ask anything about **Tailwind CSS documentation.**([link](https://twcss-answerbot.vercel.app/tailw))
 - Detangle - **Summarise any media**—text, audio, or video. ([link](https://detangle.ai/)) They have a waitlist for new users but don’t worry, we gotchu. **Special offer for Ben’s Bites** readers to get bumped up the list using this [link](https://detangle.ai/invite/92ebfc) today.
@@ -92,7 +92,7 @@ Just connect your payment provider and let it track referrals, discounts, and co
 - **Big Tech was moving cautiously on AI.** Then came ChatGPT. ([link](https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/), without paywall [here](https://archive.vn/wNkJj))
 - Can generative AI’s stimulating powers extend to **productivity?** ([link](https://www.ft.com/content/1f08c2b7-9801-415d-93dd-72e724e5e2de), without paywall [here](https://archive.vn/ito4G))
 - Artificial intelligence pioneers back **$550mn fund for AI startups.**([link](https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0), without paywall [here](https://archive.is/uuLPL))
-- Kiss/Crash: A multi-screen installation using AI imagery to explore the**theme of desire.**([link](https://twitter.com/adamcole_studio/status/1618946038555086848?s=20\&t=dXMbcGjstMigdZNvqaiEuA))
+- Kiss/Crash: A multi-screen installation using AI imagery to explore the**theme of desire.**([link](https://twitter.com/adamcole_studio/status/1618946038555086848))
 - A prosthesis for imagination - Using AI to **boost your creativity.**([link](https://oneusefulthing.substack.com/p/a-prosthesis-for-imagination-using))
 - \*\*The AI moment,\*\*AI vs crypto, & a heated debate with Amjad Masad, Flo Crivello, & Nathan Labenz. ([link](https://www.youtube.com/watch?v=ttDuKqJRZaw))
 - 96th JPEG meeting - Analysis of the responses of two calls for proposals for**machine learning-based codec solutions.** ([link](https://jpeg.org/items/20220817_press.html))
@@ -134,7 +134,7 @@ Everyone listening to AI generated music next month
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7a931b00-450b-44a4-9f5e-c7be6dc68bf5/image.png)
 
-<https://twitter.com/kirso_/status/1614044373049806850?s=20&t=GYezrd97gDNlYoxl0VMBvQ>
+[https://twitter.com/kirso\_/status/1614044373049806850?s=20\&t=GYezrd97gDNlYoxl0VMBvQ](https://twitter.com/kirso_/status/1614044373049806850)
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/80d128b7-5a79-492c-bcdf-ebaf763d79e1/image.png)
 

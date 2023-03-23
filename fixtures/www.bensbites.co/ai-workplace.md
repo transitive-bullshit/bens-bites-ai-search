@@ -11,7 +11,7 @@ Hello and welcome to Ben's Bites - holding your hand as you step towards our AI 
 
 Let's get to it.
 
-ps. I built a [super simple AI coach workflow](https://twitter.com/bentossell/status/1625596005902327808?s=20\&t=_1CkEv2aLWM1S45OCunFcQ) that you can copy.
+ps. I built a [super simple AI coach workflow](https://twitter.com/bentossell/status/1625596005902327808) that you can copy.
 
 Have a product, service, job, event, newsletter, app, book, movie, tool, or anything you'd like to share with over 26k subscribers?
 
@@ -21,7 +21,7 @@ Have a product, service, job, event, newsletter, app, book, movie, tool, or anyt
 
 **1/**
 
-[**Jasper roll out a new AI tool for business productivity**](https://twitter.com/heyjasperai/status/1625568513925517325?s=12\&t=e-fiskwzMBVWacAGXKXnRw)
+[**Jasper roll out a new AI tool for business productivity**](https://twitter.com/heyjasperai/status/1625568513925517325)
 
 Generative AI tools for **business productivity** are starting to get rolled out as quickly (and energetically) as I rolled into McDonalds on my own for Valentine's dinner last night. The latest to hit the headlines is [**Jasper’s new business assistant**](https://www.jasper.ai/business): it looks *pretty damn awesome* and has a very Teamsy vibe, which I think we all like, right? You can specify your company’s ‘voice’ (bio, product overview, target audience etc), share the Jasper-generated content collaboratively, and even generate emails from a prompt targeted at specific colleagues.
 
@@ -66,9 +66,9 @@ Get in touch to arrange your free trial of [Encord](https://bit.ly/3vNIpR5).
 - PPLeGPT**workout generator** - Your next exercise in seconds. ([link](https://www.pplegpt.com/))
 - **Teach Anything** - Teach you anything in seconds. ([link](https://www.teach-anything.com/))
 - Trav - Create your next **travel**adventure. ([link](https://www.trav.li/))
-- Publish a **YouTube summarization** API in seconds. ([link](https://twitter.com/getsteamship/status/1625495686056906755?s=12\&t=e-fiskwzMBVWacAGXKXnRw))
+- Publish a **YouTube summarization** API in seconds. ([link](https://twitter.com/getsteamship/status/1625495686056906755))
 - Writer - **Figma plugin** that writes. ([link](https://www.figma.com/community/plugin/1181999195063138245))
-- iOS app to turn your **drawings into paintings**, photos, app icons, and more. ([link](https://twitter.com/shl/status/1625597691207254016?s=12\&t=e-fiskwzMBVWacAGXKXnRw))
+- iOS app to turn your **drawings into paintings**, photos, app icons, and more. ([link](https://twitter.com/shl/status/1625597691207254016))
 - HF demo for **semantic guidance** for diffusion models. ([link](https://huggingface.co/spaces/AIML-TUDA/semantic-diffusion))
 - Codeium search - AI-powered, natural language based **codebase search** and synthesis. ([link](https://www.codeium.com/waitlist/codeium-search))
 - JnJ alpha - Generate **pro quality** content in seconds. ([link](https://alpha.jaqnjil.com))
@@ -80,7 +80,7 @@ Get in touch to arrange your free trial of [Encord](https://bit.ly/3vNIpR5).
 ### 🤓 Miscellaneous
 
 - Fireside Chat with **Dylan Field**, CEO of Figma, on AI with Elad Gil. ([link](https://www.youtube.com/watch?v=5qaKpFcX7gM\&ab_channel=EladGil))
-- ChatGPT can learn to**control your computer.**([link](https://twitter.com/localghost/status/1625240762760982528?s=20\&t=FXsI7mYA3nIhFNP8DN45bQ))
+- ChatGPT can learn to**control your computer.**([link](https://twitter.com/localghost/status/1625240762760982528))
 - Has everyone gone **chatbot crazy?** ([link](https://medium.com/angularventures/has-everyone-gone-chatbot-crazy-8cdd470406cb))
 - A future of our **interactions with AI.**([link](https://technoshaman.medium.com/a-future-of-our-interactions-with-ai-20733d5a53aa))
 - **Wix launches** AI text creator within the wix editor. ([link](https://www.prnewswire.com/news-releases/wix-launches-ai-text-creator-within-the-wix-editor-significantly-advancing-website-content-creation-301746186.html))
@@ -93,7 +93,7 @@ Get in touch to arrange your free trial of [Encord](https://bit.ly/3vNIpR5).
 - **BuzzFeed launches**Infinity Quizzes creating personalised stories. ([link](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/))
 - Latent Space demo day **calls for demos**, submission deadline is Friday 17th February. ([link](https://lspace.swyx.io/p/demo-day-2023))
 - Large language models for**U.S. national security.** ([link](https://scale.com/federal-llm))
-- **OpenAI is going hard**, three researchers move to Open AI from Google. ([link](https://twitter.com/izzyz/status/1625595375087423488?t=6dqigS3h401gGtbLOVVmRA\&s=19))
+- **OpenAI is going hard**, three researchers move to Open AI from Google. ([link](https://twitter.com/izzyz/status/1625595375087423488))
 - **Capsule snags** $4.75M for its AI-powered video editor. ([link](https://techcrunch.com/2023/02/14/capsule-snags-4-75m-for-its-ai-powered-video-editor-that-summarizes-text-generates-images-and-more/))
 - Why the **media frames** generative AI the way it does? ([link](https://youtu.be/ZtoOlLmbLH4))
 - **Berri AI is biking**around SF from Feb 15th to Feb 17th building ChatGPT apps for offices. ([link](https://partiful.com/e/ymIYDeUFbp96xCJq5eQB))
@@ -108,7 +108,7 @@ Get in touch to arrange your free trial of [Encord](https://bit.ly/3vNIpR5).
 
 - **LLM Chains** using GPT 3.5 and other LLMs. ([link](https://www.youtube.com/watch?v=S8j9Tk0lZHU))
 - Become a **rapper**with AI. ([link](https://buildspace.so/notes/rap-with-ai))
-- How to create an AI app with a**free GPU?** ([link](https://twitter.com/AssemblyAI/status/1625555002361085953?s=20\&t=DuHRWRgqrb1J02FFjdXg8Q))
+- How to create an AI app with a**free GPU?** ([link](https://twitter.com/AssemblyAI/status/1625555002361085953))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 

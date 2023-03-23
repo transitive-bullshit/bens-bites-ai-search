@@ -48,7 +48,7 @@ modl.ai (an AI engine for game development) is [hiring.](https://modl-ai.breezy.
 
 Brothers, Rahel and Sacha, won first place at the LABLAB Transformers AI hackathon (out of 1000+ people). They built [**a tool for semantic search and clustering of research papers**](https://lablab.ai/event/transforming-with-transformers/hummingbirds/Research%2520Paper%2520Clustering).
 
-Emad (Stability.ai) wrote a short thread on how [**there are going to be big advances (again) in AI in the coming weeks**](https://twitter.com/emostaque/status/1590676017873850369?s=12\&t=b3yeUKlQmDnSpIOhc1VxpA) from text to image etc. Essentially, it’s because of the rapid pace of research being done.
+Emad (Stability.ai) wrote a short thread on how [**there are going to be big advances (again) in AI in the coming weeks**](https://twitter.com/emostaque/status/1590676017873850369) from text to image etc. Essentially, it’s because of the rapid pace of research being done.
 
 Federated learning - [**a machine learning approach that allows for collaboration among entities without the need to share raw data**](https://pair.withgoogle.com/explorables/federated-learning/).
 

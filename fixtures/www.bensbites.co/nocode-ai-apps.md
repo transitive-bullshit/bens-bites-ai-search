@@ -76,7 +76,7 @@ Let's get to it, it's already late Ben!
 - An explanation of **how ChatGPT actually works**, in simple language. ([link](https://twitter.com/alphasignalai/status/1600209930954321920))
 - Twelve Labs is building **large visual language models (VLMs) for video understanding**. And they just raised $12M to do so. ([link](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/))
 - Generating **holistic 3d human motion from speech**. ([link](https://talkshow.is.tue.mpg.de/))
-- “Why does ChatGPT work so well? Is it “just scaling up GPT-3” under the hood? In this thread, discussing **“Instruct” paradigm, its deep technical insights**, and a big implication: **“prompt engineering” as we know it may likely disappear soon.”** ([link](https://twitter.com/drjimfan/status/1600884299435167745?s=12\&t=VsBOcKbFZTmu1graei1TJA\&sa=D\&source=docs\&ust=1670597976616983\&usg=AOvVaw1qdT5KxRetDs9s1hYNZWmx))
+- “Why does ChatGPT work so well? Is it “just scaling up GPT-3” under the hood? In this thread, discussing **“Instruct” paradigm, its deep technical insights**, and a big implication: **“prompt engineering” as we know it may likely disappear soon.”** ([link](https://twitter.com/drjimfan/status/1600884299435167745?sa=D\&source=docs\&ust=1670597976616983\&usg=AOvVaw1qdT5KxRetDs9s1hYNZWmx))
 - The founder behind Modal wrote a behind-the-scenes view “**What I have been working on: Modal**”. ([link](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html))
 
 ## **🧑‍💻 Who's hiring in AI**

@@ -87,7 +87,7 @@ Improve your website’s SEO performance and get more traffic from search. For f
 
 - Let users send **text messages** with your Langchain app. ([link](https://kookaburra.codes/))
 
-- AI **autocompletion**that can be activated by typing "+++" anywhere on your Mac. ([link](https://twitter.com/ronithhh/status/1627118300194013186?s=12\&t=UjoS6D7gIk5Y4Pyk-cJ_gA))
+- AI **autocompletion**that can be activated by typing "+++" anywhere on your Mac. ([link](https://twitter.com/ronithhh/status/1627118300194013186))
 
 - Unofficial demo for **Photoguard**- Safeguarding images against manipulation by ML-powered photo-editing models. ([link](https://huggingface.co/spaces/RamAnanth1/photoguard))
 
@@ -97,7 +97,7 @@ Improve your website’s SEO performance and get more traffic from search. For f
 
 - **GPT Twitter Bot**- Find out who AI thinks you are based on your Tweets. ([link](https://twitter-bot.com/))
 
-- ShipSense - AI vision model to**detect ships from space**and monitor overfishing hotspots. ([link](https://twitter.com/itsandrewgao/status/1627373504353140736?s=20))
+- ShipSense - AI vision model to**detect ships from space**and monitor overfishing hotspots. ([link](https://twitter.com/itsandrewgao/status/1627373504353140736))
 
 ### 🤓 Miscellaneous
 
@@ -105,7 +105,7 @@ Improve your website’s SEO performance and get more traffic from search. For f
 
 - The power of **Zapier & OpenAI.**([link](https://twitter.com/dannyrichman/status/1626557925169717248))
 
-- **Langchain AI adds**self-critique chain and self-hosted model support. ([link](https://twitter.com/langchainai/status/1627371287801892864?s=12\&t=UjoS6D7gIk5Y4Pyk-cJ_gA))
+- **Langchain AI adds**self-critique chain and self-hosted model support. ([link](https://twitter.com/langchainai/status/1627371287801892864))
 
 - AI-based tools will be a massive opportunity for calm companies, but a**dud for VC.** ([link](https://twitter.com/tylertringas/status/1626595735943925766))
 

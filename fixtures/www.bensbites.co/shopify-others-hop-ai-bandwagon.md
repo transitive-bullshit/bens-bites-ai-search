@@ -37,7 +37,7 @@ They’re aiming to address that daunting prospect of clicking into links only t
 
 **3/**
 
-[**Find similar-sounding songs with Maroofy**](https://twitter.com/subby_tech/status/1621293770779287554?s=12\&t=7K8CZt-GtU3xKaB5VeikQw)
+[**Find similar-sounding songs with Maroofy**](https://twitter.com/subby_tech/status/1621293770779287554)
 
 I dunno about you guys, but when I find a song I’ve fallen for, I listen to it back to back, eventually reaching a love-hate stage. Then the sick-and-tired stage.
 
@@ -45,7 +45,7 @@ For those of you like me, [**Maroofy**](https://maroofy.com/) provides some pret
 
 **4/**
 
-[**Friday Fun: Human-animal portraits using AI art**](https://twitter.com/linusekenstam/status/1621297496491450368?s=12\&t=7K8CZt-GtU3xKaB5VeikQw)
+[**Friday Fun: Human-animal portraits using AI art**](https://twitter.com/linusekenstam/status/1621297496491450368)
 
 For a bit of Friday Fun-time, check out this pretty funny thread using generative AI to produce **human-animal portraits**. It also doubles up as a best-in-class tutorial on **how to guide prompts** to a desired outcome.
 
@@ -58,15 +58,15 @@ For a bit of Friday Fun-time, check out this pretty funny thread using generativ
 
 - IntelliMail - A chrome extension that **generates your emails.** ([link](https://www.intellimail.xyz/))
 - **Text to Figma** - Conversational UI for Figma. ([link](https://github.com/jayhack/text-to-figma))
-- **Shopify + OpenAI** integration to generate copy without any 3rd party app. ([link](https://twitter.com/gilgNYC/status/1620859713285148672?s=20\&t=dKYEJXbK3cWpphhFOlWXyw))
+- **Shopify + OpenAI** integration to generate copy without any 3rd party app. ([link](https://twitter.com/gilgNYC/status/1620859713285148672))
 - **WTF does this company do**- Explains what a company does based on the landing page. ([link](https://wtfdoesthiscompanydo.vercel.app/))
-- Triple Whale announces its **AI ad engine**- create, deploy, analyse, and iterate your creative content. (announcement [link](https://twitter.com/AY_Orbach/status/1621260030442979329?s=20\&t=u8x72tHiunnAmBfje7e5eQ), [waitlist](https://www.triplewhale.com/ai-ads))
-- LangChain announces Instruct Embeddings -**generate text embeddings** tailored to any task just by providing the task description. ([link](https://langchain.readthedocs.io/en/latest/modules/utils/combine_docs_examples/embeddings.html#instructembeddings), more new features [here](https://twitter.com/LangChainAI/status/1621231779716956160?s=20\&t=R0kJ-TlBRGqXkh1TC6Q4tw))
+- Triple Whale announces its **AI ad engine**- create, deploy, analyse, and iterate your creative content. (announcement [link](https://twitter.com/AY_Orbach/status/1621260030442979329), [waitlist](https://www.triplewhale.com/ai-ads))
+- LangChain announces Instruct Embeddings -**generate text embeddings** tailored to any task just by providing the task description. ([link](https://langchain.readthedocs.io/en/latest/modules/utils/combine_docs_examples/embeddings.html#instructembeddings), more new features [here](https://twitter.com/LangChainAI/status/1621231779716956160))
 
 ### 🤓 Miscellaneous
 
 - GPT-3, with Cado Platform, will transform the way **security analysts**do investigations. ([link](https://adamcohenhillel.substack.com/p/interactive-q-and-a-incident-response))
-- No Priors - A **podcast with leading founders** & researchers in AI. ([link](https://twitter.com/eladgil/status/1621215636784566272?s=12\&t=VHAGyyfOqdiGXnsBRSw8qQ))
+- No Priors - A **podcast with leading founders** & researchers in AI. ([link](https://twitter.com/eladgil/status/1621215636784566272))
 - This**voice-cloning** tool could get banned. ([link](https://www.youtube.com/watch?app=desktop\&v=7r8lBJArcKE))
 - **Lavender lands $13.2M** for its AI-powered email marketing engine. ([link](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/))
 - Microsoft boosts Viva Sales with new **GPT seller experience.** ([link](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/02/microsoft-boosts-viva-sales-with-new-gpt-seller-experience/))
@@ -81,7 +81,7 @@ For a bit of Friday Fun-time, check out this pretty funny thread using generativ
 
 ### 🎓 Learn
 
-- **Midjourney tutorial for knolling**—arranging objects in parallel or 90 degrees. ([link](https://twitter.com/linusekenstam/status/1620936494788804608?s=12\&t=VHAGyyfOqdiGXnsBRSw8qQ))
+- **Midjourney tutorial for knolling**—arranging objects in parallel or 90 degrees. ([link](https://twitter.com/linusekenstam/status/1620936494788804608))
 - **Building a GPT-3 app**with Next.js and Vercel Edge Functions. ([link](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions))
 - Guide and resources for**prompt engineering.**([link](https://github.com/dair-ai/Prompt-Engineering-Guide))
 

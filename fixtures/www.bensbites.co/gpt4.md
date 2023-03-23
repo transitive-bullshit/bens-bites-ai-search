@@ -30,7 +30,7 @@ According to OpenAI, GPT-4 has hit its**best results yet**on factuality, steerab
 
 For those who have played around with prompting, you will probably have found that ‘steering’ the AI towards behaving in a specified style has ended up producing the best results. This is the\*\*‘steerability’\*\*side of the model, and according to the team, GPT-4 is far more attuned to being steered. Wicked.
 
-However, beyond all the excitement is a slight**air of disappointment**floating around the research community on[Twitter](https://twitter.com/rasbt/status/1635700579543416835?s=46\&t=or3yrprJGYA_h7PReQNTSw), and it’s to do with transparency. True - OpenAI hasn’t expanded on much in their formal publication, mostly using competition and AI safety as their reasoning for keeping almost every detail of the model behind closed doors. You could write a book on this discussion, although if AI safety was*really*a big concern, wouldn’t you just slow things down a bit? But hey - I’m not complaining!
+However, beyond all the excitement is a slight**air of disappointment**floating around the research community on[Twitter](https://twitter.com/rasbt/status/1635700579543416835), and it’s to do with transparency. True - OpenAI hasn’t expanded on much in their formal publication, mostly using competition and AI safety as their reasoning for keeping almost every detail of the model behind closed doors. You could write a book on this discussion, although if AI safety was*really*a big concern, wouldn’t you just slow things down a bit? But hey - I’m not complaining!
 
 **2/**
 
@@ -64,11 +64,11 @@ No more waiting around or wasting time on copywriting yourself—it's not one of
 
 - Anthropic AI has made **Claude open for all**with a waitlist. ([link](https://www.anthropic.com/index/introducing-claude))
 
-- **Poe subscriptions** - Access to GPT-4 from OpenAI and Claude+ from Anthropic. ([link](https://twitter.com/adamdangelo/status/1635690625642397696?s=20))
+- **Poe subscriptions** - Access to GPT-4 from OpenAI and Claude+ from Anthropic. ([link](https://twitter.com/adamdangelo/status/1635690625642397696))
 
 - AskNotion - an AI chatbot, powered by your **Notion**pages. ([link](https://asknotion.app/))
 
-- Diagram, the **generative design**company, is using GPT-4 for its products Magician and Genius. ([link](https://twitter.com/jsngr/status/1635696478013337600?))
+- Diagram, the **generative design**company, is using GPT-4 for its products Magician and Genius. ([link](https://twitter.com/jsngr/status/1635696478013337600))
 
 - Intercom’s Fin - **Customer service**AI chatbot, built on GPT-4. ([link](https://www.intercom.com/blog/announcing-intercoms-new-ai-chatbot/))
 
@@ -76,7 +76,7 @@ No more waiting around or wasting time on copywriting yourself—it's not one of
 
 - Khanmigo - **Khan Academy**’s GPT4 powered guide for learners and teachers. ([link](https://www.khanacademy.org/khan-labs))
 
-- **Virtual Volunteer** - Answer questions or provide real-time help related to an image. ([link](https://twitter.com/BeMyEyes/status/1635690254689599488?s=20))
+- **Virtual Volunteer** - Answer questions or provide real-time help related to an image. ([link](https://twitter.com/BeMyEyes/status/1635690254689599488))
 
 - Neptyne - Supercharge your **spreadsheets**with Python and AI. ([link](https://www.neptyne.com/))
 
@@ -122,7 +122,7 @@ No more waiting around or wasting time on copywriting yourself—it's not one of
 
 - Meet the team developing an **open-source ChatGPT** alternative. ([link](https://techcrunch.com/2023/03/14/meet-the-team-developing-an-open-source-chatgpt-alternative/))
 
-- Overcoming the **challenges** in building a CS Bot. ([link](https://twitter.com/destraynor/status/1635705915595685902?s=20))
+- Overcoming the **challenges** in building a CS Bot. ([link](https://twitter.com/destraynor/status/1635705915595685902))
 
 - Adobe’s **subtitling AI** is good, but this free Resolve add-on has far more potential. ([link](https://www.theverge.com/2023/3/14/23622147/storytoolkitai-subtitle-and-translation-automatic-transcription-resolve-premiere))
 

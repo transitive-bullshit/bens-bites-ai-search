@@ -65,7 +65,7 @@ We've got **$27k to give away** and some awesome judges from StabilityAI/OSV, Hu
 - Compilation of the 2022 **South Park Commons AI/LLM hackathon products**. ([link](https://www.youtube.com/watch?v=ie5b44LcC-Y))
 - All **Runway’s marketing videos in one place**. ([link](https://videos.runwayml.com/))
 - **Midjourney vs. human illustrators**: has AI already won? ([link](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won))
-- A thread of **improvements to the LLM interface by Langchain**. ([link](https://twitter.com/LangChainAI/status/1603070855193382913?s=20\&t=PsUE33FWo_Mh-m6IXfvojg))
+- A thread of **improvements to the LLM interface by Langchain**. ([link](https://twitter.com/LangChainAI/status/1603070855193382913))
 - **Artists can opt out** their art from the training of Stable Diffusion 3. ([link](https://haveibeentrained.com/))
 - A new **interactive AI-Generated scene** by Cristian Peñas. ([link](https://80.lv/articles/a-new-interactive-ai-generated-scene-by-cristian-pe-as/))
 - **Every software app will incorporate AI**. And AI-native apps will generally win over AI-retrofit. ([link](https://www.indexventures.com/perspectives/every-software-application-will-incorporate-ai/))
