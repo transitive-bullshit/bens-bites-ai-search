@@ -19,7 +19,7 @@ ChatGPT generated content vs McKinsey article on "**How tools like ChatGPT can c
 
 ### **🛠️ Cool Tools**
 
-- **AI assistant for spreadsheets** (launching soon) - Ultimate AI assistant to autofill entire sheets based off context and generate formulas and filter rows using text commands. ([link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/mehran__jalali/status/1608159307513618433?s%253D20%2526t%253DhLl_lsfWspvtovM9bVLDbw%26sa%3DD%26source%3Deditors%26ust%3D1672394715826967%26usg%3DAOvVaw03CCKOg66Uuhc64E1Afgii\&sa=D\&source=editors\&ust=1672394735960287\&usg=AOvVaw27MtYJzIhHGt6zAwhl0uIU))
+- **AI assistant for spreadsheets** (launching soon) - Ultimate AI assistant to autofill entire sheets based off context and generate formulas and filter rows using text commands. ([link](https://twitter.com/mehran__jalali/status/1608159307513618433?s=20\&t=hLl_lsfWspvtovM9bVLDbw))
 - Automata - **Repurpose blogs and videos as LinkedIn posts, Twitter threads, and newsletters** with AI. ([link](https://byautomata.io/))
 - **Predict 2023 with AI** - Choose from a few prompts and impress your audience with the best predictions for the upcoming year. ([link](https://www.praline.ai/predict2023))
 - Addcontext - Create an **AI-powered contextual search engine from a YouTube playlist.** ([link](https://addcontext.xyz/create))
@@ -44,8 +44,8 @@ ChatGPT generated content vs McKinsey article on "**How tools like ChatGPT can c
 
 ### **🤓 Everything else**
 
-- **Generative AI for creative work.** ([link](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.google.com/url?q%253Dhttps://www.youtube.com/watch?v%25253DDCXvXdaWqN4%2526sa%253DD%2526source%253Deditors%2526ust%253D1672394670584626%2526usg%253DAOvVaw2CKMu9z3kkmGBXybWUTeeU%26sa%3DD%26source%3Deditors%26ust%3D1672394715828204%26usg%3DAOvVaw1X4Cua4IwA5UF5aS2rcLi0\&sa=D\&source=editors\&ust=1672394735961539\&usg=AOvVaw3vuTT_2vE2Kt7aFaaM3dlS))
-- **ChatGPT banned on Chinese social media app WeChat.** Although it seems it's actually an unofficial proxy prohibited by OpenAI's ToS. ([link](https://www.google.com/url?q=https://voicebot.ai/2022/12/28/chatgpt-banned-on-chinese-social-media-app-wechat/\&sa=D\&source=editors\&ust=1672394735961969\&usg=AOvVaw2OJ2gF7ZM_kqYErhn-kPQO))
+- **Generative AI for creative work.** ([link](https://www.youtube.com/watch?v=DCXvXdaWqN4))
+- **ChatGPT banned on Chinese social media app WeChat.** Although it seems it's actually an unofficial proxy prohibited by OpenAI's ToS. ([link](https://voicebot.ai/2022/12/28/chatgpt-banned-on-chinese-social-media-app-wechat/))
   - Related tweet. ([link](https://twitter.com/goodside/status/1608539491458760704?s=12\&t=WygrgzqgdI0w5UYFoaNbcQ))
 - **Introduction to ChatGPT: Basics**. ([link](https://buildspace.so/notes/intro-to-chatgpt))
 - **Google’s PaLM is ready for the GPT challenge**. ([link](https://analyticsindiamag.com/googles-palm-is-ready-for-the-gpt-challenge/))

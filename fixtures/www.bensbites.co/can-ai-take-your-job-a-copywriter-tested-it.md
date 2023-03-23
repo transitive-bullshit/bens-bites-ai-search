@@ -48,7 +48,7 @@ There are only 1825 shirts in total — each is unique, serialized, and only ava
 
 Owning a piece of AI history sounds pretty cool.
 
-Check out Gallery of Automated Artistry's [tweet](https://www.google.com/url?q=https://twitter.com/GOAAAI/status/1617881949380673538\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw2Zan6Tc7zs2kKb6dP03GH_) for the giveaway (@GOAAAI) or [shop now on their site](https://www.google.com/url?q=https://goaa.ai/\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw0LCOc9_zI_nFTvzMsgManI).
+Check out Gallery of Automated Artistry's [tweet](https://twitter.com/GOAAAI/status/1617881949380673538) for the giveaway (@GOAAAI) or [shop now on their site](https://goaa.ai/).
 
 ### 🛠️ Cool Tools
 

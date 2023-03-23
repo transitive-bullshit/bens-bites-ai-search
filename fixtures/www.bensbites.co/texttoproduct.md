@@ -17,57 +17,57 @@ Ok, what's AI got in store for us today...
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/44658eeb-9721-4dcc-9921-a1c140b97770/ezgif.com-gif-maker__35_.gif)
 
-- Character, a full-stack Artificial General Intelligence (AGI) company has created **an AI assistant that can answer questions, offer advice, discuss favourite shows, and more**. ([link](https://www.google.com/url?q=https://blog.character.ai/introducing-character/\&sa=D\&source=editors\&ust=1670329759909255\&usg=AOvVaw28U1iqdo9xQDGEXe46aVT0))
-- This site was **built in less than 10 minutes using a few ChatGPT prompts and Replit**. ([link](https://www.google.com/url?q=https://twitter.com/replit/status/1599803817515548674\&sa=D\&source=editors\&ust=1670329759908795\&usg=AOvVaw3Pg3judnyaL7jqRJsTxwWB))
+- Character, a full-stack Artificial General Intelligence (AGI) company has created **an AI assistant that can answer questions, offer advice, discuss favourite shows, and more**. ([link](https://blog.character.ai/introducing-character/))
+- This site was **built in less than 10 minutes using a few ChatGPT prompts and Replit**. ([link](https://twitter.com/replit/status/1599803817515548674))
 
 ### **🛠️ Cool Tools**
 
-- Upload any language video up to 2 hours long and **generate English subtitles in 1 click**. ([link](https://www.google.com/url?q=https://www.supertranslate.ai/\&sa=D\&source=editors\&ust=1670329759909663\&usg=AOvVaw0LckHeI905N8u5Ki6voouq))
-- ShareGPT - **Share your wildest ChatGPT conversations** with one click. ([link](https://www.google.com/url?q=https://sharegpt.com/\&sa=D\&source=editors\&ust=1670329759909902\&usg=AOvVaw1CKHaD_A-e03ucnj_j3pCM))
-- ChatGPT Advanced – a chrome extension that lets you **augment your prompts to ChatGPT** with results from the web. ([link](https://www.google.com/url?q=https://github.com/qunash/chatgpt-advanced\&sa=D\&source=editors\&ust=1670329759910150\&usg=AOvVaw24CCy8fONzqX9o9uda_2rQ))
-- ​​Mother - a concept of **AI + web search**. ([link](https://www.google.com/url?q=https://twitter.com/vladquant/status/1599852381453549568\&sa=D\&source=editors\&ust=1670329759910400\&usg=AOvVaw2CNoIV6ehbIgVyoYy_bqGi))
-- A Chrome Extension to **summarise blogs and articles using ChatGPT**. ([link](https://www.google.com/url?q=https://github.com/clmnin/summarize.site\&sa=D\&source=editors\&ust=1670329759910638\&usg=AOvVaw2eh81EVwn7-nkxcX60zBk1))
-- **Scan a website and create a GPT3 bot** from it. ([link](https://www.google.com/url?q=https://chatessential.eyelevel.ai/demo\&sa=D\&source=editors\&ust=1670329759910878\&usg=AOvVaw1qB6yTA4RRz3Nbn86af3Mb))
-- AI Alt Text for Webflow - use A.I. to **create alt text for you**. ([link](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/ai-alt-text-for-webflow-b/lkffhkdaodfkeddbhicfkigpnneidbfb\&sa=D\&source=editors\&ust=1670329759911160\&usg=AOvVaw3ko0dlcWUe1x8CZ8RqDOnO))
-- AI Pickup Lines Generator - **Smoothest pickup lines ever** - powered by AI. ([link](https://www.google.com/url?q=https://www.aipickuplines.com/\&sa=D\&source=editors\&ust=1670329759911418\&usg=AOvVaw18q8QzxDPIT4VWHTIi_ksg))
-- Codeball - **AI-powered code review**. ([link](https://www.google.com/url?q=https://codeball.ai/\&sa=D\&source=editors\&ust=1670329759911706\&usg=AOvVaw1VSpi9bqx37Z2Lf4kt5Tnx))
+- Upload any language video up to 2 hours long and **generate English subtitles in 1 click**. ([link](https://www.supertranslate.ai/))
+- ShareGPT - **Share your wildest ChatGPT conversations** with one click. ([link](https://sharegpt.com/))
+- ChatGPT Advanced – a chrome extension that lets you **augment your prompts to ChatGPT** with results from the web. ([link](https://github.com/qunash/chatgpt-advanced))
+- ​​Mother - a concept of **AI + web search**. ([link](https://twitter.com/vladquant/status/1599852381453549568))
+- A Chrome Extension to **summarise blogs and articles using ChatGPT**. ([link](https://github.com/clmnin/summarize.site))
+- **Scan a website and create a GPT3 bot** from it. ([link](https://chatessential.eyelevel.ai/demo))
+- AI Alt Text for Webflow - use A.I. to **create alt text for you**. ([link](https://chrome.google.com/webstore/detail/ai-alt-text-for-webflow-b/lkffhkdaodfkeddbhicfkigpnneidbfb))
+- AI Pickup Lines Generator - **Smoothest pickup lines ever** - powered by AI. ([link](https://www.aipickuplines.com/))
+- Codeball - **AI-powered code review**. ([link](https://codeball.ai/))
 
 👋 Too many links?! I created a database for all links mentioned in these emails. Refer 1 friend [using this link](https://www.bensbites.co/subscribe?ref=PLACEHOLDER) and I'll send over the link database.
 
 ### **🎓 Learn**
 
-- Ben’s Bites Tutorials - **we’re launching a dedicated site to learn how to use and build with AI**. [Click here to register your interest](https://airtable.com/shrU24EDbHnl36Zol) and we’ll notify you when it’s live. And if you’re interested in contributing tutorials, [apply here](https://www.google.com/url?q=https://airtable.com/shrLpJNt7UJSDyUhU\&sa=D\&source=editors\&ust=1670329759912563\&usg=AOvVaw0ls72fNQ4qPq9MZECE1nE7).
-- Hugging Face launched version 2 of its **Deep Reinforcement Learning class**. ([link](https://www.google.com/url?q=https://huggingface.co/deep-rl-course/unit0/introduction\&sa=D\&source=editors\&ust=1670329759912838\&usg=AOvVaw3_kuUyp-e_2EqeDZA-8v4M))
+- Ben’s Bites Tutorials - **we’re launching a dedicated site to learn how to use and build with AI**. [Click here to register your interest](https://airtable.com/shrU24EDbHnl36Zol) and we’ll notify you when it’s live. And if you’re interested in contributing tutorials, [apply here](https://airtable.com/shrLpJNt7UJSDyUhU).
+- Hugging Face launched version 2 of its **Deep Reinforcement Learning class**. ([link](https://huggingface.co/deep-rl-course/unit0/introduction))
 
 ### **🔬 Research**
 
-- Fast Weight Layers (FWLs), a neural component that **provides the benefits of dynamic evaluation of language models** (LMs) more efficiently. ([link](https://www.google.com/url?q=https://arxiv.org/abs/2212.02475\&sa=D\&source=editors\&ust=1670329759913206\&usg=AOvVaw3MhEIGYpyVNK1KJqgfp8jZ))
-- ANGIE - generate **realistic and vivid co-speech gesture videos** from audio and images. ([link](https://www.google.com/url?q=https://alvinliu0.github.io/projects/ANGIE\&sa=D\&source=editors\&ust=1670329759913459\&usg=AOvVaw00ffXmQTmVwGH02EaRl7o0))
-- The use of Diffusion Probabilistic Models (DPMs) for **image deblurring**, and a multi-scale domain-generalisable representation to improve the out-of-distribution performance. ([link](https://www.google.com/url?q=https://arxiv.org/abs/2212.01789\&sa=D\&source=editors\&ust=1670329759914002\&usg=AOvVaw21IyIg86VI5NZaFPZ7cxnj))
+- Fast Weight Layers (FWLs), a neural component that **provides the benefits of dynamic evaluation of language models** (LMs) more efficiently. ([link](https://arxiv.org/abs/2212.02475))
+- ANGIE - generate **realistic and vivid co-speech gesture videos** from audio and images. ([link](https://alvinliu0.github.io/projects/ANGIE))
+- The use of Diffusion Probabilistic Models (DPMs) for **image deblurring**, and a multi-scale domain-generalisable representation to improve the out-of-distribution performance. ([link](https://arxiv.org/abs/2212.01789))
 - ClipFace: Text-guided **editing of textured 3d morphable models**. ([link](https://shivangi-aneja.github.io/projects/clipface/))
 - StegaNeRF: **Embedding invisible information** within neural radiance fields. ([link](https://xggnet.github.io/StegaNeRF/))
-- PhysDiff: Physics-guided **human motion diffusion model**. ([link](https://www.google.com/url?q=https://nvlabs.github.io/PhysDiff/\&sa=D\&source=editors\&ust=1670329759913707\&usg=AOvVaw2Qki_tQtyHoKHSXVW4W2pg))
+- PhysDiff: Physics-guided **human motion diffusion model**. ([link](https://nvlabs.github.io/PhysDiff/))
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c5aa719b-fd39-46f8-80ee-3c2e0c1efd9a/ezgif.com-gif-maker__36_.gif)
 
 ### **🤓 Everything else**
 
-- Mario at The Generalist discusses the potential **implications of generative artificial intelligence on media production** and consumption. ([link](https://www.google.com/url?q=https://www.generalist.com/briefing/endless-media\&sa=D\&source=editors\&ust=1670329759914408\&usg=AOvVaw2ngEk_YIqS3wrbXViOT1PL))
-- Ben Thompson of Stratechery gave his opinion on ChatGPT and how it could be **incorporated into schools**. ([link](https://www.google.com/url?q=https://stratechery.com/2022/ai-homework/\&sa=D\&source=editors\&ust=1670329759914657\&usg=AOvVaw1iFMEAZmIS-Ls8rAa_kPUQ))
-- Fred Wilson, from USV, wrote a short blog post on **how AI and web3 could be beneficial to each other**. I could see in an age where any image could be AI-generated, perhaps NFTs have a place to provide ownership. ([link](https://www.google.com/url?q=https://avc.com/2022/12/sign-everything/\&sa=D\&source=editors\&ust=1670329759914919\&usg=AOvVaw2RpClvYJ_cKvlNKYWDAXMe))
-- Runway just announced a **$50M financing round and a new tool -**[**AI Training**](https://www.google.com/url?q=https://twitter.com/runwayml/status/1599765518344282113\&sa=D\&source=editors\&ust=1670329759915242\&usg=AOvVaw2NQTrs4heNE9AxULHWINNv) - which allows you to train your own custom AI model in just a few minutes. ([announcement link](https://www.google.com/url?q=https://www.forbes.com/sites/kenrickcai/2022/12/05/runway-ml-series-c-funding-500-million-valuation/\&sa=D\&source=editors\&ust=1670329759915564\&usg=AOvVaw3L6UtoSzdSDzMkAPZLxBiZ))
-- APIChain - A general framework for **interacting with an API in natural language**. ([link](https://www.google.com/url?q=https://twitter.com/hwchase17/status/1599792665578831878\&sa=D\&source=editors\&ust=1670329759915950\&usg=AOvVaw06gxQiKvuW7shFgHtaE3dG))
-- **Adobe will sell AI-made stock images**. ([link](https://www.google.com/url?q=https://www.axios.com/2022/12/05/adobe-ai-made-stock-images\&sa=D\&source=editors\&ust=1670329759916304\&usg=AOvVaw3PuAwY10fP9VA7EGe4V80D))
-- OpenAI has an investment fund, and this is a look into **its investment thesis**. ([link](https://www.google.com/url?q=https://www.emergingtechbrew.com/stories/2022/12/05/openai-is-also-a-startup-investor-here-s-its-investment-thesis\&sa=D\&source=editors\&ust=1670329759916634\&usg=AOvVaw0gvEQeP8UzsZ2vOOI_n_oP))
-- The latest episode of **‘Anton teaches Packy’ - looking at the first AI Winter**. ([link](https://www.google.com/url?q=https://youtu.be/MpBdVJEx2Aw\&sa=D\&source=editors\&ust=1670329759916886\&usg=AOvVaw3KrVkBPzDXW3BXxjLQXo96))
-- All tech goes through 4 seasons. Is it **Springtime for AI**? ([link](https://www.google.com/url?q=https://www.notboring.co/p/four-seasons-total-tech\&sa=D\&source=editors\&ust=1670329759917140\&usg=AOvVaw0O-WryaWRuSEYH1N1UaZyS))
-- A theory that the gap between AI and humans will accelerate not only because AI keeps getting better, but also because **people using AI will get less smart**. Similar to how we cannot drive in our own cities without GPS. ([link](https://www.google.com/url?q=https://twitter.com/eladgil/status/1599800804961320960\&sa=D\&source=editors\&ust=1670329759917397\&usg=AOvVaw3RdBjLEb6Wo5BEQr45cYG8))
-- AI is so certain in its responses, even when they are wildly incorrect. How can we fix it? ([link](https://www.google.com/url?q=https://twitter.com/drjimfan/status/1599854164204736512\&sa=D\&source=editors\&ust=1670329759917650\&usg=AOvVaw0x8vBZacvJAJBT4bddvSZX))
-- A great thread on Hacker News. “Right now we're in the "flip-phone" era of AI. In 10 years from now, mark this prediction: nearly **everyone will have an AI counterpart that is trained and unique to each individual**.” ([link](https://www.google.com/url?q=https://news.ycombinator.com/item?id%3D33868515\&sa=D\&source=editors\&ust=1670329759917910\&usg=AOvVaw3hZILdDLc0k1w1ZONDrRBh))
-- A podcast **interview with Danny Postma**, topics; most exciting things in AI, 8 months to a 7-figure sale, AI business ideas, future use cases, slowmad lifestyle and indiehacking. ([link](https://www.google.com/url?q=https://youtu.be/4PWqRILYz8U\&sa=D\&source=editors\&ust=1670329759918153\&usg=AOvVaw3mqt12dIMTaz-_9eGgw4t_))
-- Hunter Walk wrote a blog post “Don’t Believe The Terminator Movies, Artificial Intelligence’s First Strike Against Humanity Is By Flattery, Not Force.” The post discusses the **implications of using Lensa's Magic Avatars, which are enhanced selfies, and how they can lead to a positive feedback loop of AI being trained to deceive us**. ([link](https://www.google.com/url?q=https://hunterwalk.medium.com/dont-believe-the-terminator-movies-artificial-intelligence-s-first-strike-against-humanity-is-by-5b091b60ff83\&sa=D\&source=editors\&ust=1670329759918474\&usg=AOvVaw2iJNVqEzDztiznqRdJDohH))
-- AI-generated answers were temporarily **banned on the coding Q\&A site Stack Overflow.** ([link](https://www.google.com/url?q=https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers\&sa=D\&source=editors\&ust=1670329759918773\&usg=AOvVaw04tbO1uf05N_03kHQu8F1n))
-- **The hall monitors are winning the AI wars**. ([link](https://www.google.com/url?q=https://www.jonstokes.com/p/the-hall-monitors-are-winning-the\&sa=D\&source=editors\&ust=1670329759919034\&usg=AOvVaw21JjvGZdQChef9d3rtHwEl))
+- Mario at The Generalist discusses the potential **implications of generative artificial intelligence on media production** and consumption. ([link](https://www.generalist.com/briefing/endless-media))
+- Ben Thompson of Stratechery gave his opinion on ChatGPT and how it could be **incorporated into schools**. ([link](https://stratechery.com/2022/ai-homework/))
+- Fred Wilson, from USV, wrote a short blog post on **how AI and web3 could be beneficial to each other**. I could see in an age where any image could be AI-generated, perhaps NFTs have a place to provide ownership. ([link](https://avc.com/2022/12/sign-everything/))
+- Runway just announced a **$50M financing round and a new tool -**[**AI Training**](https://twitter.com/runwayml/status/1599765518344282113) - which allows you to train your own custom AI model in just a few minutes. ([announcement link](https://www.forbes.com/sites/kenrickcai/2022/12/05/runway-ml-series-c-funding-500-million-valuation/))
+- APIChain - A general framework for **interacting with an API in natural language**. ([link](https://twitter.com/hwchase17/status/1599792665578831878))
+- **Adobe will sell AI-made stock images**. ([link](https://www.axios.com/2022/12/05/adobe-ai-made-stock-images))
+- OpenAI has an investment fund, and this is a look into **its investment thesis**. ([link](https://www.emergingtechbrew.com/stories/2022/12/05/openai-is-also-a-startup-investor-here-s-its-investment-thesis))
+- The latest episode of **‘Anton teaches Packy’ - looking at the first AI Winter**. ([link](https://youtu.be/MpBdVJEx2Aw))
+- All tech goes through 4 seasons. Is it **Springtime for AI**? ([link](https://www.notboring.co/p/four-seasons-total-tech))
+- A theory that the gap between AI and humans will accelerate not only because AI keeps getting better, but also because **people using AI will get less smart**. Similar to how we cannot drive in our own cities without GPS. ([link](https://twitter.com/eladgil/status/1599800804961320960))
+- AI is so certain in its responses, even when they are wildly incorrect. How can we fix it? ([link](https://twitter.com/drjimfan/status/1599854164204736512))
+- A great thread on Hacker News. “Right now we're in the "flip-phone" era of AI. In 10 years from now, mark this prediction: nearly **everyone will have an AI counterpart that is trained and unique to each individual**.” ([link](https://news.ycombinator.com/item?id=33868515))
+- A podcast **interview with Danny Postma**, topics; most exciting things in AI, 8 months to a 7-figure sale, AI business ideas, future use cases, slowmad lifestyle and indiehacking. ([link](https://youtu.be/4PWqRILYz8U))
+- Hunter Walk wrote a blog post “Don’t Believe The Terminator Movies, Artificial Intelligence’s First Strike Against Humanity Is By Flattery, Not Force.” The post discusses the **implications of using Lensa's Magic Avatars, which are enhanced selfies, and how they can lead to a positive feedback loop of AI being trained to deceive us**. ([link](https://hunterwalk.medium.com/dont-believe-the-terminator-movies-artificial-intelligence-s-first-strike-against-humanity-is-by-5b091b60ff83))
+- AI-generated answers were temporarily **banned on the coding Q\&A site Stack Overflow.** ([link](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers))
+- **The hall monitors are winning the AI wars**. ([link](https://www.jonstokes.com/p/the-hall-monitors-are-winning-the))
 - Open AI's ChatGPT can **generate an entire WordPress plugin** based on a simple description. ([link](https://twitter.com/johnofhousejohn/status/1599932681076473856))
 
 ## **🧑‍💻 Who's hiring in AI**

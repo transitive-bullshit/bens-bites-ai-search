@@ -43,13 +43,13 @@ You gotta love the coining of a phrase, and this one is more relevant than ever:
 
 Yep, you heard that right. Thought I’d keep things wacky to end the week - because why not!? These scientists have been training ML models to learn the characteristics of sounds that are typical of the cosmos. When unfamiliar sounds are detected, shout “ALIENS!”
 
-*Are you tired of the endless search for top engineering talent for your startup?* *[Look no further than](https://lemon.io/alternative-for-startups/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)*[*Lemon.io*](https://www.google.com/url?q=http://Lemon.io\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw0QBMru-FT9Vyh7NPJ-CNgQ)[*!*](https://www.google.com/url?q=https://lemon.io/alternative-for-startups?utm_source%3Dnewsletter%26utm_medium%3Dsocial%26utm_campaign%3Dben%2527sbites_demand_en_1_feb_2023%26utm_id%3Dim\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw18PUu9ZEH73iU64bszJy47)
+*Are you tired of the endless search for top engineering talent for your startup?* *[Look no further than](https://lemon.io/alternative-for-startups/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)*[*Lemon.io*](http://Lemon.io)[*!*](https://lemon.io/alternative-for-startups?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)
 
 *They have a network of engineers from Europe and Latin America, and every candidate has already been tested and interviewed by their team.*
 
 *With* *[Lemon.io](https://lemon.io/)* *, you can have an engineer start working on your project within a week instead of months, and you don't have to waste your time on candidates that are not qualified.*
 
-*[Hire developers smarter with](https://lemon.io/alternative-for-startups/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)*[*Lemon.io*](https://www.google.com/url?q=http://Lemon.io\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw0QBMru-FT9Vyh7NPJ-CNgQ)[*.*](https://www.google.com/url?q=https://lemon.io/alternative-for-startups?utm_source%3Dnewsletter%26utm_medium%3Dsocial%26utm_campaign%3Dben%2527sbites_demand_en_1_feb_2023%26utm_id%3Dim\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw18PUu9ZEH73iU64bszJy47)
+*[Hire developers smarter with](https://lemon.io/alternative-for-startups/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)*[*Lemon.io*](http://Lemon.io)[*.*](https://lemon.io/alternative-for-startups?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_1_feb_2023\&utm_id=im)
 
 ### 🛠️ Cool Tools
 

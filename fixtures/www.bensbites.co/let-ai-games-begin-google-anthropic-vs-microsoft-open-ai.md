@@ -57,7 +57,7 @@ Learn how this guy generated**10% of his total revenue using affiliate marketing
 
 Damon, the founder of [testimonial.io](https://testimonial.to/?via=io), managed to sign**600 affiliates** that generated a whopping 10% of the company’s revenue thanks to a killer affiliate program. [In this Twitter thread](https://wow.rewardful.com/bens_bites2/), he explains what he did exactly.
 
-[**Read Damon's Twitter thread here**](https://www.google.com/url?q=https://streaklinks.com/BYQZKxB5OcLVvZythQocTBhp/https%253A%252F%252Fwow.rewardful.com%252Fbens_bites2\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw1RsWiqHNxBxjJGaKW-N_bA)...
+[**Read Damon's Twitter thread here**](https://streaklinks.com/BYQZKxB5OcLVvZythQocTBhp/https%3A%2F%2Fwow.rewardful.com%2Fbens_bites2)...
 
 ### 🛠️ Cool Tools
 

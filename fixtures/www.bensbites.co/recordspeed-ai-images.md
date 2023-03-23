@@ -47,7 +47,7 @@ Ready to take your startup to the next level but **struggling to find the right 
 
 Lemon.io provides a trusted source of pre-vetted candidates to make your search easier and faster. They offer tested and verified devs, affordable rates, and a zero-risk replacement guarantee.
 
-Need developers with startup grit? **[Go to](https://lemon.io/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_2_feb_2023\&utm_id=im)[Lemon.io](https://www.google.com/url?q=http://Lemon.io\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw0QBMru-FT9Vyh7NPJ-CNgQ) and find your perfect developer or team there.**
+Need developers with startup grit? **[Go to](https://lemon.io/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_2_feb_2023\&utm_id=im)[Lemon.io](http://Lemon.io) and find your perfect developer or team there.**
 
 [Request a free quote. Get a match in 48 hours.](https://lemon.io/?utm_source=newsletter\&utm_medium=social\&utm_campaign=ben%27sbites_demand_en_2_feb_2023\&utm_id=im)
 
