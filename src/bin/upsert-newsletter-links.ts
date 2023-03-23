@@ -7,7 +7,11 @@ import * as config from '@/server/config'
 import * as types from '@/server/types'
 import * as utils from '@/server/utils'
 import { createEmbedding } from '@/server/embedding'
-import { fetchVectors, upsertVectors } from '@/server/services/pinecone'
+import {
+  fetchVectors,
+  pinecone,
+  upsertVectors
+} from '@/server/services/pinecone'
 
 async function main() {
   const force = !!process.env.FORCE
@@ -19,10 +23,16 @@ async function main() {
     }
   )
 
+  console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
+
   const newsletterLinks: types.NewsletterLink[] = parsed.data
   let newNewsletterLinks: types.NewsletterLink[] = newsletterLinks
 
-  if (!force) {
+  if (force) {
+    console.log('DELETING ALL PINECONE VECTORS', pinecone.namespace)
+    await pinecone.delete({ deleteAll: true })
+    console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
+  } else {
     const newsletterLinksMapById: Record<string, types.NewsletterLink> = {}
     for (const link of newsletterLinks) {
       const id = utils.getNewsletterLinkId(link)
@@ -125,6 +135,7 @@ async function main() {
   ).filter(Boolean)
 
   await upsertVectors(vectors)
+  console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
 }
 
 main().catch((err) => {
