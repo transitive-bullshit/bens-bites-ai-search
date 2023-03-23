@@ -1,30 +1,52 @@
 import * as fs from 'node:fs/promises'
 import path from 'node:path'
 
+import pMap from 'p-map'
 import rmfr from 'rmfr'
 
 import * as beehiiv from '@/server/beehiiv'
 import * as config from '@/server/config'
+import * as types from '@/server/types'
 
 async function main() {
-  // const url = 'https://t.co/9gy192Ct5d'
-  // await resolveLink(url)
-  // return
+  const force = !!process.env.FORCE
 
-  // const page = await beehiiv.resolveBeeHiivPostContent(
-  //   'https://www.bensbites.co/p/wordle-prompts',
-  //   //   'https://www.bensbites.co/p/microsoft-stepping-gear',
-  //   { baseUrl: config.newsletterUrl }
-  // )
-  // console.log(page)
-  // return
+  let existingNewsletter: types.beehiiv.Newsletter
+
+  if (!force) {
+    try {
+      existingNewsletter = JSON.parse(
+        await fs.readFile(config.newsletterMetadataPath, 'utf-8')
+      )
+
+      const posts = await pMap(
+        existingNewsletter.posts,
+        async (post) => {
+          const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
+          const markdown = await fs.readFile(postPath, 'utf-8')
+          post.markdown = markdown
+          return post
+        },
+        {
+          concurrency: 8
+        }
+      )
+    } catch (err) {
+      console.warn('warning unable to read newsletter cache', err.toString())
+    }
+  }
 
   const newsletter = await beehiiv.resolveBeeHiivNewsletter(
-    config.newsletterUrl
+    config.newsletterUrl,
+    {
+      newsletter: existingNewsletter
+    }
   )
 
   const outDir = config.newsletterDir
-  await rmfr(outDir)
+  if (force) {
+    await rmfr(outDir)
+  }
   await fs.mkdir(outDir, { recursive: true })
 
   for (const post of newsletter.posts) {

@@ -35,7 +35,7 @@ export async function upsertVectors(
   await pMap(
     batches,
     async (batch, index) => {
-      // console.log('pinecone upsert batch', index, batch.length)
+      console.log('pinecone upsert batch', index, batch.length)
 
       try {
         await pinecone.upsert({ vectors: batch, batchSize })

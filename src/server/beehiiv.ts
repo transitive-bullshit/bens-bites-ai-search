@@ -10,15 +10,26 @@ export async function resolveBeeHiivNewsletter(
   url: string,
   {
     normalizeMarkdown: shouldNormalizeMarkdown = true,
-    beehiivCookie = process.env.BEEHIIV_COOKIE
+    beehiivCookie = process.env.BEEHIIV_COOKIE,
+    newsletter
   }: {
     normalizeMarkdown?: boolean
     beehiivCookie?: string
+    newsletter?: beehiiv.Newsletter
   } = {}
 ) {
   const u = new URL(url)
   const domain = u.hostname
   const baseUrl = u.origin
+
+  if (!newsletter) {
+    newsletter = {
+      domain,
+      baseUrl,
+      publication: null,
+      posts: []
+    }
+  }
 
   const page = await got(baseUrl, {
     headers: { cookie: beehiivCookie }
@@ -38,8 +49,7 @@ export async function resolveBeeHiivNewsletter(
   ;(globalThis as any).window = global
   const ctx = eval(s)
 
-  const publication: beehiiv.Publication = ctx.routeData.root.publication
-  // console.log(JSON.stringify(publication, null, 2))
+  newsletter.publication = ctx.routeData.root.publication
 
   const route = ctx.routeData['routes/index']
   const numPages = route?.paginatedPosts?.pagination?.total_pages
@@ -50,21 +60,28 @@ export async function resolveBeeHiivNewsletter(
     pages.push(i)
   }
 
-  const postPages: beehiiv.Post[][] = await pMap(
-    pages,
-    async (index) => {
-      const url = `${baseUrl}/posts?page=${index}&_data=routes%2F__loaders%2Fposts`
-      const page: any = await got(url, {
-        headers: { cookie: beehiivCookie }
-      }).json()
-      return page.posts
-    },
-    {
-      concurrency: 4
-    }
-  )
+  const existingPostsById = new Map<string, beehiiv.Post>()
+  for (const post of newsletter.posts) {
+    existingPostsById.set(post.id, post)
+  }
 
-  const posts: beehiiv.Post[] = postPages.flat()
+  const posts: beehiiv.Post[] = (
+    await pMap(
+      pages,
+      async (index) => {
+        const url = `${baseUrl}/posts?page=${index}&_data=routes%2F__loaders%2Fposts`
+        const page: any = await got(url, {
+          headers: { cookie: beehiivCookie }
+        }).json()
+        return page.posts
+      },
+      {
+        concurrency: 4
+      }
+    )
+  )
+    .flat()
+    .filter((post) => !existingPostsById.has(post.id))
 
   await pMap(
     posts,
@@ -87,12 +104,12 @@ export async function resolveBeeHiivNewsletter(
     }
   )
 
-  return {
-    domain,
-    baseUrl,
-    publication,
-    posts
-  }
+  newsletter.posts = posts.concat(newsletter.posts)
+  // newsletter.posts.sort((a, b) => {
+  //   return new Date(a.created_at).getTime() - new Date(b.created_at).getTime()
+  // })
+
+  return newsletter
 }
 
 export async function resolveBeeHiivPostContent(
