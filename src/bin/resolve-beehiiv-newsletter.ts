@@ -10,6 +10,7 @@ import * as types from '@/server/types'
 
 async function main() {
   const force = !!process.env.FORCE
+  const outDir = config.newsletterDir
 
   let existingNewsletter: types.beehiiv.Newsletter
 
@@ -19,18 +20,31 @@ async function main() {
         await fs.readFile(config.newsletterMetadataPath, 'utf-8')
       )
 
-      const posts = await pMap(
-        existingNewsletter.posts,
-        async (post) => {
-          const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
-          const markdown = await fs.readFile(postPath, 'utf-8')
-          post.markdown = markdown
-          return post
-        },
-        {
-          concurrency: 8
-        }
-      )
+      existingNewsletter.posts = (
+        await pMap(
+          existingNewsletter.posts,
+          async (post) => {
+            const postPath = path.join(config.newsletterDir, `${post.slug}.md`)
+            try {
+              const markdown = await fs.readFile(postPath, 'utf-8')
+              post.markdown = markdown
+              return post
+            } catch (err) {
+              console.warn(
+                'warning unable to read post markdown cache',
+                post.url,
+                postPath,
+                err.toString()
+              )
+
+              return null
+            }
+          },
+          {
+            concurrency: 8
+          }
+        )
+      ).filter(Boolean)
     } catch (err) {
       console.warn('warning unable to read newsletter cache', err.toString())
     }
@@ -43,7 +57,6 @@ async function main() {
     }
   )
 
-  const outDir = config.newsletterDir
   if (force) {
     await rmfr(outDir)
   }

@@ -65,6 +65,8 @@ export async function resolveBeeHiivNewsletter(
     existingPostsById.set(post.id, post)
   }
 
+  console.log()
+
   const posts: beehiiv.Post[] = (
     await pMap(
       pages,
@@ -73,7 +75,11 @@ export async function resolveBeeHiivNewsletter(
         const page: any = await got(url, {
           headers: { cookie: beehiivCookie }
         }).json()
-        return page.posts
+        return (page.posts as beehiiv.Post[]).map((post) => {
+          const url = `${baseUrl}/p/${post.slug}`
+          post.url = url
+          return post
+        })
       },
       {
         concurrency: 4
@@ -81,16 +87,22 @@ export async function resolveBeeHiivNewsletter(
     )
   )
     .flat()
-    .filter((post) => !existingPostsById.has(post.id))
+    .filter((post, index) => {
+      if (existingPostsById.has(post.id)) {
+        console.log(`${index}) skipping cached post`, post.slug)
+        return false
+      }
+
+      return true
+    })
+
+  console.log()
 
   await pMap(
     posts,
     async (post) => {
-      const url = `${baseUrl}/p/${post.slug}`
-      post.url = url
-
       try {
-        post.markdown = await resolveBeeHiivPostContent(url, {
+        post.markdown = await resolveBeeHiivPostContent(post.url, {
           baseUrl,
           normalizeMarkdown: shouldNormalizeMarkdown,
           beehiivCookie
