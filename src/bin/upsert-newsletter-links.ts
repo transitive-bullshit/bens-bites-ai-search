@@ -1,7 +1,4 @@
-import * as fs from 'node:fs/promises'
-
 import pMap from 'p-map'
-import papaparse from 'papaparse'
 
 import * as config from '@/server/config'
 import * as types from '@/server/types'
@@ -16,27 +13,12 @@ import {
 async function main() {
   const force = !!process.env.FORCE
 
-  const parsed = papaparse.parse(
-    await fs.readFile(config.newsletterLinksPath, 'utf-8'),
-    {
-      header: true
-    }
+  const newsletterLinks: types.NewsletterLink[] = await utils.readJson(
+    config.newsletterLinksPath
   )
+  let newNewsletterLinks: types.NewsletterLink[] = newsletterLinks
 
   console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
-
-  const newsletterLinks: types.NewsletterLink[] = parsed.data
-  // TODO
-  for (const link of newsletterLinks) {
-    if ((link.dead as any) === 'false') {
-      link.dead = false
-    }
-    if ((link.dead as any) === 'true') {
-      link.dead = true
-    }
-  }
-
-  let newNewsletterLinks: types.NewsletterLink[] = newsletterLinks
 
   if (force) {
     console.log(

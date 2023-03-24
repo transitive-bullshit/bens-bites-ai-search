@@ -43,6 +43,7 @@ export function normalizeUrl(url: string): string {
 
     if (
       parsedUrl.hostname === 'twitter.com' ||
+      parsedUrl.hostname === 't.co' ||
       parsedUrl.hostname === 'www.twitter.com'
     ) {
       parsedUrl.searchParams.delete('s')

@@ -3,7 +3,6 @@ import path from 'node:path'
 
 import { Storage } from '@google-cloud/storage'
 import pMap from 'p-map'
-import papaparse from 'papaparse'
 import remarkParse from 'remark-parse'
 import { unified } from 'unified'
 
@@ -35,23 +34,11 @@ async function main() {
 
   if (!force) {
     try {
-      const parsed = papaparse.parse(
-        await fs.readFile(config.newsletterLinksPath, 'utf-8'),
-        {
-          header: true,
-          dynamicTyping: true
-        }
+      const newsletterLinks: types.NewsletterLink[] = await utils.readJson(
+        config.newsletterLinksPath
       )
-      const newsletterLinks: types.NewsletterLink[] = parsed.data
 
       for (const link of newsletterLinks) {
-        if ((link.dead as any) === 'false') {
-          link.dead = false
-        }
-        if ((link.dead as any) === 'true') {
-          link.dead = true
-        }
-
         if (link.url) {
           newsletterLinkMap[link.url] = link
         }
@@ -450,37 +437,7 @@ async function main() {
 
   console.log(`writing ${urls.length} links to ${config.newsletterLinksPath}\n`)
 
-  await fs.writeFile(
-    config.newsletterLinksPath,
-    papaparse.unparse(urls, {
-      columns: [
-        'linkText',
-        'url',
-        'title',
-        'site',
-        'description',
-        'author',
-        'category',
-        'shortlink',
-        'canonical',
-        'date',
-        'author_url',
-        'thumbnail',
-        'thumbnailWidth',
-        'thumbnailHeight',
-        'icon',
-        'iconWidth',
-        'iconHeight',
-        'dead',
-        'postTitle',
-        'postDate',
-        'postId',
-        'postUrl'
-      ]
-    }),
-    'utf-8'
-  )
-
+  await utils.writeJson(config.newsletterLinksPath, urls)
   process.exit(0)
 }
 

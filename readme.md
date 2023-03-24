@@ -24,10 +24,17 @@ TODO
 
 ## TODO
 
-- data preprocessing
-  - remove bold from headings
-  - fix missing nbsp in markdown for cases like https://www.bensbites.co/p/wordle-prompts
-  - fix missing space in some headers between emoji
+- MVP
+  - explore hybrid search
+  - infinite scroll so you can keep scrolling results
+  - possibly show the number of posts / links on the home page so it's clear when it was last updated
+  - sort by date
+  - about page
+  - display which newsletter the post first appeared in
+  - rename git repo
+  - social image
+  - test on safari/firefox
+  - set up cron to update the DB daily
 
 ## License
 
