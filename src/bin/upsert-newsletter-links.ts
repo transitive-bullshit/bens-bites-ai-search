@@ -26,6 +26,16 @@ async function main() {
   console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
 
   const newsletterLinks: types.NewsletterLink[] = parsed.data
+  // TODO
+  for (const link of newsletterLinks) {
+    if ((link.dead as any) === 'false') {
+      link.dead = false
+    }
+    if ((link.dead as any) === 'true') {
+      link.dead = true
+    }
+  }
+
   let newNewsletterLinks: types.NewsletterLink[] = newsletterLinks
 
   if (force) {
@@ -49,9 +59,9 @@ async function main() {
       existingVectorsMapById[vector.id] = vector
     }
     newNewsletterLinks = newsletterLinkIds
-      .map((id) =>
-        existingVectorsMapById[id] ? null : newsletterLinksMapById[id]
-      )
+      .map((id) => {
+        return existingVectorsMapById[id] ? null : newsletterLinksMapById[id]
+      })
       .filter(Boolean)
   }
 
@@ -60,7 +70,8 @@ async function main() {
     newNewsletterLinks.length,
     'links',
     `(${newsletterLinks.length} total${force ? ' (force refresh)' : ''})`,
-    '\n'
+    '\n',
+    newNewsletterLinks.map((l) => l.url)
   )
 
   const vectors = (

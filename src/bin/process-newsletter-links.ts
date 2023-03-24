@@ -45,6 +45,13 @@ async function main() {
       const newsletterLinks: types.NewsletterLink[] = parsed.data
 
       for (const link of newsletterLinks) {
+        if ((link.dead as any) === 'false') {
+          link.dead = false
+        }
+        if ((link.dead as any) === 'true') {
+          link.dead = true
+        }
+
         if (link.url) {
           newsletterLinkMap[link.url] = link
         }
@@ -216,7 +223,7 @@ async function main() {
   // resolve twitter links
   const twitterUsernames: Record<string, string[]> = {}
   const tweetIds: Record<string, string[]> = {}
-  for (const url of urls) {
+  for (const url of newUrls) {
     if (url.dead) continue
     const parsedUrl = new URL(url.url)
     if (parsedUrl.hostname !== 'twitter.com') {
