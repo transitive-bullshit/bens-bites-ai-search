@@ -29,7 +29,9 @@ async function main() {
   let newNewsletterLinks: types.NewsletterLink[] = newsletterLinks
 
   if (force) {
-    console.log('DELETING ALL PINECONE VECTORS', pinecone.namespace)
+    console.log(
+      `DELETING ALL PINECONE VECTORS in the "${pinecone.namespace}" namespace`
+    )
     await pinecone.delete({ deleteAll: true })
     console.log('\npinecone', await pinecone.describeIndexStats(), '\n')
   } else {
