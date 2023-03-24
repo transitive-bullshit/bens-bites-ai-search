@@ -1,7 +1,7 @@
 import * as React from 'react'
 import cs from 'clsx'
 import Image from 'next/image'
-import Link from 'next/link'
+import TweetEmbed from 'react-tweet-embed'
 import { format } from 'timeago.js'
 
 import * as types from '@/types'
@@ -13,6 +13,7 @@ export const SearchResult: React.FC<{
   result: types.SearchResult
   className?: string
 }> = React.forwardRef(function SearchResult({ result, className }, ref) {
+  const [thumbnailError, setThumbnailError] = React.useState(null)
   const { metadata } = result
   const thumbnailWidth =
     typeof metadata.thumbnailWidth === 'string' && metadata.thumbnailWidth
@@ -40,6 +41,16 @@ export const SearchResult: React.FC<{
     .filter(Boolean)
     .join('')
   const relativeTime = format(metadata.date || metadata.postDate)
+
+  let tweetId: string = null
+  if (parsedUrl.hostname === 'twitter.com') {
+    const tweetM = parsedUrl.pathname.match(
+      /^\/([a-zA-Z0-9_]+)\/status\/(\d+)$/
+    )
+    if (tweetM?.[2]) {
+      tweetId = tweetM[2]
+    }
+  }
 
   return (
     <a
@@ -74,7 +85,9 @@ export const SearchResult: React.FC<{
           </div>
         </div>
 
-        <h3 className={cs('link', styles.title)}>{metadata.title}</h3>
+        {metadata.title?.trim() && (
+          <h3 className={cs(styles.title)}>{metadata.title}</h3>
+        )}
 
         {metadata.description && (
           <p className={styles.desc}>
@@ -86,19 +99,25 @@ export const SearchResult: React.FC<{
         )}
       </div>
 
-      {thumbnail && (
-        <div className={styles.frame}>
-          <Image
-            className={styles.thumbnail}
-            src={thumbnail}
-            alt={title}
-            width={thumbnailWidth}
-            height={thumbnailHeight}
-            unoptimized
-            fill={!thumbnailWidth || !thumbnailHeight}
-          />
-        </div>
-      )}
+      <div className={styles.frame}>
+        {tweetId ? (
+          <TweetEmbed tweetId={tweetId} className={styles.thumbnail} />
+        ) : (
+          thumbnail &&
+          !thumbnailError && (
+            <Image
+              className={styles.thumbnail}
+              src={thumbnail}
+              alt={title}
+              width={thumbnailWidth}
+              height={thumbnailHeight}
+              unoptimized
+              fill={!thumbnailWidth || !thumbnailHeight}
+              onError={setThumbnailError}
+            />
+          )
+        )}
+      </div>
     </a>
   )
 })

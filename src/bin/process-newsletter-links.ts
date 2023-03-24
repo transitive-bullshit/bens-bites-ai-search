@@ -328,6 +328,7 @@ async function main() {
 
   let maxUrl: types.NewsletterLink = null
   for (const url of urls) {
+    // limit max description length
     url.description = url.description?.slice(0, 1000).trim()
 
     if (

@@ -151,3 +151,7 @@ body {
 [data-nextjs-scroll-focus-boundary] {
   display: contents;
 }
+
+.twitter-tweet {
+  margin: 0 !important;
+}
