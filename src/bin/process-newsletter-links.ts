@@ -12,6 +12,7 @@ import * as types from '@/server/types'
 
 async function main() {
   const force = !!process.env.FORCE
+  const noop = !!process.env.NOOP
 
   const newsletter: types.beehiiv.Newsletter = JSON.parse(
     await fs.readFile(config.newsletterMetadataPath, 'utf-8')
@@ -79,6 +80,7 @@ async function main() {
         const urlToMetadata = await markdown.resolveMarkdownLinksWithMetadata(
           ast,
           {
+            noop,
             isValidLink: (url: string) => {
               if (!url) return false
               if (!force && newsletterLinkMap[url]) {
@@ -93,6 +95,13 @@ async function main() {
                 }
 
                 if (/bensbites/i.test(parsedUrl.hostname)) {
+                  return false
+                }
+
+                if (
+                  parsedUrl.hostname === 'twitter.com' &&
+                  parsedUrl.pathname.startsWith('/intent')
+                ) {
                   return false
                 }
 
@@ -146,12 +155,22 @@ async function main() {
   )
 
   if (!force) {
+    console.log(
+      '\nremoving old links',
+      Object.keys(newsletterLinkMapOld).length,
+      '\n'
+    )
+
     for (const url of Object.keys(newsletterLinkMapOld)) {
-      if (!newsletterLinkMap[url]) {
-        console.log('removing old link', url)
-        delete newsletterLinkMap[url]
-      }
+      console.log('removing old link', url)
+      delete newsletterLinkMap[url]
     }
+
+    console.log(
+      '\nremoved old links',
+      Object.keys(newsletterLinkMapOld).length,
+      '\n'
+    )
   }
 
   function linkComparator(a: types.NewsletterLink, b: types.NewsletterLink) {
@@ -172,6 +191,11 @@ async function main() {
     'new links',
     `(${urls.length} total)\n\n\n\n`
   )
+
+  if (noop) {
+    console.log('\nnoop, not writing anything\n')
+    return
+  }
   // console.log(JSON.stringify(newUrls, null, 2))
 
   await fs.writeFile(

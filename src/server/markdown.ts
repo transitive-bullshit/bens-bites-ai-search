@@ -10,12 +10,13 @@ import remarkStringify from 'remark-stringify'
 import { unified } from 'unified'
 
 import * as types from './types'
-import * as utils from './utils'
+import * as urlUtils from './url-utils'
 import { getLinkMetadata } from './services/iframely'
 
 export interface NormalizeMarkdownOptions {
   baseUrl?: string
   concurrency?: number
+  noop?: boolean
   isValidLink?: (url: string) => boolean
 }
 
@@ -67,7 +68,7 @@ function remarkResolveLinks(opts: NormalizeMarkdownOptions = {}) {
       urls,
       async (url) => {
         try {
-          const resolvedUrl = await utils.resolveLink(url, { baseUrl })
+          const resolvedUrl = await urlUtils.resolveLink(url, { baseUrl })
           urlToResolvedUrlMap[url] = resolvedUrl
         } catch (err) {
           // ignore for now
@@ -144,7 +145,7 @@ export async function resolveMarkdownLinksWithMetadata(
   tree: Root,
   opts: NormalizeMarkdownOptions = {}
 ) {
-  const { concurrency = 8, isValidLink } = opts
+  const { concurrency = 8, isValidLink, noop = false } = opts
   const urlToNodeMap: Record<string, Link> = {}
   const urlToMetadata: Record<string, types.LinkMetadata> = {}
 
@@ -160,22 +161,16 @@ export async function resolveMarkdownLinksWithMetadata(
     urls,
     async (url) => {
       try {
-        if (isValidLink && !isValidLink(url)) {
+        url = urlUtils.normalizeUrl(url)
+        if (!url) {
           return
-        }
-
-        const parsedUrl = new URL(url)
-        if (parsedUrl.hostname === 'twitter.com') {
-          parsedUrl.searchParams.delete('s')
-          parsedUrl.searchParams.delete('t')
-          url = parsedUrl.toString()
         }
 
         if (isValidLink && !isValidLink(url)) {
           return
         }
 
-        const metadata = await getLinkMetadata(url)
+        const metadata = noop ? {} : await getLinkMetadata(url)
         if (metadata) {
           const node = urlToNodeMap[url]
           const text = renderMarkdownNodeAsText(node)

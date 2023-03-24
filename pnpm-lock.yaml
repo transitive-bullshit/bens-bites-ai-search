@@ -30,6 +30,7 @@ specifiers:
   mdast-util-to-string: ^3.1.1
   next: ^13.2.4
   next-themes: ^0.2.1
+  normalize-url: ^8.0.0
   npm-run-all: ^4.1.5
   openai: ^3.2.1
   p-map: ^5.5.0
@@ -80,6 +81,7 @@ dependencies:
   mdast-util-to-string: 3.1.1
   next: 13.2.4_biqbaboplfbrettd7655fr4n2y
   next-themes: 0.2.1_ld2jel3hspngo3u5lti2kgl2sq
+  normalize-url: 8.0.0
   openai: 3.2.1
   p-map: 5.5.0
   p-memoize: 7.1.1
