@@ -59,7 +59,7 @@ export const EmptyQuery: React.FC = () => {
 
   return (
     <div className={styles.emptyResults}>
-      <p>Search any topic.</p>
+      <p>Search any AI topic.</p>
 
       <p>
         Examples:{' '}
@@ -87,13 +87,13 @@ export const EmptyQuery: React.FC = () => {
         ,&nbsp;
         <Link
           className='link'
-          href='/?query=multimodal'
+          href='/?query=AGI'
           onClick={(e) => {
             e.preventDefault()
-            fakeNavigation('multimodal')
+            fakeNavigation('AGI')
           }}
         >
-          multimodal
+          AGI
         </Link>
         ,&nbsp;
         <Link

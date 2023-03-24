@@ -17,6 +17,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  max-width: calc(100% - 2em - 320px);
 }
 
 .header {
@@ -40,6 +41,7 @@
   line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  word-break: break-all;
 }
 
 .url {
@@ -50,6 +52,7 @@
   line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  word-break: break-all;
 }
 
 .iconWrapper {
@@ -106,6 +109,7 @@
   position: relative;
   display: block;
   width: 320px;
+  min-width: calc(min(100%, 320px));
   max-width: 100%;
 }
 
@@ -128,6 +132,7 @@
   line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  word-break: break-all;
 
   font-size: 14px;
   line-height: 1.5;
@@ -138,10 +143,6 @@
 }
 
 @media (max-width: 700px) {
-  .thumbnail {
-    max-width: calc(min(400px, 100vw - 24px));
-  }
-
   .searchResult {
     flex-direction: column;
     gap: 1em;
@@ -153,5 +154,6 @@
 
   .lhs {
     order: 2;
+    max-width: 100%;
   }
 }
