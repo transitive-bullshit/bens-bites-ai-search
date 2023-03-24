@@ -1,6 +1,7 @@
 import * as fs from 'node:fs/promises'
 import path from 'node:path'
 
+import { Storage } from '@google-cloud/storage'
 import pMap from 'p-map'
 import papaparse from 'papaparse'
 import remarkParse from 'remark-parse'
@@ -10,9 +11,12 @@ import * as config from '@/server/config'
 import * as markdown from '@/server/markdown'
 import * as types from '@/server/types'
 import * as utils from '@/server/utils'
+import got from '@/server/got'
 import { resolveTwitterData } from '@/server/resolve-twitter-data'
 import { twitterV1 } from '@/server/services/twitter'
+import { getThumbnailForUrl } from '@/server/thumbnails'
 import { unfurlTweet } from '@/server/unfurl-tweet'
+import { getImageSize } from '@/server/url-utils'
 
 async function main() {
   const force = !!process.env.FORCE
@@ -25,6 +29,9 @@ async function main() {
 
   const newsletterLinkMap: types.NewsletterLinkMap = {}
   const newsletterLinkMapNew: types.NewsletterLinkMap = {}
+
+  const storage = new Storage()
+  const bucket = process.env.GOOGLE_STORAGE_BUCKET
 
   if (!force) {
     try {
@@ -150,7 +157,8 @@ async function main() {
             postTitle: post.web_title,
             postDate: post.created_at,
             postId: post.id,
-            postUrl: post.url
+            postUrl: post.url,
+            dead: !metadata
           }
 
           newsletterLinkMap[url] = link
@@ -209,6 +217,7 @@ async function main() {
   const twitterUsernames: Record<string, string[]> = {}
   const tweetIds: Record<string, string[]> = {}
   for (const url of urls) {
+    if (url.dead) continue
     const parsedUrl = new URL(url.url)
     if (parsedUrl.hostname !== 'twitter.com') {
       continue
@@ -326,26 +335,113 @@ async function main() {
     }
   }
 
-  let maxUrl: types.NewsletterLink = null
+  // let maxUrl: types.NewsletterLink = null
   for (const url of urls) {
     // limit max description length
     url.description = url.description?.slice(0, 1000).trim()
 
-    if (
-      !maxUrl?.description ||
-      (url.description && maxUrl.description.length < url.description.length)
-    ) {
-      maxUrl = url
-    }
+    // if (
+    //   !maxUrl?.description ||
+    //   (url.description && maxUrl.description.length < url.description.length)
+    // ) {
+    //   maxUrl = url
+    // }
   }
 
-  console.log(maxUrl)
+  console.log(
+    `\nchecking ${urls.length} preview images...${
+      force ? ' (force refresh)' : ''
+    }\n`
+  )
+  await pMap(
+    urls,
+    async (url, index) => {
+      if (url.dead) {
+        return
+      }
+
+      const parsedUrl = new URL(url.url)
+      if (
+        parsedUrl.hostname === 'twitter.com' ||
+        parsedUrl.pathname.endsWith('.pdf')
+      ) {
+        return
+      }
+
+      if (url.thumbnail) {
+        try {
+          const res = await getImageSize(url.thumbnail)
+          console.log(`${index}) found thumbnail`, url.thumbnail)
+
+          url.thumbnailWidth = res.width
+          url.thumbnailHeight = res.height
+          return
+        } catch (err) {
+          console.warn(
+            `${index}) warning invalid thumbnail probe`,
+            url.thumbnail,
+            err.toString()
+          )
+        }
+      }
+
+      const id = utils.getNewsletterLinkId(url)
+      const name = `${id}.jpg`
+      const storageUrl = `https://storage.googleapis.com/${bucket}/${name}`
+      let needsPreviewImage = false
+
+      try {
+        await got.head(storageUrl, {
+          timeout: {
+            request: 10000
+          }
+        })
+        console.log(`${index}) found generated thumbnail`, storageUrl)
+      } catch (err) {
+        if (err.response?.statusCode === 404) {
+          needsPreviewImage = true
+        }
+      }
+
+      if (needsPreviewImage) {
+        console.log(`${index}) generating thumbnail for ${url.url}`)
+        try {
+          const res = await getThumbnailForUrl({
+            url: url.url,
+            storageUrl,
+            storage,
+            bucket,
+            timeoutMs: 15000
+          })
+          console.log(`${index}) >>> ${res}`)
+          url.thumbnail = res
+          url.thumbnailWidth = 1200
+          url.thumbnailHeight = 630
+        } catch (err) {
+          url.dead = true
+
+          console.warn(
+            `${index}) error taking screenshot`,
+            url.url,
+            err.toString()
+          )
+        }
+      }
+    },
+    {
+      concurrency: 16
+    }
+  )
+
+  console.log(`\ndone checking ${urls.length} preview images...\n`)
 
   if (noop) {
-    console.log(`\nnoop, not updating ${config.newsletterLinksPath}\n`)
+    console.log(`\nnoop, not writing ${config.newsletterLinksPath}\n`)
     return
   }
   // console.log(JSON.stringify(newUrls, null, 2))
+
+  console.log(`writing ${urls.length} links to ${config.newsletterLinksPath}\n`)
 
   await fs.writeFile(
     config.newsletterLinksPath,
@@ -377,6 +473,8 @@ async function main() {
     }),
     'utf-8'
   )
+
+  process.exit(0)
 }
 
 main().catch((err) => {

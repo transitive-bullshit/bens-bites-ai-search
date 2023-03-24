@@ -1,3 +1,4 @@
+import type { Storage } from '@google-cloud/storage'
 import type { OpenAIApi } from 'openai'
 import type {
   PineconeClient as PineconeClientGeneric,
@@ -5,6 +6,9 @@ import type {
 } from 'pinecone-client'
 import { type TweetV1, type TwitterApiv1, type UserV1 } from 'twitter-api-v2'
 
+type GCPStorage = Storage
+
+export type { GCPStorage }
 export type { TwitterApiv1 as TwitterClientV1 }
 export type { UserV1 as TwitterUserV1 }
 export type { TweetV1 }

@@ -4,6 +4,8 @@ import https from 'node:https'
 import isRelativeUrl from 'is-relative-url'
 import normalizeUrlImpl from 'normalize-url'
 import pMemoize from 'p-memoize'
+import pRetry, { AbortError } from 'p-retry'
+import probeImageSize from 'probe-image-size'
 import QuickLRU from 'quick-lru'
 
 import { domainAllowList, protocolAllowList } from './config'
@@ -13,6 +15,11 @@ const normalizedUrlCache = new QuickLRU<string, string>({ maxSize: 4000 })
 
 const lruLinkCache = new QuickLRU<string, string>({ maxSize: 10000 })
 export const resolveLink = pMemoize(resolveLinkImpl, { cache: lruLinkCache })
+
+const imageTypeCache = new QuickLRU<string, string>({ maxSize: 2048 })
+export const getImageSize = pMemoize(getImageSizeImpl, {
+  cache: imageTypeCache
+})
 
 export const agent = {
   http: new http.Agent(),
@@ -156,4 +163,21 @@ async function resolveLinkImpl(
     // fallback to the original URL
     return url
   }
+}
+
+async function getImageSizeImpl(url: string) {
+  return await pRetry(
+    async () => {
+      try {
+        return await probeImageSize(url)
+      } catch (err) {
+        if (err.status >= 400 && err.status <= 499) {
+          throw new AbortError(err)
+        }
+      }
+    },
+    {
+      retries: 2
+    }
+  )
 }

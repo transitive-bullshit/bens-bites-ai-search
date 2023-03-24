@@ -20,6 +20,8 @@ async function getLinkMetadataImpl(
       return null
     }
 
+    console.log('IFRAMELY GET', url)
+
     const res = (await got('https://iframe.ly/api/iframely', {
       searchParams: {
         url,

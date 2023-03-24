@@ -177,6 +177,8 @@ export async function resolveMarkdownLinksWithMetadata(
           metadata.linkText = text
           urlToMetadata[url] = metadata
           console.log('metadata', url, metadata)
+        } else {
+          urlToMetadata[url] = null
         }
       } catch (err) {
         console.warn('error', url, err)

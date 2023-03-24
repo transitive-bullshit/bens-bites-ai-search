@@ -20,6 +20,7 @@
     "test:prettier": "prettier '**/*.{js,jsx,ts,tsx}' --check"
   },
   "dependencies": {
+    "@google-cloud/storage": "^6.9.4",
     "@vercel/analytics": "^0.1.11",
     "cheerio": "1.0.0-rc.12",
     "clsx": "^1.2.1",
@@ -86,6 +87,11 @@
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "prettier": "^2.8.6",
+    "probe-image-size": "^7.2.3",
+    "puppeteer": "^19.7.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "tailwindcss": "^3.2.7",
     "tsx": "^3.12.6",
     "typescript": "^5.0.2",
