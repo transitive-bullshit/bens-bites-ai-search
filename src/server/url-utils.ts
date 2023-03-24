@@ -32,10 +32,16 @@ export function normalizeUrl(url: string): string {
     }
 
     const parsedUrl = new URL(url)
-    if (parsedUrl.hostname === 'twitter.com') {
+    let stripWWW = false
+
+    if (
+      parsedUrl.hostname === 'twitter.com' ||
+      parsedUrl.hostname === 'www.twitter.com'
+    ) {
       parsedUrl.searchParams.delete('s')
       parsedUrl.searchParams.delete('t')
       url = parsedUrl.toString()
+      stripWWW = true
     }
 
     if (!protocolAllowList.has(parsedUrl.protocol)) {
@@ -43,7 +49,7 @@ export function normalizeUrl(url: string): string {
     }
 
     normalizedUrl = normalizeUrlImpl(url, {
-      stripWWW: false,
+      stripWWW,
       defaultProtocol: 'https',
       normalizeProtocol: true,
       forceHttps: true,

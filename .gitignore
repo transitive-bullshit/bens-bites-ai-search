@@ -50,3 +50,4 @@ next-env.d.ts
 out/
 
 fixtures/www.bensbites.co/links.csv
+fixtures/www.bensbites.co/twitter.json

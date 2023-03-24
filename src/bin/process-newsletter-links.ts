@@ -9,6 +9,10 @@ import { unified } from 'unified'
 import * as config from '@/server/config'
 import * as markdown from '@/server/markdown'
 import * as types from '@/server/types'
+import * as utils from '@/server/utils'
+import { resolveTwitterData } from '@/server/resolve-twitter-data'
+import { twitterV1 } from '@/server/services/twitter'
+import { unfurlTweet } from '@/server/unfurl-tweet'
 
 async function main() {
   const force = !!process.env.FORCE
@@ -17,6 +21,7 @@ async function main() {
   const newsletter: types.beehiiv.Newsletter = JSON.parse(
     await fs.readFile(config.newsletterMetadataPath, 'utf-8')
   )
+  let existingTwitterData: types.ResolvedTwitterData
 
   const newsletterLinkMap: types.NewsletterLinkMap = {}
   const newsletterLinkMapNew: types.NewsletterLinkMap = {}
@@ -38,10 +43,21 @@ async function main() {
         }
       }
     } catch (err) {
-      console.warn(
-        'warning unable to read newsletter link cache',
-        err.toString()
-      )
+      if (err.code !== 'ENOENT') {
+        throw err
+      }
+
+      console.warn('warning unable to read newsletter link cache')
+    }
+
+    try {
+      existingTwitterData = await utils.readJson(config.twitterDataCachePath)
+    } catch (err) {
+      if (err.code !== 'ENOENT') {
+        throw err
+      }
+
+      console.warn('warning unable to read twitter cache')
     }
   }
 
@@ -155,22 +171,19 @@ async function main() {
   )
 
   if (!force) {
-    console.log(
-      '\nremoving old links',
-      Object.keys(newsletterLinkMapOld).length,
-      '\n'
-    )
+    const oldLinks = Object.keys(newsletterLinkMapOld)
+    if (oldLinks.length > 0) {
+      console.log('\nremoving old links', oldLinks.length, '\n')
 
-    for (const url of Object.keys(newsletterLinkMapOld)) {
-      console.log('removing old link', url)
-      delete newsletterLinkMap[url]
+      for (const url of oldLinks) {
+        console.log('removing old link', url)
+        delete newsletterLinkMap[url]
+      }
+
+      console.log('\nremoved old links', oldLinks.length, '\n')
+    } else {
+      console.log('\nno outdated links found\n')
     }
-
-    console.log(
-      '\nremoved old links',
-      Object.keys(newsletterLinkMapOld).length,
-      '\n'
-    )
   }
 
   function linkComparator(a: types.NewsletterLink, b: types.NewsletterLink) {
@@ -192,8 +205,138 @@ async function main() {
     `(${urls.length} total)\n\n\n\n`
   )
 
+  // resolve twitter links
+  const twitterUsernames: Record<string, string[]> = {}
+  const tweetIds: Record<string, string[]> = {}
+  for (const url of urls) {
+    const parsedUrl = new URL(url.url)
+    if (parsedUrl.hostname !== 'twitter.com') {
+      continue
+    }
+
+    const usernameM = parsedUrl.pathname.match(/^\/([a-zA-Z0-9_]+)\/?$/)
+    if (usernameM) {
+      if (!twitterUsernames[usernameM[1]]) {
+        twitterUsernames[usernameM[1]] = []
+      }
+      twitterUsernames[usernameM[1]].push(url.url)
+      continue
+    }
+
+    const tweetM = parsedUrl.pathname.match(
+      /^\/([a-zA-Z0-9_]+)\/status\/(\d+)$/
+    )
+    if (tweetM) {
+      // if (!twitterUsernames[tweetM[1]]) {
+      //   twitterUsernames[tweetM[1]] = []
+      // }
+      // twitterUsernames[tweetM[1]].push(url.url)
+
+      if (!tweetIds[tweetM[2]]) {
+        tweetIds[tweetM[2]] = []
+      }
+      tweetIds[tweetM[2]].push(url.url)
+      continue
+    }
+  }
+
+  console.log({
+    twitterUsernames: Object.keys(twitterUsernames).length,
+    tweetIds: Object.keys(tweetIds).length
+  })
+
+  console.log(`\nresolving twitter data...${force ? ' (force refresh)' : ''}\n`)
+  const resolvedTwitterData = await resolveTwitterData({
+    tweetIds: Object.keys(tweetIds),
+    usernames: Object.keys(twitterUsernames),
+    twitterV1,
+    resolvedTwitterData: existingTwitterData,
+    resolveUrls: true,
+    force
+  })
+  await utils.writeJson(config.twitterDataCachePath, resolvedTwitterData)
+
+  // update all twitter user profile links
+  for (const username of Object.keys(twitterUsernames)) {
+    const userId = resolvedTwitterData.usernamesToIds[username]
+    if (!userId) continue
+
+    const user = resolvedTwitterData.users[userId]
+    if (!user) continue
+
+    const linkedUrls = twitterUsernames[username]
+    for (const linkedUrl of linkedUrls) {
+      const newsletterLink = urls.find((link) => link.url === linkedUrl)
+      if (!newsletterLink) continue
+
+      if (!user) {
+        // user is missing or deleted
+        newsletterLink.alive = false
+        continue
+      }
+
+      newsletterLink.author = user.screen_name
+      newsletterLink.icon = user.profile_image_url_https
+      newsletterLink.title = user.name
+      newsletterLink.iconWidth = 48
+      newsletterLink.iconHeight = 48
+      newsletterLink.thumbnail = user.profile_banner_url
+      newsletterLink.thumbnailWidth = 1500
+      newsletterLink.thumbnailHeight = 500
+      newsletterLink.description = user.description
+
+      // console.log({
+      //   url: linkedUrl,
+      //   user,
+      //   newsletterLink
+      // })
+    }
+  }
+
+  // update all twitter links
+  for (const tweetId of Object.keys(tweetIds)) {
+    const tweet = resolvedTwitterData.tweets[tweetId]
+
+    // const user = resolvedTwitterData.users[tweet.user_id_str]
+
+    const linkedUrls = tweetIds[tweetId]
+    for (const linkedUrl of linkedUrls) {
+      const newsletterLink = urls.find((link) => link.url === linkedUrl)
+      if (!newsletterLink) {
+        continue
+      }
+
+      if (!tweet) {
+        // tweet is missing or deleted
+        newsletterLink.alive = false
+        continue
+      }
+
+      newsletterLink.description = unfurlTweet(tweet, {
+        resolvedTwitterData
+      })
+      newsletterLink.date = tweet.created_at
+
+      // newsletterLink.author = user.screen_name
+      // newsletterLink.icon = user.profile_image_url_https
+      // newsletterLink.title = user.name
+      // newsletterLink.iconWidth = 48
+      // newsletterLink.iconHeight = 48
+      // newsletterLink.thumbnail = user.profile_banner_url
+      // newsletterLink.thumbnailWidth = 1500
+      // newsletterLink.thumbnailHeight = 500
+      // newsletterLink.description = user.description
+
+      console.log({
+        url: linkedUrl,
+        tweet,
+        newsletterLink
+      })
+    }
+  }
+
   if (noop) {
-    console.log('\nnoop, not writing anything\n')
+    console.log(`\nnoop, not updating ${config.newsletterLinksPath}\n`)
     return
   }
   // console.log(JSON.stringify(newUrls, null, 2))
@@ -219,6 +362,7 @@ async function main() {
         'icon',
         'iconWidth',
         'iconHeight',
+        'alive',
         'postTitle',
         'postDate',
         'postId',

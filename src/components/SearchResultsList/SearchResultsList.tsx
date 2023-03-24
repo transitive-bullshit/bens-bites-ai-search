@@ -9,7 +9,10 @@ import styles from './styles.module.css'
 export const SearchResultsList: React.FC<{
   results: types.SearchResult[]
 }> = ({ results }) => {
-  console.log('results', results)
+  console.log(
+    'results',
+    results.map((r) => r.metadata)
+  )
 
   return (
     <div className={styles.searchResultsList}>

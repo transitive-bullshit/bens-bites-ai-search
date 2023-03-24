@@ -7,6 +7,7 @@ import rmfr from 'rmfr'
 import * as beehiiv from '@/server/beehiiv'
 import * as config from '@/server/config'
 import * as types from '@/server/types'
+import * as utils from '@/server/utils'
 
 async function main() {
   const force = !!process.env.FORCE
@@ -16,9 +17,7 @@ async function main() {
 
   if (!force) {
     try {
-      existingNewsletter = JSON.parse(
-        await fs.readFile(config.newsletterMetadataPath, 'utf-8')
-      )
+      existingNewsletter = await utils.readJson(config.newsletterMetadataPath)
 
       existingNewsletter.posts = (
         await pMap(
@@ -30,11 +29,14 @@ async function main() {
               post.markdown = markdown
               return post
             } catch (err) {
+              if (err.code !== 'ENOENT') {
+                throw err
+              }
+
               console.warn(
                 'warning unable to read post markdown cache',
                 post.url,
-                postPath,
-                err.toString()
+                postPath
               )
 
               return null
@@ -46,7 +48,11 @@ async function main() {
         )
       ).filter(Boolean)
     } catch (err) {
-      console.warn('warning unable to read newsletter cache', err.toString())
+      if (err.code !== 'ENOENT') {
+        throw err
+      }
+
+      console.warn('warning unable to read newsletter cache')
     }
   }
 
@@ -70,11 +76,7 @@ async function main() {
     }
   }
 
-  await fs.writeFile(
-    config.newsletterMetadataPath,
-    JSON.stringify(newsletter, null, 2),
-    'utf-8'
-  )
+  await utils.writeJson(config.newsletterMetadataPath, newsletter)
 }
 
 main().catch((err) => {

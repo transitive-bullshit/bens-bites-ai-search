@@ -37,6 +37,7 @@ async function main() {
   } else {
     const newsletterLinksMapById: Record<string, types.NewsletterLink> = {}
     for (const link of newsletterLinks) {
+      if (!link.alive) continue
       const id = utils.getNewsletterLinkId(link)
       newsletterLinksMapById[id] = link
     }
@@ -66,6 +67,8 @@ async function main() {
     await pMap(
       newNewsletterLinks,
       async (link, index) => {
+        if (!link.alive) return
+
         try {
           let desc = link.description
           const url = new URL(link.url)

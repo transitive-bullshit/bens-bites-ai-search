@@ -3,6 +3,11 @@ import type {
   PineconeClient as PineconeClientGeneric,
   Vector
 } from 'pinecone-client'
+import { type TweetV1, type TwitterApiv1, type UserV1 } from 'twitter-api-v2'
+
+export type { TwitterApiv1 as TwitterClientV1 }
+export type { UserV1 as TwitterUserV1 }
+export type { TweetV1 }
 
 export type { OpenAIApi }
 
@@ -63,6 +68,8 @@ export interface LinkMetadata {
 
 export interface NewsletterLink extends LinkMetadata {
   url: string
+  alive?: boolean
+
   postTitle: string
   postDate: string
   postId: string
@@ -228,3 +235,63 @@ export namespace beehiiv {
 
   export type PostStatus = 'published'
 }
+
+export interface ResolvedTwitterData {
+  tweets: Record<string, TweetV1Ext>
+  users: Record<string, UserV1Ext>
+
+  usernamesToIds: Record<string, string>
+  urls: Record<string, LinkMetadata>
+}
+
+export type TweetV1Ext = Omit<
+  TweetV1,
+  | 'user'
+  | 'quoted_status'
+  | 'retweeted_status'
+  | 'id'
+  | 'source'
+  | 'favorited'
+  | 'retweeted'
+  | 'contributors'
+  | 'place'
+  | 'geo'
+  | 'coordinates'
+  | 'truncated'
+  | 'in_reply_to_status_id'
+  | 'in_reply_to_user_id'
+> & {
+  quoted_status_id_str?: string
+  retweeted_status_id_str?: string
+  user_id_str: string
+}
+
+export type UserV1Ext = Omit<
+  UserV1,
+  | 'id'
+  | 'utc_offset'
+  | 'status'
+  | 'contributors_enabled'
+  | 'is_translator'
+  | 'is_translation_enabled'
+  | 'profile_background_color'
+  | 'profile_background_image_url'
+  | 'profile_background_tile'
+  | 'profile_image_url'
+  | 'profile_image_extensions_alt_text'
+  | 'profile_banner_extensions_alt_text'
+  | 'profile_link_color'
+  | 'profile_sidebar_border_color'
+  | 'profile_sidebar_fill_color'
+  | 'profile_text_color'
+  | 'profile_use_background_image'
+  | 'has_extended_profile'
+  | 'default_profile'
+  | 'default_profile_image'
+  | 'following'
+  | 'follow_request_sent'
+  | 'notifications'
+  | 'translator_type'
+  | 'withheld_in_countries'
+  | 'needs_phone_verification'
+>

@@ -41,5 +41,6 @@ export const newsletterMetadataPath = path.join(
   'newsletter.json'
 )
 export const newsletterLinksPath = path.join(newsletterDir, 'links.csv')
+export const twitterDataCachePath = path.join(newsletterDir, 'twitter.json')
 
 export default env
