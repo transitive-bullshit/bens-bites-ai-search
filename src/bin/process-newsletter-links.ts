@@ -313,7 +313,8 @@ async function main() {
       }
 
       newsletterLink.description = unfurlTweet(tweet, {
-        resolvedTwitterData
+        resolvedTwitterData,
+        maxUnfurledUrlLength: 500
       })
       newsletterLink.date = tweet.created_at
 
@@ -324,6 +325,20 @@ async function main() {
       // })
     }
   }
+
+  let maxUrl: types.NewsletterLink = null
+  for (const url of urls) {
+    url.description = url.description?.slice(0, 500).trim()
+
+    if (
+      !maxUrl?.description ||
+      (url.description && maxUrl.description.length < url.description.length)
+    ) {
+      maxUrl = url
+    }
+  }
+
+  console.log(maxUrl)
 
   if (noop) {
     console.log(`\nnoop, not updating ${config.newsletterLinksPath}\n`)

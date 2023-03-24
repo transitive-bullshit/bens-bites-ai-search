@@ -11,12 +11,14 @@ export function unfurlTweet(
     resolvedTwitterData?: types.ResolvedTwitterData
     unfurlUrls?: boolean
     unfurlSubtweets?: boolean
+    maxUnfurledUrlLength?: number
   } = {}
 ): string {
   const {
     resolvedTwitterData,
     unfurlUrls = true,
-    unfurlSubtweets = true
+    unfurlSubtweets = true,
+    maxUnfurledUrlLength = 300
   } = opts
   const tweetIdRegex = /\/status\/(\d+)$/
   let text = tweet.full_text
@@ -84,7 +86,10 @@ export function unfurlTweet(
           }
         } else if (unfurlUrls) {
           // Replace the URL with its opengraph metadata for other URLs
-          body = unfurlUrl(expandedUrl, { resolvedTwitterData })
+          body = unfurlUrl(expandedUrl, { resolvedTwitterData }).slice(
+            0,
+            maxUnfurledUrlLength
+          )
         }
       } else if (entity.source === 'media') {
         const id = (entity as any).id_str
