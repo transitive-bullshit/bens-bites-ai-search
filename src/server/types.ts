@@ -68,7 +68,7 @@ export interface LinkMetadata {
 
 export interface NewsletterLink extends LinkMetadata {
   url: string
-  alive?: boolean
+  dead?: boolean
 
   postTitle: string
   postDate: string

@@ -240,7 +240,7 @@ async function main() {
     }
   }
 
-  console.log({
+  console.log('resolving twitter links', {
     twitterUsernames: Object.keys(twitterUsernames).length,
     tweetIds: Object.keys(tweetIds).length
   })
@@ -271,7 +271,7 @@ async function main() {
 
       if (!user) {
         // user is missing or deleted
-        newsletterLink.alive = false
+        newsletterLink.dead = true
         continue
       }
 
@@ -308,7 +308,7 @@ async function main() {
 
       if (!tweet) {
         // tweet is missing or deleted
-        newsletterLink.alive = false
+        newsletterLink.dead = true
         continue
       }
 
@@ -317,21 +317,11 @@ async function main() {
       })
       newsletterLink.date = tweet.created_at
 
-      // newsletterLink.author = user.screen_name
-      // newsletterLink.icon = user.profile_image_url_https
-      // newsletterLink.title = user.name
-      // newsletterLink.iconWidth = 48
-      // newsletterLink.iconHeight = 48
-      // newsletterLink.thumbnail = user.profile_banner_url
-      // newsletterLink.thumbnailWidth = 1500
-      // newsletterLink.thumbnailHeight = 500
-      // newsletterLink.description = user.description
-
-      console.log({
-        url: linkedUrl,
-        tweet,
-        newsletterLink
-      })
+      // console.log({
+      //   url: linkedUrl,
+      //   tweet,
+      //   newsletterLink
+      // })
     }
   }
 
@@ -362,7 +352,7 @@ async function main() {
         'icon',
         'iconWidth',
         'iconHeight',
-        'alive',
+        'dead',
         'postTitle',
         'postDate',
         'postId',
