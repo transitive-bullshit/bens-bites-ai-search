@@ -1,4 +1,5 @@
 import type { Storage } from '@google-cloud/storage'
+import { type Index } from 'meilisearch'
 import type { OpenAIApi } from 'openai'
 import type {
   PineconeClient as PineconeClientGeneric,
@@ -71,6 +72,8 @@ export interface LinkMetadata {
 }
 
 export interface NewsletterLink extends LinkMetadata {
+  [key: string]: any
+  id?: string
   url: string
   dead?: boolean
 
@@ -299,3 +302,5 @@ export type UserV1Ext = Omit<
   | 'withheld_in_countries'
   | 'needs_phone_verification'
 >
+
+export type MeiliSearchIndex = Index<Record<string, NewsletterLink>>

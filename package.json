@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^6.9.4",
+    "@meilisearch/instant-meilisearch": "^0.11.1",
     "@vercel/analytics": "^0.1.11",
     "cheerio": "1.0.0-rc.12",
     "clsx": "^1.2.1",
@@ -51,6 +52,7 @@
     "quick-lru": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-instantsearch-dom": "^6.39.1",
     "react-spinners": "^0.13.8",
     "react-tweet-embed": "^2.0.0",
     "react-use": "^17.4.0",
