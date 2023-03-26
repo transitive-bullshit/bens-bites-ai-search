@@ -12,35 +12,41 @@ import styles from './styles.module.css'
 export const SearchResult: React.FC<{
   result: types.SearchResult
   className?: string
-}> = React.forwardRef(function SearchResult({ result, className }, ref) {
+}> = ({ result, className }) => {
+  return <SearchResultInner link={result.metadata} className={className} />
+}
+
+export const SearchResultInner: React.FC<{
+  link: types.PineconeMetadata
+  className?: string
+}> = React.forwardRef(function SearchResultInner({ link, className }, ref) {
   const [thumbnailError, setThumbnailError] = React.useState(null)
-  const { metadata } = result
   const thumbnailWidth =
-    typeof metadata.thumbnailWidth === 'string' && metadata.thumbnailWidth
-      ? metadata.thumbnailWidth
+    typeof link.thumbnailWidth === 'string' && link.thumbnailWidth
+      ? link.thumbnailWidth
       : undefined
   const thumbnailHeight =
-    typeof metadata.thumbnailHeight === 'string' && metadata.thumbnailHeight
-      ? metadata.thumbnailHeight
+    typeof link.thumbnailHeight === 'string' && link.thumbnailHeight
+      ? link.thumbnailHeight
       : undefined
-  const thumbnail = metadata.thumbnail
+  const thumbnail = link.thumbnail
   const iconWidth =
-    typeof metadata.iconWidth === 'string' && metadata.iconWidth
-      ? metadata.iconWidth
+    typeof link.iconWidth === 'string' && link.iconWidth
+      ? link.iconWidth
       : undefined
   const iconHeight =
-    typeof metadata.iconHeight === 'string' && metadata.iconHeight
-      ? metadata.iconHeight
+    typeof link.iconHeight === 'string' && link.iconHeight
+      ? link.iconHeight
       : undefined
-  const icon = metadata.icon
+  const icon = link.icon
 
-  const title = metadata.title || metadata.site || metadata.url
-  const parsedUrl = new URL(metadata.url)
+  const title = link.title || link.site || link.url
+  const parsedUrl = new URL(link.url)
   const url = [parsedUrl.hostname.replace(/^www\./, ''), parsedUrl.pathname]
     .map((p) => (p === '/' ? '' : p))
     .filter(Boolean)
     .join('')
-  const relativeTime = format(metadata.date || metadata.postDate)
+  const relativeTime = format(link.date || link.postDate)
 
   let tweetId: string = null
   if (parsedUrl.hostname === 'twitter.com') {
@@ -56,7 +62,7 @@ export const SearchResult: React.FC<{
     <a
       className={cs(styles.searchResult, className)}
       ref={ref as any}
-      href={metadata.url}
+      href={link.url}
       target='_blank'
       rel='noopener noreferrer'
       aria-label={title}
@@ -77,24 +83,22 @@ export const SearchResult: React.FC<{
           </div>
 
           <div className={styles.headerRhs}>
-            <div className={styles.site}>
-              {metadata.site || metadata.author}
-            </div>
+            <div className={styles.site}>{link.site || link.author}</div>
 
             <div className={styles.url}>{url}</div>
           </div>
         </div>
 
-        {metadata.title?.trim() && (
-          <h3 className={cs(styles.title)}>{metadata.title}</h3>
+        {link.title?.trim() && (
+          <h3 className={cs(styles.title)}>{link.title}</h3>
         )}
 
-        {metadata.description && (
+        {link.description && (
           <p className={styles.desc}>
             {relativeTime && (
               <span className={styles.timeago}>{relativeTime} — </span>
             )}
-            {metadata.description}
+            {link.description}
           </p>
         )}
       </div>

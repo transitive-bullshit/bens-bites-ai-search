@@ -2,6 +2,7 @@ import { z } from 'zod'
 
 import type { PineconeMetadata } from '@/server/types'
 
+export { PineconeMetadata }
 export type SearchResult = {
   id: string
   score: number

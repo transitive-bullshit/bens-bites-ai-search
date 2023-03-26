@@ -1,0 +1,125 @@
+.page {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: var(--gap-h);
+  gap: var(--gap-2);
+}
+
+.body {
+  position: relative;
+  flex: 1;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: var(--gap-h);
+}
+
+.search {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+.search :global(.ais-SearchBox-form) {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5em;
+  position: relative;
+}
+
+.search:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.search:disabled * {
+  cursor: not-allowed !important;
+}
+
+.search input {
+  all: unset;
+  box-sizing: border-box;
+  border-radius: 4px;
+  background: hsl(0, 0%, 100%);
+  font-size: 13px;
+  border: 1px solid hsl(0, 0%, 80%);
+  transition: all 100%;
+  color: #24292f;
+}
+
+.search input::selection {
+  background-color: #b5d7ff;
+}
+
+.search input:hover {
+  border-color: hsl(0, 0%, 70%);
+}
+
+.search input:focus {
+  border-color: #2684ff;
+  box-shadow: 0 0 0 1px #2684ff;
+  outline: none;
+}
+
+.search input {
+  width: 100%;
+  padding: 11px 16px 11px 34px;
+}
+
+.search :global(.ais-SearchBox-form) label {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.search button {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+
+.search button[type='submit'] {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  top: calc(50% - 10px);
+  left: 10px;
+  color: #31363b;
+}
+
+.search button[type='reset'] {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 5px;
+  padding: 5px;
+  width: 20px;
+  height: 20px;
+  color: hsl(0, 0%, 80%);
+  transition: color 150ms;
+  cursor: pointer;
+  display: none;
+}
+
+.search button[type='reset']:hover {
+  color: hsl(0, 0%, 60%);
+}
+
+@media (max-width: 700px) {
+  .search {
+    --gap: calc(max(8px, min(24px, 2vh)));
+    margin-bottom: var(--gap);
+  }
+}

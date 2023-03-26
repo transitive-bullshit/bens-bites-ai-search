@@ -14,7 +14,7 @@ export default function HomePage() {
       <Layout>
         <PageHead />
 
-        <div className={styles.homePage}>
+        <div className={styles.page}>
           <div className={styles.body}>
             <SearchOptions />
 
