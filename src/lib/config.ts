@@ -14,6 +14,7 @@ export const author = 'Travis Fischer'
 export const twitter = 'transitive_bs'
 export const twitterUrl = `https://twitter.com/${twitter}`
 export const discordUrl = 'https://discord.gg/ben-s-bites-1039224571376701510'
+export const newsletterTitle = "Ben's Bites AI Newsletter"
 export const newsletterUrl = 'https://www.bensbites.co/'
 export const githubRepoUrl =
   'https://github.com/transitive-bullshit/bens-bites-ai-search'
