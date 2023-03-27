@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 import * as config from '@/lib/config'
 import { ActiveLink } from '@/components/ActiveLink/ActiveLink'
-import { Discord, GitHub, Twitter } from '@/icons/index'
+import { Discord, External, GitHub, Twitter } from '@/icons/index'
 
 import { Logo } from './Logo'
 import styles from './styles.module.css'
@@ -34,6 +34,7 @@ export const Header: React.FC<{ className?: string }> = ({ className }) => {
             rel='noopener noreferrer'
           >
             Newsletter
+            <External />
           </a>
 
           <a

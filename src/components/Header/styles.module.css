@@ -116,6 +116,10 @@
   object-fit: contain;
 }
 
+.action svg {
+  margin-left: 0.5em;
+}
+
 /* Workaround for Firefox not supporting backdrop-filter yet */
 /* @-moz-document url-prefix() {
   :global(.dark) .header {

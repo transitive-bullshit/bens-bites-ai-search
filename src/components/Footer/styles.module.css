@@ -9,20 +9,24 @@
 
 .settings,
 .copyright,
+.poweredBy,
 .social {
   flex: 1;
 }
 
-.settings {
+.settings,
+.poweredBy {
   justify-content: center;
+  text-align: center;
 }
 
 .social {
   justify-content: flex-end;
 }
 
-.copyright {
-  font-size: 80%;
+.copyright,
+.poweredBy {
+  font-size: 0.8rem;
   padding: 0.5rem 0;
 }
 
@@ -80,8 +84,13 @@
     order: 2;
   }
 
-  .footer .copyright {
+  .footer .poweredBy {
     justify-content: center;
     order: 3;
+  }
+
+  .footer .copyright {
+    justify-content: center;
+    order: 4;
   }
 }

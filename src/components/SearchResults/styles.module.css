@@ -28,3 +28,18 @@
 .desc {
   text-align: center;
 }
+
+.socialImageWrapper {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialImage {
+  width: 600px;
+  max-width: 100%;
+  border-radius: 8px;
+}

@@ -9,6 +9,7 @@ import * as config from '@/lib/config'
 import { LoadingSpinner } from '@/components/LoadingSpinner/LoadingSpinner'
 import { SearchResultsList } from '@/components/SearchResultsList/SearchResultsList'
 import { Search } from '@/lib/hooks/search'
+import socialImage from '@/public/social.jpg'
 
 import styles from './styles.module.css'
 
@@ -60,7 +61,7 @@ export const EmptyQuery: React.FC = () => {
 
   return (
     <div className={styles.emptyResults}>
-      <p className={styles.desc}>
+      {/* <p className={styles.desc}>
         Search across all of the best resources in AI – powered by{' '}
         <a
           href={config.newsletterUrl}
@@ -71,7 +72,7 @@ export const EmptyQuery: React.FC = () => {
           Ben&apos;s Bites AI Newsletter
         </a>{' '}
         and updated daily.
-      </p>
+      </p> */}
 
       <p>
         Examples:{' '}
@@ -119,6 +120,18 @@ export const EmptyQuery: React.FC = () => {
           google bard
         </Link>
       </p>
+
+      <div className={styles.socialImageWrapper}>
+        <Image
+          className={styles.socialImage}
+          src={socialImage.src}
+          alt={config.description}
+          width={socialImage.width}
+          height={socialImage.height}
+          placeholder='blur'
+          blurDataURL={socialImage.blurDataURL}
+        />
+      </div>
     </div>
   )
 }

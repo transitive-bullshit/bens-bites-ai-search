@@ -17,7 +17,7 @@ export const Footer: React.FC<{ className?: string }> = ({ className }) => {
         </a>
       </div>
 
-      <div className={styles.copyright}>
+      <div className={styles.poweredBy}>
         <a
           href={config.newsletterUrl}
           target='_blank'
