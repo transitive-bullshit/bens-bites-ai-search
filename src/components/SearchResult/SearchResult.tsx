@@ -10,16 +10,10 @@ import { Globe } from '@/icons'
 import styles from './styles.module.css'
 
 export const SearchResult: React.FC<{
-  result: types.SearchResult
+  result: types.PineconeMetadata
   className?: string
-}> = ({ result, className }) => {
-  return <SearchResultInner link={result.metadata} className={className} />
-}
-
-export const SearchResultInner: React.FC<{
-  link: types.PineconeMetadata
-  className?: string
-}> = React.forwardRef(function SearchResultInner({ link, className }, ref) {
+}> = React.forwardRef(function SearchResultInner({ result, className }, ref) {
+  const link = result
   const [thumbnailError, setThumbnailError] = React.useState(null)
   const thumbnailWidth =
     typeof link.thumbnailWidth === 'string' && link.thumbnailWidth

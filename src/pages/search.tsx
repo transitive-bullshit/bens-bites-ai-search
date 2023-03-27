@@ -1,6 +1,5 @@
 import * as React from 'react'
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch'
-// import { Hits, InstantSearch, SearchBox } from 'react-instantsearch-dom'
 import {
   Hits,
   InstantSearch,
@@ -10,7 +9,7 @@ import {
 
 import { Layout } from '@/components/Layout/Layout'
 import { PageHead } from '@/components/PageHead/PageHead'
-import { SearchResultInner } from '@/components/SearchResult/SearchResult'
+import { SearchResult } from '@/components/SearchResult/SearchResult'
 import { Search } from '@/lib/hooks/search'
 
 import styles from './search.module.css'
@@ -49,5 +48,5 @@ export default function HomePage() {
 }
 
 const Hit = ({ hit }) => {
-  return <SearchResultInner link={hit} />
+  return <SearchResult result={hit} />
 }

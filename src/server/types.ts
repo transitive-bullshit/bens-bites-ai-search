@@ -17,6 +17,7 @@ export type { TweetV1 }
 export type { OpenAIApi }
 
 export type PineconeMetadata = {
+  id?: string
   title?: string
   description?: string
   site?: string

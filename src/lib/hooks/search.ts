@@ -3,6 +3,7 @@
 import * as React from 'react'
 import { dequal } from 'dequal/lite'
 import { useRouter } from 'next/router'
+import { useHits, useSearchBox } from 'react-instantsearch-hooks-web'
 import { useDebounce, useLocalStorage, useRendersCount } from 'react-use'
 import useSWR from 'swr'
 import { createContainer } from 'unstated-next'
@@ -18,12 +19,14 @@ const fetcher = ({
   url: string
   body: types.SearchQuery
 }): Promise<types.SearchResult[]> =>
-  fetch(
-    `${url}?${new URLSearchParams({
-      query: body.query,
-      limit: body.limit ? `${body.limit}` : undefined
-    })}`
-  ).then((res) => res.json())
+  body
+    ? fetch(
+        `${url}?${new URLSearchParams({
+          query: body.query,
+          limit: body.limit ? `${body.limit}` : undefined
+        })}`
+      ).then((res) => res.json())
+    : Promise.resolve([])
 
 const initialSearchOptions: types.ISearchOptions = {
   searchMode: 'semantic',
@@ -34,6 +37,8 @@ function useSearch() {
   const router = useRouter()
   const [query, setQuery] = React.useState<string>('')
   const [debouncedQuery, setDebouncedQuery] = React.useState('')
+  const { refine, clear } = useSearchBox()
+  const hits = useHits<types.PineconeMetadata>()
 
   const rendersCount = useRendersCount()
   const [cachedSearchOptions, setCachedSearchOptions] = useLocalStorage(
@@ -66,19 +71,32 @@ function useSearch() {
     [query]
   )
 
+  React.useEffect(() => {
+    if (searchOptions.searchMode === 'meilisearch') {
+      if (!query?.trim()) {
+        clear()
+      } else {
+        refine(query)
+      }
+    }
+  }, [query, searchOptions, refine, clear])
+
   const updateCache = React.useCallback(() => {
     setCachedSearchOptions(searchOptions)
   }, [setCachedSearchOptions, searchOptions])
 
   useDebounce(updateCache, 1000, [searchOptions])
 
-  const body = React.useMemo<types.SearchQuery>(
-    () => ({
-      query: debouncedQuery,
-      limit: 25
-    }),
-    [debouncedQuery]
-  )
+  const body = React.useMemo<types.SearchQuery>(() => {
+    if (searchOptions.searchMode === 'semantic') {
+      return {
+        query: debouncedQuery,
+        limit: 25
+      }
+    } else {
+      return null
+    }
+  }, [debouncedQuery, searchOptions])
 
   const {
     data: results,
@@ -161,23 +179,26 @@ function useSearch() {
     []
   )
 
-  const isEmpty = results && !results.length
-
   const sortedResults = React.useMemo(() => {
-    if (!results || searchOptions.orderBy === 'relevancy') {
-      return results
+    const r = searchOptions.searchMode === 'semantic' ? results : hits.hits
+    if (!r || searchOptions.orderBy === 'relevancy') {
+      return r
     }
 
     const dates = {}
-    for (const result of results) {
-      const { metadata } = result
-      dates[result.id] = new Date(metadata.date || metadata.postDate).getTime()
+    for (const result of r) {
+      dates[result.id] = new Date(result.date || result.postDate).getTime()
     }
 
     return results.concat([]).sort((a, b) => {
       return dates[b.id] - dates[a.id]
     })
-  }, [results, searchOptions])
+  }, [results, searchOptions, hits])
+
+  const isEmpty = React.useMemo(
+    () => sortedResults && sortedResults.length === 0,
+    [sortedResults]
+  )
 
   return {
     results: sortedResults,

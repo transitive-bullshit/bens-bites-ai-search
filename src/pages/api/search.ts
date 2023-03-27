@@ -47,12 +47,16 @@ export default createAPIHandler<SearchQuery, never, SearchResult[]>(
       })
 
       searchResults = results.matches.map((result) => {
-        const searchResult = pick<Partial<SearchResult>>(
-          result,
-          'id',
-          'score',
-          'metadata'
-        )
+        return {
+          ...result.metadata,
+          id: result.id
+        }
+        // const searchResult = pick<Partial<SearchResult>>(
+        //   result,
+        //   'id',
+        //   'score',
+        //   'metadata'
+        // )
 
         // extract direct match highlights
         // let html = result.metadata.text
@@ -66,7 +70,7 @@ export default createAPIHandler<SearchQuery, never, SearchResult[]>(
         // }
         // searchResult.matchedHtml = html
 
-        return searchResult as SearchResult
+        // return searchResult as SearchResult
       })
     }
 

@@ -3,10 +3,8 @@ import { z } from 'zod'
 import type { PineconeMetadata } from '@/server/types'
 
 export { PineconeMetadata }
-export type SearchResult = {
+export type SearchResult = PineconeMetadata & {
   id: string
-  score: number
-  metadata: PineconeMetadata
 }
 
 export const SearchQuerySchema = z.object({
