@@ -9,7 +9,7 @@ export type SearchResult = PineconeMetadata & {
 
 export const SearchQuerySchema = z.object({
   query: z.string(),
-  limit: z.coerce.number().nonnegative().int().min(1).max(50).optional()
+  limit: z.coerce.number().nonnegative().int().min(1).max(100).optional()
 })
 
 export const SearchOptionsSchema = z.object({

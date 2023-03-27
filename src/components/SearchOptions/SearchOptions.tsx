@@ -27,7 +27,7 @@ const searchModeOptions = [
   },
   {
     value: 'meilisearch',
-    label: 'Keyword search (meilisearch)'
+    label: 'Traditional search'
   }
 ]
 

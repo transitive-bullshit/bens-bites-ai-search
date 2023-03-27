@@ -15,6 +15,8 @@ import { createContainer } from 'unstated-next'
 import * as types from '@/types'
 
 const localStorageSearchOptionsKey = 'bens-bites-search-options-v0.0.1'
+const retrivalPageSize = 100
+const displayPageSize = 25
 
 const fetcher = ({
   url,
@@ -44,7 +46,13 @@ function useSearch() {
   const { refine, clear } = useSearchBox()
   const hits = useHits<types.PineconeMetadata>()
   useHitsPerPage({
-    items: [{ label: '25 hits per page', value: 25, default: true }]
+    items: [
+      {
+        label: `${retrivalPageSize} hits per page`,
+        value: retrivalPageSize,
+        default: true
+      }
+    ]
   })
 
   const rendersCount = useRendersCount()
@@ -98,7 +106,7 @@ function useSearch() {
     if (searchOptions.searchMode === 'semantic') {
       return {
         query: debouncedQuery,
-        limit: 25
+        limit: retrivalPageSize
       }
     } else {
       return null
@@ -196,7 +204,7 @@ function useSearch() {
     }
 
     if (searchOptions.orderBy === 'relevancy') {
-      return r
+      return r.slice(0, displayPageSize)
     }
 
     const dates = {}
@@ -204,9 +212,12 @@ function useSearch() {
       dates[result.id] = new Date(result.date || result.postDate).getTime()
     }
 
-    return r.concat([]).sort((a, b) => {
-      return dates[b.id] - dates[a.id]
-    })
+    return r
+      .concat([])
+      .sort((a, b) => {
+        return dates[b.id] - dates[a.id]
+      })
+      .slice(0, displayPageSize)
   }, [results, searchOptions, hits])
 
   const isEmpty = React.useMemo(
@@ -214,7 +225,7 @@ function useSearch() {
     [sortedResults]
   )
 
-  console.log('results', sortedResults.length)
+  // console.log('results', sortedResults.length)
 
   return {
     results: sortedResults,

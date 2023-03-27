@@ -19,7 +19,7 @@ export default createAPIHandler<SearchQuery, never, SearchResult[]>(
   },
   async function searchHandler(req, res, { query }) {
     const input = query.query
-    const limit = query.limit ?? 25
+    const limit = Math.max(1, Math.min(500, query.limit ?? 25))
 
     const inputL = input.toLowerCase().trim()
     let searchResults: SearchResult[] = []
