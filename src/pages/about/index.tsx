@@ -11,13 +11,41 @@ import styles from './styles.module.css'
 const markdownContent = `
 ## About
 
-This webapp is aimed at providing the best search experience for AI resources. It's works by extracting all of the curated links published daily in the [${config.newsletterTitle}](${config.newsletterUrl}), processing them, and making them searchable.
+The goal of this app is to provide a highly curated search for staying up-to-date with the latest AI resources and news.
 
-## Semantic Search
+All search results are extracted from [${config.newsletterTitle}](${config.newsletterUrl}), which is used as a highly curated data source.
+
+## How it works
+
+A cron job is run every 24 hours to update the database.
+
+The steps involved include:
+
+1. Crawling the source [Beehiiv newsletter](${config.newsletterUrl})
+2. Converting each post to markdown
+3. Extracting and resolving unique links
+4. Fetching opengraph metadata for each link
+5. Fetching provider-specific metadata for some links (e.g. tweet text)
+6. Generating vector embeddings for each link using OpenAI
+7. Upserting all links into a Pinecone vector database
+8. Upserting all links into a Meilisearch database
+
+We're using [IFramely](https://iframely.com/) to extract opengraph metadata for each link, and we also special-case tweet links to extract the tweet text.
+
+Once we have all of the links locally, we upsert them into two databases:
+
+- A [Pinecone](https://www.pinecone.io/) vector database for semantic search
+- A [Meilisearch](https://www.meilisearch.com/) database for traditional keyword search
+
+Supporting both of these search indices isn't necessary, but I wanted to have a live comparison of the two approaches in action.
+
+In general, I've found that semantic search is more accurate than keyword search, but keyword search is much faster and can be more intuitive for users.
+
+### Semantic Search
 
 Semantic search is powered by [OpenAI's \`text-embedding-ada-002\` embedding model](https://platform.openai.com/docs/guides/embeddings/) and [Pinecone's hosted vector database](https://www.pinecone.io/).
 
-## Keyword Search
+### Keyword Search
 
 Traditional keyword-based search is powered by [Meilisearch](https://www.meilisearch.com/).
 
