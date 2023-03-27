@@ -6,7 +6,7 @@ export const isSafari =
 
 export const title = "Ben's Bites AI Search"
 export const description =
-  "Search across all of the best resources in AI. Powered by a highly curated selection of links from Ben's Bites AI Newsletter and updated daily, with over 60,000 subscribers from companies like Google, a16z, Sequoia, Amazon, and Meta."
+  "Search across all of the best resources in AI. Powered by the Ben's Bites AI Newsletter and updated daily, with over 60,000 subscribers from companies like Google, a16z, Sequoia, Amazon, and Meta."
 
 export const domain = 'bens-bites-search.vercel.app'
 
