@@ -78,17 +78,6 @@ export const EmptyQuery: React.FC = () => {
         Examples:{' '}
         <Link
           className='link'
-          href='/?query=github'
-          onClick={(e) => {
-            e.preventDefault()
-            fakeNavigation('github')
-          }}
-        >
-          github
-        </Link>
-        ,&nbsp;
-        <Link
-          className='link'
           href='/?query=openai+microsoft'
           onClick={(e) => {
             e.preventDefault()
@@ -118,6 +107,17 @@ export const EmptyQuery: React.FC = () => {
           }}
         >
           google bard
+        </Link>
+        ,&nbsp;
+        <Link
+          className='link'
+          href='/?query=hackathon'
+          onClick={(e) => {
+            e.preventDefault()
+            fakeNavigation('hackathon')
+          }}
+        >
+          hackathon
         </Link>
       </p>
 
