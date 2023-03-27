@@ -12,7 +12,7 @@ import styles from './styles.module.css'
 export const SearchResult: React.FC<{
   result: types.PineconeMetadata
   className?: string
-}> = React.forwardRef(function SearchResultInner({ result, className }, ref) {
+}> = React.forwardRef(function SearchResult({ result, className }, ref) {
   const link = result
   const [thumbnailError, setThumbnailError] = React.useState(null)
   const thumbnailWidth =
@@ -24,14 +24,14 @@ export const SearchResult: React.FC<{
       ? link.thumbnailHeight
       : undefined
   const thumbnail = link.thumbnail
-  const iconWidth =
-    typeof link.iconWidth === 'string' && link.iconWidth
-      ? link.iconWidth
-      : undefined
-  const iconHeight =
-    typeof link.iconHeight === 'string' && link.iconHeight
-      ? link.iconHeight
-      : undefined
+  // const iconWidth =
+  //   typeof link.iconWidth === 'string' && link.iconWidth
+  //     ? link.iconWidth
+  //     : undefined
+  // const iconHeight =
+  //   typeof link.iconHeight === 'string' && link.iconHeight
+  //     ? link.iconHeight
+  //     : undefined
   const icon = link.icon
 
   const title = link.title || link.site || link.url

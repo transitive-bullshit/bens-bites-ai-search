@@ -11,12 +11,12 @@ import styles from './styles.module.css'
 
 const orderByOptions = [
   {
-    value: 'relevancy',
-    label: 'Relevancy (default)'
+    value: 'recency',
+    label: 'Latest (default)'
   },
   {
-    value: 'recency',
-    label: 'Recency'
+    value: 'relevancy',
+    label: 'Relevance'
   }
 ]
 
@@ -89,11 +89,6 @@ export const SearchOptions: React.FC = () => {
         : null,
     [searchOptions.searchMode]
   )
-
-  console.log({
-    searchOptions,
-    selectedSearchModeValue
-  })
 
   const selectedOrderByValue = React.useMemo(
     () =>

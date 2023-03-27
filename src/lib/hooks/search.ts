@@ -3,7 +3,11 @@
 import * as React from 'react'
 import { dequal } from 'dequal/lite'
 import { useRouter } from 'next/router'
-import { useHits, useSearchBox } from 'react-instantsearch-hooks-web'
+import {
+  useHits,
+  useHitsPerPage,
+  useSearchBox
+} from 'react-instantsearch-hooks-web'
 import { useDebounce, useLocalStorage, useRendersCount } from 'react-use'
 import useSWR from 'swr'
 import { createContainer } from 'unstated-next'
@@ -30,7 +34,7 @@ const fetcher = ({
 
 const initialSearchOptions: types.ISearchOptions = {
   searchMode: 'semantic',
-  orderBy: 'relevancy'
+  orderBy: 'recency'
 }
 
 function useSearch() {
@@ -39,6 +43,9 @@ function useSearch() {
   const [debouncedQuery, setDebouncedQuery] = React.useState('')
   const { refine, clear } = useSearchBox()
   const hits = useHits<types.PineconeMetadata>()
+  useHitsPerPage({
+    items: [{ label: '25 hits per page', value: 25, default: true }]
+  })
 
   const rendersCount = useRendersCount()
   const [cachedSearchOptions, setCachedSearchOptions] = useLocalStorage(
@@ -184,7 +191,11 @@ function useSearch() {
       searchOptions.searchMode === 'semantic'
         ? results
         : (hits.hits as types.SearchResult[])
-    if (!r || searchOptions.orderBy === 'relevancy') {
+    if (!r) {
+      return []
+    }
+
+    if (searchOptions.orderBy === 'relevancy') {
       return r
     }
 
@@ -202,6 +213,8 @@ function useSearch() {
     () => sortedResults && sortedResults.length === 0,
     [sortedResults]
   )
+
+  console.log('results', sortedResults.length)
 
   return {
     results: sortedResults,
