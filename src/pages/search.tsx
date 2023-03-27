@@ -1,6 +1,12 @@
 import * as React from 'react'
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch'
-import { Hits, InstantSearch, SearchBox } from 'react-instantsearch-dom'
+// import { Hits, InstantSearch, SearchBox } from 'react-instantsearch-dom'
+import {
+  Hits,
+  InstantSearch,
+  Pagination,
+  SearchBox
+} from 'react-instantsearch-hooks-web'
 
 import { Layout } from '@/components/Layout/Layout'
 import { PageHead } from '@/components/PageHead/PageHead'
@@ -32,6 +38,8 @@ export default function HomePage() {
               <SearchBox className={styles.search} />
 
               <Hits hitComponent={Hit} />
+
+              <Pagination />
             </InstantSearch>
           </div>
         </div>

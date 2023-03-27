@@ -11,7 +11,15 @@ import styles from './styles.module.css'
 const markdownContent = `
 ## About
 
-TODO
+This webapp is aimed at providing the best search experience for AI resources. It's works by extracting all of the curated links published daily in the [${config.newsletterTitle}](${config.newsletterUrl}), processing them, and making them searchable.
+
+## Semantic Search
+
+Semantic search is powered by [OpenAI's \`text-embedding-ada-002\` embedding model](https://platform.openai.com/docs/guides/embeddings/) and [Pinecone's hosted vector database](https://www.pinecone.io/).
+
+## Keyword Search
+
+Traditional keyword-based search is powered by [Meilisearch](https://www.meilisearch.com/).
 
 ## License
 
