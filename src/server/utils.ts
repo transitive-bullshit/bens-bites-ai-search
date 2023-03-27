@@ -29,6 +29,7 @@ export function hash(d: Buffer | string): string {
 }
 
 export function sanitizePineconeString(input: string): string {
+  if (!input) return ''
   return input.replace(/[\ud800-\udfff]/g, '').trim()
 }
 

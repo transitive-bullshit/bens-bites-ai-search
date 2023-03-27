@@ -41,7 +41,5 @@ export default function HomePage() {
 }
 
 const Hit = ({ hit }) => {
-  console.log(hit)
-
   return <SearchResultInner link={hit} />
 }
