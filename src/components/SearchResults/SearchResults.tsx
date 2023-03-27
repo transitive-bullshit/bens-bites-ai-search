@@ -5,6 +5,7 @@ import cs from 'clsx'
 import Image from 'next/image'
 import Link from 'next/link'
 
+import * as config from '@/lib/config'
 import { LoadingSpinner } from '@/components/LoadingSpinner/LoadingSpinner'
 import { SearchResultsList } from '@/components/SearchResultsList/SearchResultsList'
 import { Search } from '@/lib/hooks/search'
@@ -59,7 +60,18 @@ export const EmptyQuery: React.FC = () => {
 
   return (
     <div className={styles.emptyResults}>
-      <p>Search any AI topic.</p>
+      <p>
+        Search across all of the best resources in AI – powered by{' '}
+        <a
+          href={config.newsletterUrl}
+          className='link'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          Ben&apos;s Bites AI Newsletter
+        </a>{' '}
+        and updated daily.
+      </p>
 
       <p>
         Examples:{' '}

@@ -104,10 +104,6 @@
   min-width: 240px;
 }
 
-.field label {
-  display: none;
-}
-
 @media (max-width: 700px) {
   .searchOptions {
     --gap: calc(max(8px, min(24px, 2vh)));

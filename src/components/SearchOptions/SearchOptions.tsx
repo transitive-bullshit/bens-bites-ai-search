@@ -120,7 +120,7 @@ export const SearchOptions: React.FC = () => {
             type='text'
             name='query'
             id='query'
-            placeholder='Search'
+            placeholder='Search any AI topic'
             className={cs(styles.input, styles.textInput)}
             value={query}
             onChange={onChangeQuery}
