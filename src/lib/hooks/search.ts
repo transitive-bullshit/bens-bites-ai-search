@@ -3,11 +3,13 @@
 import * as React from 'react'
 import { dequal } from 'dequal/lite'
 import { useRouter } from 'next/router'
-import { useDebounce } from 'react-use'
+import { useDebounce, useLocalStorage, useRendersCount } from 'react-use'
 import useSWR from 'swr'
 import { createContainer } from 'unstated-next'
 
 import * as types from '@/types'
+
+const localStorageSearchOptionsKey = 'bens-bites-search-options-v0.0.1'
 
 const fetcher = ({
   url,
@@ -23,10 +25,29 @@ const fetcher = ({
     })}`
   ).then((res) => res.json())
 
+const initialSearchOptions: types.ISearchOptions = {
+  searchMode: 'semantic',
+  orderBy: 'relevancy'
+}
+
 function useSearch() {
   const router = useRouter()
   const [query, setQuery] = React.useState<string>('')
   const [debouncedQuery, setDebouncedQuery] = React.useState('')
+
+  const rendersCount = useRendersCount()
+  const [cachedSearchOptions, setCachedSearchOptions] = useLocalStorage(
+    `${localStorageSearchOptionsKey}-${localStorageSearchOptionsKey}`,
+    initialSearchOptions
+  )
+  const [searchOptions, setSearchOptions] =
+    React.useState<types.ISearchOptions>(initialSearchOptions)
+
+  React.useEffect(() => {
+    if (cachedSearchOptions && rendersCount === 2) {
+      setSearchOptions(cachedSearchOptions)
+    }
+  }, [cachedSearchOptions, rendersCount])
 
   React.useEffect(() => {
     const url = new URL(window.location.href)
@@ -45,10 +66,16 @@ function useSearch() {
     [query]
   )
 
+  const updateCache = React.useCallback(() => {
+    setCachedSearchOptions(searchOptions)
+  }, [setCachedSearchOptions, searchOptions])
+
+  useDebounce(updateCache, 1000, [searchOptions])
+
   const body = React.useMemo<types.SearchQuery>(
     () => ({
       query: debouncedQuery,
-      limit: 10
+      limit: 25
     }),
     [debouncedQuery]
   )
@@ -114,15 +141,55 @@ function useSearch() {
     }
   }, [router, debouncedQuery])
 
+  const onChangeOrderBy = React.useCallback(
+    (opts: { value: string } | null) => {
+      setSearchOptions((options) => ({
+        ...options,
+        orderBy: opts?.value || initialSearchOptions.orderBy
+      }))
+    },
+    []
+  )
+
+  const onChangeSearchMode = React.useCallback(
+    (opts: { value: string } | null) => {
+      setSearchOptions((options) => ({
+        ...options,
+        searchMode: opts?.value || initialSearchOptions.searchMode
+      }))
+    },
+    []
+  )
+
   const isEmpty = results && !results.length
 
+  const sortedResults = React.useMemo(() => {
+    if (!results || searchOptions.orderBy === 'relevancy') {
+      return results
+    }
+
+    const dates = {}
+    for (const result of results) {
+      const { metadata } = result
+      dates[result.id] = new Date(metadata.date || metadata.postDate).getTime()
+    }
+
+    return results.concat([]).sort((a, b) => {
+      return dates[b.id] - dates[a.id]
+    })
+  }, [results, searchOptions])
+
   return {
-    results,
+    results: sortedResults,
 
     query,
     debouncedQuery,
+    searchOptions,
+
     onChangeQuery,
     onClearQuery,
+    onChangeOrderBy,
+    onChangeSearchMode,
 
     setQuery,
     setDebouncedQuery,

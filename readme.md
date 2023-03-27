@@ -24,17 +24,17 @@ TODO
 
 ## TODO
 
-- MVP
-  - explore hybrid search
-  - infinite scroll so you can keep scrolling results
-  - possibly show the number of posts / links on the home page so it's clear when it was last updated
-  - sort by date
-  - about page
-  - display which newsletter the post first appeared in
-  - rename git repo
-  - social image
-  - test on safari/firefox
-  - set up cron to update the DB daily
+- sort by date
+- better search UX so back button works
+- show the number of posts / links on the home page so it's clear when it was last updated
+- about page
+- set up cron to update the DB daily
+- rename git repo
+- social image
+- test on safari/firefox
+- display which newsletter the post first appeared in
+- explore hybrid search
+- infinite scroll so you can keep scrolling results
 
 ## License
 

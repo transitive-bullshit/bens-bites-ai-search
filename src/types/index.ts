@@ -14,4 +14,10 @@ export const SearchQuerySchema = z.object({
   limit: z.coerce.number().nonnegative().int().min(1).max(50).optional()
 })
 
+export const SearchOptionsSchema = z.object({
+  searchMode: z.string().optional(),
+  orderBy: z.string().optional()
+})
+
 export type SearchQuery = z.infer<typeof SearchQuerySchema>
+export type ISearchOptions = z.infer<typeof SearchOptionsSchema>
