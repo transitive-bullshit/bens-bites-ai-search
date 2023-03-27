@@ -23,7 +23,7 @@ export const SearchResults: React.FC = () => {
 
   let content: React.ReactNode
 
-  if ((isEmpty || !results) && !debouncedQuery) {
+  if (!debouncedQuery?.trim().length) {
     content = <EmptyQuery />
   } else if (isLoading) {
     content = (

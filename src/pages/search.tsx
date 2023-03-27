@@ -1,16 +1,10 @@
 import * as React from 'react'
 import { instantMeiliSearch } from '@meilisearch/instant-meilisearch'
-import {
-  Hits,
-  InstantSearch,
-  Pagination,
-  SearchBox
-} from 'react-instantsearch-hooks-web'
+import { Hits, InstantSearch, SearchBox } from 'react-instantsearch-hooks-web'
 
 import { Layout } from '@/components/Layout/Layout'
 import { PageHead } from '@/components/PageHead/PageHead'
 import { SearchResult } from '@/components/SearchResult/SearchResult'
-import { Search } from '@/lib/hooks/search'
 
 import styles from './search.module.css'
 
@@ -24,26 +18,22 @@ const searchClient = instantMeiliSearch(
 
 export default function HomePage() {
   return (
-    <Search.Provider>
-      <Layout>
-        <PageHead />
+    <Layout>
+      <PageHead />
 
-        <div className={styles.page}>
-          <div className={styles.body}>
-            <InstantSearch
-              indexName='bens-bites-links'
-              searchClient={searchClient}
-            >
-              <SearchBox className={styles.search} />
+      <div className={styles.page}>
+        <div className={styles.body}>
+          <InstantSearch
+            indexName='bens-bites-links'
+            searchClient={searchClient}
+          >
+            <SearchBox className={styles.search} />
 
-              <Hits hitComponent={Hit} />
-
-              <Pagination />
-            </InstantSearch>
-          </div>
+            <Hits hitComponent={Hit} />
+          </InstantSearch>
         </div>
-      </Layout>
-    </Search.Provider>
+      </div>
+    </Layout>
   )
 }
 

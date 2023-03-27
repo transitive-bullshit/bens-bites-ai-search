@@ -180,7 +180,10 @@ function useSearch() {
   )
 
   const sortedResults = React.useMemo(() => {
-    const r = searchOptions.searchMode === 'semantic' ? results : hits.hits
+    const r =
+      searchOptions.searchMode === 'semantic'
+        ? results
+        : (hits.hits as types.SearchResult[])
     if (!r || searchOptions.orderBy === 'relevancy') {
       return r
     }
@@ -190,7 +193,7 @@ function useSearch() {
       dates[result.id] = new Date(result.date || result.postDate).getTime()
     }
 
-    return results.concat([]).sort((a, b) => {
+    return r.concat([]).sort((a, b) => {
       return dates[b.id] - dates[a.id]
     })
   }, [results, searchOptions, hits])
