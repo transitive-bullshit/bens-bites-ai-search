@@ -15,7 +15,7 @@ import { createContainer } from 'unstated-next'
 import * as types from '@/types'
 
 const localStorageSearchOptionsKey = 'bens-bites-search-options-v0.0.1'
-const retrivalPageSize = 100
+const retrievalPageSize = 100
 const displayPageSize = 25
 
 const fetcher = ({
@@ -39,21 +39,23 @@ const initialSearchOptions: types.ISearchOptions = {
   orderBy: 'recency'
 }
 
+const hitsPerPage = {
+  items: [
+    {
+      label: `${retrievalPageSize} hits per page`,
+      value: retrievalPageSize,
+      default: true
+    }
+  ]
+}
+
 function useSearch() {
   const router = useRouter()
   const [query, setQuery] = React.useState<string>('')
   const [debouncedQuery, setDebouncedQuery] = React.useState('')
   const { refine, clear } = useSearchBox()
   const hits = useHits<types.PineconeMetadata>()
-  useHitsPerPage({
-    items: [
-      {
-        label: `${retrivalPageSize} hits per page`,
-        value: retrivalPageSize,
-        default: true
-      }
-    ]
-  })
+  useHitsPerPage(hitsPerPage)
 
   const rendersCount = useRendersCount()
   const [cachedSearchOptions, setCachedSearchOptions] = useLocalStorage(
@@ -106,7 +108,7 @@ function useSearch() {
     if (searchOptions.searchMode === 'semantic') {
       return {
         query: debouncedQuery,
-        limit: retrivalPageSize
+        limit: retrievalPageSize
       }
     } else {
       return null
