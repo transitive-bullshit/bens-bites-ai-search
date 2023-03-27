@@ -4,9 +4,9 @@ export const isServer = typeof window === 'undefined'
 export const isSafari =
   !isServer && /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
 
-export const title = "Ben's Bites Links"
+export const title = "Ben's Bites AI Search"
 export const description =
-  "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 50,000 others from Google, a16z, Sequoia, Amazon, Meta and more."
+  "Search across all of the best, curated AI resources – powered by Ben's Bites AI Newsletter, with over 60,000 subscribers from Google, a16z, Sequoia, Amazon, Meta and more."
 
 export const domain = 'bensbites.vercel.app'
 

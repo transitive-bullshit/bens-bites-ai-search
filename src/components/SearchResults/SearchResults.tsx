@@ -60,7 +60,7 @@ export const EmptyQuery: React.FC = () => {
 
   return (
     <div className={styles.emptyResults}>
-      <p>
+      <p className={styles.desc}>
         Search across all of the best resources in AI – powered by{' '}
         <a
           href={config.newsletterUrl}

@@ -24,3 +24,7 @@
 .emptyResults p {
   margin-bottom: 1em;
 }
+
+.desc {
+  text-align: center;
+}

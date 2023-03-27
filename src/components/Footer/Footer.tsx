@@ -17,6 +17,16 @@ export const Footer: React.FC<{ className?: string }> = ({ className }) => {
         </a>
       </div>
 
+      <div className={styles.copyright}>
+        <a
+          href={config.newsletterUrl}
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          Powered by Ben&apos;s Bites Newsletter
+        </a>
+      </div>
+
       <div className={styles.social}>
         <a
           className={cs(styles.discord, styles.action)}
