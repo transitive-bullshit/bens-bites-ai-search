@@ -65,6 +65,7 @@ Traditional keyword-based search is powered by [Meilisearch](https://www.meilise
 
 - better search UX so back button works
 - show the number of posts / links on the home page so it's clear when it was last updated
+- acutally sort by recency instead of faking it
 - set up cron to update the DB daily
 - test on safari/firefox
 - display which newsletter the post first appeared in
