@@ -1,4 +1,4 @@
-<a href="https://bens-bites-search.vercel.app">
+<a href="https://search.bensbites.co">
   <img alt="Ben's Bites" src="/public/social.jpg">
 </a>
 
