@@ -128,6 +128,7 @@ export const EmptyQuery: React.FC = () => {
           alt={config.description}
           width={socialImage.width}
           height={socialImage.height}
+          priority
           placeholder='blur'
           blurDataURL={socialImage.blurDataURL}
         />
