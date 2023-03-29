@@ -8,7 +8,7 @@ export const title = "Ben's Bites AI Search"
 export const description =
   "Search across all of the best resources in AI. Powered by the Ben's Bites AI Newsletter and updated daily, with over 60,000 subscribers from companies like Google, a16z, Sequoia, Amazon, and Meta."
 
-export const domain = 'search.bensbites.co'
+export const domain = 'bens-bites-search.vercel.app'
 
 export const author = 'Travis Fischer'
 export const twitter = 'transitive_bs'
