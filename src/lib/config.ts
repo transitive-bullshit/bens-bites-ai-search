@@ -28,7 +28,9 @@ export const prodUrl = `https://${domain}`
 export const url = isDev ? `http://localhost:${port}` : prodUrl
 
 export const apiBaseUrl =
-  isDev || !process.env.VERCEL_URL ? url : `https://${process.env.VERCEL_URL}`
+  isDev || !process.env.NEXT_PUBLIC_VERCEL_URL
+    ? url
+    : `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
 
 // these must all be absolute urls
 export const socialImageUrl = `${apiBaseUrl}/social.png`
