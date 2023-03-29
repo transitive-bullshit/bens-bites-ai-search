@@ -33,4 +33,4 @@ export const apiBaseUrl =
     : `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
 
 // these must all be absolute urls
-export const socialImageUrl = `${apiBaseUrl}/social.png`
+export const socialImageUrl = `${prodUrl}/social.png`
