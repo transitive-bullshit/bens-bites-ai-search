@@ -230,7 +230,7 @@
         }
       },
       {
-        "id": "50a4601e-576f-4838-a0ef-317eb8603ab5",
+        "id": "a917fe6b-de54-45e0-ae15-d096d2664f43",
         "name": "Dani Diez",
         "profile_picture": {
           "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
@@ -258,6 +258,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "aab4eae3-9fb1-4cc0-a3ee-06cf23f59cda",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Have you been a Bard boy?!",
+      "web_subtitle": "PLUS: a new paradigm in software and LLM for finance.",
+      "status": "published",
+      "override_scheduled_at": "2023-03-31T13:00:00.000Z",
+      "slug": "bard-boy",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/38c0cffb-6adb-4397-8a0f-5e9c5f516de0/image.png",
+      "meta_default_title": "Have you been a Bard boy?!",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 60,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Have you been a Bard boy?!",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 60,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Have you been a Bard boy?!",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 60,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 60,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 60,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-03-31T08:26:55Z",
+      "updated_at": "2023-03-31T13:01:56Z",
+      "url": "https://www.bensbites.co/p/bard-boy"
+    },
     {
       "id": "571cfc09-056d-4220-b2b3-141ace9e0fd6",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
