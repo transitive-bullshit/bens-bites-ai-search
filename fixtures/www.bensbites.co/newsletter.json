@@ -68,7 +68,7 @@
     "google_analytics_4_pixel": "G-TV9HF9D76L",
     "twitter_pixel": "odmp9",
     "google_analytics_pixel": "",
-    "gtm_pixel": "GTM-WQWF4QK",
+    "gtm_pixel": "",
     "post_subscribe_form_id": null,
     "post_unsubscribe_form_id": null,
     "email_sender_name": "Ben's Bites",
@@ -138,6 +138,20 @@
       ],
       "nav_groups": [
         {
+          "id": "92367b63-f9c5-4d36-bc6d-59250f5a0394",
+          "title": "📰 News",
+          "managed": false,
+          "is_category_group": false,
+          "nav_links": [
+            {
+              "id": "fa764460-c550-4bcc-8f2f-7aae2e988b0f",
+              "cta_text": "📰 News",
+              "href": "https://news.bensbites.co/",
+              "external_link": true
+            }
+          ]
+        },
+        {
           "id": "adc0bdd1-ea41-4f08-89d5-b00758c642d9",
           "title": "🤝 Advertise with us",
           "managed": false,
@@ -147,20 +161,6 @@
               "id": "15b6ed7e-a46d-4cb2-948e-2eade34568f4",
               "cta_text": "🤝 Advertise with us",
               "href": "https://sponsor.bensbites.co/",
-              "external_link": true
-            }
-          ]
-        },
-        {
-          "id": "1df5b5f0-9c6e-40b0-a6ca-fade794a1c1d",
-          "title": "🐦 Twitter",
-          "managed": false,
-          "is_category_group": false,
-          "nav_links": [
-            {
-              "id": "2f50a441-7a62-4527-a7d5-4aca1fa17b22",
-              "cta_text": "🐦 Twitter",
-              "href": "https://twitter.com/bensbitesdaily",
               "external_link": true
             }
           ]
@@ -244,6 +244,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "e84aa3ed-877a-4562-a157-eddeb32a9ca5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Ben's Bites New Launch! 🥁🥁",
+      "web_subtitle": "PLUS: Bedrock, more EU troubles, ChatGPT in AR, Stable Diffusion Update.",
+      "status": "published",
+      "override_scheduled_at": "2023-04-14T13:03:36.436Z",
+      "slug": "amazons-copilot-called-bedrock",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/24bd0ba0-80b5-48f3-b54d-f611350e7ec2/image.png",
+      "meta_default_title": "Ben's Bites New Launch! 🥁🥁",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 70,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Ben's Bites New Launch! 🥁🥁",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 70,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Ben's Bites New Launch! 🥁🥁",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 70,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 70,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 70,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-04-14T07:40:00Z",
+      "updated_at": "2023-04-14T13:04:07Z",
+      "url": "https://www.bensbites.co/p/amazons-copilot-called-bedrock"
+    },
     {
       "id": "b30e8a18-e142-4c97-8bd9-fbbe8d37ce5d",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
