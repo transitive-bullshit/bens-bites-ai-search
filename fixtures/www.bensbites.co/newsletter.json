@@ -50,6 +50,7 @@
       "owner_id": "447f6e60-e36a-4642-b6f8-46beb19045ec"
     },
     "cta_text": "Subscribe",
+    "copyright_text": "",
     "noindex_enabled": false,
     "double_opt_required": false,
     "premium_enabled": false,
@@ -245,6 +246,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "1288e7ca-aace-4efa-988d-16586bfca10b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Andy Warhol and AI",
+      "web_subtitle": "PLUS: Adobe's watermark, AI radio, and Harvey gets funding",
+      "status": "published",
+      "override_scheduled_at": "2023-04-27T13:00:00.000Z",
+      "slug": "old-copyrights-case-can-influence-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d66367d5-4e70-42b9-be35-55e65f5ba38d/image.png",
+      "meta_default_title": "Andy Warhol and AI",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 80,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Andy Warhol and AI",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 80,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Andy Warhol and AI",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 80,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 80,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 80,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-04-27T07:59:40Z",
+      "updated_at": "2023-04-27T13:00:33Z",
+      "url": "https://www.bensbites.co/p/old-copyrights-case-can-influence-ai"
+    },
     {
       "id": "7bcba1fb-2a2f-497c-935f-3b58c4b201c3",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
