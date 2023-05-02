@@ -4,7 +4,7 @@
   "publication": {
     "id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
     "name": "Ben's Bites",
-    "description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 80,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+    "description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
     "tags": [
       {
         "id": 61,
@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": false,
+    "has_recommendations": true,
     "beehiiv_branding": true,
     "has_polls": true,
     "has_pages": true,
@@ -109,7 +109,7 @@
           "title": "Recommendations Page",
           "href": "/recommendations",
           "managed_type": "recommendations",
-          "enabled": false,
+          "enabled": true,
           "full_url": "https://www.bensbites.co/recommendations",
           "action_text": "Remove",
           "modal_header": "Remove your recommendations first!",
@@ -246,6 +246,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "4fe14ea5-6c4c-4dc0-801b-2774838b3ab7",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI Godfather Leaves",
+      "web_subtitle": "PLUS: The need for new ways to interact and AI brain scans",
+      "status": "published",
+      "override_scheduled_at": "2023-05-02T13:00:00.000Z",
+      "slug": "ai-builders-starting-fear-misuse",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea5c2b0a-a376-47cd-b16a-6952223758b0/image.png",
+      "meta_default_title": "AI Godfather Leaves",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI Godfather Leaves",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI Godfather Leaves",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 90,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 90,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-05-02T05:24:19Z",
+      "updated_at": "2023-05-02T13:00:15Z",
+      "url": "https://www.bensbites.co/p/ai-builders-starting-fear-misuse"
+    },
     {
       "id": "4e2533a9-8512-43d5-aefc-bc23ad2c1274",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
