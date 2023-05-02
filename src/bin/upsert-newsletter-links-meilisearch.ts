@@ -107,6 +107,10 @@ async function main() {
       '\n'
     )
   } else {
+    for (const link of newNewsletterLinks) {
+      link.description = utils.sanitizePineconeString(link.description)
+    }
+
     console.log(
       '\nupserting',
       newNewsletterLinks.length,
@@ -117,6 +121,7 @@ async function main() {
     )
 
     const tasks = await index.addDocumentsInBatches(newNewsletterLinks)
+
     console.log(
       `\nmeilisearch waiting for ${tasks.length} batch upsert tasks to complete...`
     )
@@ -126,6 +131,16 @@ async function main() {
         timeOutMs
       }
     )
+
+    // debug code
+    // for (let i = 0; i < newNewsletterLinks.length; ++i) {
+    //   const l = [newNewsletterLinks[i]]
+
+    //   try {
+    //  } catch (err) {
+    //     console.error(i, l[0], err)
+    //   }
+    // }
   }
 
   console.log(
