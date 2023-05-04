@@ -128,11 +128,11 @@
         },
         {
           "id": 4,
-          "title": "https://news.bensbites.co/?utm_source=beehiiv&utm_medium=email&utm_campaign=new_subscribers",
-          "href": "https://news.bensbites.co/?utm_source=beehiiv&utm_medium=email&utm_campaign=new_subscribers",
+          "title": "https://join.bensbites.co/#thanks",
+          "href": "https://join.bensbites.co/#thanks",
           "managed_type": "custom",
           "enabled": true,
-          "full_url": "https://news.bensbites.co/?utm_source=beehiiv&utm_medium=email&utm_campaign=new_subscribers",
+          "full_url": "https://join.bensbites.co/#thanks",
           "action_text": "Remove",
           "modal_header": "Remove Custom Redirect",
           "modal_body": "This will remove the custom redirect. When users complete the subscribe flow they will now be sent to the default home page. You can always add this back later."
