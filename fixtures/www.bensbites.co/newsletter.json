@@ -247,6 +247,48 @@
   },
   "posts": [
     {
+      "id": "b5a93f34-1e6d-4205-b461-9efaa32894fd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI's mojo",
+      "web_subtitle": "Plus: AI and the future, Replit's new LLM, Hollywood is in a tizz",
+      "status": "published",
+      "override_scheduled_at": "2023-05-04T13:00:00.000Z",
+      "slug": "ais-mojo",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3013e2b1-a352-4fbb-b0d0-b72315870bce/image.png",
+      "meta_default_title": "AI's mojo",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "AI's mojo",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "AI's mojo",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 90,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 90,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            },
+            "landscape": {
+              "url": null
+            }
+          }
+        }
+      ],
+      "created_at": "2023-05-04T08:46:54Z",
+      "updated_at": "2023-05-04T13:00:28Z",
+      "url": "https://www.bensbites.co/p/ais-mojo"
+    },
+    {
       "id": "34081d03-71c6-4295-b67f-f131ebb8df50",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "PI - The new AI on the block",
