@@ -82,6 +82,7 @@
     "language": "en",
     "configured_domain": "www.bensbites.co",
     "has_live_web_posts": true,
+    "has_landing_pages": false,
     "thumbnail": {
       "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg"
     },
@@ -247,6 +248,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "7fc60d34-2ca8-48e5-a1c8-3241526e6ed5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google’s gonna keep the ball rolling",
+      "web_subtitle": "PLUS: Stability's open source art platform, LLM facts and Harry Potter musicals",
+      "status": "published",
+      "override_scheduled_at": "2023-05-18T13:00:00.000Z",
+      "slug": "googles-gonna-keep-ball-rolling",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/eba603ac-2941-4fa1-81a9-ddc3a271ca39/image.png",
+      "meta_default_title": "Google’s gonna keep the ball rolling",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "Google’s gonna keep the ball rolling",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "Google’s gonna keep the ball rolling",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 90,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 90,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 90,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-05-18T08:11:23Z",
+      "updated_at": "2023-05-18T13:00:11Z",
+      "url": "https://www.bensbites.co/p/googles-gonna-keep-ball-rolling"
+    },
     {
       "id": "f9eed255-a6c0-475c-a822-6f0001b7796b",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
