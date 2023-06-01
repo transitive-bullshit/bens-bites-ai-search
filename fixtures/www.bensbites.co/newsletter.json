@@ -115,8 +115,8 @@
           "enabled": true,
           "full_url": "https://www.bensbites.co/recommendations",
           "action_text": "Remove",
-          "modal_header": "Remove your recommendations first!",
-          "modal_body": "To remove this page from your subscribe flow, you will need to remove any recommendations you have set up."
+          "modal_header": "Remove any recommendations or boosts first!",
+          "modal_body": "To remove this page from your subscribe flow, you will need to make sure you have removed any active recommendations or boosts you currently have set up."
         },
         {
           "id": 3,
@@ -249,6 +249,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "1ef3f807-a51c-491f-a495-4cfa031a4705",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's roadmap",
+      "web_subtitle": "PLUS: More research and asking if AI is really bad.",
+      "status": "published",
+      "override_scheduled_at": "2023-06-01T13:00:00.000Z",
+      "slug": "lets-think-step-step",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c8034fe4-028b-465f-b8e9-4a993005dddb/image.png",
+      "meta_default_title": "OpenAI's roadmap",
+      "meta_default_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 100,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_og_title": "OpenAI's roadmap",
+      "meta_og_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 100,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "meta_twitter_title": "OpenAI's roadmap",
+      "meta_twitter_description": "Your daily dose of what's going on in AI. In 5 minutes or less, with a touch of humour. Read by over 100,000 others from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 100,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-06-01T09:36:20Z",
+      "updated_at": "2023-06-01T11:28:30Z",
+      "url": "https://www.bensbites.co/p/lets-think-step-step"
+    },
     {
       "id": "8c90d0ac-d3f7-44fe-bd17-8e0c30e0dc97",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
