@@ -84,6 +84,8 @@
     "has_live_web_posts": true,
     "has_landing_pages": false,
     "has_upgrade_page": false,
+    "private": false,
+    "require_subscriber_approval": false,
     "thumbnail": {
       "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/Group_10.jpg"
     },
