@@ -133,6 +133,17 @@
         },
         {
           "id": 4,
+          "title": "Multi Pubs",
+          "href": "/publications",
+          "managed_type": "publications",
+          "enabled": false,
+          "full_url": "https://www.bensbites.co/publications",
+          "action_text": "Remove",
+          "modal_header": "Remove Multi Publications",
+          "modal_body": "This will remove Multi Publications from the subscribe flow. Not to worry, the page will still be live and available on your site and you can always add it back to the subscribe flow later."
+        },
+        {
+          "id": 5,
           "title": "https://join.bensbites.co/#thanks",
           "href": "https://join.bensbites.co/#thanks",
           "managed_type": "custom",
@@ -143,6 +154,7 @@
           "modal_body": "This will remove the custom redirect. When users complete the subscribe flow they will now be sent to the default home page. You can always add this back later."
         }
       ],
+      "multi_pub_ids": [],
       "nav_groups": [
         {
           "id": "92367b63-f9c5-4d36-bc6d-59250f5a0394",
@@ -251,6 +263,34 @@
     ]
   },
   "posts": [
+    {
+      "id": "0e7fdc1c-6da4-4a3c-9da1-a4205fe4e846",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "New image model from Stable Diffusion",
+      "web_subtitle": "PLUS: Robots that learn, $100M AWS fund and other open source models.",
+      "status": "published",
+      "override_scheduled_at": "2023-06-23T13:00:00.000Z",
+      "slug": "new-image-model-stable-diffusion",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ee2be12f-3c27-4658-8a83-0925cd893b4b/image.png",
+      "meta_default_title": "New image model from Stable Diffusion",
+      "meta_default_description": "PLUS: Robots that learn, $100M AWS fund and other open source models.",
+      "meta_og_title": "New image model from Stable Diffusion",
+      "meta_og_description": "PLUS: Robots that learn, $100M AWS fund and other open source models.",
+      "meta_twitter_title": "New image model from Stable Diffusion",
+      "meta_twitter_description": "PLUS: Robots that learn, $100M AWS fund and other open source models.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Your daily dose of what's going on in AI in 5 mins or less, with a touch of humour. Read by over 100,000 others including folks from Google, a16z, Sequoia, Amazon, Meta and more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "created_at": "2023-06-23T10:17:55Z",
+      "updated_at": "2023-06-23T13:00:45Z",
+      "url": "https://www.bensbites.co/p/new-image-model-stable-diffusion"
+    },
     {
       "id": "df0723e6-3fd9-4b9b-b605-b78305dcfa7c",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
