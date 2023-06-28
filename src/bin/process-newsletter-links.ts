@@ -11,8 +11,8 @@ import * as markdown from '@/server/markdown'
 import * as types from '@/server/types'
 import * as utils from '@/server/utils'
 import got from '@/server/got'
-import { resolveTwitterData } from '@/server/resolve-twitter-data'
-import { twitterV1 } from '@/server/services/twitter'
+// import { resolveTwitterData } from '@/server/resolve-twitter-data'
+// import { twitterV1 } from '@/server/services/twitter'
 import { getThumbnailForUrl } from '@/server/thumbnails'
 import { unfurlTweet } from '@/server/unfurl-tweet'
 import { getImageSize } from '@/server/url-utils'
@@ -249,15 +249,16 @@ async function main() {
   })
 
   console.log(`\nresolving twitter data...${force ? ' (force refresh)' : ''}\n`)
-  const resolvedTwitterData = await resolveTwitterData({
-    tweetIds: Object.keys(tweetIds),
-    usernames: Object.keys(twitterUsernames),
-    twitterV1,
-    resolvedTwitterData: existingTwitterData,
-    resolveUrls: true,
-    force
-  })
-  await utils.writeJson(config.twitterDataCachePath, resolvedTwitterData)
+  const resolvedTwitterData = existingTwitterData
+  // const resolvedTwitterData = await resolveTwitterData({
+  //   tweetIds: Object.keys(tweetIds),
+  //   usernames: Object.keys(twitterUsernames),
+  //   twitterV1,
+  //   resolvedTwitterData: existingTwitterData,
+  //   resolveUrls: true,
+  //   force
+  // })
+  // await utils.writeJson(config.twitterDataCachePath, resolvedTwitterData)
 
   // update all twitter user profile links
   for (const username of Object.keys(twitterUsernames)) {
