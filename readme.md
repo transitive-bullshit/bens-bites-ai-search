@@ -17,7 +17,6 @@
 - [Intro](#intro)
 - [How it works](#how-it-works)
   - [Semantic Search](#semantic-search)
-  - [Keyword Search](#keyword-search)
 - [TODO](#todo)
 - [License](#license)
 
@@ -40,26 +39,14 @@ The steps involved include:
 5. Fetching provider-specific metadata for some links (e.g. tweet text)
 6. Generating vector embeddings for each link using OpenAI
 7. Upserting all links into a Pinecone vector database
-8. Upserting all links into a Meilisearch database
 
 We're using [IFramely](https://iframely.com/) to extract opengraph metadata for each link, and we also special-case tweet links to extract the tweet text.
 
-Once we have all of the links locally, we upsert them into two databases:
-
-- A [Pinecone](https://www.pinecone.io/) vector database for semantic search
-- A [Meilisearch](https://www.meilisearch.com/) database for traditional keyword search
-
-Supporting both of these search indices isn't necessary, but I wanted to have a live comparison of the two approaches in action.
-
-In general, I've found that semantic search is more accurate than keyword search, but keyword search is much faster and can be more intuitive for users.
+Once we have all of the links locally, we upsert them into a [Pinecone](https://www.pinecone.io/) vector database for semantic search.
 
 ### Semantic Search
 
 Semantic search is powered by [OpenAI's \`text-embedding-ada-002\` embedding model](https://platform.openai.com/docs/guides/embeddings/) and [Pinecone's hosted vector database](https://www.pinecone.io/).
-
-### Keyword Search
-
-Traditional keyword-based search is powered by [Meilisearch](https://www.meilisearch.com/).
 
 ## TODO
 
