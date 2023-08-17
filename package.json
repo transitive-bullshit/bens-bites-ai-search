@@ -20,12 +20,10 @@
     "cron:newsletter": "tsx src/bin/resolve-beehiiv-newsletter.ts",
     "cron:process": "tsx src/bin/process-newsletter-links.ts",
     "cron:upsert-pinecone": "tsx src/bin/upsert-newsletter-links.ts",
-    "cron:upsert-meilisearch": "tsx src/bin/upsert-newsletter-links-meilisearch.ts",
     "test": "run-p test:*",
     "test:prettier": "prettier '**/*.{js,jsx,ts,tsx}' --check"
   },
   "dependencies": {
-    "@meilisearch/instant-meilisearch": "^0.11.1",
     "@vercel/analytics": "^0.1.11",
     "clsx": "^1.2.1",
     "dequal": "^2.0.3",
@@ -39,7 +37,6 @@
     "quick-lru": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-instantsearch-hooks-web": "^6.42.0",
     "react-select": "^5.7.2",
     "react-spinners": "^0.13.8",
     "react-tweet-embed": "^2.0.0",
@@ -68,7 +65,6 @@
     "@types/node": "^18.15.10",
     "@types/react": "^18.0.29",
     "@types/react-dom": "^18.0.11",
-    "@types/react-instantsearch-dom": "^6.12.3",
     "@types/rmfr": "^2.0.2",
     "autoprefixer": "^10.4.14",
     "ava": "^5.2.0",

@@ -20,17 +20,6 @@ const orderByOptions = [
   }
 ]
 
-const searchModeOptions = [
-  {
-    value: 'semantic',
-    label: 'Semantic search (default)'
-  },
-  {
-    value: 'meilisearch',
-    label: 'Traditional search'
-  }
-]
-
 const selectStyles: any = {
   option: (provided: any, state: any) => ({
     ...provided,
@@ -47,14 +36,8 @@ const selectStyles: any = {
 }
 
 export const SearchOptions: React.FC = () => {
-  const {
-    query,
-    searchOptions,
-    onChangeQuery,
-    onClearQuery,
-    onChangeOrderBy,
-    onChangeSearchMode
-  } = Search.useContainer()
+  const { query, searchOptions, onChangeQuery, onClearQuery, onChangeOrderBy } =
+    Search.useContainer()
 
   const queryInputRef = React.useRef<HTMLInputElement>(null)
 
@@ -75,20 +58,6 @@ export const SearchOptions: React.FC = () => {
   const onSubmit = React.useCallback((event: any) => {
     event.preventDefault()
   }, [])
-
-  const selectedSearchModeValue = React.useMemo(
-    () =>
-      searchOptions.searchMode
-        ? {
-            value: searchOptions.searchMode,
-            label:
-              searchModeOptions.find(
-                (o) => o.value === searchOptions.searchMode
-              )?.label ?? 'Default'
-          }
-        : null,
-    [searchOptions.searchMode]
-  )
 
   const selectedOrderByValue = React.useMemo(
     () =>
@@ -132,25 +101,6 @@ export const SearchOptions: React.FC = () => {
             </div>
           )}
         </div>
-      </div>
-
-      <div className={cs(styles.field, styles.searchModeField)}>
-        <label htmlFor='searchMode' className={styles.labelSearchMode}>
-          Search Mode
-        </label>
-
-        <Select
-          name='searchMode'
-          id='searchMode'
-          instanceId='searchMode'
-          aria-label='Search Mode'
-          className={cs(styles.select, styles.searchMode)}
-          options={searchModeOptions}
-          styles={selectStyles}
-          isDisabled={false}
-          value={selectedSearchModeValue}
-          onChange={onChangeSearchMode}
-        />
       </div>
 
       <div className={cs(styles.field, styles.orderByField)}>

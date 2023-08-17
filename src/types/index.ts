@@ -13,7 +13,6 @@ export const SearchQuerySchema = z.object({
 })
 
 export const SearchOptionsSchema = z.object({
-  searchMode: z.string().optional(),
   orderBy: z.string().optional()
 })
 

@@ -35,7 +35,7 @@ export async function resolveBeeHiivNewsletter(
     headers: { cookie: beehiivCookie }
   }).text()
 
-  console.log(url)
+  // console.log(url)
   const $ = cheerio.load(page)
   const s = $('script')
     .map((s, el) => $.text([el]))
