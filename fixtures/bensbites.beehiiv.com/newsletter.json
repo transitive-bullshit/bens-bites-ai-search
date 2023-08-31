@@ -223,7 +223,18 @@
         "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg"
       }
     },
-    "content_tags": [],
+    "content_tags": [
+      {
+        "id": "64ea972c-91c5-406a-a512-1d6152696293",
+        "display": "Daily Digest",
+        "description": ""
+      },
+      {
+        "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
+        "display": "Startup Profile",
+        "description": ""
+      }
+    ],
     "authors": [
       {
         "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
@@ -280,6 +291,88 @@
     ]
   },
   "posts": [
+    {
+      "id": "cc49aab0-b21e-4609-9ad3-074967fc112a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "ChatGPT Enterprise & new exclusive Ben's Bites interview",
+      "web_subtitle": "PLUS: summarise all your email newsletters, prompting tips for claude and more",
+      "status": "published",
+      "override_scheduled_at": "2023-08-29T13:00:00.000Z",
+      "slug": "chatgpt-enterprise-new-exclusive-bens-bites-interview",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/97cb7270-bd04-4cfc-bc79-af54376c8f19/fs8a93kcrvkb1__1_.jpeg",
+      "meta_default_title": "ChatGPT Enterprise & new exclusive Ben's Bites interview",
+      "meta_default_description": "PLUS: summarise all your email newsletters, prompting tips for claude and more",
+      "meta_og_title": "ChatGPT Enterprise & new exclusive Ben's Bites interview",
+      "meta_og_description": "PLUS: summarise all your email newsletters, prompting tips for claude and more",
+      "meta_twitter_title": "ChatGPT Enterprise & new exclusive Ben's Bites interview",
+      "meta_twitter_description": "PLUS: summarise all your email newsletters, prompting tips for claude and more",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-08-29T07:35:11Z",
+      "updated_at": "2023-08-29T13:01:54Z",
+      "url": "https://bensbites.beehiiv.com/p/chatgpt-enterprise-new-exclusive-bens-bites-interview"
+    },
+    {
+      "id": "c76da62d-43ab-4438-b901-e43d6d9bbaba",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Startup Profile: Metal",
+      "web_subtitle": "A platform and fully-managed service that helps developers build and implement production-grade large language model (LLM) applications",
+      "status": "published",
+      "override_scheduled_at": "2023-08-29T11:15:13.352Z",
+      "slug": "startup-profle-metal",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a15b78d9-7447-428b-b382-940fea45e80b/logo__4_.png",
+      "meta_default_title": "Startup Profile: Metal",
+      "meta_default_description": "A platform and fully-managed service that helps developers build and implement production-grade large language model (LLM) applications",
+      "meta_og_title": "Startup Profile: Metal",
+      "meta_og_description": "A platform and fully-managed service that helps developers build and implement production-grade large language model (LLM) applications",
+      "meta_twitter_title": "Startup Profile: Metal",
+      "meta_twitter_description": "A platform and fully-managed service that helps developers build and implement production-grade large language model (LLM) applications",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
+          "display": "Startup Profile"
+        }
+      ],
+      "created_at": "2023-08-29T11:08:56Z",
+      "updated_at": "2023-08-29T16:30:47Z",
+      "url": "https://bensbites.beehiiv.com/p/startup-profle-metal"
+    },
     {
       "id": "927bf919-67bc-46e2-b455-a49e1b7193d4",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
