@@ -292,6 +292,74 @@
   },
   "posts": [
     {
+      "id": "f0193884-2e97-4456-92e3-8928d4708ac1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI fights back in court",
+      "web_subtitle": "PLUS: Opt-out by Meta and new Arabic LLM.",
+      "status": "published",
+      "override_scheduled_at": "2023-08-31T13:00:00.000Z",
+      "slug": "open-ai-fights-back-court",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/daf57673-325c-44c9-bebf-8f0ae7ebb410/image.png",
+      "meta_default_title": "Open AI fights back in court",
+      "meta_default_description": "PLUS: Opt-out by Meta and new Arabic LLM.",
+      "meta_og_title": "Open AI fights back in court",
+      "meta_og_description": "PLUS: Opt-out by Meta and new Arabic LLM.",
+      "meta_twitter_title": "Open AI fights back in court",
+      "meta_twitter_description": "PLUS: Opt-out by Meta and new Arabic LLM.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-08-31T06:40:24Z",
+      "updated_at": "2023-08-31T13:00:11Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-fights-back-court"
+    },
+    {
+      "id": "f9c83707-6981-4f92-badf-367bb612fbac",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "$1Bn yearly revenue",
+      "web_subtitle": "PLUS: AI updates from Google",
+      "status": "published",
+      "override_scheduled_at": "2023-08-30T13:00:00.000Z",
+      "slug": "battle-gpu-wealth-rich-brats-vs-frugal-lads",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3275b5fd-163b-49f8-aa99-239d5f6966cb/image.png",
+      "meta_default_title": "$1Bn yearly revenue",
+      "meta_default_description": "PLUS: AI updates from Google",
+      "meta_og_title": "$1Bn yearly revenue",
+      "meta_og_description": "PLUS: AI updates from Google",
+      "meta_twitter_title": "$1Bn yearly revenue",
+      "meta_twitter_description": "PLUS: AI updates from Google",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-08-30T05:26:47Z",
+      "updated_at": "2023-08-30T13:00:11Z",
+      "url": "https://bensbites.beehiiv.com/p/battle-gpu-wealth-rich-brats-vs-frugal-lads"
+    },
+    {
       "id": "cc49aab0-b21e-4609-9ad3-074967fc112a",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "ChatGPT Enterprise & new exclusive Ben's Bites interview",

@@ -139,6 +139,7 @@ export async function resolveBeeHiivPostContent(
 ) {
   console.log(url)
   const page = await got(url, { headers: { cookie: beehiivCookie } }).text()
+  // console.log(page)
 
   const $ = cheerio.load(page)
   const s = $('script')
@@ -154,7 +155,7 @@ export async function resolveBeeHiivPostContent(
   const route = ctx.routeData['routes/p/$slug']
   // console.log(JSON.stringify(ctx, null, 2))
 
-  const html = route.gatedHTML
+  const html = route.gatedHTML || route.html
   const $post = cheerio.load(html)
   const postHtml = $post('.rendered-post')
     .html()
