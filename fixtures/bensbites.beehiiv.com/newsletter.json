@@ -292,6 +292,40 @@
   },
   "posts": [
     {
+      "id": "7b8b668d-4da3-4870-b7c0-3882fc3a96de",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI wants ChatGPT in your Classroom",
+      "web_subtitle": "PLUS: Computer vision benchmark and copyright comments.",
+      "status": "published",
+      "override_scheduled_at": "2023-09-01T13:00:00.000Z",
+      "slug": "open-ai-wants-chatgpt-classroom",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/771ed428-7b12-4e65-82a1-9093c29e5e87/image.png",
+      "meta_default_title": "Open AI wants ChatGPT in your Classroom",
+      "meta_default_description": "PLUS: Computer vision benchmark and copyright comments.",
+      "meta_og_title": "Open AI wants ChatGPT in your Classroom",
+      "meta_og_description": "PLUS: Computer vision benchmark and copyright comments.",
+      "meta_twitter_title": "Open AI wants ChatGPT in your Classroom",
+      "meta_twitter_description": "PLUS: Computer vision benchmark and copyright comments.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-01T02:48:21Z",
+      "updated_at": "2023-09-01T13:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-wants-chatgpt-classroom"
+    },
+    {
       "id": "f0193884-2e97-4456-92e3-8928d4708ac1",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Open AI fights back in court",
