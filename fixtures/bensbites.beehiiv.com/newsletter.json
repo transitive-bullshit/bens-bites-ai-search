@@ -292,6 +292,49 @@
   },
   "posts": [
     {
+      "id": "e3faebc9-cb5f-4788-900e-383940fb8573",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Are you going to OpenAI Dev Day?",
+      "web_subtitle": "PLUS: Apple's secret AI team, Falcon 180B and new AI grant winners",
+      "status": "published",
+      "override_scheduled_at": "2023-09-07T13:00:00.000Z",
+      "slug": "going-openai-dev-day",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0d1d4d0d-48bc-4016-a0c7-ad9f2f40d6b0/image.png",
+      "meta_default_title": "Are you going to OpenAI Dev Day?",
+      "meta_default_description": "PLUS: Apple's secret AI team, Falcon 180B and new AI grant winners",
+      "meta_og_title": "Are you going to OpenAI Dev Day?",
+      "meta_og_description": "PLUS: Apple's secret AI team, Falcon 180B and new AI grant winners",
+      "meta_twitter_title": "Are you going to OpenAI Dev Day?",
+      "meta_twitter_description": "PLUS: Apple's secret AI team, Falcon 180B and new AI grant winners",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            },
+            "landscape": {
+              "url": null
+            }
+          }
+        }
+      ],
+      "content_tags": [],
+      "created_at": "2023-09-07T05:02:53Z",
+      "updated_at": "2023-09-07T13:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/going-openai-dev-day"
+    },
+    {
       "id": "11c2ecf7-e937-40e9-a3d0-a71672627f18",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Meta is losing AI talent",
