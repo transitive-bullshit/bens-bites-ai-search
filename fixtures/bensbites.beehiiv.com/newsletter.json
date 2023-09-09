@@ -95,6 +95,7 @@
       "enable_featured_post_badges": false,
       "enable_recommended_reading": true,
       "enable_customize_category_ids": false,
+      "enable_recommendations": true,
       "enable_recaptcha": false,
       "category_ids": [],
       "signup_flow": [
@@ -291,6 +292,40 @@
     ]
   },
   "posts": [
+    {
+      "id": "a0bcf0e8-3bc0-456c-ba64-093d758567b4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "100 people is too small for AI in 2023",
+      "web_subtitle": "PLUS: Claude Pro and LLMs that reason.",
+      "status": "published",
+      "override_scheduled_at": "2023-09-08T13:00:00.000Z",
+      "slug": "100-people-small-ai-2023",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ad1bb8a1-6583-42d6-bc5e-e3596bf0533f/image.png",
+      "meta_default_title": "100 people is too small for AI in 2023",
+      "meta_default_description": "PLUS: Claude Pro and LLMs that reason.",
+      "meta_og_title": "100 people is too small for AI in 2023",
+      "meta_og_description": "PLUS: Claude Pro and LLMs that reason.",
+      "meta_twitter_title": "100 people is too small for AI in 2023",
+      "meta_twitter_description": "PLUS: Claude Pro and LLMs that reason.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-08T05:57:25Z",
+      "updated_at": "2023-09-08T13:00:16Z",
+      "url": "https://bensbites.beehiiv.com/p/100-people-small-ai-2023"
+    },
     {
       "id": "e3faebc9-cb5f-4788-900e-383940fb8573",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
