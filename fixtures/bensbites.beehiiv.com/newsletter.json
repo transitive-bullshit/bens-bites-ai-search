@@ -293,6 +293,40 @@
   },
   "posts": [
     {
+      "id": "8ec8693d-2f6b-4e1c-b85f-2f53614cdb0f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google drops $$ for AI think tanks",
+      "web_subtitle": "PLUS: Microsoft's Legal Shield and AI diagnosis",
+      "status": "published",
+      "override_scheduled_at": "2023-09-12T13:00:00.000Z",
+      "slug": "google-drops-ai-think-tanks",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/103552c4-ecd8-494c-b70c-da52a78413fc/image.png",
+      "meta_default_title": "Google drops $$ for AI think tanks",
+      "meta_default_description": "PLUS: Microsoft's Legal Shield and AI diagnosis",
+      "meta_og_title": "Google drops $$ for AI think tanks",
+      "meta_og_description": "PLUS: Microsoft's Legal Shield and AI diagnosis",
+      "meta_twitter_title": "Google drops $$ for AI think tanks",
+      "meta_twitter_description": "PLUS: Microsoft's Legal Shield and AI diagnosis",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-12T08:08:47Z",
+      "updated_at": "2023-09-12T13:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/google-drops-ai-think-tanks"
+    },
+    {
       "id": "0da69326-0a2e-4c05-894e-14d49b6e0bae",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Roblox Assistant to make game dev easier.",
