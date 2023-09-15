@@ -293,6 +293,40 @@
   },
   "posts": [
     {
+      "id": "48ce8b47-3e86-44ea-b9b3-0f3fec172b39",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google's Gemini is around the corner",
+      "web_subtitle": "PLUS: Anthropic + BCG, Databricks' Series I and more fundings.",
+      "status": "published",
+      "override_scheduled_at": "2023-09-15T13:00:00.000Z",
+      "slug": "googles-gemini-around-corner",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84dcc316-fad9-41f2-9c86-e0db641e2ada/image.png",
+      "meta_default_title": "Google's Gemini is around the corner",
+      "meta_default_description": "PLUS: Anthropic + BCG, Databricks' Series I and more fundings.",
+      "meta_og_title": "Google's Gemini is around the corner",
+      "meta_og_description": "PLUS: Anthropic + BCG, Databricks' Series I and more fundings.",
+      "meta_twitter_title": "Google's Gemini is around the corner",
+      "meta_twitter_description": "PLUS: Anthropic + BCG, Databricks' Series I and more fundings.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-15T05:45:47Z",
+      "updated_at": "2023-09-15T13:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/googles-gemini-around-corner"
+    },
+    {
       "id": "16b026c2-d10e-4bc0-a6b7-af62a55f6f07",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Stable Diffusion for music",
