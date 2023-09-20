@@ -198,13 +198,18 @@
     },
     "content_tags": [
       {
+        "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+        "display": "🍿 Quick Bites",
+        "description": ""
+      },
+      {
         "id": "64ea972c-91c5-406a-a512-1d6152696293",
-        "display": "Daily Digest",
+        "display": "📬 Daily Digest",
         "description": ""
       },
       {
         "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
-        "display": "Startup Profile",
+        "display": "📝 Startup Profile",
         "description": ""
       }
     ],
@@ -223,34 +228,8 @@
         }
       },
       {
-        "id": "38ea1154-9c89-4c2d-9065-d426803a5c1a",
-        "name": "Matt McGarry",
-        "profile_picture": {
-          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/PXL_20220427_175223949.jpg",
-          "thumb": {
-            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/thumb_PXL_20220427_175223949.jpg"
-          },
-          "landscape": {
-            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/38ea1154-9c89-4c2d-9065-d426803a5c1a/landscape_PXL_20220427_175223949.jpg"
-          }
-        }
-      },
-      {
         "id": "a917fe6b-de54-45e0-ae15-d096d2664f43",
         "name": "Dani Diez",
-        "profile_picture": {
-          "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
-          "thumb": {
-            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
-          },
-          "landscape": {
-            "url": null
-          }
-        }
-      },
-      {
-        "id": "5e52c72c-c32d-4e21-b1e6-da7c6accf6e8",
-        "name": "Oliver Price",
         "profile_picture": {
           "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
           "thumb": {
@@ -264,6 +243,176 @@
     ]
   },
   "posts": [
+    {
+      "id": "6679632c-7430-49c3-9afa-0f1ede03ea23",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI vs Google is GAME ON",
+      "web_subtitle": "PLUS: Massive data breach for Microsoft",
+      "status": "published",
+      "override_scheduled_at": "2023-09-19T13:00:00.000Z",
+      "slug": "open-ai-vs-google-game",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f00a1e23-681a-4d1a-be43-5136f830529c/image.png",
+      "meta_default_title": "Open AI vs Google is GAME ON",
+      "meta_default_description": "PLUS: Massive data breach for Microsoft",
+      "meta_og_title": "Open AI vs Google is GAME ON",
+      "meta_og_description": "PLUS: Massive data breach for Microsoft",
+      "meta_twitter_title": "Open AI vs Google is GAME ON",
+      "meta_twitter_description": "PLUS: Massive data breach for Microsoft",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-19T09:37:38Z",
+      "updated_at": "2023-09-19T13:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-vs-google-game"
+    },
+    {
+      "id": "d3560f70-6b82-441d-a4a5-14e896b1cf21",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft researchers accidentally exposed 38TB of private data",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-19T12:47:02.892Z",
+      "slug": "microsoft-researchers-accidentally-exposed-38tb-private-data",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a811c2f6-feae-428e-9bc8-501619a3f07e/1695041345-04-teams.jpeg",
+      "meta_default_title": "Microsoft researchers accidentally exposed 38TB of private data",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Microsoft researchers accidentally exposed 38TB of private data",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Microsoft researchers accidentally exposed 38TB of private data",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-19T12:44:43Z",
+      "updated_at": "2023-09-19T12:48:01Z",
+      "url": "https://bensbites.beehiiv.com/p/microsoft-researchers-accidentally-exposed-38tb-private-data"
+    },
+    {
+      "id": "5e07d137-dd75-4c30-8156-6979a717689f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI hustles to beat Google to launch ‘Multimodal’ LLM",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-19T12:43:04.851Z",
+      "slug": "openai-hustles-beat-google-launch-multimodal-llm",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "OpenAI hustles to beat Google to launch ‘Multimodal’ LLM",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "OpenAI hustles to beat Google to launch ‘Multimodal’ LLM",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "OpenAI hustles to beat Google to launch ‘Multimodal’ LLM",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-19T12:40:19Z",
+      "updated_at": "2023-09-19T12:44:02Z",
+      "url": "https://bensbites.beehiiv.com/p/openai-hustles-beat-google-launch-multimodal-llm"
+    },
+    {
+      "id": "973dad53-c2f1-42fb-88b3-10a3f8bb6355",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Bard can now connect to your Google apps and services",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-19T12:36:49.735Z",
+      "slug": "bard-can-now-connect-google-apps-services",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/92d2dab0-0459-4bab-aefb-7e1df55bfd6d/Bard_SN020b_001_Keyword_Header_2.width-1600.format-webp_opI2TVp.jpeg",
+      "meta_default_title": "Bard can now connect to your Google apps and services",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Bard can now connect to your Google apps and services",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Bard can now connect to your Google apps and services",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-19T12:33:25Z",
+      "updated_at": "2023-09-19T12:59:17Z",
+      "url": "https://bensbites.beehiiv.com/p/bard-can-now-connect-google-apps-services"
+    },
+    {
+      "id": "57b67794-d072-4896-a477-443ad490524b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI can help people perform better at work",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-19T09:45:16.379Z",
+      "slug": "ai-can-help-people-perform-better-work-83ac",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ef468627-2fc0-40e7-bc0b-333f03fe7924/1d0dcea1-a78d-49f6-8410-c356f71aa535_1756x1120.jpeg",
+      "meta_default_title": "AI can help people perform better at work",
+      "meta_default_description": "Researchers did experiments where they gave some consultants access to AI, like ChatGPT, and others didn’t use AI. The consultants using AI completed more tasks",
+      "meta_og_title": "AI can help people perform better at work",
+      "meta_og_description": "Researchers did experiments where they gave some consultants access to AI, like ChatGPT, and others didn’t use AI. The consultants using AI completed more tasks",
+      "meta_twitter_title": "AI can help people perform better at work",
+      "meta_twitter_description": "Researchers did experiments where they gave some consultants access to AI, like ChatGPT, and others didn’t use AI. The consultants using AI completed more tasks",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-19T09:43:12Z",
+      "updated_at": "2023-09-19T10:16:37Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-can-help-people-perform-better-work-83ac"
+    },
     {
       "id": "9afb2201-78ee-4c3c-b2c7-127d840c0912",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
