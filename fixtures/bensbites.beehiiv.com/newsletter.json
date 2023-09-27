@@ -203,6 +203,11 @@
         "description": ""
       },
       {
+        "id": "5129b471-5efe-4133-844f-ff1094e02883",
+        "display": "Inside Story",
+        "description": ""
+      },
+      {
         "id": "64ea972c-91c5-406a-a512-1d6152696293",
         "display": "📬 Daily Digest",
         "description": ""
@@ -243,6 +248,142 @@
     ]
   },
   "posts": [
+    {
+      "id": "ed0997c4-8f83-4bf9-81f3-c3b20ecbda7a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "ChatGPT with Vision and Voice",
+      "web_subtitle": "PLUS: Podcast dubbing by Spotify, Getty Images' new tool and what builders think about AI.",
+      "status": "published",
+      "override_scheduled_at": "2023-09-26T13:00:00.000Z",
+      "slug": "chatgpt-vision-voice",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93d3eded-d72e-4581-bf12-13cc34a0adb7/Blue_Level_3.png",
+      "meta_default_title": "ChatGPT with Vision and Voice",
+      "meta_default_description": "PLUS: Podcast dubbing by Spotify, Getty Images' new tool and what builders think about AI.",
+      "meta_og_title": "ChatGPT with Vision and Voice",
+      "meta_og_description": "PLUS: Podcast dubbing by Spotify, Getty Images' new tool and what builders think about AI.",
+      "meta_twitter_title": "ChatGPT with Vision and Voice",
+      "meta_twitter_description": "PLUS: Podcast dubbing by Spotify, Getty Images' new tool and what builders think about AI.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-26T10:04:44Z",
+      "updated_at": "2023-09-26T13:00:08Z",
+      "url": "https://bensbites.beehiiv.com/p/chatgpt-vision-voice"
+    },
+    {
+      "id": "ced32d8c-4417-483a-b2da-54ecec18d288",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI adds voice chat and images to ChatGPT.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-26T12:08:48.640Z",
+      "slug": "open-ai-adds-voice-chat-images-chatgpt",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea64b75b-b04b-4326-aeda-7a71b399f8f0/image.png",
+      "meta_default_title": "Open AI adds voice chat and images to ChatGPT.",
+      "meta_default_description": "Users can now have natural back-and-forth voice conversations with ChatGPT and show it images to receive relevant responses.",
+      "meta_og_title": "Open AI adds voice chat and images to ChatGPT.",
+      "meta_og_description": "Users can now have natural back-and-forth voice conversations with ChatGPT and show it images to receive relevant responses.",
+      "meta_twitter_title": "Open AI adds voice chat and images to ChatGPT.",
+      "meta_twitter_description": "Users can now have natural back-and-forth voice conversations with ChatGPT and show it images to receive relevant responses.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-26T10:44:10Z",
+      "updated_at": "2023-09-26T12:09:02Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-adds-voice-chat-images-chatgpt"
+    },
+    {
+      "id": "2cd6afc2-1587-4c76-8880-e5555f2858b0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "New AI image generator by Getty Images",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-26T11:45:15.856Z",
+      "slug": "new-ai-image-generator-getty-images",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d6cae63a-5b36-46ef-b419-5f6e6a35c011/image.png",
+      "meta_default_title": "New AI image generator by Getty Images",
+      "meta_default_description": "Getty Images announced a new AI art generator tool trained on its massive stock image library. The company positions it as a safer, more responsible option.",
+      "meta_og_title": "New AI image generator by Getty Images",
+      "meta_og_description": "Getty Images announced a new AI art generator tool trained on its massive stock image library. The company positions it as a safer, more responsible option.",
+      "meta_twitter_title": "New AI image generator by Getty Images",
+      "meta_twitter_description": "Getty Images announced a new AI art generator tool trained on its massive stock image library. The company positions it as a safer, more responsible option.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-26T11:29:08Z",
+      "updated_at": "2023-09-26T11:57:16Z",
+      "url": "https://bensbites.beehiiv.com/p/new-ai-image-generator-getty-images"
+    },
+    {
+      "id": "436d3add-60bc-4511-8be0-eeac49cb5d38",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Spotify translates podcasts into new languages.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-26T11:22:09.526Z",
+      "slug": "spotify-translates-podcasts-new-languages",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5e61aa5e-61da-4560-9119-3bfe3eb72339/image.png",
+      "meta_default_title": "Spotify translates podcasts into new languages.",
+      "meta_default_description": "A new pilot program from Spotify for AI-powered voice translations of podcasts into different languages while retaining the original speaker's voice. ",
+      "meta_og_title": "Spotify translates podcasts into new languages.",
+      "meta_og_description": "A new pilot program from Spotify for AI-powered voice translations of podcasts into different languages while retaining the original speaker's voice. ",
+      "meta_twitter_title": "Spotify translates podcasts into new languages.",
+      "meta_twitter_description": "A new pilot program from Spotify for AI-powered voice translations of podcasts into different languages while retaining the original speaker's voice. ",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-26T11:11:38Z",
+      "updated_at": "2023-09-26T11:23:02Z",
+      "url": "https://bensbites.beehiiv.com/p/spotify-translates-podcasts-new-languages"
+    },
     {
       "id": "abe6b97e-e2c3-45d8-80c5-433f80205c06",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
