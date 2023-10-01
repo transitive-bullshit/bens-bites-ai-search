@@ -204,12 +204,17 @@
       },
       {
         "id": "5129b471-5efe-4133-844f-ff1094e02883",
-        "display": "Inside Story",
+        "display": "👀 Inside Story",
         "description": ""
       },
       {
         "id": "64ea972c-91c5-406a-a512-1d6152696293",
         "display": "📬 Daily Digest",
+        "description": ""
+      },
+      {
+        "id": "6fd5681c-6f83-4e5b-89dc-7d9e4350aebd",
+        "display": "📚 Education",
         "description": ""
       },
       {
@@ -248,6 +253,278 @@
     ]
   },
   "posts": [
+    {
+      "id": "73911748-e721-4eca-8afb-37fb7f898270",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Cloudflare partners with Hugging Face to make AI models more accessible and affordable",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T14:54:09.503Z",
+      "slug": "cloudflare-partners-hugging-face-make-ai-models-accessible-affordable",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/07c581a1-c0ec-40dc-a211-ccde50b25935/image3-26.png",
+      "meta_default_title": "Cloudflare partners with Hugging Face to make AI models more accessible and affordable",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Cloudflare partners with Hugging Face to make AI models more accessible and affordable",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Cloudflare partners with Hugging Face to make AI models more accessible and affordable",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-27T14:51:30Z",
+      "updated_at": "2023-09-27T14:55:03Z",
+      "url": "https://bensbites.beehiiv.com/p/cloudflare-partners-hugging-face-make-ai-models-accessible-affordable"
+    },
+    {
+      "id": "40ace92d-b8b7-479e-b66b-53e44676fd77",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "What's next for Open AI",
+      "web_subtitle": "3x valuation, hardware device and less Microsoft money.",
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T13:00:00.000Z",
+      "slug": "whats-next-open-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b1c2de5-e0de-4ce9-8929-c16df645c9a9/Green_Level_1.png",
+      "meta_default_title": "What's next for Open AI",
+      "meta_default_description": "3x valuation, hardware device and less Microsoft money.",
+      "meta_og_title": "What's next for Open AI",
+      "meta_og_description": "3x valuation, hardware device and less Microsoft money.",
+      "meta_twitter_title": "What's next for Open AI",
+      "meta_twitter_description": "3x valuation, hardware device and less Microsoft money.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-09-27T09:19:04Z",
+      "updated_at": "2023-09-27T13:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/whats-next-open-ai"
+    },
+    {
+      "id": "02246dcd-6c27-47eb-b2bc-df72f9195ac1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Sam Altman wants to make hardware AI now",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T10:07:37.701Z",
+      "slug": "sam-altman-wants-make-hardware-ai-now",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/28ac6901-a607-483e-ac23-e77687ff9a82/image.png",
+      "meta_default_title": "Sam Altman wants to make hardware AI now",
+      "meta_default_description": "Renowned iPhone designer Jony Ive and OpenAI CEO Sam Altman have been in talks about collaborating on a new consumer AI hardware device.",
+      "meta_og_title": "Sam Altman wants to make hardware AI now",
+      "meta_og_description": "Renowned iPhone designer Jony Ive and OpenAI CEO Sam Altman have been in talks about collaborating on a new consumer AI hardware device.",
+      "meta_twitter_title": "Sam Altman wants to make hardware AI now",
+      "meta_twitter_description": "Renowned iPhone designer Jony Ive and OpenAI CEO Sam Altman have been in talks about collaborating on a new consumer AI hardware device.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-27T09:03:00Z",
+      "updated_at": "2023-09-27T10:08:03Z",
+      "url": "https://bensbites.beehiiv.com/p/sam-altman-wants-make-hardware-ai-now"
+    },
+    {
+      "id": "fae62e8a-cd17-4a1e-9932-3cf1605b9682",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI seeking a $90 Billion valuation",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T10:04:08.739Z",
+      "slug": "open-ai-seeking-a-90-billion-valuation",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4ad195af-8bb0-44ed-ae70-8400316dc5f3/image.png",
+      "meta_default_title": "Open AI seeking a $90 Billion valuation",
+      "meta_default_description": "OpenAI is in talks to allow employees to sell existing shares to investors, valuing the company at $80-90B—almost triple its earlier $29B valuation.",
+      "meta_og_title": "Open AI seeking a $90 Billion valuation",
+      "meta_og_description": "OpenAI is in talks to allow employees to sell existing shares to investors, valuing the company at $80-90B—almost triple its earlier $29B valuation.",
+      "meta_twitter_title": "Open AI seeking a $90 Billion valuation",
+      "meta_twitter_description": "OpenAI is in talks to allow employees to sell existing shares to investors, valuing the company at $80-90B—almost triple its earlier $29B valuation.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-27T09:13:31Z",
+      "updated_at": "2023-09-27T10:05:50Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-seeking-a-90-billion-valuation"
+    },
+    {
+      "id": "6e3c15ae-e43c-44f3-9abb-569689f58062",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft's plans beyond Open AI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T09:55:31.622Z",
+      "slug": "microsofts-plans-beyond-open-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/25c8e587-1f0f-4cd3-9462-4f436e0c35cd/02d68d3a-f324-452e-8875-6662599ee2b0.jpeg",
+      "meta_default_title": "Microsoft's plans beyond Open AI",
+      "meta_default_description": "It is directing internal researchers and resources to make smaller models that can take the place of GPT-4 in relevant situations.",
+      "meta_og_title": "Microsoft's plans beyond Open AI",
+      "meta_og_description": "It is directing internal researchers and resources to make smaller models that can take the place of GPT-4 in relevant situations.",
+      "meta_twitter_title": "Microsoft's plans beyond Open AI",
+      "meta_twitter_description": "It is directing internal researchers and resources to make smaller models that can take the place of GPT-4 in relevant situations.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-27T08:36:34Z",
+      "updated_at": "2023-09-27T12:14:11Z",
+      "url": "https://bensbites.beehiiv.com/p/microsofts-plans-beyond-open-ai"
+    },
+    {
+      "id": "280c5832-4a88-46f1-bb5e-e62f4f5613ca",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "What is an LLM? A Beginner's Guide",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T09:43:11.169Z",
+      "slug": "llm-beginners-guide",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/021554ce-e054-40f8-ad76-ac4a5a9769df/Share_image_white_background__1_.jpg",
+      "meta_default_title": "What is an LLM? A Beginner's Guide",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "What is an LLM? A Beginner's Guide",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "What is an LLM? A Beginner's Guide",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "6fd5681c-6f83-4e5b-89dc-7d9e4350aebd",
+          "display": "📚 Education"
+        }
+      ],
+      "created_at": "2023-09-27T09:33:04Z",
+      "updated_at": "2023-09-27T09:44:01Z",
+      "url": "https://bensbites.beehiiv.com/p/llm-beginners-guide"
+    },
+    {
+      "id": "a1f800a5-e9f2-4d95-903d-b3f151dca8b4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Lamini ditches Nvidia in favour of AMD",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T09:35:54.059Z",
+      "slug": "lamini-ditches-nvidia-favour-amd",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e3cef85e-77f0-416b-a105-8d3c64bb3b96/image.png",
+      "meta_default_title": "Lamini ditches Nvidia in favour of AMD",
+      "meta_default_description": "Lamini has been secretly running over 100 AMD Instinct MI200 GPUs and says AMD's ROCm software is on par with Nvidia's CUDA for large language models.",
+      "meta_og_title": "Lamini ditches Nvidia in favour of AMD",
+      "meta_og_description": "Lamini has been secretly running over 100 AMD Instinct MI200 GPUs and says AMD's ROCm software is on par with Nvidia's CUDA for large language models.",
+      "meta_twitter_title": "Lamini ditches Nvidia in favour of AMD",
+      "meta_twitter_description": "Lamini has been secretly running over 100 AMD Instinct MI200 GPUs and says AMD's ROCm software is on par with Nvidia's CUDA for large language models.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-09-27T09:27:12Z",
+      "updated_at": "2023-09-27T09:36:02Z",
+      "url": "https://bensbites.beehiiv.com/p/lamini-ditches-nvidia-favour-amd"
+    },
+    {
+      "id": "2cdd9e03-8183-4155-a81d-022b9018204c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How to use AI to get better at email",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-09-27T09:12:14.701Z",
+      "slug": "use-ai-get-better-email",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/442da26a-a839-4306-b919-f011ef0f8def/hero_2x.jpeg",
+      "meta_default_title": "How to use AI to get better at email with Shortwave",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "How to use AI to get better at email with Shortwave",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "How to use AI to get better at email with Shortwave",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "6fd5681c-6f83-4e5b-89dc-7d9e4350aebd",
+          "display": "📚 Education"
+        }
+      ],
+      "created_at": "2023-09-26T13:10:26Z",
+      "updated_at": "2023-09-27T09:50:22Z",
+      "url": "https://bensbites.beehiiv.com/p/use-ai-get-better-email"
+    },
     {
       "id": "ed0997c4-8f83-4bf9-81f3-c3b20ecbda7a",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
