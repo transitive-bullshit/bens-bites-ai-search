@@ -254,6 +254,108 @@
   },
   "posts": [
     {
+      "id": "341a5b74-ef02-422c-ae7a-e2e3feaed0e9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: False AGI Risk",
+      "web_subtitle": "PLUS: Margaret Atwood reads AI",
+      "status": "published",
+      "override_scheduled_at": "2023-10-16T13:00:00.000Z",
+      "slug": "daily-digest-false-agi-risk",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1197caa6-fe12-4797-a301-6009e2227672/Purple_Level_2.png",
+      "meta_default_title": "Daily Digest: False AGI Risk",
+      "meta_default_description": "PLUS: Margaret Atwood reads AI",
+      "meta_og_title": "Daily Digest: False AGI Risk",
+      "meta_og_description": "PLUS: Margaret Atwood reads AI",
+      "meta_twitter_title": "Daily Digest: False AGI Risk",
+      "meta_twitter_description": "PLUS: Margaret Atwood reads AI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-16T05:27:21Z",
+      "updated_at": "2023-10-16T13:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-false-agi-risk"
+    },
+    {
+      "id": "cc17b515-1e4f-487d-bde0-ad66448aeffe",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI panic campaigns are targeting to influence public policy ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-16T10:00:26.632Z",
+      "slug": "ai-panic-campaigns-targeting-influence-public-policy",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0a258fcc-eda6-4d1c-a9a7-910542527b29/image.png",
+      "meta_default_title": "AI panic campaigns are targeting to influence public policy ",
+      "meta_default_description": "AI safety organizations conduct \"message testing\" to spread fear about AI risk and lobby for regulation. Their goal is to restrict AI progress.",
+      "meta_og_title": "AI panic campaigns are targeting to influence public policy ",
+      "meta_og_description": "AI safety organizations conduct \"message testing\" to spread fear about AI risk and lobby for regulation. Their goal is to restrict AI progress.",
+      "meta_twitter_title": "AI panic campaigns are targeting to influence public policy ",
+      "meta_twitter_description": "AI safety organizations conduct \"message testing\" to spread fear about AI risk and lobby for regulation. Their goal is to restrict AI progress.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-16T09:12:09Z",
+      "updated_at": "2023-10-16T10:01:02Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-panic-campaigns-targeting-influence-public-policy"
+    },
+    {
+      "id": "c68820ad-9cae-43b3-a5ef-d7a67b38a912",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI's new values are AGI aligned",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-16T09:11:57.276Z",
+      "slug": "open-ais-new-values-agi-aligned",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/29b65909-51be-4388-b711-94eb22e5958e/image.png",
+      "meta_default_title": "Open AI's new values are AGI aligned",
+      "meta_default_description": "OpenAI recently changed the core values listed on its website, putting a new emphasis on developing artificial general intelligence (AGI).",
+      "meta_og_title": "Open AI's new values are AGI aligned",
+      "meta_og_description": "OpenAI recently changed the core values listed on its website, putting a new emphasis on developing artificial general intelligence (AGI).",
+      "meta_twitter_title": "Open AI's new values are AGI aligned",
+      "meta_twitter_description": "OpenAI recently changed the core values listed on its website, putting a new emphasis on developing artificial general intelligence (AGI).",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-16T08:43:39Z",
+      "updated_at": "2023-10-16T09:12:05Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ais-new-values-agi-aligned"
+    },
+    {
       "id": "9f4360ab-65ec-4e64-89f3-14f3ddc83444",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Google Da Vinci",
