@@ -254,6 +254,108 @@
   },
   "posts": [
     {
+      "id": "91140d2c-6339-48c8-879e-31b462f63b65",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Claude and Pi",
+      "web_subtitle": "PLUS: Our profile of Autoblocks",
+      "status": "published",
+      "override_scheduled_at": "2023-10-17T13:00:00.000Z",
+      "slug": "daily-digest-claude-pi",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/bbfcf99c-a05f-488d-9d51-977dd0906d90/Red_Level_3.png",
+      "meta_default_title": "Daily Digest: Claude and Pi",
+      "meta_default_description": "PLUS: Our profile of Autoblocks",
+      "meta_og_title": "Daily Digest: Claude and Pi",
+      "meta_og_description": "PLUS: Our profile of Autoblocks",
+      "meta_twitter_title": "Daily Digest: Claude and Pi",
+      "meta_twitter_description": "PLUS: Our profile of Autoblocks",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-17T07:53:21Z",
+      "updated_at": "2023-10-17T13:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-claude-pi"
+    },
+    {
+      "id": "833e711f-6ab3-45a5-95cf-9849eb5a81f0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Shaky economics of GPU reselling startups",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-17T10:32:05.247Z",
+      "slug": "shaky-economics-gpu-reselling-startups",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aa3b1c9e-7324-4fb8-b85c-9798074536a4/image.png",
+      "meta_default_title": "Shaky economics of GPU reselling startups",
+      "meta_default_description": "GPU resellers are seeing rapid growth but have slim margins and other challenges that make their sky-high valuations questionable.",
+      "meta_og_title": "Shaky economics of GPU reselling startups",
+      "meta_og_description": "GPU resellers are seeing rapid growth but have slim margins and other challenges that make their sky-high valuations questionable.",
+      "meta_twitter_title": "Shaky economics of GPU reselling startups",
+      "meta_twitter_description": "GPU resellers are seeing rapid growth but have slim margins and other challenges that make their sky-high valuations questionable.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-17T10:21:35Z",
+      "updated_at": "2023-10-17T10:38:35Z",
+      "url": "https://bensbites.beehiiv.com/p/shaky-economics-gpu-reselling-startups"
+    },
+    {
+      "id": "a205cd79-2ec1-4f70-a67c-2c468d2b41f4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Startup profile: Autoblocks",
+      "web_subtitle": "A platform helping businesses dealing with large-scale user data to better monitor their LLM-powered products.",
+      "status": "published",
+      "override_scheduled_at": "2023-10-17T10:03:40.220Z",
+      "slug": "startup-profile-autoblocks",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d30c5a1d-649d-44ff-8f7f-78b90301ef03/image.png",
+      "meta_default_title": "Startup profile: Autoblocks",
+      "meta_default_description": "Autoblocks is a platform helping businesses dealing with large-scale user data to better monitor their LLM-powered products.",
+      "meta_og_title": "Startup profile: Autoblocks",
+      "meta_og_description": "Autoblocks is a platform helping businesses dealing with large-scale user data to better monitor their LLM-powered products.",
+      "meta_twitter_title": "Startup profile: Autoblocks",
+      "meta_twitter_description": "Autoblocks is a platform helping businesses dealing with large-scale user data to better monitor their LLM-powered products.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
+          "display": "📝 Startup Profile"
+        }
+      ],
+      "created_at": "2023-10-17T09:48:09Z",
+      "updated_at": "2023-10-17T10:04:03Z",
+      "url": "https://bensbites.beehiiv.com/p/startup-profile-autoblocks"
+    },
+    {
       "id": "341a5b74-ef02-422c-ae7a-e2e3feaed0e9",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: False AGI Risk",
