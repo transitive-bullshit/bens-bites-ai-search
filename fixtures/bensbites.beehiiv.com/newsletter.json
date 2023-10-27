@@ -254,6 +254,40 @@
   },
   "posts": [
     {
+      "id": "fa2d4788-b086-4601-a727-de6349c6b1f4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest #272",
+      "web_subtitle": "PLUS: Will generative AI transform business?",
+      "status": "published",
+      "override_scheduled_at": "2023-10-27T13:00:00.000Z",
+      "slug": "daily-digest-272",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b8906929-875d-4310-a53d-dee02f0ae104/BB_Image_7__1_.png",
+      "meta_default_title": "Daily Digest #272",
+      "meta_default_description": "PLUS: Will generative AI transform business?",
+      "meta_og_title": "Daily Digest #272",
+      "meta_og_description": "PLUS: Will generative AI transform business?",
+      "meta_twitter_title": "Daily Digest #272",
+      "meta_twitter_description": "PLUS: Will generative AI transform business?",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-27T04:30:55Z",
+      "updated_at": "2023-10-27T13:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-272"
+    },
+    {
       "id": "9f831e62-aa31-4122-a0c6-4b6a05a9c8c7",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest #271",
