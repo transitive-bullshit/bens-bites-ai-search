@@ -254,6 +254,272 @@
   },
   "posts": [
     {
+      "id": "9f831e62-aa31-4122-a0c6-4b6a05a9c8c7",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest #271",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-26T13:00:00.000Z",
+      "slug": "daily-digest-271",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b8906929-875d-4310-a53d-dee02f0ae104/BB_Image_7__1_.png",
+      "meta_default_title": "Daily Digest #271",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Daily Digest #271",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Daily Digest #271",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-26T07:28:57Z",
+      "updated_at": "2023-10-26T13:00:09Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-271"
+    },
+    {
+      "id": "583a3d6f-347c-445a-8337-f0d17eb7c3f1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Frontier Model Forum",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-26T11:58:27.666Z",
+      "slug": "frontier-model-forum",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f5b9c617-8463-4e7d-9316-db098ac9a993/_Frontier_Model_Forum_updates.jpeg",
+      "meta_default_title": "Frontier Model Forum",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Frontier Model Forum",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Frontier Model Forum",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-26T11:53:44Z",
+      "updated_at": "2023-10-26T12:25:17Z",
+      "url": "https://bensbites.beehiiv.com/p/frontier-model-forum"
+    },
+    {
+      "id": "5df5fed0-d8ed-4207-b290-3fa52ee82095",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google's new Image and Source checker",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-26T11:53:41.323Z",
+      "slug": "googles-new-image-source-checker",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3c6de7e7-1030-42d1-a1a6-f3e6f47793d6/FCE_Shark1.gif",
+      "meta_default_title": "Google's new Image and Source checker",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Google's new Image and Source checker",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Google's new Image and Source checker",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-26T11:50:00Z",
+      "updated_at": "2023-10-26T12:23:55Z",
+      "url": "https://bensbites.beehiiv.com/p/googles-new-image-source-checker"
+    },
+    {
+      "id": "f0cab8d6-5582-4272-b7bd-2f5d9f5bfd98",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Amazon's new generative AI for product images",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-26T11:49:19.918Z",
+      "slug": "amazons-new-generative-ai-product-images",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8cd0a31-102d-47b3-94ab-24c1d33f90c0/Amazon_AI_Ad.jpeg",
+      "meta_default_title": "Amazon's new generative AI for product images",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Amazon's new generative AI for product images",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Amazon's new generative AI for product images",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-26T11:46:19Z",
+      "updated_at": "2023-10-26T11:50:01Z",
+      "url": "https://bensbites.beehiiv.com/p/amazons-new-generative-ai-product-images"
+    },
+    {
+      "id": "22ebbbe8-eb45-489e-ab46-82201db03aba",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Half-billion valuations",
+      "web_subtitle": "PLUS: Everyone wants the enterprise cake.",
+      "status": "published",
+      "override_scheduled_at": "2023-10-25T13:00:00.000Z",
+      "slug": "daily-digest-halfbillion-valuations",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/479e3538-75cf-4028-8ca1-1985691b437e/Green_Level_3.png",
+      "meta_default_title": "Daily Digest: Half-billion valuations",
+      "meta_default_description": "PLUS: Everyone wants the enterprise cake.",
+      "meta_og_title": "Daily Digest: Half-billion valuations",
+      "meta_og_description": "PLUS: Everyone wants the enterprise cake.",
+      "meta_twitter_title": "Daily Digest: Half-billion valuations",
+      "meta_twitter_description": "PLUS: Everyone wants the enterprise cake.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-25T08:52:33Z",
+      "updated_at": "2023-10-25T13:00:08Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-halfbillion-valuations"
+    },
+    {
+      "id": "da8e0727-6265-40f5-8bae-df33b0584a3c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI's tricky path to corporate sales",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-25T12:04:53.884Z",
+      "slug": "open-ais-tricky-path-corporate-sales",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9ad79de1-2c4e-4e51-b590-f436fa9ef07d/image.png",
+      "meta_default_title": "Open AI's tricky path to corporate sales",
+      "meta_default_description": "OpenAI’s competition in the enterprise market is increasing day-by-day. Some are buying from Microsoft directly, while others go the open source route.",
+      "meta_og_title": "Open AI's tricky path to corporate sales",
+      "meta_og_description": "OpenAI’s competition in the enterprise market is increasing day-by-day. Some are buying from Microsoft directly, while others go the open source route.",
+      "meta_twitter_title": "Open AI's tricky path to corporate sales",
+      "meta_twitter_description": "OpenAI’s competition in the enterprise market is increasing day-by-day. Some are buying from Microsoft directly, while others go the open source route.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            },
+            "landscape": {
+              "url": null
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-25T10:54:15Z",
+      "updated_at": "2023-10-25T12:05:01Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ais-tricky-path-corporate-sales"
+    },
+    {
+      "id": "a47c570d-976e-4460-84d9-b2cb3f67b2f0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Lenovo and NVIDIA announce hybrid AI solutions",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-25T11:33:15.754Z",
+      "slug": "lenovo-nvidia-announce-hybrid-ai-solutions",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/54c2ae53-5a3a-4db4-b6ad-96c9fc7e0d67/image.png",
+      "meta_default_title": "Lenovo and NVIDIA announce hybrid AI solutions",
+      "meta_default_description": "They aim to support businesses in deploying tailored generative AI applications across edge, on-premise and cloud environments.",
+      "meta_og_title": "Lenovo and NVIDIA announce hybrid AI solutions",
+      "meta_og_description": "They aim to support businesses in deploying tailored generative AI applications across edge, on-premise and cloud environments.",
+      "meta_twitter_title": "Lenovo and NVIDIA announce hybrid AI solutions",
+      "meta_twitter_description": "They aim to support businesses in deploying tailored generative AI applications across edge, on-premise and cloud environments.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            },
+            "landscape": {
+              "url": null
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-25T10:57:51Z",
+      "updated_at": "2023-10-25T11:34:33Z",
+      "url": "https://bensbites.beehiiv.com/p/lenovo-nvidia-announce-hybrid-ai-solutions"
+    },
+    {
       "id": "f9411280-fe26-445d-a5c4-138e3e205a73",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Gemini Leaks",
