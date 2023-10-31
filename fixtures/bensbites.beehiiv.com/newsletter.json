@@ -254,6 +254,108 @@
   },
   "posts": [
     {
+      "id": "111a98ed-1628-48bc-b519-6a611a111e4a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Safe and Open",
+      "web_subtitle": "PLUS: did OpenAI just kill Chat with PDF apps?",
+      "status": "published",
+      "override_scheduled_at": "2023-10-30T14:00:00.000Z",
+      "slug": "daily-digest-safe-open",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f16e9272-29ce-48e4-8708-a091362d7632/BB_Image_4.png",
+      "meta_default_title": "Daily Digest: Safe and Open",
+      "meta_default_description": "PLUS: did OpenAI just kill Chat with PDF apps?",
+      "meta_og_title": "Daily Digest: Safe and Open",
+      "meta_og_description": "PLUS: did OpenAI just kill Chat with PDF apps?",
+      "meta_twitter_title": "Daily Digest: Safe and Open",
+      "meta_twitter_description": "PLUS: did OpenAI just kill Chat with PDF apps?",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-10-30T07:43:26Z",
+      "updated_at": "2023-10-30T14:00:03Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-safe-open"
+    },
+    {
+      "id": "931ca350-182c-4a02-97a9-9aa0a28d3dab",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI kills Chat with PDF apps. Or did it?",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-30T12:05:26.246Z",
+      "slug": "openai-kills-chat-pdf-apps",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0aeeee95-0122-4ab4-8698-6029124452f7/image.png",
+      "meta_default_title": "OpenAI kills Chat with PDF apps. Or did it?",
+      "meta_default_description": "ChatGPT is getting upgrades to how it uses files and tools.",
+      "meta_og_title": "OpenAI kills Chat with PDF apps. Or did it?",
+      "meta_og_description": "ChatGPT is getting upgrades to how it uses files and tools.",
+      "meta_twitter_title": "OpenAI kills Chat with PDF apps. Or did it?",
+      "meta_twitter_description": "ChatGPT is getting upgrades to how it uses files and tools.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-30T11:29:12Z",
+      "updated_at": "2023-10-30T12:06:59Z",
+      "url": "https://bensbites.beehiiv.com/p/openai-kills-chat-pdf-apps"
+    },
+    {
+      "id": "c5df44f6-6fd6-4a52-8ea7-e521db880acc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google spending $2B more on Anthropic.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-10-30T11:00:41.331Z",
+      "slug": "google-spending-2b-anthropic",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0b3a2adf-67df-4ad4-af6b-19bec4c8be03/image.png",
+      "meta_default_title": "Google spending $2B more on Anthropic.",
+      "meta_default_description": "Anthropic is the do-godder Witcher of AI and everyone is tossing (coins) billions at it. Amazon tossed $4B some weeks back and now it’s Google spending.",
+      "meta_og_title": "Google spending $2B more on Anthropic.",
+      "meta_og_description": "Anthropic is the do-godder Witcher of AI and everyone is tossing (coins) billions at it. Amazon tossed $4B some weeks back and now it’s Google spending.",
+      "meta_twitter_title": "Google spending $2B more on Anthropic.",
+      "meta_twitter_description": "Anthropic is the do-godder Witcher of AI and everyone is tossing (coins) billions at it. Amazon tossed $4B some weeks back and now it’s Google spending.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-10-30T10:31:57Z",
+      "updated_at": "2023-10-30T11:11:26Z",
+      "url": "https://bensbites.beehiiv.com/p/google-spending-2b-anthropic"
+    },
+    {
       "id": "fa2d4788-b086-4601-a727-de6349c6b1f4",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest #272",
