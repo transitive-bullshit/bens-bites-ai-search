@@ -254,6 +254,287 @@
   },
   "posts": [
     {
+      "id": "3ffec71a-7b77-40d1-842c-0f8b81ec9943",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Who else got access?",
+      "web_subtitle": "PLUS: FigJam AI, IBM shills $500M and better games",
+      "status": "published",
+      "override_scheduled_at": "2023-11-08T14:00:00.000Z",
+      "slug": "daily-digest-else-got-access",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1ba3aaa3-3cb5-4f68-b6bd-7cb4cc0e3907/Red_Level_1.png",
+      "meta_default_title": "Daily Digest: Who else got access?",
+      "meta_default_description": "PLUS: FigJam AI, IBM shills $500M and better games",
+      "meta_og_title": "Daily Digest: Who else got access?",
+      "meta_og_description": "PLUS: FigJam AI, IBM shills $500M and better games",
+      "meta_twitter_title": "Daily Digest: Who else got access?",
+      "meta_twitter_description": "PLUS: FigJam AI, IBM shills $500M and better games",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-08T10:24:33Z",
+      "updated_at": "2023-11-08T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-else-got-access"
+    },
+    {
+      "id": "9aaa34eb-7c51-47b1-a01d-68ad18648271",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "IBM puts $500M into its venture fund for enterprise AI.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-08T12:52:42.312Z",
+      "slug": "ibm-puts-500m-venture-fund-enterprise-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84f6e13c-ea0e-47df-9451-7c6cb6321f67/image.png",
+      "meta_default_title": "IBM puts $500M into its venture fund for enterprise AI.",
+      "meta_default_description": "IBM wants to tap into innovative technologies and business models outside the company with this fund.",
+      "meta_og_title": "IBM puts $500M into its venture fund for enterprise AI.",
+      "meta_og_description": "IBM wants to tap into innovative technologies and business models outside the company with this fund.",
+      "meta_twitter_title": "IBM puts $500M into its venture fund for enterprise AI.",
+      "meta_twitter_description": "IBM wants to tap into innovative technologies and business models outside the company with this fund.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-08T12:30:52Z",
+      "updated_at": "2023-11-08T12:53:01Z",
+      "url": "https://bensbites.beehiiv.com/p/ibm-puts-500m-venture-fund-enterprise-ai"
+    },
+    {
+      "id": "7a6fc142-fe10-404b-aee2-7f7e5a087dc1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Figjam AI - Brainstorm with AI in Figma",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-08T12:27:42.749Z",
+      "slug": "figjam-ai-brainstorm-ai-figma",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4e07ec1a-6bc6-4ba0-9176-25e32a7f6bfa/image.png",
+      "meta_default_title": "Figjam AI - Brainstorm with AI in Figma",
+      "meta_default_description": "Figjam can now help users generate templates, diagrams, and summaries, allowing anyone to create visuals from simple text prompts.",
+      "meta_og_title": "Figjam AI - Brainstorm with AI in Figma",
+      "meta_og_description": "Figjam can now help users generate templates, diagrams, and summaries, allowing anyone to create visuals from simple text prompts.",
+      "meta_twitter_title": "Figjam AI - Brainstorm with AI in Figma",
+      "meta_twitter_description": "Figjam can now help users generate templates, diagrams, and summaries, allowing anyone to create visuals from simple text prompts.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            },
+            "landscape": {
+              "url": null
+            }
+          }
+        }
+      ],
+      "content_tags": [],
+      "created_at": "2023-11-08T12:08:26Z",
+      "updated_at": "2023-11-08T12:28:02Z",
+      "url": "https://bensbites.beehiiv.com/p/figjam-ai-brainstorm-ai-figma"
+    },
+    {
+      "id": "9a782f05-bec9-48f9-b00b-9f421159d8e5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Xbox and Inworld partner to make games feel more natural.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-08T11:57:09.408Z",
+      "slug": "xbox-inworld-partner-make-games-feel-natural",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/682b0a39-3e6e-490a-9235-8b83a52a9dee/image.png",
+      "meta_default_title": "Xbox and Inworld partner to make games feel more natural.",
+      "meta_default_description": "The multi-year partnership will mix Inworld's expertise in AI character creation with Microsoft's cloud AI to bake accessible AI tools for all game creators.",
+      "meta_og_title": "Xbox and Inworld partner to make games feel more natural.",
+      "meta_og_description": "The multi-year partnership will mix Inworld's expertise in AI character creation with Microsoft's cloud AI to bake accessible AI tools for all game creators.",
+      "meta_twitter_title": "Xbox and Inworld partner to make games feel more natural.",
+      "meta_twitter_description": "The multi-year partnership will mix Inworld's expertise in AI character creation with Microsoft's cloud AI to bake accessible AI tools for all game creators.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-08T11:31:57Z",
+      "updated_at": "2023-11-08T11:58:01Z",
+      "url": "https://bensbites.beehiiv.com/p/xbox-inworld-partner-make-games-feel-natural"
+    },
+    {
+      "id": "c76af746-ea1e-4749-b4fd-36dd1cbc0fc1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft's Plans after Dev Day",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-08T11:25:17.747Z",
+      "slug": "microsofts-plans-dev-day",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1d960f93-cd9f-47e3-ac4b-422212dbcd71/image.png",
+      "meta_default_title": "Microsoft's Plans after Dev Day",
+      "meta_default_description": "Microsoft is again leveraging Open AI’s new announcements and plans to announce more features based off them.",
+      "meta_og_title": "Microsoft's Plans after Dev Day",
+      "meta_og_description": "Microsoft is again leveraging Open AI’s new announcements and plans to announce more features based off them.",
+      "meta_twitter_title": "Microsoft's Plans after Dev Day",
+      "meta_twitter_description": "Microsoft is again leveraging Open AI’s new announcements and plans to announce more features based off them.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-08T11:11:33Z",
+      "updated_at": "2023-11-08T11:30:43Z",
+      "url": "https://bensbites.beehiiv.com/p/microsofts-plans-dev-day"
+    },
+    {
+      "id": "89a217f6-61ad-47d8-8cb0-3835416a9535",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Days where decades happen",
+      "web_subtitle": "PLUS: A glimpse of post work era",
+      "status": "published",
+      "override_scheduled_at": "2023-11-07T14:00:00.000Z",
+      "slug": "daily-digest-days-decades-happen",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/33dc968f-4582-473c-900f-8ee7276b5fa4/Purple_Level_3.png",
+      "meta_default_title": "Daily Digest: Days where decades happen",
+      "meta_default_description": "PLUS: A glimpse of post work era",
+      "meta_og_title": "Daily Digest: Days where decades happen",
+      "meta_og_description": "PLUS: A glimpse of post work era",
+      "meta_twitter_title": "Daily Digest: Days where decades happen",
+      "meta_twitter_description": "PLUS: A glimpse of post work era",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-07T09:08:18Z",
+      "updated_at": "2023-11-08T10:24:14Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-days-decades-happen"
+    },
+    {
+      "id": "6e44f7ce-0aba-4299-be69-3d6b94b04acd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI Actions by Zapier - The bridge between your AI platform and 5000+ apps.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-07T11:47:34.190Z",
+      "slug": "ai-actions-zapier-bridge-ai-platform-5000-apps",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/50563b83-2f50-40bf-ab7a-cc3629e284a1/image.png",
+      "meta_default_title": "AI Actions by Zapier - The bridge between your AI platform and 5000+ apps.",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "AI Actions by Zapier - The bridge between your AI platform and 5000+ apps.",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "AI Actions by Zapier - The bridge between your AI platform and 5000+ apps.",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-07T11:34:00Z",
+      "updated_at": "2023-11-07T11:50:22Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-actions-zapier-bridge-ai-platform-5000-apps"
+    },
+    {
+      "id": "0020744f-0741-46f6-a602-5b2d15584c53",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI announces GPTs to do your work automatically.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-07T11:29:22.681Z",
+      "slug": "open-ai-announces-gpts-work-automatically",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/16f8430e-ba27-4d37-be69-b0676dec42f5/image.png",
+      "meta_default_title": "Open AI announces GPTs to do your work automatically.",
+      "meta_default_description": "Open AI has released its first version of AI agents. GPTs are custom chatbots within ChatGPT that you can create without knowing how to code.",
+      "meta_og_title": "Open AI announces GPTs to do your work automatically.",
+      "meta_og_description": "Open AI has released its first version of AI agents. GPTs are custom chatbots within ChatGPT that you can create without knowing how to code.",
+      "meta_twitter_title": "Open AI announces GPTs to do your work automatically.",
+      "meta_twitter_description": "Open AI has released its first version of AI agents. GPTs are custom chatbots within ChatGPT that you can create without knowing how to code.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-07T10:59:22Z",
+      "updated_at": "2023-11-07T11:30:01Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-announces-gpts-work-automatically"
+    },
+    {
       "id": "6ff5fed7-64de-4a4a-8da4-97c33d29309b",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "All the updates from Open AI Dev Day",
