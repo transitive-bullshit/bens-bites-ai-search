@@ -254,6 +254,108 @@
   },
   "posts": [
     {
+      "id": "ffa230f8-4a9e-4369-8d46-7f9a16cc97f3",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: The wrong path ahead",
+      "web_subtitle": "PLUS: buy me an AI company.",
+      "status": "published",
+      "override_scheduled_at": "2023-11-15T14:00:00.000Z",
+      "slug": "daily-digest-wrong-path-ahead",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fb458c6a-8e53-4da3-a22a-6cd9c7c00645/Blue_Level_3.png",
+      "meta_default_title": "Daily Digest: The wrong path ahead",
+      "meta_default_description": "PLUS: buy me an AI company.",
+      "meta_og_title": "Daily Digest: The wrong path ahead",
+      "meta_og_description": "PLUS: buy me an AI company.",
+      "meta_twitter_title": "Daily Digest: The wrong path ahead",
+      "meta_twitter_description": "PLUS: buy me an AI company.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-15T07:23:08Z",
+      "updated_at": "2023-11-15T14:00:32Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-wrong-path-ahead"
+    },
+    {
+      "id": "1ee9552d-9740-43d0-a294-5a6bb7077d13",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Responsible Innovation Lab - One more AI protocol",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-15T10:13:39.348Z",
+      "slug": "responsible-innovation-lab-one-ai-protocol",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8bf9aff5-1fff-4ef2-b170-41d176f67310/image.png",
+      "meta_default_title": "Responsible Innovation Lab - One more AI protocol",
+      "meta_default_description": "Investor Hemant Taneja (General Catalyst) has founded Responsible Innovation Labs with support from 35 VC firms with a protocol for responsible AI development.",
+      "meta_og_title": "Responsible Innovation Lab - One more AI protocol",
+      "meta_og_description": "Investor Hemant Taneja (General Catalyst) has founded Responsible Innovation Labs with support from 35 VC firms with a protocol for responsible AI development.",
+      "meta_twitter_title": "Responsible Innovation Lab - One more AI protocol",
+      "meta_twitter_description": "Investor Hemant Taneja (General Catalyst) has founded Responsible Innovation Labs with support from 35 VC firms with a protocol for responsible AI development.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-15T09:06:57Z",
+      "updated_at": "2023-11-15T10:16:51Z",
+      "url": "https://bensbites.beehiiv.com/p/responsible-innovation-lab-one-ai-protocol"
+    },
+    {
+      "id": "d2a84ea2-47d9-466f-a80b-c4f9c769d2c9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AirBnb acquires an AI company",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-15T09:06:30.900Z",
+      "slug": "airbnb-acquires-ai-company",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f8b005a4-3d42-4fe4-bd36-96e25a07e0e7/image.png",
+      "meta_default_title": "AirBnb acquires an AI company",
+      "meta_default_description": "Airbnb has acquired an AI startup called Gameplanner AI for just under $200 million in its first acquisition as a public company.",
+      "meta_og_title": "AirBnb acquires an AI company",
+      "meta_og_description": "Airbnb has acquired an AI startup called Gameplanner AI for just under $200 million in its first acquisition as a public company.",
+      "meta_twitter_title": "AirBnb acquires an AI company",
+      "meta_twitter_description": "Airbnb has acquired an AI startup called Gameplanner AI for just under $200 million in its first acquisition as a public company.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-15T08:56:57Z",
+      "updated_at": "2023-11-15T09:07:02Z",
+      "url": "https://bensbites.beehiiv.com/p/airbnb-acquires-ai-company"
+    },
+    {
       "id": "515b85bc-491a-46d5-8fa5-5b3e9c5946d0",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Nvidia strikes again",
