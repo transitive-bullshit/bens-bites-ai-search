@@ -254,6 +254,108 @@
   },
   "posts": [
     {
+      "id": "c81d2ca4-6dcb-46fe-baac-1b2df00c23b9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: We're so back",
+      "web_subtitle": "PLUS: Anthropic strikes, new video model",
+      "status": "published",
+      "override_scheduled_at": "2023-11-22T14:00:00.000Z",
+      "slug": "daily-digest-back",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6698aa55-4083-4b06-aef0-4d6885d6d7d7/Green_Level_2.png?t=1700658041",
+      "meta_default_title": "Daily Digest: We're so back",
+      "meta_default_description": "PLUS: Anthropic strikes, new video model",
+      "meta_og_title": "Daily Digest: We're so back",
+      "meta_og_description": "PLUS: Anthropic strikes, new video model",
+      "meta_twitter_title": "Daily Digest: We're so back",
+      "meta_twitter_description": "PLUS: Anthropic strikes, new video model",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-22T08:47:59Z",
+      "updated_at": "2023-11-22T14:00:09Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-back"
+    },
+    {
+      "id": "ada59628-24e0-46dc-b57e-2ca81f76ffae",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI is back in action after a coup attempt",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-22T12:56:16.123Z",
+      "slug": "open-ai-back",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8b11a39a-7da9-4868-bddb-e08a6bd974a2/image.png?t=1700654918",
+      "meta_default_title": "Open AI is back in action after a coup attempt",
+      "meta_default_description": "Sam's still the CEO, the board is changing, and there're still questions to answer.",
+      "meta_og_title": "Open AI is back in action after a coup attempt",
+      "meta_og_description": "Sam's still the CEO, the board is changing, and there're still questions to answer.",
+      "meta_twitter_title": "Open AI is back in action after a coup attempt",
+      "meta_twitter_description": "Sam's still the CEO, the board is changing, and there're still questions to answer.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-22T11:52:27Z",
+      "updated_at": "2023-11-22T13:12:44Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-back"
+    },
+    {
+      "id": "4fc99c25-87d0-4966-b111-d015a5a6d982",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Anthropic releases Claude 2.1",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-22T11:29:02.016Z",
+      "slug": "anthropic-releases-claude-21",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/321646f8-2a90-454c-8a6d-e32d6dd01e45/image.png?t=1700650835",
+      "meta_default_title": "Anthropic releases Claude 2.1",
+      "meta_default_description": "The new model has several major upgrades including a 200,000 token context window, reduced rates of hallucination, and new tool use capabilities.",
+      "meta_og_title": "Anthropic releases Claude 2.1",
+      "meta_og_description": "The new model has several major upgrades including a 200,000 token context window, reduced rates of hallucination, and new tool use capabilities.",
+      "meta_twitter_title": "Anthropic releases Claude 2.1",
+      "meta_twitter_description": "The new model has several major upgrades including a 200,000 token context window, reduced rates of hallucination, and new tool use capabilities.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-22T10:54:33Z",
+      "updated_at": "2023-11-22T11:34:41Z",
+      "url": "https://bensbites.beehiiv.com/p/anthropic-releases-claude-21"
+    },
+    {
       "id": "ec654044-73ab-46a2-b8b5-1e4be9601ea3",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: OpenAI isn't dead... not just yet.",
