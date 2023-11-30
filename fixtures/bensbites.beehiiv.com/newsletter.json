@@ -254,6 +254,219 @@
   },
   "posts": [
     {
+      "id": "fad7cb3e-27c9-4db5-81da-f4f0892aa6a5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Realistic text to video",
+      "web_subtitle": "PLUS: more images and voices too",
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T14:00:00.000Z",
+      "slug": "daily-digest-realistic-text-video",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/59791efe-f714-439d-bcb9-6f7228a542d8/Purple_Level_1.png?t=1701264558",
+      "meta_default_title": "Daily Digest: Realistic text to video",
+      "meta_default_description": "PLUS: more images and voices too",
+      "meta_og_title": "Daily Digest: Realistic text to video",
+      "meta_og_description": "PLUS: more images and voices too",
+      "meta_twitter_title": "Daily Digest: Realistic text to video",
+      "meta_twitter_description": "PLUS: more images and voices too",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-29T09:39:58Z",
+      "updated_at": "2023-11-29T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-realistic-text-video"
+    },
+    {
+      "id": "47a4e3ba-466c-4e52-9eb4-fb07f577d259",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Amazon Q is in preview - The assistant for work and business.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T13:25:36.250Z",
+      "slug": "amazon-q-preview-assistant-work-business",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/193eb85a-83e6-4fb8-9dff-c98a6feabbe8/image.png?t=1701264316",
+      "meta_default_title": "Amazon Q is in preview - The assistant for work and business.",
+      "meta_default_description": "Amazon Q will help employees by answering questions, summarizing reports, writing content, and automating tasks using a company's connected data and documents.",
+      "meta_og_title": "Amazon Q is in preview - The assistant for work and business.",
+      "meta_og_description": "Amazon Q will help employees by answering questions, summarizing reports, writing content, and automating tasks using a company's connected data and documents.",
+      "meta_twitter_title": "Amazon Q is in preview - The assistant for work and business.",
+      "meta_twitter_description": "Amazon Q will help employees by answering questions, summarizing reports, writing content, and automating tasks using a company's connected data and documents.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-29T13:17:21Z",
+      "updated_at": "2023-11-29T13:26:01Z",
+      "url": "https://bensbites.beehiiv.com/p/amazon-q-preview-assistant-work-business"
+    },
+    {
+      "id": "dbc39b52-d7d4-474a-9346-e8a41e1d139a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "SDXL Turbo generates images while you're typing",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T13:12:49.026Z",
+      "slug": "sdxl-turbo-generates-images-youre-typing",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9696ce10-e09d-4acb-98af-ee8762b22fd7/image.png?t=1701263451",
+      "meta_default_title": "SDXL Turbo generates images while you're typing",
+      "meta_default_description": "Stability AI has released a new text-to-image model named SDXL Turbo that can generate images from text in real-time.",
+      "meta_og_title": "SDXL Turbo generates images while you're typing",
+      "meta_og_description": "Stability AI has released a new text-to-image model named SDXL Turbo that can generate images from text in real-time.",
+      "meta_twitter_title": "SDXL Turbo generates images while you're typing",
+      "meta_twitter_description": "Stability AI has released a new text-to-image model named SDXL Turbo that can generate images from text in real-time.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-29T12:58:17Z",
+      "updated_at": "2023-11-29T13:13:02Z",
+      "url": "https://bensbites.beehiiv.com/p/sdxl-turbo-generates-images-youre-typing"
+    },
+    {
+      "id": "05e05f31-cf96-416c-9ae3-9981c772a2b3",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Eleven Labs Grants for startups that need AI voices",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T12:50:20.176Z",
+      "slug": "eleven-labs-grants-startups-need-ai-voices",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e268897c-c7a4-4f93-81e6-5ebb244bf80a/image.png?t=1701262049",
+      "meta_default_title": "Eleven Labs Grants for startups that need AI voices",
+      "meta_default_description": "ElevenLabs is providing over 4000 grants to startups and small teams to access their voice AI platform for free for 3 months.",
+      "meta_og_title": "Eleven Labs Grants for startups that need AI voices",
+      "meta_og_description": "ElevenLabs is providing over 4000 grants to startups and small teams to access their voice AI platform for free for 3 months.",
+      "meta_twitter_title": "Eleven Labs Grants for startups that need AI voices",
+      "meta_twitter_description": "ElevenLabs is providing over 4000 grants to startups and small teams to access their voice AI platform for free for 3 months.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-29T12:46:11Z",
+      "updated_at": "2023-11-29T13:35:51Z",
+      "url": "https://bensbites.beehiiv.com/p/eleven-labs-grants-startups-need-ai-voices"
+    },
+    {
+      "id": "190820e8-d491-401b-9c88-ff5ffc530de8",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Pika Labs is bringing the heat to AI videos.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T12:41:07.647Z",
+      "slug": "pika-labs-bringing-heat-ai-videos",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2d2f4a87-3754-45a3-8f7c-7d19ca31b502/image.png?t=1701261516",
+      "meta_default_title": "Pika Labs is bringing the heat to AI videos.",
+      "meta_default_description": "Founders Demi Guo and Chenlin Meng have raised $55M to bring realistic AI videos to everyone.",
+      "meta_og_title": "Pika Labs is bringing the heat to AI videos.",
+      "meta_og_description": "Founders Demi Guo and Chenlin Meng have raised $55M to bring realistic AI videos to everyone.",
+      "meta_twitter_title": "Pika Labs is bringing the heat to AI videos.",
+      "meta_twitter_description": "Founders Demi Guo and Chenlin Meng have raised $55M to bring realistic AI videos to everyone.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-29T02:01:57Z",
+      "updated_at": "2023-11-29T12:42:01Z",
+      "url": "https://bensbites.beehiiv.com/p/pika-labs-bringing-heat-ai-videos"
+    },
+    {
+      "id": "cdd17f1a-0b96-434c-a7a7-043f807339d5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Why do AI Wrappers get a bad (w)rap?",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-29T12:35:11.056Z",
+      "slug": "ai-wrappers-get-bad-wrap",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "Why do AI Wrappers get a bad (w)rap?",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Why do AI Wrappers get a bad (w)rap?",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Why do AI Wrappers get a bad (w)rap?",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": false,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [],
+      "created_at": "2023-11-29T12:30:00Z",
+      "updated_at": "2023-11-29T14:40:49Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-wrappers-get-bad-wrap"
+    },
+    {
       "id": "4f56729d-73d1-48c0-81b3-b65653f760ef",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: $10M for Math Geeks",
