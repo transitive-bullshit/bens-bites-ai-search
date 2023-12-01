@@ -221,6 +221,11 @@
         "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
         "display": "📝 Startup Profile",
         "description": ""
+      },
+      {
+        "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+        "display": "📈 Trends",
+        "description": ""
       }
     ],
     "authors": [
@@ -253,6 +258,156 @@
     ]
   },
   "posts": [
+    {
+      "id": "9a4c6586-01cb-4782-aea1-15a46ec27edd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: It's Birthday Season",
+      "web_subtitle": "PLUS: How to find exploding AI trends.",
+      "status": "published",
+      "override_scheduled_at": "2023-11-30T14:00:00.000Z",
+      "slug": "daily-digest-birthday-season",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6114fcad-f7bf-4074-96b0-81fb32a9f1c1/Red_Level_2.png?t=1701342451",
+      "meta_default_title": "Daily Digest: It's Birthday Season",
+      "meta_default_description": "PLUS: How to find exploding AI trends.",
+      "meta_og_title": "Daily Digest: It's Birthday Season",
+      "meta_og_description": "PLUS: How to find exploding AI trends.",
+      "meta_twitter_title": "Daily Digest: It's Birthday Season",
+      "meta_twitter_description": "PLUS: How to find exploding AI trends.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-11-30T07:28:50Z",
+      "updated_at": "2023-11-30T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-birthday-season"
+    },
+    {
+      "id": "edebe6da-c8d6-4f66-bbb0-7028facb968d",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Always online models from Perplexity",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-30T10:54:46.007Z",
+      "slug": "always-online-models-perplexity",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3c83fffc-1b36-4de3-b37b-33a186728fa6/image.png?t=1701341033",
+      "meta_default_title": "Always online models from Perplexity",
+      "meta_default_description": "Perplexity’s new models access timely information from the internet to give useful, factual responses - things offline models struggle with.",
+      "meta_og_title": "Always online models from Perplexity",
+      "meta_og_description": "Perplexity’s new models access timely information from the internet to give useful, factual responses - things offline models struggle with.",
+      "meta_twitter_title": "Always online models from Perplexity",
+      "meta_twitter_description": "Perplexity’s new models access timely information from the internet to give useful, factual responses - things offline models struggle with.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-30T10:31:53Z",
+      "updated_at": "2023-11-30T10:57:04Z",
+      "url": "https://bensbites.beehiiv.com/p/always-online-models-perplexity"
+    },
+    {
+      "id": "f8cff104-ea3a-4e9f-a112-7b8782a5dc88",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Sam Altman's letter after his fire-rehire at OpenAI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-30T10:30:40.831Z",
+      "slug": "sam-altmans-letter-firerehire-openai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/71f691c4-8086-4758-8d3a-0a7fe11b04e1/image.png?t=1701340052",
+      "meta_default_title": "Sam Altman's letter after his fire-rehire at OpenAI",
+      "meta_default_description": "Sam Altman is officially back as OpenAI’s CEO with a message to OpenAI team and users.",
+      "meta_og_title": "Sam Altman's letter after his fire-rehire at OpenAI",
+      "meta_og_description": "Sam Altman is officially back as OpenAI’s CEO with a message to OpenAI team and users.",
+      "meta_twitter_title": "Sam Altman's letter after his fire-rehire at OpenAI",
+      "meta_twitter_description": "Sam Altman is officially back as OpenAI’s CEO with a message to OpenAI team and users.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-11-30T09:41:24Z",
+      "updated_at": "2023-11-30T10:31:01Z",
+      "url": "https://bensbites.beehiiv.com/p/sam-altmans-letter-firerehire-openai"
+    },
+    {
+      "id": "ece1cbc8-3b75-4daa-9303-611cee836a3c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Jumping on exploding AI trends ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-11-30T08:02:40.842Z",
+      "slug": "jumping-exploding-ai-trends",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "Jumping on exploding AI trends ",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Jumping on exploding AI trends ",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Jumping on exploding AI trends ",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-11-30T07:57:09Z",
+      "updated_at": "2023-11-30T10:22:49Z",
+      "url": "https://bensbites.beehiiv.com/p/jumping-exploding-ai-trends"
+    },
     {
       "id": "fad7cb3e-27c9-4db5-81da-f4f0892aa6a5",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
