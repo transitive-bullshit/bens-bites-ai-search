@@ -259,6 +259,456 @@
   },
   "posts": [
     {
+      "id": "903a20bc-994e-40e8-aaae-6a2802170a6d",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: China and Japan",
+      "web_subtitle": "PLUS: Glimpses of Gemini ",
+      "status": "published",
+      "override_scheduled_at": "2023-12-05T14:00:00.000Z",
+      "slug": "daily-digest-china-japan",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/69a1cfe5-5639-4756-bedc-c9472cb8f629/Purple_Level_2.png?t=1701772320",
+      "meta_default_title": "Daily Digest: China and Japan",
+      "meta_default_description": "PLUS: Glimpses of Gemini ",
+      "meta_og_title": "Daily Digest: China and Japan",
+      "meta_og_description": "PLUS: Glimpses of Gemini ",
+      "meta_twitter_title": "Daily Digest: China and Japan",
+      "meta_twitter_description": "PLUS: Glimpses of Gemini ",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-05T06:53:39Z",
+      "updated_at": "2023-12-05T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-china-japan"
+    },
+    {
+      "id": "9f3620db-c330-4d7b-8892-caf41df9d67b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI coding is exploding",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-05T12:38:06.305Z",
+      "slug": "ai-coding-exploding",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "AI coding is exploding",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "AI coding is exploding",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "AI coding is exploding",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-05T12:24:49Z",
+      "updated_at": "2023-12-05T13:48:50Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-coding-exploding"
+    },
+    {
+      "id": "218570be-e769-47f9-9ebe-40f87e6e0e5b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "China allows copyright for AI images.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-05T10:24:02.763Z",
+      "slug": "china-allows-copyright-ai-images",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d1ee1967-ce3c-4170-8822-39ca7b4dee48/image.png?t=1701771783",
+      "meta_default_title": "China allows copyright for AI images.",
+      "meta_default_description": "The Beijing Internet Court said an AI-generated picture qualified as original artwork for copyright protection thanks to the human input in designing it.",
+      "meta_og_title": "China allows copyright for AI images.",
+      "meta_og_description": "The Beijing Internet Court said an AI-generated picture qualified as original artwork for copyright protection thanks to the human input in designing it.",
+      "meta_twitter_title": "China allows copyright for AI images.",
+      "meta_twitter_description": "The Beijing Internet Court said an AI-generated picture qualified as original artwork for copyright protection thanks to the human input in designing it.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-05T09:40:34Z",
+      "updated_at": "2023-12-05T10:25:02Z",
+      "url": "https://bensbites.beehiiv.com/p/china-allows-copyright-ai-images"
+    },
+    {
+      "id": "957bb21c-1491-4374-b4ed-372210916a36",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Nvidia is cooking “sushAI” in Japan",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-05T09:37:54.547Z",
+      "slug": "nvidia-cooking-sushai-japan",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7cc3b96a-ae3f-4fdd-9384-6b2df715ce13/image.png?t=1701768969",
+      "meta_default_title": "Nvidia is cooking “sushAI” in Japan",
+      "meta_default_description": "Nvidia CEO says he will try to prioritize Japan for AI processors",
+      "meta_og_title": "Nvidia is cooking “sushAI” in Japan",
+      "meta_og_description": "Nvidia CEO says he will try to prioritize Japan for AI processors",
+      "meta_twitter_title": "Nvidia is cooking “sushAI” in Japan",
+      "meta_twitter_description": "Nvidia CEO says he will try to prioritize Japan for AI processors",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-05T09:25:13Z",
+      "updated_at": "2023-12-05T10:49:40Z",
+      "url": "https://bensbites.beehiiv.com/p/nvidia-cooking-sushai-japan"
+    },
+    {
+      "id": "cb675373-1d44-4944-8cc9-6b068eec3af4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Miracles will have to wait",
+      "web_subtitle": "PLUS: Drama isn't going anywhere",
+      "status": "published",
+      "override_scheduled_at": "2023-12-04T14:00:00.000Z",
+      "slug": "daily-digest-miracles-will-wait",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9485cab7-b183-456b-9558-e7171be14ff6/Green_Level_1.png?t=1701694356",
+      "meta_default_title": "Daily Digest: Miracles will have to wait",
+      "meta_default_description": "PLUS: Drama isn't going anywhere",
+      "meta_og_title": "Daily Digest: Miracles will have to wait",
+      "meta_og_description": "PLUS: Drama isn't going anywhere",
+      "meta_twitter_title": "Daily Digest: Miracles will have to wait",
+      "meta_twitter_description": "PLUS: Drama isn't going anywhere",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-04T10:31:50Z",
+      "updated_at": "2023-12-04T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-miracles-will-wait"
+    },
+    {
+      "id": "01b97778-6277-4d31-855f-7dc4f3ae76eb",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI Writing - a trend",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-04T13:26:47.230Z",
+      "slug": "ai-writing-trend",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "AI Writing - a trend",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "AI Writing - a trend",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "AI Writing - a trend",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-04T13:23:26Z",
+      "updated_at": "2023-12-04T14:13:29Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-writing-trend"
+    },
+    {
+      "id": "3ffedd90-94dc-4e5c-b392-96de5104d5ac",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google Gemini is not coming this year ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-04T12:44:28.390Z",
+      "slug": "google-gemini-not-coming-year",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d21786b5-30dc-4cb1-8dbe-d6479e18c013/image.png?t=1701693824",
+      "meta_default_title": "Google Gemini is not coming this year ",
+      "meta_default_description": "Google is struggling to match OpenAI's capabilities in conversational AI, causing it to delay Gemini's launch to continue improvements.",
+      "meta_og_title": "Google Gemini is not coming this year ",
+      "meta_og_description": "Google is struggling to match OpenAI's capabilities in conversational AI, causing it to delay Gemini's launch to continue improvements.",
+      "meta_twitter_title": "Google Gemini is not coming this year ",
+      "meta_twitter_description": "Google is struggling to match OpenAI's capabilities in conversational AI, causing it to delay Gemini's launch to continue improvements.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-04T12:17:06Z",
+      "updated_at": "2023-12-04T12:45:01Z",
+      "url": "https://bensbites.beehiiv.com/p/google-gemini-not-coming-year"
+    },
+    {
+      "id": "9ebed766-9d22-4e61-8dd7-306ef49e0ee0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI signed a secret letter to buy brain-like AI chips ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-04T12:03:19.984Z",
+      "slug": "openai-signed-secret-letter-buy-brainlike-ai-chips",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ef8236da-9494-4b1b-946b-96a4c89930a0/image.png?t=1701691237",
+      "meta_default_title": "OpenAI signed a secret letter to buy brain-like AI chips ",
+      "meta_default_description": "OpenAI signed a letter of intent to purchase $51 million worth of AI chips from startup Rain, a company Sam Altman has personally invested in.",
+      "meta_og_title": "OpenAI signed a secret letter to buy brain-like AI chips ",
+      "meta_og_description": "OpenAI signed a letter of intent to purchase $51 million worth of AI chips from startup Rain, a company Sam Altman has personally invested in.",
+      "meta_twitter_title": "OpenAI signed a secret letter to buy brain-like AI chips ",
+      "meta_twitter_description": "OpenAI signed a letter of intent to purchase $51 million worth of AI chips from startup Rain, a company Sam Altman has personally invested in.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-04T11:39:39Z",
+      "updated_at": "2023-12-04T12:04:03Z",
+      "url": "https://bensbites.beehiiv.com/p/openai-signed-secret-letter-buy-brainlike-ai-chips"
+    },
+    {
+      "id": "b479621c-851d-41b6-b5ae-e3cae6b0e053",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Talk to anyone",
+      "web_subtitle": "PLUS: $$s and time for OpenAI employees",
+      "status": "published",
+      "override_scheduled_at": "2023-12-01T14:00:00.000Z",
+      "slug": "daily-digest-talk-anyone",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9f3a7267-a4ee-4c71-84d3-d341e56c9c3b/Blue_Level_3.png?t=1701433782",
+      "meta_default_title": "Daily Digest: Talk to anyone",
+      "meta_default_description": "PLUS: $$s and time for OpenAI employees",
+      "meta_og_title": "Daily Digest: Talk to anyone",
+      "meta_og_description": "PLUS: $$s and time for OpenAI employees",
+      "meta_twitter_title": "Daily Digest: Talk to anyone",
+      "meta_twitter_description": "PLUS: $$s and time for OpenAI employees",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-01T10:22:52Z",
+      "updated_at": "2023-12-01T14:00:09Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-talk-anyone"
+    },
+    {
+      "id": "dccbf47f-72e9-488c-98cf-136d7f39ea4b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "From Pixels to Possibilities: AI Vision",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-01T13:42:42.084Z",
+      "slug": "pixels-possibilities-ai-vision",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "From Pixels to Possibilities: AI Vision",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "From Pixels to Possibilities: AI Vision",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "From Pixels to Possibilities: AI Vision",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-01T13:34:44Z",
+      "updated_at": "2023-12-01T15:38:58Z",
+      "url": "https://bensbites.beehiiv.com/p/pixels-possibilities-ai-vision"
+    },
+    {
+      "id": "85ebd598-3d92-42b6-9352-e7b5cbc35443",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI gives employees more time to cash out their shares.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-01T12:19:17.336Z",
+      "slug": "open-ai-gives-employees-time-cash-shares",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/46690362-6c30-4596-93dd-18ba1bfadd10/image.png?t=1701432775",
+      "meta_default_title": "Open AI gives employees more time to cash out their shares.",
+      "meta_default_description": "Employees can sell shares in a deal valuing OpenAI at $86 billion. The tender offer timeline has been extended by a month to January 5th.",
+      "meta_og_title": "Open AI gives employees more time to cash out their shares.",
+      "meta_og_description": "Employees can sell shares in a deal valuing OpenAI at $86 billion. The tender offer timeline has been extended by a month to January 5th.",
+      "meta_twitter_title": "Open AI gives employees more time to cash out their shares.",
+      "meta_twitter_description": "Employees can sell shares in a deal valuing OpenAI at $86 billion. The tender offer timeline has been extended by a month to January 5th.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-01T12:10:54Z",
+      "updated_at": "2023-12-01T12:22:58Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-gives-employees-time-cash-shares"
+    },
+    {
+      "id": "9dc59a60-ccd9-40c6-aff3-9ce7408b85d5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Seamless speech to speech translation by Meta",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-01T12:04:33.074Z",
+      "slug": "seamless-speech-speech-translation-meta",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c527a426-62be-46bf-afc7-196fde83db98/image.png?t=1701431928",
+      "meta_default_title": "Seamless speech to speech translation by Meta",
+      "meta_default_description": "Meta has released their “seamless” suite of language translation models.",
+      "meta_og_title": "Seamless speech to speech translation by Meta",
+      "meta_og_description": "Meta has released their “seamless” suite of language translation models.",
+      "meta_twitter_title": "Seamless speech to speech translation by Meta",
+      "meta_twitter_description": "Meta has released their “seamless” suite of language translation models.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-01T11:15:45Z",
+      "updated_at": "2023-12-01T12:20:32Z",
+      "url": "https://bensbites.beehiiv.com/p/seamless-speech-speech-translation-meta"
+    },
+    {
       "id": "9a4c6586-01cb-4782-aea1-15a46ec27edd",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: It's Birthday Season",
