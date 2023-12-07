@@ -259,6 +259,156 @@
   },
   "posts": [
     {
+      "id": "ddd55efd-ed4a-487b-812d-982ca116dc25",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Build together, win together",
+      "web_subtitle": "PLUS: Deep Search in Copilot",
+      "status": "published",
+      "override_scheduled_at": "2023-12-06T14:00:00.000Z",
+      "slug": "daily-digest-build-together-win-together",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ddf9e9a3-5420-451e-9439-70ad7aed8ca2/Red_Level_3.png?t=1701869640",
+      "meta_default_title": "Daily Digest: Build together, win together",
+      "meta_default_description": "PLUS: Deep Search in Copilot",
+      "meta_og_title": "Daily Digest: Build together, win together",
+      "meta_og_description": "PLUS: Deep Search in Copilot",
+      "meta_twitter_title": "Daily Digest: Build together, win together",
+      "meta_twitter_description": "PLUS: Deep Search in Copilot",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-06T11:12:30Z",
+      "updated_at": "2023-12-06T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-build-together-win-together"
+    },
+    {
+      "id": "d39ff4c4-e72f-45d9-8bed-fbcaf545555f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The new AI alliance wants open and responsible AI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-06T13:28:49.470Z",
+      "slug": "new-ai-alliance-wants-open-responsible-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/474697be-5899-4a66-ac13-f9edfddca184/image.png?t=1701868233",
+      "meta_default_title": "The new AI alliance wants open and responsible AI",
+      "meta_default_description": "IBM and Meta have launched an international AI Alliance along with over 50 other organizations.",
+      "meta_og_title": "The new AI alliance wants open and responsible AI",
+      "meta_og_description": "IBM and Meta have launched an international AI Alliance along with over 50 other organizations.",
+      "meta_twitter_title": "The new AI alliance wants open and responsible AI",
+      "meta_twitter_description": "IBM and Meta have launched an international AI Alliance along with over 50 other organizations.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-06T12:55:44Z",
+      "updated_at": "2023-12-06T13:29:01Z",
+      "url": "https://bensbites.beehiiv.com/p/new-ai-alliance-wants-open-responsible-ai"
+    },
+    {
+      "id": "751e7f7d-0fbd-443d-b295-6f2ad4754470",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "One year of Microsoft Copilot and new features",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-06T12:48:41.885Z",
+      "slug": "one-year-microsoft-copilot-new-features",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ae69c650-0720-49f9-9e1d-c3be6250511a/image.png?t=1701866893",
+      "meta_default_title": "One year of Microsoft Copilot and new features",
+      "meta_default_description": "Microsoft Copilot is going to get some “new” AI features in its second year.",
+      "meta_og_title": "One year of Microsoft Copilot and new features",
+      "meta_og_description": "Microsoft Copilot is going to get some “new” AI features in its second year.",
+      "meta_twitter_title": "One year of Microsoft Copilot and new features",
+      "meta_twitter_description": "Microsoft Copilot is going to get some “new” AI features in its second year.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-06T12:20:30Z",
+      "updated_at": "2023-12-06T12:49:01Z",
+      "url": "https://bensbites.beehiiv.com/p/one-year-microsoft-copilot-new-features"
+    },
+    {
+      "id": "dc07a480-630b-43b9-bdba-5a330d00e99c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How do companies use AI in customer onboarding? ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-06T12:31:32.499Z",
+      "slug": "companies-use-ai-customer-onboarding",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "How do companies use AI in customer onboarding? ",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "How do companies use AI in customer onboarding? ",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "How do companies use AI in customer onboarding? ",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-06T11:58:53Z",
+      "updated_at": "2023-12-06T14:24:32Z",
+      "url": "https://bensbites.beehiiv.com/p/companies-use-ai-customer-onboarding"
+    },
+    {
       "id": "903a20bc-994e-40e8-aaae-6a2802170a6d",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: China and Japan",
