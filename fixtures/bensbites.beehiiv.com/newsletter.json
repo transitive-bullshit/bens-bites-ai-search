@@ -54,8 +54,8 @@
     "noindex_enabled": false,
     "double_opt_required": false,
     "premium_enabled": false,
-    "premium_offering_name": "Pro",
-    "premium_summary": null,
+    "premium_offering_name": "Ben's Bites Pro",
+    "premium_summary": "This post is for paid subscribers.",
     "premium_features": [],
     "stripe_user_id": "acct_1M44zoB6n7mAeymA",
     "facebook_url": "https://www.facebook.com/bensbitesAI/",
@@ -173,6 +173,7 @@
         "multi_pubs_message": ""
       },
       "signup_flow_avatar_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg",
+      "external_upgrade_page_href": null,
       "nav_groups": [
         {
           "id": "adc0bdd1-ea41-4f08-89d5-b00758c642d9",
@@ -258,6 +259,306 @@
     ]
   },
   "posts": [
+    {
+      "id": "c93c8193-3c2c-4511-967a-f0d70956edfc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Tools to make safe AI",
+      "web_subtitle": "PLUS: Smaller models are on the rise.",
+      "status": "published",
+      "override_scheduled_at": "2023-12-08T14:00:00.000Z",
+      "slug": "daily-digest-tools-make-safe-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/81957231-377c-45bd-b0bf-9d690510b031/Green_Level_2.png?t=1702036627",
+      "meta_default_title": "Daily Digest: Tools to make safe AI",
+      "meta_default_description": "PLUS: Smaller models are on the rise.",
+      "meta_og_title": "Daily Digest: Tools to make safe AI",
+      "meta_og_description": "PLUS: Smaller models are on the rise.",
+      "meta_twitter_title": "Daily Digest: Tools to make safe AI",
+      "meta_twitter_description": "PLUS: Smaller models are on the rise.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-08T07:50:08Z",
+      "updated_at": "2023-12-08T14:00:04Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-tools-make-safe-ai"
+    },
+    {
+      "id": "00548399-c589-43c0-91f5-ec498f096543",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Stability AI's new model, StableLM Zephyr 3B, can run on smartphones.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-08T12:17:13.982Z",
+      "slug": "stability-ais-new-model-stablelm-zephyr-3b-can-run-smartphones",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e8efdb07-a815-4f6b-9851-37de11bdaddc/image.png?t=1702037697",
+      "meta_default_title": "Stability AI's new model, StableLM Zephyr 3B, can run on smartphones.",
+      "meta_default_description": "It is built by fine-tuning on diverse datasets to compress more capability in smaller size.",
+      "meta_og_title": "Stability AI's new model, StableLM Zephyr 3B, can run on smartphones.",
+      "meta_og_description": "It is built by fine-tuning on diverse datasets to compress more capability in smaller size.",
+      "meta_twitter_title": "Stability AI's new model, StableLM Zephyr 3B, can run on smartphones.",
+      "meta_twitter_description": "It is built by fine-tuning on diverse datasets to compress more capability in smaller size.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-08T10:25:31Z",
+      "updated_at": "2023-12-08T12:18:01Z",
+      "url": "https://bensbites.beehiiv.com/p/stability-ais-new-model-stablelm-zephyr-3b-can-run-smartphones"
+    },
+    {
+      "id": "a10720d3-2c21-4533-944a-553e5c259549",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-08T11:55:52.304Z",
+      "slug": "purple-llama-meta-evals-models-open-source-safety",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4f84e0f4-5fc2-4b00-99b3-c38778928185/image.png?t=1702036142",
+      "meta_default_title": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "meta_default_description": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "meta_og_title": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "meta_og_description": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "meta_twitter_title": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "meta_twitter_description": "Purple Llama by Meta - Evals and Models for Open Source Safety",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-08T10:08:26Z",
+      "updated_at": "2023-12-08T11:56:03Z",
+      "url": "https://bensbites.beehiiv.com/p/purple-llama-meta-evals-models-open-source-safety"
+    },
+    {
+      "id": "5fc351dd-9b90-4ef1-88da-59a6fa4d5e5e",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How to solve AI discrimination?",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-08T11:22:37.733Z",
+      "slug": "solve-ai-discrimination",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d2a1bf8b-92da-4f26-b4c4-4a29ef693a14/image.png?t=1702034410",
+      "meta_default_title": "How to solve AI discrimination?",
+      "meta_default_description": "Just tell the AI to be nice.",
+      "meta_og_title": "How to solve AI discrimination?",
+      "meta_og_description": "Just tell the AI to be nice.",
+      "meta_twitter_title": "How to solve AI discrimination?",
+      "meta_twitter_description": "Just tell the AI to be nice.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-08T10:35:25Z",
+      "updated_at": "2023-12-08T11:23:01Z",
+      "url": "https://bensbites.beehiiv.com/p/solve-ai-discrimination"
+    },
+    {
+      "id": "b3c595c7-f868-4bd6-9b12-42d008bf3b2e",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How to build an AI-powered company",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-08T11:19:22.499Z",
+      "slug": "build-aipowered-company",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "How to build an AI-powered company",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "How to build an AI-powered company",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "How to build an AI-powered company",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-08T10:54:52Z",
+      "updated_at": "2023-12-08T13:39:11Z",
+      "url": "https://bensbites.beehiiv.com/p/build-aipowered-company"
+    },
+    {
+      "id": "990795d1-8c62-4436-ac3b-12fe34146b69",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Google strikes back",
+      "web_subtitle": "PLUS: There's a lot happening. Again.",
+      "status": "published",
+      "override_scheduled_at": "2023-12-07T14:00:00.000Z",
+      "slug": "daily-digest-google-strikes-back",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3eb0eafb-5d5a-439f-a4de-a87708bd04ea/Blue_Level_1.png?t=1701956850",
+      "meta_default_title": "Daily Digest: Google strikes back",
+      "meta_default_description": "PLUS: There's a lot happening. Again.",
+      "meta_og_title": "Daily Digest: Google strikes back",
+      "meta_og_description": "PLUS: There's a lot happening. Again.",
+      "meta_twitter_title": "Daily Digest: Google strikes back",
+      "meta_twitter_description": "PLUS: There's a lot happening. Again.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-07T06:02:22Z",
+      "updated_at": "2023-12-07T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-google-strikes-back"
+    },
+    {
+      "id": "4ee2f0dd-a266-4d3e-8b68-67854fef0076",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google's Gemini beats GPT-4 but at what cost?",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-07T13:39:53.999Z",
+      "slug": "googles-gemini-beats-gpt4-cost",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ffc003ed-f840-4426-9dbf-dcde9f18aee3/image.png?t=1701954309",
+      "meta_default_title": "Google's Gemini beats GPT-4 but at what cost?",
+      "meta_default_description": "The balanced take on Google's biggest launch of the year.",
+      "meta_og_title": "Google's Gemini beats GPT-4 but at what cost?",
+      "meta_og_description": "The balanced take on Google's biggest launch of the year.",
+      "meta_twitter_title": "Google's Gemini beats GPT-4 but at what cost?",
+      "meta_twitter_description": "The balanced take on Google's biggest launch of the year.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-07T08:19:52Z",
+      "updated_at": "2023-12-07T13:40:02Z",
+      "url": "https://bensbites.beehiiv.com/p/googles-gemini-beats-gpt4-cost"
+    },
+    {
+      "id": "523541a9-72f4-43ee-b366-c4639ae6e538",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The story of Replicate, a $350M company powering million-dollar AI businesses",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-07T12:36:18.746Z",
+      "slug": "story-replicate-350m-company-powering-milliondollar-ai-companies",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/447f6e60-e36a-4642-b6f8-46beb19045ec/landscape_Share_image_white_background.jpg",
+      "meta_default_title": "The story of Replicate, a $350M company powering million-dollar AI businesses",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "The story of Replicate, a $350M company powering million-dollar AI businesses",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "The story of Replicate, a $350M company powering million-dollar AI businesses",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends"
+        }
+      ],
+      "created_at": "2023-12-07T12:20:38Z",
+      "updated_at": "2023-12-07T15:46:32Z",
+      "url": "https://bensbites.beehiiv.com/p/story-replicate-350m-company-powering-milliondollar-ai-companies"
+    },
     {
       "id": "ddd55efd-ed4a-487b-812d-982ca116dc25",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
