@@ -53,7 +53,7 @@
     "copyright_text": "",
     "noindex_enabled": false,
     "double_opt_required": false,
-    "premium_enabled": false,
+    "premium_enabled": true,
     "premium_offering_name": "Ben's Bites Pro",
     "premium_summary": "This post is for paid subscribers.",
     "premium_features": [],
@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": true,
+    "has_recommendations": false,
     "beehiiv_branding": true,
     "has_polls": true,
     "has_pages": true,
@@ -92,7 +92,7 @@
     "web_template": {
       "id": 13319,
       "theme": "default",
-      "enable_featured_post_badges": true,
+      "enable_featured_post_badges": false,
       "enable_recommended_reading": true,
       "enable_customize_category_ids": false,
       "enable_recommendations": true,
@@ -128,7 +128,7 @@
           "title": "Recommendations Page",
           "href": "/recommendations",
           "managed_type": "recommendations",
-          "enabled": true,
+          "enabled": false,
           "full_url": "https://bensbites.beehiiv.com/recommendations",
           "action_text": "Remove",
           "modal_header": "Remove any recommendations or boosts first!",
@@ -149,11 +149,11 @@
         },
         {
           "id": 5,
-          "title": "https://news.bensbites.co/",
-          "href": "https://news.bensbites.co/",
+          "title": "https://pro.bensbites.co/",
+          "href": "https://pro.bensbites.co/",
           "managed_type": "custom",
           "enabled": true,
-          "full_url": "https://news.bensbites.co/",
+          "full_url": "https://pro.bensbites.co/",
           "action_text": "Remove",
           "modal_header": "Remove Custom Redirect",
           "modal_body": "This will remove the custom redirect. When users complete the subscribe flow they will now be sent to the default home page. You can always add this back later.",
@@ -173,7 +173,7 @@
         "multi_pubs_message": ""
       },
       "signup_flow_avatar_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/447f6e60-e36a-4642-b6f8-46beb19045ec/thumb_Group_10.jpg",
-      "external_upgrade_page_href": null,
+      "external_upgrade_page_href": "",
       "nav_groups": [
         {
           "id": "adc0bdd1-ea41-4f08-89d5-b00758c642d9",
@@ -185,6 +185,20 @@
               "id": "15b6ed7e-a46d-4cb2-948e-2eade34568f4",
               "cta_text": "🤝 Advertise with us",
               "href": "https://sponsor.bensbites.co/",
+              "external_link": true
+            }
+          ]
+        },
+        {
+          "id": "07723d5f-0ebe-43e8-b668-dcc0f5ecf7bf",
+          "title": "Pro",
+          "managed": false,
+          "is_category_group": false,
+          "nav_links": [
+            {
+              "id": "1000054c-d786-40e9-9191-093c579cb958",
+              "cta_text": "🔓 Upgrade to pro",
+              "href": "https://pro.bensbites.co",
               "external_link": true
             }
           ]
@@ -225,7 +239,7 @@
       },
       {
         "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
-        "display": "📈 Trends",
+        "display": "📈 Trends - Pro",
         "description": ""
       }
     ],
@@ -234,12 +248,12 @@
         "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
         "name": "Keshav Jindal",
         "profile_picture": {
-          "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/Keshav.jpg",
           "thumb": {
-            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/thumb_Keshav.jpg"
           },
           "landscape": {
-            "url": null
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/landscape_Keshav.jpg"
           }
         }
       },
@@ -259,6 +273,176 @@
     ]
   },
   "posts": [
+    {
+      "id": "aca21d25-f59d-4a0b-9c78-109c647a3088",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: That was quick!",
+      "web_subtitle": "PLUS: Y'all, Mistral and Jira tickets with AI",
+      "status": "published",
+      "override_scheduled_at": "2023-12-12T14:00:00.000Z",
+      "slug": "daily-digest-quick",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/02bfefc3-0032-454b-8f84-ff4d27d93e94/Red_Level_1.png?t=1702377938",
+      "meta_default_title": "Daily Digest: That was quick!",
+      "meta_default_description": "PLUS: Y'all, Mistral and Jira tickets with AI",
+      "meta_og_title": "Daily Digest: That was quick!",
+      "meta_og_description": "PLUS: Y'all, Mistral and Jira tickets with AI",
+      "meta_twitter_title": "Daily Digest: That was quick!",
+      "meta_twitter_description": "PLUS: Y'all, Mistral and Jira tickets with AI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-12T07:17:55Z",
+      "updated_at": "2023-12-12T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-quick"
+    },
+    {
+      "id": "d4907e29-363c-4ac0-9577-74c17ce0109b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Atlassian Intelligence is live in Jira and Confluence.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-12T10:42:48.819Z",
+      "slug": "atlassian-intelligence-live-jira-confluence",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f2c6b4ab-0f2a-449c-abc4-2f5598dba301/image.png?t=1702377728",
+      "meta_default_title": "Atlassian Intelligence is live in Jira and Confluence.",
+      "meta_default_description": "Atlassian has released the first set of AI capabilities across its products like Jira and Confluence under the name Atlassian Intelligence.",
+      "meta_og_title": "Atlassian Intelligence is live in Jira and Confluence.",
+      "meta_og_description": "Atlassian has released the first set of AI capabilities across its products like Jira and Confluence under the name Atlassian Intelligence.",
+      "meta_twitter_title": "Atlassian Intelligence is live in Jira and Confluence.",
+      "meta_twitter_description": "Atlassian has released the first set of AI capabilities across its products like Jira and Confluence under the name Atlassian Intelligence.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-12T08:56:33Z",
+      "updated_at": "2023-12-12T10:43:50Z",
+      "url": "https://bensbites.beehiiv.com/p/atlassian-intelligence-live-jira-confluence"
+    },
+    {
+      "id": "5f470dad-6d5c-43ce-a20b-cc2c4e891ba1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Ben's Bites year in review & what's next...",
+      "web_subtitle": "PLUS: Mind-blowing Mistral & EU cranks up the AI act",
+      "status": "published",
+      "override_scheduled_at": "2023-12-11T14:00:00.000Z",
+      "slug": "daily-digest-mindblowing-mistral",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dd0e2d26-7c1f-4cf7-a0d2-3600fc4d63ad/Purple_Level_3.png?t=1702292212",
+      "meta_default_title": "Daily Digest: Ben's Bites year in review & what's next...",
+      "meta_default_description": "PLUS: Mind-blowing Mistral & EU cranks up the AI act",
+      "meta_og_title": "Daily Digest: Ben's Bites year in review & what's next...",
+      "meta_og_description": "PLUS: Mind-blowing Mistral & EU cranks up the AI act",
+      "meta_twitter_title": "Daily Digest: Ben's Bites year in review & what's next...",
+      "meta_twitter_description": "PLUS: Mind-blowing Mistral & EU cranks up the AI act",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-11T06:03:46Z",
+      "updated_at": "2023-12-11T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-mindblowing-mistral"
+    },
+    {
+      "id": "a26e1f1b-ddac-42d5-b3d1-167f808d8975",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "EU's AI act gets one step ahead.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-11T10:50:40.050Z",
+      "slug": "eus-ai-act-gets-one-step-ahead",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/00f5c287-a8ad-48f1-b7b1-68cf5379fa4d/image.png?t=1702288951",
+      "meta_default_title": "EU's AI act gets one step ahead.",
+      "meta_default_description": "The EU has reached a provisional agreement on its Artificial Intelligence Act. The Act adds bans on multiple AI applications and systems based on risk level.",
+      "meta_og_title": "EU's AI act gets one step ahead.",
+      "meta_og_description": "The EU has reached a provisional agreement on its Artificial Intelligence Act. The Act adds bans on multiple AI applications and systems based on risk level.",
+      "meta_twitter_title": "EU's AI act gets one step ahead.",
+      "meta_twitter_description": "The EU has reached a provisional agreement on its Artificial Intelligence Act. The Act adds bans on multiple AI applications and systems based on risk level.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-11T09:58:40Z",
+      "updated_at": "2023-12-11T10:51:01Z",
+      "url": "https://bensbites.beehiiv.com/p/eus-ai-act-gets-one-step-ahead"
+    },
+    {
+      "id": "69f688f5-6d08-4e99-8020-1a8703c0ba2c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Mistral AI drops its new model with mixture of experts.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-11T09:45:16.627Z",
+      "slug": "mistral-ai-drops-new-model-mixture-experts",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/08be100d-e6cf-4ffb-8282-dbd9f8d7169e/image.png?t=1702287828",
+      "meta_default_title": "Mistral AI drops its new model with mixture of experts.",
+      "meta_default_description": "Alongside the new model MIxtral 8*7B, Mistral now has an API and platform for its models.",
+      "meta_og_title": "Mistral AI drops its new model with mixture of experts.",
+      "meta_og_description": "Alongside the new model MIxtral 8*7B, Mistral now has an API and platform for its models.",
+      "meta_twitter_title": "Mistral AI drops its new model with mixture of experts.",
+      "meta_twitter_description": "Alongside the new model MIxtral 8*7B, Mistral now has an API and platform for its models.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-11T08:44:31Z",
+      "updated_at": "2023-12-11T09:54:54Z",
+      "url": "https://bensbites.beehiiv.com/p/mistral-ai-drops-new-model-mixture-experts"
+    },
     {
       "id": "c93c8193-3c2c-4511-967a-f0d70956edfc",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
