@@ -274,6 +274,49 @@
   },
   "posts": [
     {
+      "id": "24164d89-daf2-4504-9c22-b4c213c66731",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: More startups, more models",
+      "web_subtitle": "PLUS: but less money?",
+      "status": "published",
+      "override_scheduled_at": "2023-12-13T14:00:00.000Z",
+      "slug": "daily-digest-startups-models",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ef666bf6-d27a-48dc-8d76-86894a7d314e/Blue_Level_2.png?t=1702470374",
+      "meta_default_title": "Daily Digest: More startups, more models",
+      "meta_default_description": "PLUS: but less money?",
+      "meta_og_title": "Daily Digest: More startups, more models",
+      "meta_og_description": "PLUS: but less money?",
+      "meta_twitter_title": "Daily Digest: More startups, more models",
+      "meta_twitter_description": "PLUS: but less money?",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "7013e4ff-bd3e-4991-ad45-b853a814c762",
+          "name": "Keshav Jindal",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/Keshav.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/thumb_Keshav.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7013e4ff-bd3e-4991-ad45-b853a814c762/landscape_Keshav.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [],
+      "created_at": "2023-12-13T10:18:58Z",
+      "updated_at": "2023-12-13T14:00:08Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-startups-models"
+    },
+    {
       "id": "aca21d25-f59d-4a0b-9c78-109c647a3088",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: That was quick!",
