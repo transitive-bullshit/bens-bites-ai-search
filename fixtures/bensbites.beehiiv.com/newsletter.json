@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": false,
+    "has_recommendations": true,
     "beehiiv_branding": true,
     "has_polls": true,
     "has_pages": true,
@@ -128,7 +128,7 @@
           "title": "Recommendations Page",
           "href": "/recommendations",
           "managed_type": "recommendations",
-          "enabled": false,
+          "enabled": true,
           "full_url": "https://bensbites.beehiiv.com/recommendations",
           "action_text": "Remove",
           "modal_header": "Remove any recommendations or boosts first!",
@@ -273,6 +273,224 @@
     ]
   },
   "posts": [
+    {
+      "id": "9d669bd5-0d41-45fa-a3af-b4b1ea0d48de",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Research Alpha",
+      "web_subtitle": "PLUS: Super intelligence and new science",
+      "status": "published",
+      "override_scheduled_at": "2023-12-15T14:00:00.000Z",
+      "slug": "daily-digest-research-alpha",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2e5c698e-155a-4811-88e8-0ff3c50601c2/Purple_Level_1.png?t=1702643853",
+      "meta_default_title": "Daily Digest: Research Alpha",
+      "meta_default_description": "PLUS: Super intelligence and new science",
+      "meta_og_title": "Daily Digest: Research Alpha",
+      "meta_og_description": "PLUS: Super intelligence and new science",
+      "meta_twitter_title": "Daily Digest: Research Alpha",
+      "meta_twitter_description": "PLUS: Super intelligence and new science",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-15T08:54:45Z",
+      "updated_at": "2023-12-15T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-research-alpha"
+    },
+    {
+      "id": "a412ddc9-4466-4c22-b31b-0f2e2cc1045e",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Stability AI starts a $20/month subscription plan.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-15T12:15:07.907Z",
+      "slug": "stability-ai-starts-20month-subscription-plan",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93634238-e5e0-4be8-86a5-e2b025d24ace/image.png?t=1702642095",
+      "meta_default_title": "Stability AI starts a $20/month subscription plan.",
+      "meta_default_description": "It's for commercial use of their models. Personal use is still free.",
+      "meta_og_title": "Stability AI starts a $20/month subscription plan.",
+      "meta_og_description": "It's for commercial use of their models. Personal use is still free.",
+      "meta_twitter_title": "Stability AI starts a $20/month subscription plan.",
+      "meta_twitter_description": "It's for commercial use of their models. Personal use is still free.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-15T11:59:41Z",
+      "updated_at": "2023-12-15T12:16:01Z",
+      "url": "https://bensbites.beehiiv.com/p/stability-ai-starts-20month-subscription-plan"
+    },
+    {
+      "id": "ccc18fd5-17b9-46ba-872a-2708d409cee3",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: ChatGPT plus is back",
+      "web_subtitle": "PLUS: Gemini Pro in API, Mistral's path to $2B and OpenAI spends money on news.",
+      "status": "published",
+      "override_scheduled_at": "2023-12-14T14:00:00.000Z",
+      "slug": "daily-digest-chatgpt-plus-back",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/95e2b7c7-36ca-442b-86e8-01bc117ce05a/Green_Level_3.png?t=1702560534",
+      "meta_default_title": "Daily Digest: ChatGPT plus is back",
+      "meta_default_description": "PLUS: Gemini Pro in API, Mistral's path to $2B and OpenAI spends money on news.",
+      "meta_og_title": "Daily Digest: ChatGPT plus is back",
+      "meta_og_description": "PLUS: Gemini Pro in API, Mistral's path to $2B and OpenAI spends money on news.",
+      "meta_twitter_title": "Daily Digest: ChatGPT plus is back",
+      "meta_twitter_description": "PLUS: Gemini Pro in API, Mistral's path to $2B and OpenAI spends money on news.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-14T07:41:39Z",
+      "updated_at": "2023-12-14T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-chatgpt-plus-back"
+    },
+    {
+      "id": "d57f4234-91d0-4c26-b135-7cd3f5cb56fb",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI makes licensing deal with Alex Springer",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-14T13:09:28.017Z",
+      "slug": "open-ai-makes-licensing-deal-alex-springer",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1271d230-e02f-4490-841a-f7b752e37a29/image.png?t=1702559349",
+      "meta_default_title": "Open AI makes licensing deal with Alex Springer",
+      "meta_default_description": "The companies will integrate recent news content into ChatGPT to provide users with authoritative, up-to-date information.",
+      "meta_og_title": "Open AI makes licensing deal with Alex Springer",
+      "meta_og_description": "The companies will integrate recent news content into ChatGPT to provide users with authoritative, up-to-date information.",
+      "meta_twitter_title": "Open AI makes licensing deal with Alex Springer",
+      "meta_twitter_description": "The companies will integrate recent news content into ChatGPT to provide users with authoritative, up-to-date information.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-14T12:59:11Z",
+      "updated_at": "2023-12-14T13:11:43Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-makes-licensing-deal-alex-springer"
+    },
+    {
+      "id": "bb8c955d-c241-45a4-aac6-896bb03f73e2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Gemini Pro API is now live",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-14T12:54:27.778Z",
+      "slug": "gemini-pro-api-now-live",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/24008cd9-a0bc-434e-a016-0d8778a01908/image.png?t=1702558450",
+      "meta_default_title": "Gemini Pro API is now live",
+      "meta_default_description": "But devs are busy with Mistral.",
+      "meta_og_title": "Gemini Pro API is now live",
+      "meta_og_description": "But devs are busy with Mistral.",
+      "meta_twitter_title": "Gemini Pro API is now live",
+      "meta_twitter_description": "But devs are busy with Mistral.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-14T12:00:57Z",
+      "updated_at": "2023-12-14T13:15:55Z",
+      "url": "https://bensbites.beehiiv.com/p/gemini-pro-api-now-live"
+    },
+    {
+      "id": "03cd551d-382f-42cf-b22f-76609611c126",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How Mistral AI, an OpenAI competitor, rocketed to $2Bn in <12 months",
+      "web_subtitle": "",
+      "status": "published",
+      "override_scheduled_at": "2023-12-14T12:00:00.000Z",
+      "slug": "mistral-ai-openai-competitor-rocketed-2bn-12-months",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6c980a72-ca62-47eb-99ee-a15dbae8c417/Pro_Share_white_background.png?t=1702565344",
+      "meta_default_title": "How Mistral AI, an OpenAI competitor, rocketed to $2Bn in <12 months",
+      "meta_default_description": "",
+      "meta_og_title": "How Mistral AI, an OpenAI competitor, rocketed to $2Bn in <12 months",
+      "meta_og_description": "",
+      "meta_twitter_title": "How Mistral AI, an OpenAI competitor, rocketed to $2Bn in <12 months",
+      "meta_twitter_description": "",
+      "audience": "both",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": false,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends - Pro"
+        }
+      ],
+      "created_at": "2023-12-13T20:42:11Z",
+      "updated_at": "2023-12-14T14:49:07Z",
+      "url": "https://bensbites.beehiiv.com/p/mistral-ai-openai-competitor-rocketed-2bn-12-months"
+    },
     {
       "id": "24164d89-daf2-4504-9c22-b4c213c66731",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
