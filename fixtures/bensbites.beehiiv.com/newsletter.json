@@ -274,6 +274,74 @@
   },
   "posts": [
     {
+      "id": "f45671b2-3746-4297-b9e7-9fb773286b4c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Sneaky move from Chinese LLMs",
+      "web_subtitle": "PLUS: frontend UI, live classes and AI gf.",
+      "status": "published",
+      "override_scheduled_at": "2023-12-18T14:00:00.000Z",
+      "slug": "daily-digest-sneaky-move-chinese-llms",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3686cedf-fa4c-400d-b538-8b2e693d8794/Red_Level_2.png?t=1702892235",
+      "meta_default_title": "Daily Digest: Sneaky move from Chinese LLMs",
+      "meta_default_description": "PLUS: frontend UI, live classes and AI gf.",
+      "meta_og_title": "Daily Digest: Sneaky move from Chinese LLMs",
+      "meta_og_description": "PLUS: frontend UI, live classes and AI gf.",
+      "meta_twitter_title": "Daily Digest: Sneaky move from Chinese LLMs",
+      "meta_twitter_description": "PLUS: frontend UI, live classes and AI gf.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-18T04:50:39Z",
+      "updated_at": "2023-12-18T14:00:59Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-sneaky-move-chinese-llms"
+    },
+    {
+      "id": "39502f8d-cbfb-4a43-ae29-46be34f35b39",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "ByteDance is using GPT-4 to train its models",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-18T09:29:45.067Z",
+      "slug": "bytedance-using-gpt4-train-models",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/44d72c78-f9fe-4fea-87bf-80ed4f61cd64/image.png?t=1702891730",
+      "meta_default_title": "ByteDance is using GPT-4 to train its models",
+      "meta_default_description": "Not cool since that breaks OpenAI and Microsoft’s rules.",
+      "meta_og_title": "ByteDance is using GPT-4 to train its models",
+      "meta_og_description": "Not cool since that breaks OpenAI and Microsoft’s rules.",
+      "meta_twitter_title": "ByteDance is using GPT-4 to train its models",
+      "meta_twitter_description": "Not cool since that breaks OpenAI and Microsoft’s rules.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-18T08:32:04Z",
+      "updated_at": "2023-12-18T09:30:01Z",
+      "url": "https://bensbites.beehiiv.com/p/bytedance-using-gpt4-train-models"
+    },
+    {
       "id": "9d669bd5-0d41-45fa-a3af-b4b1ea0d48de",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Research Alpha",
