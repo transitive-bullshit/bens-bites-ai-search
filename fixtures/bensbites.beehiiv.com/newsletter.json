@@ -275,6 +275,156 @@
   },
   "posts": [
     {
+      "id": "50f185ad-5fe1-4f6f-81a4-b54f9c51188b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Social leaders on AI",
+      "web_subtitle": "PLUS: Midjourney v6, Anthropic's new round and archived chats.",
+      "status": "published",
+      "override_scheduled_at": "2023-12-21T14:00:00.000Z",
+      "slug": "daily-digest-social-leaders-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e911842e-d67c-4c90-b7d8-243cab3fc559/Purple_Level_2.png?t=1703160783",
+      "meta_default_title": "Daily Digest: Social leaders on AI",
+      "meta_default_description": "PLUS: Midjourney v6, Anthropic's new round and archived chats.",
+      "meta_og_title": "Daily Digest: Social leaders on AI",
+      "meta_og_description": "PLUS: Midjourney v6, Anthropic's new round and archived chats.",
+      "meta_twitter_title": "Daily Digest: Social leaders on AI",
+      "meta_twitter_description": "PLUS: Midjourney v6, Anthropic's new round and archived chats.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-21T06:01:27Z",
+      "updated_at": "2023-12-21T14:00:04Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-social-leaders-ai"
+    },
+    {
+      "id": "881a8a9c-36ea-48c5-8ac4-95894d0d01d0",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How Deel uses AI in its business",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-21T12:00:00.000Z",
+      "slug": "deel-uses-ai-business",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6c980a72-ca62-47eb-99ee-a15dbae8c417/Pro_Share_white_background.png?t=1702565344",
+      "meta_default_title": "How Deel uses AI in its business",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "How Deel uses AI in its business",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "How Deel uses AI in its business",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends - Pro"
+        }
+      ],
+      "created_at": "2023-12-21T09:37:38Z",
+      "updated_at": "2023-12-21T17:03:45Z",
+      "url": "https://bensbites.beehiiv.com/p/deel-uses-ai-business"
+    },
+    {
+      "id": "c1d13fbf-a22d-403f-950b-955802c39e17",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: AI Jingles",
+      "web_subtitle": "PLUS: The AI underdog",
+      "status": "published",
+      "override_scheduled_at": "2023-12-20T14:00:00.000Z",
+      "slug": "daily-digest-ai-jingles",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/72418a58-f6a5-43ef-a1ea-c693f7cbf8bd/Green_Level_1.png?t=1703075928",
+      "meta_default_title": "Daily Digest: AI Jingles",
+      "meta_default_description": "PLUS: The AI underdog",
+      "meta_og_title": "Daily Digest: AI Jingles",
+      "meta_og_description": "PLUS: The AI underdog",
+      "meta_twitter_title": "Daily Digest: AI Jingles",
+      "meta_twitter_description": "PLUS: The AI underdog",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-20T10:25:12Z",
+      "updated_at": "2023-12-20T14:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-ai-jingles"
+    },
+    {
+      "id": "b229f389-faef-4dd4-8ffa-5515c63b52dd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Make songs with Copilot and Suno",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-20T12:10:12.468Z",
+      "slug": "make-songs-copilot-suno",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/41fda448-740f-4765-9e4f-aca58a43c97e/image.png?t=1703073848",
+      "meta_default_title": "Make songs with Copilot and Suno",
+      "meta_default_description": "Anyone can create fun, personalized songs through simple text prompts, regardless of musical ability.",
+      "meta_og_title": "Make songs with Copilot and Suno",
+      "meta_og_description": "Anyone can create fun, personalized songs through simple text prompts, regardless of musical ability.",
+      "meta_twitter_title": "Make songs with Copilot and Suno",
+      "meta_twitter_description": "Anyone can create fun, personalized songs through simple text prompts, regardless of musical ability.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-20T11:37:01Z",
+      "updated_at": "2023-12-20T12:11:04Z",
+      "url": "https://bensbites.beehiiv.com/p/make-songs-copilot-suno"
+    },
+    {
       "id": "5b1195fa-737b-4edc-b825-0023f31abeff",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Are you prepared? For what's next from OpenAI?",
