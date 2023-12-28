@@ -275,6 +275,40 @@
   },
   "posts": [
     {
+      "id": "571e8583-d43d-4f7c-a420-2f292a4d1d97",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: a lot of money flying around",
+      "web_subtitle": "PLUS: resurrecting the dead",
+      "status": "published",
+      "override_scheduled_at": "2023-12-27T14:00:00.000Z",
+      "slug": "daily-digest-lot-money-flying-around",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/35355480-5ff4-4619-a0ef-0b46659ec82a/Blue_Level_1.png?t=1703689418",
+      "meta_default_title": "Daily Digest: a lot of money flying around",
+      "meta_default_description": "PLUS: resurrecting the dead",
+      "meta_og_title": "Daily Digest: a lot of money flying around",
+      "meta_og_description": "PLUS: resurrecting the dead",
+      "meta_twitter_title": "Daily Digest: a lot of money flying around",
+      "meta_twitter_description": "PLUS: resurrecting the dead",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-27T09:50:30Z",
+      "updated_at": "2023-12-27T15:04:01Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-lot-money-flying-around"
+    },
+    {
       "id": "bbbfebdb-4ed6-4dc9-8155-c320190a016e",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: The reality of AI jobs",
