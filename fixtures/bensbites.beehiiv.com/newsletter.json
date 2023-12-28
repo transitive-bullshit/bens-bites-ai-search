@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": false,
+    "has_recommendations": true,
     "beehiiv_branding": true,
     "has_polls": true,
     "stripe_payment_method_domain_enabled": false,
@@ -102,6 +102,18 @@
       "signup_flow": [
         {
           "id": 1,
+          "title": "Recommendations Page",
+          "href": "/subscribe?recommendations=true",
+          "managed_type": "recommendations",
+          "enabled": true,
+          "full_url": "https://bensbites.beehiiv.com/subscribe?recommendations=true",
+          "action_text": "Remove",
+          "modal_header": "Remove any recommendations or boosts first!",
+          "modal_body": "To remove this page from your subscribe flow, you will need to make sure you have removed any active recommendations or boosts you currently have set up.",
+          "page_message": ""
+        },
+        {
+          "id": 2,
           "title": "Subscribe Survey",
           "href": "/forms/",
           "managed_type": "survey",
@@ -113,7 +125,7 @@
           "page_message": ""
         },
         {
-          "id": 2,
+          "id": 3,
           "title": "Upgrade Page",
           "href": "/upgrade",
           "managed_type": "upgrade",
@@ -122,18 +134,6 @@
           "action_text": "Remove",
           "modal_header": "Remove Upgrade Redirect",
           "modal_body": "This will remove the Upgrade Page from the subscribe flow. Not to worry, the Upgrade Page will still be live and available on your site and you can always add it back to the subscribe flow later.",
-          "page_message": ""
-        },
-        {
-          "id": 3,
-          "title": "Recommendations Page",
-          "href": "/recommendations",
-          "managed_type": "recommendations",
-          "enabled": false,
-          "full_url": "https://bensbites.beehiiv.com/recommendations",
-          "action_text": "Remove",
-          "modal_header": "Remove any recommendations or boosts first!",
-          "modal_body": "To remove this page from your subscribe flow, you will need to make sure you have removed any active recommendations or boosts you currently have set up.",
           "page_message": ""
         },
         {
@@ -274,6 +274,74 @@
     ]
   },
   "posts": [
+    {
+      "id": "bbbfebdb-4ed6-4dc9-8155-c320190a016e",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: The reality of AI jobs",
+      "web_subtitle": "PLUS: (not-so-secret) Agents",
+      "status": "published",
+      "override_scheduled_at": "2023-12-22T14:00:00.000Z",
+      "slug": "daily-digest-reality-ai-jobs",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/85fe3cd6-6739-4115-8381-15097b4cfc48/Red_Level_3.png?t=1703248525",
+      "meta_default_title": "Daily Digest: The reality of AI jobs",
+      "meta_default_description": "PLUS: (not-so-secret) Agents",
+      "meta_og_title": "Daily Digest: The reality of AI jobs",
+      "meta_og_description": "PLUS: (not-so-secret) Agents",
+      "meta_twitter_title": "Daily Digest: The reality of AI jobs",
+      "meta_twitter_description": "PLUS: (not-so-secret) Agents",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2023-12-22T08:55:05Z",
+      "updated_at": "2023-12-22T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-reality-ai-jobs"
+    },
+    {
+      "id": "a5d09f6a-4edc-4566-8344-bdfeaa76f780",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI is changing marketing jobs, or is it?",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-22T12:23:04.137Z",
+      "slug": "ai-changing-marketing-jobs",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f6d810e0-fab3-4a71-aad4-05121fdbd99f/image.png?t=1703246743",
+      "meta_default_title": "AI is changing marketing jobs, or is it?",
+      "meta_default_description": "Despite predictions that AI will fundamentally alter marketing, major consumer brands have largely not hired people for AI-specific leadership positions.",
+      "meta_og_title": "AI is changing marketing jobs, or is it?",
+      "meta_og_description": "Despite predictions that AI will fundamentally alter marketing, major consumer brands have largely not hired people for AI-specific leadership positions.",
+      "meta_twitter_title": "AI is changing marketing jobs, or is it?",
+      "meta_twitter_description": "Despite predictions that AI will fundamentally alter marketing, major consumer brands have largely not hired people for AI-specific leadership positions.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2023-12-22T12:00:37Z",
+      "updated_at": "2023-12-22T12:38:47Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-changing-marketing-jobs"
+    },
     {
       "id": "50f185ad-5fe1-4f6f-81a4-b54f9c51188b",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
