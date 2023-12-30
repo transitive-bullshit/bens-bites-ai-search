@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": true,
+    "has_recommendations": false,
     "beehiiv_branding": true,
     "has_polls": true,
     "stripe_payment_method_domain_enabled": false,
@@ -105,7 +105,7 @@
           "title": "Recommendations Page",
           "href": "/subscribe?recommendations=true",
           "managed_type": "recommendations",
-          "enabled": true,
+          "enabled": false,
           "full_url": "https://bensbites.beehiiv.com/subscribe?recommendations=true",
           "action_text": "Remove",
           "modal_header": "Remove any recommendations or boosts first!",
@@ -274,6 +274,112 @@
     ]
   },
   "posts": [
+    {
+      "id": "fcd9c6ea-7def-46ef-8692-ba3a23a4eb18",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: The lawsuit is silly",
+      "web_subtitle": "PLUS: how AI will change in 2024",
+      "status": "published",
+      "override_scheduled_at": "2023-12-29T14:35:00.000Z",
+      "slug": "daily-digest-lawsuit-may-open-can-worms",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3686cedf-fa4c-400d-b538-8b2e693d8794/Red_Level_2.png?t=1702892235",
+      "meta_default_title": "Daily Digest: The lawsuit is silly",
+      "meta_default_description": "PLUS: how AI will change in 2024",
+      "meta_og_title": "Daily Digest: The lawsuit is silly",
+      "meta_og_description": "PLUS: how AI will change in 2024",
+      "meta_twitter_title": "Daily Digest: The lawsuit is silly",
+      "meta_twitter_description": "PLUS: how AI will change in 2024",
+      "audience": "both",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [],
+      "created_at": "2023-12-29T09:18:03Z",
+      "updated_at": "2023-12-29T14:35:03Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-lawsuit-may-open-can-worms"
+    },
+    {
+      "id": "7b8d14f3-75d3-4e56-bbc3-3228d66611ba",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: NYT sues OpenAI",
+      "web_subtitle": "PLUS: locally record your MacBook",
+      "status": "published",
+      "override_scheduled_at": "2023-12-28T14:00:00.000Z",
+      "slug": "daily-digest-nyt-sues-openai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/35355480-5ff4-4619-a0ef-0b46659ec82a/Blue_Level_1.png?t=1703689418",
+      "meta_default_title": "Daily Digest: NYT sues OpenAI",
+      "meta_default_description": "PLUS: locally record your MacBook",
+      "meta_og_title": "Daily Digest: NYT sues OpenAI",
+      "meta_og_description": "PLUS: locally record your MacBook",
+      "meta_twitter_title": "Daily Digest: NYT sues OpenAI",
+      "meta_twitter_description": "PLUS: locally record your MacBook",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [],
+      "created_at": "2023-12-28T09:39:32Z",
+      "updated_at": "2023-12-28T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-nyt-sues-openai"
+    },
+    {
+      "id": "ad2076b5-673f-4cca-99cd-d269583fefd4",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Taking the week off + some exploding AI trends",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2023-12-28T12:00:00.000Z",
+      "slug": "taking-week-off-exploding-ai-trends",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6c980a72-ca62-47eb-99ee-a15dbae8c417/Pro_Share_white_background.png?t=1702565344",
+      "meta_default_title": "Taking the week off + some exploding AI trends",
+      "meta_default_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_og_title": "Taking the week off + some exploding AI trends",
+      "meta_og_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "meta_twitter_title": "Taking the week off + some exploding AI trends",
+      "meta_twitter_description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "📈 Trends - Pro"
+        }
+      ],
+      "created_at": "2023-12-28T10:07:06Z",
+      "updated_at": "2023-12-28T12:00:03Z",
+      "url": "https://bensbites.beehiiv.com/p/taking-week-off-exploding-ai-trends"
+    },
     {
       "id": "571e8583-d43d-4f7c-a420-2f292a4d1d97",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
