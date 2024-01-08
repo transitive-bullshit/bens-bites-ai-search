@@ -75,7 +75,7 @@
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
-    "has_recommendations": true,
+    "has_recommendations": false,
     "beehiiv_branding": true,
     "has_polls": true,
     "stripe_payment_method_domain_enabled": true,
@@ -105,7 +105,7 @@
           "title": "Recommendations Page",
           "href": "/subscribe?recommendations=true",
           "managed_type": "recommendations",
-          "enabled": true,
+          "enabled": false,
           "full_url": "https://bensbites.beehiiv.com/subscribe?recommendations=true",
           "action_text": "Remove",
           "modal_header": "Remove any recommendations or boosts first!",
@@ -203,6 +203,20 @@
               "external_link": true
             }
           ]
+        },
+        {
+          "id": "147e4291-868a-453b-8297-3feefa6c1584",
+          "title": "All PRO posts",
+          "managed": false,
+          "is_category_group": false,
+          "nav_links": [
+            {
+              "id": "1d004767-2ac2-4071-be9b-70c357294e11",
+              "cta_text": "All PRO posts",
+              "href": "https://bensbites.beehiiv.com/?tags=%F0%9F%94%92+Ben%27s+Bites+PRO",
+              "external_link": true
+            }
+          ]
         }
       ]
     },
@@ -240,7 +254,7 @@
       },
       {
         "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
-        "display": "📈 Trends - Pro",
+        "display": "🔒 Ben's Bites PRO",
         "description": ""
       }
     ],
@@ -270,10 +284,377 @@
             "url": null
           }
         }
+      },
+      {
+        "id": "b125fd36-64f1-42d9-a25d-3f40b2413f84",
+        "name": "Shanice shanice@bensbites.co",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+          },
+          "landscape": {
+            "url": null
+          }
+        }
       }
     ]
   },
   "posts": [
+    {
+      "id": "9015db53-d8d9-4a89-b371-ccd17f0f9684",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Tailwinds for Nvidia?",
+      "web_subtitle": "PLUS: Microsoft's seat at OpenAI's board ",
+      "status": "published",
+      "override_scheduled_at": "2024-01-08T14:00:00.000Z",
+      "slug": "daily-digest-tailwinds-nvidia",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b87a41ee-5b92-4c85-b149-e08e755493b5/Red_Level_2.png?t=1704712725",
+      "meta_default_title": "Daily Digest: Tailwinds for Nvidia?",
+      "meta_default_description": "PLUS: Microsoft's seat at OpenAI's board ",
+      "meta_og_title": "Daily Digest: Tailwinds for Nvidia?",
+      "meta_og_description": "PLUS: Microsoft's seat at OpenAI's board ",
+      "meta_twitter_title": "Daily Digest: Tailwinds for Nvidia?",
+      "meta_twitter_description": "PLUS: Microsoft's seat at OpenAI's board ",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-08T06:30:29Z",
+      "updated_at": "2024-01-08T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-tailwinds-nvidia"
+    },
+    {
+      "id": "210d29eb-127a-4c47-bda8-38702e9dfcef",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft's fills its seat at OpenAI's board ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-08T11:15:57.922Z",
+      "slug": "microsofts-fills-seat-openais-board",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/60eebe16-b7d6-4d39-8a7e-6ac3869bba31/image.png?t=1704712429",
+      "meta_default_title": "Microsoft's fills its seat at OpenAI's board ",
+      "meta_default_description": "Microsoft has appointed Deannah Templeton to its observing seat on OpenAI’s Board. The board has also approached Alexandr Wang and Nat Friedman to join.",
+      "meta_og_title": "Microsoft's fills its seat at OpenAI's board ",
+      "meta_og_description": "Microsoft has appointed Deannah Templeton to its observing seat on OpenAI’s Board. The board has also approached Alexandr Wang and Nat Friedman to join.",
+      "meta_twitter_title": "Microsoft's fills its seat at OpenAI's board ",
+      "meta_twitter_description": "Microsoft has appointed Deannah Templeton to its observing seat on OpenAI’s Board. The board has also approached Alexandr Wang and Nat Friedman to join.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-08T10:47:17Z",
+      "updated_at": "2024-01-08T11:16:02Z",
+      "url": "https://bensbites.beehiiv.com/p/microsofts-fills-seat-openais-board"
+    },
+    {
+      "id": "4cd26ad9-5473-4497-9e52-9d82d307b7dc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Nvidia could lose big in China.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-08T10:39:15.430Z",
+      "slug": "nvidia-lose-big-china",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ffd35515-c403-4ba3-9ebd-1af24921b3de/image.png?t=1704710318",
+      "meta_default_title": "Nvidia could lose big in China.",
+      "meta_default_description": "its customers there don’t want its downgraded chips—they’d rather buy from Huawei.",
+      "meta_og_title": "Nvidia could lose big in China.",
+      "meta_og_description": "its customers there don’t want its downgraded chips—they’d rather buy from Huawei.",
+      "meta_twitter_title": "Nvidia could lose big in China.",
+      "meta_twitter_description": "its customers there don’t want its downgraded chips—they’d rather buy from Huawei.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-08T10:19:04Z",
+      "updated_at": "2024-01-08T10:40:03Z",
+      "url": "https://bensbites.beehiiv.com/p/nvidia-lose-big-china"
+    },
+    {
+      "id": "b636d1ce-1381-46bc-8705-9ad3fec8f9e3",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Deal or No Deal",
+      "web_subtitle": "PLUS: show of hand starts soon",
+      "status": "published",
+      "override_scheduled_at": "2024-01-05T14:00:00.000Z",
+      "slug": "daily-digest-deal-no-deal",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ca55a7a9-f4e7-4844-b226-8d45195370ff/Purple_Level_1.png?t=1704442173",
+      "meta_default_title": "Daily Digest: Deal or No Deal",
+      "meta_default_description": "PLUS: show of hand starts soon",
+      "meta_og_title": "Daily Digest: Deal or No Deal",
+      "meta_og_description": "PLUS: show of hand starts soon",
+      "meta_twitter_title": "Daily Digest: Deal or No Deal",
+      "meta_twitter_description": "PLUS: show of hand starts soon",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-05T08:08:58Z",
+      "updated_at": "2024-01-05T14:01:09Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-deal-no-deal"
+    },
+    {
+      "id": "e18940e4-1e9c-4b9c-b0c9-4c17f24d60e9",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Toss a coin to the Bard (Advanced)",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-05T11:48:58.989Z",
+      "slug": "toss-coin-bard-advanced",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3caafcc1-3c24-44d2-bac7-1bb957fea398/image.png?t=1704455237",
+      "meta_default_title": "Toss a coin to the Bard (Advanced)",
+      "meta_default_description": "Production code hidden within the Bard website highlights many upcoming features. A paid version, custom chatbots, enhanced prompts and more.",
+      "meta_og_title": "Toss a coin to the Bard (Advanced)",
+      "meta_og_description": "Production code hidden within the Bard website highlights many upcoming features. A paid version, custom chatbots, enhanced prompts and more.",
+      "meta_twitter_title": "Toss a coin to the Bard (Advanced)",
+      "meta_twitter_description": "Production code hidden within the Bard website highlights many upcoming features. A paid version, custom chatbots, enhanced prompts and more.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-05T11:08:11Z",
+      "updated_at": "2024-01-05T13:49:02Z",
+      "url": "https://bensbites.beehiiv.com/p/toss-coin-bard-advanced"
+    },
+    {
+      "id": "e572d1be-0b50-48c9-9d10-e57f09ca46a8",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Copilot to get specific button on keyboards",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-05T11:05:57.114Z",
+      "slug": "copilot-get-specific-button-keyboards",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b89fba99-dde9-463b-bf78-a5417e7c4798/image.png?t=1704452656",
+      "meta_default_title": "Copilot to get specific button on keyboards",
+      "meta_default_description": "Microsoft is introducing the first major change to PC keyboards in 30 years - a dedicated key for its AI assistant, Windows Copilot.",
+      "meta_og_title": "Copilot to get specific button on keyboards",
+      "meta_og_description": "Microsoft is introducing the first major change to PC keyboards in 30 years - a dedicated key for its AI assistant, Windows Copilot.",
+      "meta_twitter_title": "Copilot to get specific button on keyboards",
+      "meta_twitter_description": "Microsoft is introducing the first major change to PC keyboards in 30 years - a dedicated key for its AI assistant, Windows Copilot.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-05T10:48:15Z",
+      "updated_at": "2024-01-05T11:06:06Z",
+      "url": "https://bensbites.beehiiv.com/p/copilot-get-specific-button-keyboards"
+    },
+    {
+      "id": "4d0bad24-8bd7-4929-b42e-245a2201b000",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI wants to pay publishers. But not too much.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-05T10:43:49.321Z",
+      "slug": "openai-wants-pay-publishers-not-much",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d920bb16-0ac2-41f3-9879-c908af394a84/image.png?t=1704451297",
+      "meta_default_title": "OpenAI wants to pay publishers. But not too much.",
+      "meta_default_description": "We’re talking about offers as low as $1-5 million annually to some publishers. Apple is also in the race with more money to offer.",
+      "meta_og_title": "OpenAI wants to pay publishers. But not too much.",
+      "meta_og_description": "We’re talking about offers as low as $1-5 million annually to some publishers. Apple is also in the race with more money to offer.",
+      "meta_twitter_title": "OpenAI wants to pay publishers. But not too much.",
+      "meta_twitter_description": "We’re talking about offers as low as $1-5 million annually to some publishers. Apple is also in the race with more money to offer.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-05T10:06:32Z",
+      "updated_at": "2024-01-05T10:44:03Z",
+      "url": "https://bensbites.beehiiv.com/p/openai-wants-pay-publishers-not-much"
+    },
+    {
+      "id": "413cf4ef-cd5a-4443-acab-34389322d48b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: AI characters for business",
+      "web_subtitle": "PLUS: Intel's new AI company",
+      "status": "published",
+      "override_scheduled_at": "2024-01-04T14:00:00.000Z",
+      "slug": "daily-digest-ai-characters-business",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b5f59f76-210f-4013-bb0f-88a22b56dc95/Green_Level_3.png?t=1704368412",
+      "meta_default_title": "Daily Digest: AI characters for business",
+      "meta_default_description": "PLUS: Intel's new AI company",
+      "meta_og_title": "Daily Digest: AI characters for business",
+      "meta_og_description": "PLUS: Intel's new AI company",
+      "meta_twitter_title": "Daily Digest: AI characters for business",
+      "meta_twitter_description": "PLUS: Intel's new AI company",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-04T08:57:53Z",
+      "updated_at": "2024-01-04T14:01:00Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-ai-characters-business"
+    },
+    {
+      "id": "b12e8af4-7579-4a3f-bca4-62afa32c0e69",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Intel starts new AI software company.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-04T12:31:14.302Z",
+      "slug": "intel-starts-new-ai-software-company",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1551d2c3-e478-4a9b-b9dc-e2aaf04f7f13/image.png?t=1704371424",
+      "meta_default_title": "Intel starts new AI software company.",
+      "meta_default_description": "Intel is forming a new independent company called Articul8 AI to commercialize its artificial intelligence software, with financial backing from DigitalBridge.",
+      "meta_og_title": "Intel starts new AI software company.",
+      "meta_og_description": "Intel is forming a new independent company called Articul8 AI to commercialize its artificial intelligence software, with financial backing from DigitalBridge.",
+      "meta_twitter_title": "Intel starts new AI software company.",
+      "meta_twitter_description": "Intel is forming a new independent company called Articul8 AI to commercialize its artificial intelligence software, with financial backing from DigitalBridge.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-04T12:22:09Z",
+      "updated_at": "2024-01-04T12:32:01Z",
+      "url": "https://bensbites.beehiiv.com/p/intel-starts-new-ai-software-company"
+    },
+    {
+      "id": "aa06023c-c315-41bd-aca2-241207d0baa6",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How Sandwich Video uses AI in its business.",
+      "web_subtitle": "The impact of AI in a creative industry.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-04T12:00:00.000Z",
+      "slug": "sandwich-video-uses-ai-business",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/45f1ed44-a9d7-408f-ae30-65bafdeec348/Pro_Share_white_background.png?t=1704363395",
+      "meta_default_title": "How Sandwich Video uses AI in its business.",
+      "meta_default_description": "The impact of AI in a creative industry.",
+      "meta_og_title": "How Sandwich Video uses AI in its business.",
+      "meta_og_description": "The impact of AI in a creative industry.",
+      "meta_twitter_title": "How Sandwich Video uses AI in its business.",
+      "meta_twitter_description": "The impact of AI in a creative industry.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "🔒 Ben's Bites PRO"
+        }
+      ],
+      "created_at": "2024-01-04T10:11:51Z",
+      "updated_at": "2024-01-04T12:00:04Z",
+      "url": "https://bensbites.beehiiv.com/p/sandwich-video-uses-ai-business"
+    },
     {
       "id": "86391ec0-d304-4e11-bce8-84bbc00e4289",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
