@@ -4,7 +4,7 @@
   "publication": {
     "id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
     "name": "Ben's Bites",
-    "description": "Top AI product launches and stories from the past 24 hours, in a 5 minute daily digest. Founders find customers and investors by launching with us. Industry experts read us religiously; Sequoia, a16z, Benchmark, OpenAI, NVIDIA, Deepmind, Microsoft, Google & many more.",
+    "description": "Learn about AI. Curated news and product launches, daily. Deep dives on business use cases, weekly. Over 100,000 subscribers",
     "tags": [
       {
         "id": 61,
@@ -27,7 +27,7 @@
     ],
     "url": "https://bensbites.beehiiv.com/",
     "web_theme": {
-      "primary_color": "#1177eb",
+      "primary_color": "#212936",
       "text_on_primary_color": "#FFFFFF",
       "secondary_color": "#ededed",
       "text_on_secondary_color": "#222222",
@@ -41,10 +41,10 @@
       "content_theme": "light",
       "border_style": "round",
       "border_radius": "6px",
-      "header_font": "Poppins",
+      "header_font": "Open Sans",
       "body_font": "Open Sans",
       "button_font": "Open Sans",
-      "logo_shadow": "md",
+      "logo_shadow": "none",
       "name": null,
       "purpose": "web",
       "owner_id": "447f6e60-e36a-4642-b6f8-46beb19045ec"
@@ -62,7 +62,7 @@
     "instagram_url": "https://www.instagram.com/bensbitesdaily/",
     "linkedin_url": "https://www.linkedin.com/company/bens-bites/",
     "tiktok_url": "",
-    "twitter_url": "https://twitter.com/bentossell/",
+    "twitter_url": "https://twitter.com/bensbitesdaily/",
     "youtube_url": "",
     "tiktok_pixel": "",
     "facebook_pixel": "640950221164719",
@@ -95,10 +95,14 @@
       "theme": "default",
       "enable_featured_post_badges": false,
       "enable_recommended_reading": true,
-      "enable_customize_category_ids": false,
+      "enable_customize_category_ids": true,
       "enable_recommendations": true,
       "enable_recaptcha": true,
-      "category_ids": [],
+      "category_ids": [
+        "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+        "64ea972c-91c5-406a-a512-1d6152696293",
+        "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1"
+      ],
       "signup_flow": [
         {
           "id": 1,
@@ -129,7 +133,7 @@
           "title": "Upgrade Page",
           "href": "/upgrade",
           "managed_type": "upgrade",
-          "enabled": false,
+          "enabled": true,
           "full_url": "https://bensbites.beehiiv.com/upgrade",
           "action_text": "Remove",
           "modal_header": "Remove Upgrade Redirect",
@@ -150,11 +154,11 @@
         },
         {
           "id": 5,
-          "title": "https://pro.bensbites.co/",
-          "href": "https://pro.bensbites.co/",
+          "title": "Home Page",
+          "href": "",
           "managed_type": "custom",
-          "enabled": true,
-          "full_url": "https://pro.bensbites.co/",
+          "enabled": false,
+          "full_url": "",
           "action_text": "Remove",
           "modal_header": "Remove Custom Redirect",
           "modal_body": "This will remove the custom redirect. When users complete the subscribe flow they will now be sent to the default home page. You can always add this back later.",
@@ -167,7 +171,7 @@
         "fc858b4d-39e3-4be1-abf4-2b55504e21a2"
       ],
       "signup_flow_messaging": {
-        "success_message": "",
+        "success_message": "Thanks for subscribing! Check your email to confirm",
         "subscribe_survey_message": "",
         "upgrade_message": "",
         "recommendations_message": "",
@@ -177,20 +181,6 @@
       "external_upgrade_page_href": "",
       "nav_groups": [
         {
-          "id": "adc0bdd1-ea41-4f08-89d5-b00758c642d9",
-          "title": "🤝 Advertise with us",
-          "managed": false,
-          "is_category_group": false,
-          "nav_links": [
-            {
-              "id": "15b6ed7e-a46d-4cb2-948e-2eade34568f4",
-              "cta_text": "🤝 Advertise with us",
-              "href": "https://sponsor.bensbites.co/",
-              "external_link": true
-            }
-          ]
-        },
-        {
           "id": "07723d5f-0ebe-43e8-b668-dcc0f5ecf7bf",
           "title": "Pro",
           "managed": false,
@@ -198,22 +188,35 @@
           "nav_links": [
             {
               "id": "1000054c-d786-40e9-9191-093c579cb958",
-              "cta_text": "🔓 Upgrade to pro",
-              "href": "https://pro.bensbites.co",
+              "cta_text": "🔓 Upgrade to Pro",
+              "href": "https://bensbites.beehiiv.com/upgrade",
+              "external_link": true
+            },
+            {
+              "id": "1d004767-2ac2-4071-be9b-70c357294e11",
+              "cta_text": "All Pro posts",
+              "href": "https://bensbites.beehiiv.com/?tags=%F0%9F%94%92+Ben's+Bites+PRO",
               "external_link": true
             }
           ]
         },
         {
-          "id": "147e4291-868a-453b-8297-3feefa6c1584",
-          "title": "All PRO posts",
+          "id": "f8e6172d-76ab-49c4-adc6-27c0c1372c04",
+          "title": "Categories",
+          "managed": false,
+          "is_category_group": true,
+          "nav_links": []
+        },
+        {
+          "id": "5b0f462c-c6e4-4752-87c9-dfe010be1166",
+          "title": "Work with us",
           "managed": false,
           "is_category_group": false,
           "nav_links": [
             {
-              "id": "1d004767-2ac2-4071-be9b-70c357294e11",
-              "cta_text": "All PRO posts",
-              "href": "https://bensbites.beehiiv.com/?tags=%F0%9F%94%92+Ben%27s+Bites+PRO",
+              "id": "15b6ed7e-a46d-4cb2-948e-2eade34568f4",
+              "cta_text": "Sponsor",
+              "href": "https://grizzlyads.com/store/bens-bites",
               "external_link": true
             }
           ]
@@ -233,28 +236,13 @@
         "description": ""
       },
       {
-        "id": "5129b471-5efe-4133-844f-ff1094e02883",
-        "display": "👀 Inside Story",
-        "description": ""
-      },
-      {
         "id": "64ea972c-91c5-406a-a512-1d6152696293",
         "display": "📬 Daily Digest",
         "description": ""
       },
       {
-        "id": "6fd5681c-6f83-4e5b-89dc-7d9e4350aebd",
-        "display": "📚 Education",
-        "description": ""
-      },
-      {
-        "id": "8bddb541-4d65-4692-8817-cfe0f81accc4",
-        "display": "📝 Startup Profile",
-        "description": ""
-      },
-      {
         "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
-        "display": "🔒 Ben's Bites PRO",
+        "display": "🔒 Ben's Bites Pro",
         "description": ""
       }
     ],
@@ -301,6 +289,394 @@
     ]
   },
   "posts": [
+    {
+      "id": "8ccf2815-3d70-473b-951a-cdcfcc7ea0eb",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Mark Zuckerberg's AI update",
+      "web_subtitle": "PLUS: ChatGPT enters classrooms, officially.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-19T14:00:00.000Z",
+      "slug": "daily-digest-mark-zuckerbergs-ai-update",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5e99855f-32c5-471b-a8ba-47aabb153cdb/Blue_Level_2.png?t=1705648366",
+      "meta_default_title": "Daily Digest: Mark Zuckerberg's AI update",
+      "meta_default_description": "PLUS: ChatGPT enters classrooms, officially.",
+      "meta_og_title": "Daily Digest: Mark Zuckerberg's AI update",
+      "meta_og_description": "PLUS: ChatGPT enters classrooms, officially.",
+      "meta_twitter_title": "Daily Digest: Mark Zuckerberg's AI update",
+      "meta_twitter_description": "PLUS: ChatGPT enters classrooms, officially.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-19T07:03:09Z",
+      "updated_at": "2024-01-19T14:00:04Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-mark-zuckerbergs-ai-update"
+    },
+    {
+      "id": "b5c6b06a-80e3-4d18-b974-b6b240c69d2c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Open AI partners with Arizona State University",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-19T11:05:07.879Z",
+      "slug": "open-ai-partners-arizona-state-university",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/70c02328-ce62-4b84-bc9d-53c982b84698/Screenshot_2024-01-19_163130.png?t=1705662226",
+      "meta_default_title": "Open AI partners with Arizona State University",
+      "meta_default_description": "ASU is about to get its hands on the full suite of ChatGPT Enterprise, starting February.",
+      "meta_og_title": "Open AI partners with Arizona State University",
+      "meta_og_description": "ASU is about to get its hands on the full suite of ChatGPT Enterprise, starting February.",
+      "meta_twitter_title": "Open AI partners with Arizona State University",
+      "meta_twitter_description": "ASU is about to get its hands on the full suite of ChatGPT Enterprise, starting February.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-19T10:51:46Z",
+      "updated_at": "2024-01-19T11:06:31Z",
+      "url": "https://bensbites.beehiiv.com/p/open-ai-partners-arizona-state-university"
+    },
+    {
+      "id": "39e57615-91d7-498a-9e0e-71d3693d9bcc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Meta is all in on open source A(G)I",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-19T10:29:25.921Z",
+      "slug": "meta-open-source-agi",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/64c3d8bb-f0e1-4995-8ebe-3a6f7b97e5b8/Screenshot_2024-01-19_155755.png?t=1705660267",
+      "meta_default_title": "Meta is all in on open source A(G)I",
+      "meta_default_description": "Mark Zuckerberg’s new goal is to create artificial general intelligence and maybe open-source it.",
+      "meta_og_title": "Meta is all in on open source A(G)I",
+      "meta_og_description": "Mark Zuckerberg’s new goal is to create artificial general intelligence and maybe open-source it.",
+      "meta_twitter_title": "Meta is all in on open source A(G)I",
+      "meta_twitter_description": "Mark Zuckerberg’s new goal is to create artificial general intelligence and maybe open-source it.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-19T10:06:53Z",
+      "updated_at": "2024-01-19T10:42:01Z",
+      "url": "https://bensbites.beehiiv.com/p/meta-open-source-agi"
+    },
+    {
+      "id": "c83a29be-1c83-4cdf-8c25-543f4f69ca6c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Google and Samsung bring AI to phones",
+      "web_subtitle": "PLUS: Olympiad grade math with AI",
+      "status": "published",
+      "override_scheduled_at": "2024-01-18T14:00:00.000Z",
+      "slug": "daily-digest-google-samsung-bring-ai-phones",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/152c6875-72e7-41ab-8a80-b40a62f7f9f8/Red_Level_1.png?t=1705576029",
+      "meta_default_title": "Daily Digest: Google and Samsung bring AI to phones",
+      "meta_default_description": "PLUS: Olympiad grade math with AI",
+      "meta_og_title": "Daily Digest: Google and Samsung bring AI to phones",
+      "meta_og_description": "PLUS: Olympiad grade math with AI",
+      "meta_twitter_title": "Daily Digest: Google and Samsung bring AI to phones",
+      "meta_twitter_description": "PLUS: Olympiad grade math with AI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-18T10:24:09Z",
+      "updated_at": "2024-01-18T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-google-samsung-bring-ai-phones"
+    },
+    {
+      "id": "44a8111c-3791-462e-bf2e-930392b75d67",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How non-technical people are using AI to code",
+      "web_subtitle": "Steps you can take, examples of others, resources, tips and a tutorial",
+      "status": "published",
+      "override_scheduled_at": "2024-01-18T12:00:00.000Z",
+      "slug": "nontechnical-people-using-ai-code",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4079a76b-f0d6-4c11-a902-2a4eacc3aad9/Pro_Share_white_background.png?t=1705571793",
+      "meta_default_title": "How non-technical people are using AI to code",
+      "meta_default_description": "Steps you can take, examples of others, resources, tips and a tutorial",
+      "meta_og_title": "How non-technical people are using AI to code",
+      "meta_og_description": "Steps you can take, examples of others, resources, tips and a tutorial",
+      "meta_twitter_title": "How non-technical people are using AI to code",
+      "meta_twitter_description": "Steps you can take, examples of others, resources, tips and a tutorial",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "🔒 Ben's Bites Pro"
+        }
+      ],
+      "created_at": "2024-01-18T09:44:56Z",
+      "updated_at": "2024-01-18T12:00:04Z",
+      "url": "https://bensbites.beehiiv.com/p/nontechnical-people-using-ai-code"
+    },
+    {
+      "id": "5a837e4e-bc75-43bf-b856-0a3fc61fcacd",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google's new AI solves math olympiad problems",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-18T11:50:27.537Z",
+      "slug": "googles-new-ai-solves-math-olympiad-problems",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7755a221-8559-4b1a-943f-b9dbccacc182/image.png?t=1705578563",
+      "meta_default_title": "Google's new AI solves math olympiad problems",
+      "meta_default_description": "New AI from Google DeepMind called AlphaGeometry nails solving super hard geometry problems.",
+      "meta_og_title": "Google's new AI solves math olympiad problems",
+      "meta_og_description": "New AI from Google DeepMind called AlphaGeometry nails solving super hard geometry problems.",
+      "meta_twitter_title": "Google's new AI solves math olympiad problems",
+      "meta_twitter_description": "New AI from Google DeepMind called AlphaGeometry nails solving super hard geometry problems.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-18T11:45:57Z",
+      "updated_at": "2024-01-18T11:51:01Z",
+      "url": "https://bensbites.beehiiv.com/p/googles-new-ai-solves-math-olympiad-problems"
+    },
+    {
+      "id": "f17671db-f9f6-48c5-9a13-0560c3668835",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Samsung S24 talks big about AI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-18T11:43:00.338Z",
+      "slug": "samsung-s24-talks-big-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/07cc86d4-2128-46ed-9e31-4e3c7d560c5e/image.png?t=1705578116",
+      "meta_default_title": "Samsung S24 talks big about AI",
+      "meta_default_description": "But how well does it hold up?",
+      "meta_og_title": "Samsung S24 talks big about AI",
+      "meta_og_description": "But how well does it hold up?",
+      "meta_twitter_title": "Samsung S24 talks big about AI",
+      "meta_twitter_description": "But how well does it hold up?",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-18T11:36:08Z",
+      "updated_at": "2024-01-18T11:43:01Z",
+      "url": "https://bensbites.beehiiv.com/p/samsung-s24-talks-big-ai"
+    },
+    {
+      "id": "bf6d389c-1da7-4d99-b480-3a5de21b579c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Google's secret stock for AI",
+      "web_subtitle": "PLUS: Open AI attempts at crowdsourcing AI policy.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-17T14:00:00.000Z",
+      "slug": "daily-digest-googles-secret-stock-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e2efdb61-2e8b-4bd1-bcd7-837347586e09/Purple_Level_3.png?t=1705482304",
+      "meta_default_title": "Daily Digest: Google's secret stock for AI",
+      "meta_default_description": "PLUS: Open AI attempts at crowdsourcing AI policy.",
+      "meta_og_title": "Daily Digest: Google's secret stock for AI",
+      "meta_og_description": "PLUS: Open AI attempts at crowdsourcing AI policy.",
+      "meta_twitter_title": "Daily Digest: Google's secret stock for AI",
+      "meta_twitter_description": "PLUS: Open AI attempts at crowdsourcing AI policy.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-17T09:04:00Z",
+      "updated_at": "2024-01-17T14:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-googles-secret-stock-ai"
+    },
+    {
+      "id": "afccddaf-a684-4ffd-8529-97bb08584944",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI's new experiment - Crowdsourcing AI policy ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-17T13:06:07.251Z",
+      "slug": "openais-new-experiment-crowdsourcing-ai-policy",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a3fb0c36-f571-47f1-aeb2-0b9e2608c1e7/image.png?t=1705495228",
+      "meta_default_title": "OpenAI's new experiment - Crowdsourcing AI policy ",
+      "meta_default_description": "OpenAI is mixing things up by using crowdsourced public opinion steer AI. It's pretty cool – your ideas and opinions could help decide how AI works.",
+      "meta_og_title": "OpenAI's new experiment - Crowdsourcing AI policy ",
+      "meta_og_description": "OpenAI is mixing things up by using crowdsourced public opinion steer AI. It's pretty cool – your ideas and opinions could help decide how AI works.",
+      "meta_twitter_title": "OpenAI's new experiment - Crowdsourcing AI policy ",
+      "meta_twitter_description": "OpenAI is mixing things up by using crowdsourced public opinion steer AI. It's pretty cool – your ideas and opinions could help decide how AI works.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-17T12:21:07Z",
+      "updated_at": "2024-01-17T13:07:02Z",
+      "url": "https://bensbites.beehiiv.com/p/openais-new-experiment-crowdsourcing-ai-policy"
+    },
+    {
+      "id": "595f409b-eeec-4448-8440-adb668d0d501",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google takes on OpenAI's high pay offers for AI talent.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-17T11:58:02.457Z",
+      "slug": "google-takes-openais-high-pay-offers-ai-talent",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0090d729-e989-4326-9965-c066db56040d/image.png?t=1705492355",
+      "meta_default_title": "Google takes on OpenAI's high pay offers for AI talent.",
+      "meta_default_description": "Google is using special stock compensation to retain its top AI researchers as OpenAI tries to poach them with huge pay packages.",
+      "meta_og_title": "Google takes on OpenAI's high pay offers for AI talent.",
+      "meta_og_description": "Google is using special stock compensation to retain its top AI researchers as OpenAI tries to poach them with huge pay packages.",
+      "meta_twitter_title": "Google takes on OpenAI's high pay offers for AI talent.",
+      "meta_twitter_description": "Google is using special stock compensation to retain its top AI researchers as OpenAI tries to poach them with huge pay packages.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-17T11:20:38Z",
+      "updated_at": "2024-01-17T11:59:01Z",
+      "url": "https://bensbites.beehiiv.com/p/google-takes-openais-high-pay-offers-ai-talent"
+    },
+    {
+      "id": "a0ef9ebc-5b92-4d08-86b8-5a161723da90",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Key statements from OpenAI at WEF Davos.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-17T11:18:34.248Z",
+      "slug": "key-statements-openai-wef-davos",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/714b9ac2-1363-4798-bdf7-72fc762d4304/image.png?t=1705490256",
+      "meta_default_title": "Key statements from OpenAI at WEF Davos.",
+      "meta_default_description": "Bloomberg interviewed Sam Altman (CEO) and Anna Makanju (VP, Global Affairs) from OpenAI",
+      "meta_og_title": "Key statements from OpenAI at WEF Davos.",
+      "meta_og_description": "Bloomberg interviewed Sam Altman (CEO) and Anna Makanju (VP, Global Affairs) from OpenAI",
+      "meta_twitter_title": "Key statements from OpenAI at WEF Davos.",
+      "meta_twitter_description": "Bloomberg interviewed Sam Altman (CEO) and Anna Makanju (VP, Global Affairs) from OpenAI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Join 100,000+ others",
+      "email_capture_message": "Stay informed and up to date on AI",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-17T10:02:16Z",
+      "updated_at": "2024-01-17T11:19:01Z",
+      "url": "https://bensbites.beehiiv.com/p/key-statements-openai-wef-davos"
+    },
     {
       "id": "86e1e197-3c19-4492-acf7-e46b7ea60b38",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
