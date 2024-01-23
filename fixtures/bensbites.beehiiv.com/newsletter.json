@@ -71,7 +71,7 @@
     "google_analytics_pixel": "",
     "gtm_pixel": "",
     "post_subscribe_form_id": null,
-    "post_unsubscribe_form_id": null,
+    "post_unsubscribe_form_id": "bec74019-6d40-4029-8d2e-6ae8dd706a43",
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
     "has_referral_program": true,
@@ -171,7 +171,7 @@
         "fc858b4d-39e3-4be1-abf4-2b55504e21a2"
       ],
       "signup_flow_messaging": {
-        "success_message": "Thanks for subscribing! Check your email to confirm",
+        "success_message": "Thanks for subscribing!",
         "subscribe_survey_message": "",
         "upgrade_message": "",
         "recommendations_message": "",
@@ -261,6 +261,19 @@
         }
       },
       {
+        "id": "d785954f-11bd-4bc4-9cd4-7c160d221c1e",
+        "name": "Wouter Teunissen",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/profile_picture.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/static_assets/defaults/thumb_profile_picture.png"
+          },
+          "landscape": {
+            "url": null
+          }
+        }
+      },
+      {
         "id": "a917fe6b-de54-45e0-ae15-d096d2664f43",
         "name": "Dani Diez",
         "profile_picture": {
@@ -289,6 +302,108 @@
     ]
   },
   "posts": [
+    {
+      "id": "9295ba65-13e1-4e8e-8a55-5d020d856278",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: AI poison and a new unicorn",
+      "web_subtitle": "PLUS: Fabs for fabulous AI",
+      "status": "published",
+      "override_scheduled_at": "2024-01-22T14:00:00.000Z",
+      "slug": "daily-digest-ai-poison-new-unicorn",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/50359255-3eff-4734-b823-c13a6f5d7e9f/Green_Level_3.png?t=1705929432",
+      "meta_default_title": "Daily Digest: AI poison and a new unicorn",
+      "meta_default_description": "PLUS: Fabs for fabulous AI",
+      "meta_og_title": "Daily Digest: AI poison and a new unicorn",
+      "meta_og_description": "PLUS: Fabs for fabulous AI",
+      "meta_twitter_title": "Daily Digest: AI poison and a new unicorn",
+      "meta_twitter_description": "PLUS: Fabs for fabulous AI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-22T01:51:40Z",
+      "updated_at": "2024-01-22T14:00:07Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-ai-poison-new-unicorn"
+    },
+    {
+      "id": "6b6520e9-d829-4a28-8fa2-96ee322fb0b7",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Eleven Labs is the new AI unicorn.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-22T12:53:14.999Z",
+      "slug": "eleven-labs-new-ai-unicorn",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b291482d-4cd6-4346-b69b-438ec016b6fd/image.png?t=1705927955",
+      "meta_default_title": "Eleven Labs is the new AI unicorn.",
+      "meta_default_description": "They just bagged $80 million in Series B funding, pushing their total funds to a neat $101 million.",
+      "meta_og_title": "Eleven Labs is the new AI unicorn.",
+      "meta_og_description": "They just bagged $80 million in Series B funding, pushing their total funds to a neat $101 million.",
+      "meta_twitter_title": "Eleven Labs is the new AI unicorn.",
+      "meta_twitter_description": "They just bagged $80 million in Series B funding, pushing their total funds to a neat $101 million.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-22T12:34:13Z",
+      "updated_at": "2024-01-22T13:17:38Z",
+      "url": "https://bensbites.beehiiv.com/p/eleven-labs-new-ai-unicorn"
+    },
+    {
+      "id": "cd1db3e8-7927-4b89-a9fb-5a98571902d1",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Sam Altman is raising money for building semiconductor factories.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-22T12:29:31.335Z",
+      "slug": "sam-altman-raising-money-building-semiconductor-factories",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f77ed44f-0d75-4c59-864e-d5a1b157c157/image.png?t=1705926198",
+      "meta_default_title": "Sam Altman is raising money for building semiconductor factories.",
+      "meta_default_description": "More deets from Bloomberg that he's betting big on setting up a global network of semiconductor factories, not just designing chips.",
+      "meta_og_title": "Sam Altman is raising money for building semiconductor factories.",
+      "meta_og_description": "More deets from Bloomberg that he's betting big on setting up a global network of semiconductor factories, not just designing chips.",
+      "meta_twitter_title": "Sam Altman is raising money for building semiconductor factories.",
+      "meta_twitter_description": "More deets from Bloomberg that he's betting big on setting up a global network of semiconductor factories, not just designing chips.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-22T11:56:57Z",
+      "updated_at": "2024-01-22T12:30:17Z",
+      "url": "https://bensbites.beehiiv.com/p/sam-altman-raising-money-building-semiconductor-factories"
+    },
     {
       "id": "8ccf2815-3d70-473b-951a-cdcfcc7ea0eb",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
