@@ -64,6 +64,8 @@
     "tiktok_url": "",
     "twitter_url": "https://twitter.com/bensbitesdaily/",
     "youtube_url": "",
+    "discord_url": null,
+    "threads_url": null,
     "tiktok_pixel": "",
     "facebook_pixel": "640950221164719",
     "google_analytics_4_pixel": "G-TV9HF9D76L",
@@ -71,9 +73,10 @@
     "google_analytics_pixel": "",
     "gtm_pixel": "",
     "post_subscribe_form_id": null,
-    "post_unsubscribe_form_id": "bec74019-6d40-4029-8d2e-6ae8dd706a43",
+    "post_unsubscribe_form_id": "65125460-8d95-47c1-a15c-358b404059d8",
     "email_sender_name": "Ben's Bites",
     "render_authors_widget": false,
+    "render_breadcrumbs": true,
     "has_referral_program": true,
     "has_recommendations": false,
     "beehiiv_branding": false,
@@ -195,7 +198,7 @@
             {
               "id": "1d004767-2ac2-4071-be9b-70c357294e11",
               "cta_text": "All Pro posts",
-              "href": "https://bensbites.beehiiv.com/?tags=%F0%9F%94%92+Ben's+Bites+PRO",
+              "href": "https://bensbites.beehiiv.com/t/%F0%9F%94%92-Ben's-Bites-Pro",
               "external_link": true
             }
           ]
@@ -243,7 +246,7 @@
       {
         "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
         "display": "🔒 Ben's Bites Pro",
-        "description": ""
+        "description": "Learn how businesses are using AI—and how you can apply the lessons at work."
       }
     ],
     "authors": [
@@ -302,6 +305,777 @@
     ]
   },
   "posts": [
+    {
+      "id": "0399f61e-a261-412c-9ee4-465efd028c95",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: AI threat detection",
+      "web_subtitle": "PLUS: A simple prompting tool",
+      "status": "published",
+      "override_scheduled_at": "2024-02-01T14:00:00.000Z",
+      "slug": "daily-digest-ai-threat-detection",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8722bf3-de2d-43f7-bc0a-ebfca6cd384b/BB_Image_3.png?t=1706786509",
+      "meta_default_title": "Daily Digest: AI threat detection",
+      "meta_default_description": "PLUS: A simple prompting tool",
+      "meta_og_title": "Daily Digest: AI threat detection",
+      "meta_og_description": "PLUS: A simple prompting tool",
+      "meta_twitter_title": "Daily Digest: AI threat detection",
+      "meta_twitter_description": "PLUS: A simple prompting tool",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [],
+      "created_at": "2024-02-01T09:39:05Z",
+      "updated_at": "2024-02-01T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-ai-threat-detection"
+    },
+    {
+      "id": "5844b6c5-a482-4054-b464-09249109997a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How to get your team to use AI",
+      "web_subtitle": "Insights from Stripe, Intercom, Zapier, Clearbit and more",
+      "status": "published",
+      "override_scheduled_at": "2024-02-01T12:00:00.000Z",
+      "slug": "get-team-use-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/638d6c61-2e93-4391-95e0-951b9121afc4/Pro_Share_Image_Dark__3_.jpg?t=1706731537",
+      "meta_default_title": "How to get your team to use AI",
+      "meta_default_description": "Insights from Stripe, Intercom, Zapier, Clearbit and more",
+      "meta_og_title": "How to get your team to use AI",
+      "meta_og_description": "Insights from Stripe, Intercom, Zapier, Clearbit and more",
+      "meta_twitter_title": "How to get your team to use AI",
+      "meta_twitter_description": "Insights from Stripe, Intercom, Zapier, Clearbit and more",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "premium",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": false,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "🔒 Ben's Bites Pro"
+        }
+      ],
+      "created_at": "2024-01-31T19:58:41Z",
+      "updated_at": "2024-02-01T12:11:18Z",
+      "url": "https://bensbites.beehiiv.com/p/get-team-use-ai"
+    },
+    {
+      "id": "23ff4d13-293f-4eb4-bedb-4dd33ab58120",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Crypto, Journalism, and AI",
+      "web_subtitle": "PLUS: Rivals of Nvidia",
+      "status": "published",
+      "override_scheduled_at": "2024-01-31T14:03:00.000Z",
+      "slug": "daily-digest-crypto-journalism-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/75d737ac-92fa-4f0b-9eef-02a95f852b1f/Blue_Level_1.png?t=1706697714",
+      "meta_default_title": "Daily Digest: Crypto, Journalism, and AI",
+      "meta_default_description": "PLUS: Rivals of Nvidia",
+      "meta_og_title": "Daily Digest: Crypto, Journalism, and AI",
+      "meta_og_description": "PLUS: Rivals of Nvidia",
+      "meta_twitter_title": "Daily Digest: Crypto, Journalism, and AI",
+      "meta_twitter_description": "PLUS: Rivals of Nvidia",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-31T10:02:18Z",
+      "updated_at": "2024-01-31T14:03:16Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-crypto-journalism-ai"
+    },
+    {
+      "id": "680441c2-029c-408f-9379-32bdb889dcd2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "The promise and challenges of crypto + AI applications by Vitalik.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-31T14:01:16.778Z",
+      "slug": "promise-challenges-crypto-ai-applications-vitalik",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ac813ea2-bcf3-49b2-9bbb-da3c0a6db37a/image.png?t=1706710021",
+      "meta_default_title": "The promise and challenges of crypto + AI applications by Vitalik.",
+      "meta_default_description": "Highlighting Vitalik’s points on what applications are possible, what are dangerous and general thoughts without going into the technical jargon.",
+      "meta_og_title": "The promise and challenges of crypto + AI applications by Vitalik.",
+      "meta_og_description": "Highlighting Vitalik’s points on what applications are possible, what are dangerous and general thoughts without going into the technical jargon.",
+      "meta_twitter_title": "The promise and challenges of crypto + AI applications by Vitalik.",
+      "meta_twitter_description": "Highlighting Vitalik’s points on what applications are possible, what are dangerous and general thoughts without going into the technical jargon.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-31T12:24:38Z",
+      "updated_at": "2024-01-31T14:08:22Z",
+      "url": "https://bensbites.beehiiv.com/p/promise-challenges-crypto-ai-applications-vitalik"
+    },
+    {
+      "id": "1ed3702d-7944-45ba-b58e-bbb8a0d4a212",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Former Quartz leader is building the New York Times' AI team",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-31T11:53:51.227Z",
+      "slug": "former-quartz-leader-building-new-york-times-ai-team",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6d92b515-a1b7-40c9-82a0-e985eb58efbf/image.png?t=1706701992",
+      "meta_default_title": "Former Quartz leader is building the New York Times' AI team",
+      "meta_default_description": "The New York Times is setting up a team to get AI into its journalism.",
+      "meta_og_title": "Former Quartz leader is building the New York Times' AI team",
+      "meta_og_description": "The New York Times is setting up a team to get AI into its journalism.",
+      "meta_twitter_title": "Former Quartz leader is building the New York Times' AI team",
+      "meta_twitter_description": "The New York Times is setting up a team to get AI into its journalism.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-31T11:38:18Z",
+      "updated_at": "2024-01-31T11:54:01Z",
+      "url": "https://bensbites.beehiiv.com/p/former-quartz-leader-building-new-york-times-ai-team"
+    },
+    {
+      "id": "ebcd89c8-cbef-4569-ab3c-89e3e723b8f5",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: New CodeLlama is better than GPT-4",
+      "web_subtitle": "PLUS: family friendly AI and AWS hackathon.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-30T14:00:00.000Z",
+      "slug": "daily-digest-new-codellama-better-gpt4",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7def01cc-a2b2-4491-8e4d-7fcc6e8fc5e6/Red_Level_3.png?t=1706613696",
+      "meta_default_title": "Daily Digest: New CodeLlama is better than GPT-4",
+      "meta_default_description": "PLUS: family friendly AI and AWS hackathon.",
+      "meta_og_title": "Daily Digest: New CodeLlama is better than GPT-4",
+      "meta_og_description": "PLUS: family friendly AI and AWS hackathon.",
+      "meta_twitter_title": "Daily Digest: New CodeLlama is better than GPT-4",
+      "meta_twitter_description": "PLUS: family friendly AI and AWS hackathon.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-30T10:23:31Z",
+      "updated_at": "2024-01-30T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-new-codellama-better-gpt4"
+    },
+    {
+      "id": "e030cad9-680a-430e-9da6-3bafdc3bd641",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "OpenAI and Common Sense Media partner for kids-friendly AI",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-30T11:49:35.672Z",
+      "slug": "openai-common-sense-media-partner-kidsfriendly-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3d4f2e2e-724f-4a09-9f87-d5cccdbb5643/image.png?t=1706615129",
+      "meta_default_title": "OpenAI and Common Sense Media partner for kids-friendly AI",
+      "meta_default_description": "There are two goals of the partnerships: teach families to get the most out of it and deal with any risks by exposing kids to it.",
+      "meta_og_title": "OpenAI and Common Sense Media partner for kids-friendly AI",
+      "meta_og_description": "There are two goals of the partnerships: teach families to get the most out of it and deal with any risks by exposing kids to it.",
+      "meta_twitter_title": "OpenAI and Common Sense Media partner for kids-friendly AI",
+      "meta_twitter_description": "There are two goals of the partnerships: teach families to get the most out of it and deal with any risks by exposing kids to it.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-30T11:29:56Z",
+      "updated_at": "2024-01-30T11:50:01Z",
+      "url": "https://bensbites.beehiiv.com/p/openai-common-sense-media-partner-kidsfriendly-ai"
+    },
+    {
+      "id": "67284b24-bc29-4013-92bc-b8254ab0a30e",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Are Siri & ChatGPT friends now?",
+      "web_subtitle": "PLUS: Microsoft thinks knowledge work will change dramatically.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-29T14:00:00.000Z",
+      "slug": "daily-digest-siri-chatgpt-friends-now",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f5570979-de06-4d16-997e-06347311b8f1/Purple_Level_2.png?t=1706516276",
+      "meta_default_title": "Daily Digest: Are Siri & ChatGPT friends now?",
+      "meta_default_description": "PLUS: Microsoft thinks knowledge work will change dramatically.",
+      "meta_og_title": "Daily Digest: Are Siri & ChatGPT friends now?",
+      "meta_og_description": "PLUS: Microsoft thinks knowledge work will change dramatically.",
+      "meta_twitter_title": "Daily Digest: Are Siri & ChatGPT friends now?",
+      "meta_twitter_description": "PLUS: Microsoft thinks knowledge work will change dramatically.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-29T07:21:14Z",
+      "updated_at": "2024-01-29T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-siri-chatgpt-friends-now"
+    },
+    {
+      "id": "1b944e5f-f0a1-420e-b116-84de8f74d183",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "19 insights from Microsoft's Future of Work Report 2023",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-29T13:30:22.326Z",
+      "slug": "19-insights-microsofts-future-work-report-2023",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6cb186c7-06a5-4da4-b88d-8e1a186ee313/image.png?t=1706534618",
+      "meta_default_title": "19 insights from Microsoft's Future of Work Report 2023",
+      "meta_default_description": "The busy man’s guide to the future of work with AI.",
+      "meta_og_title": "19 insights from Microsoft's Future of Work Report 2023",
+      "meta_og_description": "The busy man’s guide to the future of work with AI.",
+      "meta_twitter_title": "19 insights from Microsoft's Future of Work Report 2023",
+      "meta_twitter_description": "The busy man’s guide to the future of work with AI.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-29T12:00:20Z",
+      "updated_at": "2024-01-29T13:36:48Z",
+      "url": "https://bensbites.beehiiv.com/p/19-insights-microsofts-future-work-report-2023"
+    },
+    {
+      "id": "cdbb62eb-2d18-4ff8-8a67-adce9ca5f866",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Apple's doubling down on AI in Siri and messages.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-29T11:29:30.834Z",
+      "slug": "apples-doubling-ai-siri-messages",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4725d21-2e8e-4838-bc64-128708e39342/image.png?t=1706527756",
+      "meta_default_title": "Apple's doubling down on AI in Siri and messages.",
+      "meta_default_description": "And maybe getting a little cosy with ChatGPT.",
+      "meta_og_title": "Apple's doubling down on AI in Siri and messages.",
+      "meta_og_description": "And maybe getting a little cosy with ChatGPT.",
+      "meta_twitter_title": "Apple's doubling down on AI in Siri and messages.",
+      "meta_twitter_description": "And maybe getting a little cosy with ChatGPT.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-29T11:12:20Z",
+      "updated_at": "2024-01-29T11:33:41Z",
+      "url": "https://bensbites.beehiiv.com/p/apples-doubling-ai-siri-messages"
+    },
+    {
+      "id": "d777ef92-c55f-4651-891a-c265bfae143d",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: AI got cheaper, again",
+      "web_subtitle": "PLUS: supercomputers for open source",
+      "status": "published",
+      "override_scheduled_at": "2024-01-26T14:00:00.000Z",
+      "slug": "daily-digest-ai-got-cheaper",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4e260771-ec9f-4dad-8756-8230f7b4c24f/Green_Level_1.png?t=1706266092",
+      "meta_default_title": "Daily Digest: AI got cheaper, again",
+      "meta_default_description": "PLUS: supercomputers for open source",
+      "meta_og_title": "Daily Digest: AI got cheaper, again",
+      "meta_og_description": "PLUS: supercomputers for open source",
+      "meta_twitter_title": "Daily Digest: AI got cheaper, again",
+      "meta_twitter_description": "PLUS: supercomputers for open source",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-26T10:44:45Z",
+      "updated_at": "2024-01-29T07:58:59Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-ai-got-cheaper"
+    },
+    {
+      "id": "11582c0b-9853-4111-8d65-866a1cdd8cdb",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Fresh from OpenAI: New embedding models and cost savings",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-26T12:54:27.508Z",
+      "slug": "fresh-openai-new-embedding-models-cost-savings",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1609695f-e598-451b-8b13-61e2fe0caf50/image.png?t=1706273527",
+      "meta_default_title": "Fresh from OpenAI: New embedding models and cost savings",
+      "meta_default_description": "They’ve launched two spanking new embedding models, spiced up the GPT-4 Turbo, and made the GPT-3.5 Turbo cheaper. Improved moderation & APIs as well.",
+      "meta_og_title": "Fresh from OpenAI: New embedding models and cost savings",
+      "meta_og_description": "They’ve launched two spanking new embedding models, spiced up the GPT-4 Turbo, and made the GPT-3.5 Turbo cheaper. Improved moderation & APIs as well.",
+      "meta_twitter_title": "Fresh from OpenAI: New embedding models and cost savings",
+      "meta_twitter_description": "They’ve launched two spanking new embedding models, spiced up the GPT-4 Turbo, and made the GPT-3.5 Turbo cheaper. Improved moderation & APIs as well.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-26T12:38:28Z",
+      "updated_at": "2024-01-26T13:02:50Z",
+      "url": "https://bensbites.beehiiv.com/p/fresh-openai-new-embedding-models-cost-savings"
+    },
+    {
+      "id": "c7d89311-b5d2-4767-8445-14be6dc6847f",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Bret Taylor’s stealth AI startup is almost an unicorn. ",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-26T12:29:00.699Z",
+      "slug": "bret-taylors-stealth-ai-startup-almost-unicorn",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e2fb5904-33b3-4d68-9a2e-39ad2ea2f637/image.png?t=1706272109",
+      "meta_default_title": "Bret Taylor’s stealth AI startup is almost an unicorn. ",
+      "meta_default_description": "Sierra is in talks for new funding valuing it at $1B.",
+      "meta_og_title": "Bret Taylor’s stealth AI startup is almost an unicorn. ",
+      "meta_og_description": "Sierra is in talks for new funding valuing it at $1B.",
+      "meta_twitter_title": "Bret Taylor’s stealth AI startup is almost an unicorn. ",
+      "meta_twitter_description": "Sierra is in talks for new funding valuing it at $1B.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-26T12:10:35Z",
+      "updated_at": "2024-01-26T12:30:01Z",
+      "url": "https://bensbites.beehiiv.com/p/bret-taylors-stealth-ai-startup-almost-unicorn"
+    },
+    {
+      "id": "6b240d71-f239-4e08-bd6c-83b3b62a9e96",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Hugging Face and Google Cloud are teaming up",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-26T12:01:04.505Z",
+      "slug": "hugging-face-google-cloud-teaming",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0f1c888f-5533-428e-a945-78a1b25ce645/image.png?t=1706270269",
+      "meta_default_title": "Hugging Face and Google Cloud are teaming up",
+      "meta_default_description": "Google brings its heavyweight AI research and cloud hardware to the table, while Hugging Face adds its vast repository of transformer models & OS models.",
+      "meta_og_title": "Hugging Face and Google Cloud are teaming up",
+      "meta_og_description": "Google brings its heavyweight AI research and cloud hardware to the table, while Hugging Face adds its vast repository of transformer models & OS models.",
+      "meta_twitter_title": "Hugging Face and Google Cloud are teaming up",
+      "meta_twitter_description": "Google brings its heavyweight AI research and cloud hardware to the table, while Hugging Face adds its vast repository of transformer models & OS models.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-26T11:53:13Z",
+      "updated_at": "2024-01-26T12:02:02Z",
+      "url": "https://bensbites.beehiiv.com/p/hugging-face-google-cloud-teaming"
+    },
+    {
+      "id": "e3fc8e26-137b-4b09-ae5d-69248ea0ed55",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Next-gen AI videos",
+      "web_subtitle": "PLUS: how clearbit uses ai internally",
+      "status": "published",
+      "override_scheduled_at": "2024-01-25T14:00:00.000Z",
+      "slug": "daily-digest-nextgen-ai-videos",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/79fec5b0-b50d-4965-ab04-d8493d449b4d/Blue_Level_3.png?t=1706185537",
+      "meta_default_title": "Daily Digest: Next-gen AI videos",
+      "meta_default_description": "PLUS: how clearbit uses ai internally",
+      "meta_og_title": "Daily Digest: Next-gen AI videos",
+      "meta_og_description": "PLUS: how clearbit uses ai internally",
+      "meta_twitter_title": "Daily Digest: Next-gen AI videos",
+      "meta_twitter_description": "PLUS: how clearbit uses ai internally",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-25T10:59:40Z",
+      "updated_at": "2024-01-25T14:00:08Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-nextgen-ai-videos"
+    },
+    {
+      "id": "922658df-4131-4de3-81e5-55766d623ad3",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Most leading news websites now block AI",
+      "web_subtitle": "",
+      "status": "published",
+      "override_scheduled_at": "2024-01-25T12:21:46.331Z",
+      "slug": "leading-news-websites-now-block-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/62aa32fa-a28b-4884-95d3-5be232081ddc/image.png?t=1706185276",
+      "meta_default_title": "Most leading news websites now block AI",
+      "meta_default_description": "Nearly 90% of leading news platforms are shutting their doors on AI bots, while their right-wing counterparts are rolling out the welcome mat.",
+      "meta_og_title": "Most leading news websites now block AI",
+      "meta_og_description": "Nearly 90% of leading news platforms are shutting their doors on AI bots, while their right-wing counterparts are rolling out the welcome mat.",
+      "meta_twitter_title": "Most leading news websites now block AI",
+      "meta_twitter_description": "Nearly 90% of leading news platforms are shutting their doors on AI bots, while their right-wing counterparts are rolling out the welcome mat.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-25T12:19:21Z",
+      "updated_at": "2024-01-25T12:22:19Z",
+      "url": "https://bensbites.beehiiv.com/p/leading-news-websites-now-block-ai"
+    },
+    {
+      "id": "e4a2fa75-7e7d-471f-b463-1d357b94d16c",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "How Clearbit’s team uses AI",
+      "web_subtitle": "and how you can implement similar strategies at work",
+      "status": "published",
+      "override_scheduled_at": "2024-01-25T12:00:00.000Z",
+      "slug": "clearbits-team-uses-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/28c15234-1f63-40ec-b998-efd11c7f5f34/Pro_Share_Image_Dark.jpg?t=1706185539",
+      "meta_default_title": "How Clearbit’s team uses AI",
+      "meta_default_description": "and how you can implement similar strategies at work",
+      "meta_og_title": "How Clearbit’s team uses AI",
+      "meta_og_description": "and how you can implement similar strategies at work",
+      "meta_twitter_title": "How Clearbit’s team uses AI",
+      "meta_twitter_description": "and how you can implement similar strategies at work",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [
+        {
+          "id": "fc858b4d-39e3-4be1-abf4-2b55504e21a2",
+          "name": "Ben Tossell",
+          "profile_picture": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/uJ4UYake_400x400.jpg",
+            "thumb": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/thumb_uJ4UYake_400x400.jpg"
+            },
+            "landscape": {
+              "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fc858b4d-39e3-4be1-abf4-2b55504e21a2/landscape_uJ4UYake_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "content_tags": [
+        {
+          "id": "9b04f0e9-053d-47c9-8a1b-94505ef5fd4d",
+          "display": "🔒 Ben's Bites Pro"
+        }
+      ],
+      "created_at": "2024-01-25T10:05:01Z",
+      "updated_at": "2024-02-01T09:30:17Z",
+      "url": "https://bensbites.beehiiv.com/p/clearbits-team-uses-ai"
+    },
+    {
+      "id": "c6b482a3-9d99-4b10-a73d-e0db53066435",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Google products get AI glow up",
+      "web_subtitle": "But talent's leaving, when Microsoft is building more teams.",
+      "status": "published",
+      "override_scheduled_at": "2024-01-24T14:00:00.000Z",
+      "slug": "daily-digest-google-products-get-ai-glow",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d34f4e2c-38f1-4229-baba-d9fcd5b196be/Red_Level_2.png?t=1706081131",
+      "meta_default_title": "Daily Digest: Google products get AI glow up",
+      "meta_default_description": "But talent's leaving, when Microsoft is building more teams.",
+      "meta_og_title": "Daily Digest: Google products get AI glow up",
+      "meta_og_description": "But talent's leaving, when Microsoft is building more teams.",
+      "meta_twitter_title": "Daily Digest: Google products get AI glow up",
+      "meta_twitter_description": "But talent's leaving, when Microsoft is building more teams.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-24T07:24:23Z",
+      "updated_at": "2024-01-24T14:00:06Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-google-products-get-ai-glow"
+    },
+    {
+      "id": "16aab8b6-e80f-46f5-b1db-88747b1487f2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google starts bringing AI to chrome.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-24T11:37:03.421Z",
+      "slug": "google-starts-bringing-ai-chrome",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8ef27094-91e4-4f96-8893-238587b05805/Screenshot_2024-01-24_170434.png?t=1706096213",
+      "meta_default_title": "Google starts bringing AI to chrome.",
+      "meta_default_description": "Guess what’s latest on Chrome? Easy, it’s AI. With the new Chrome release (M121), Google’s stepping up its game with some fresh AI-powered features.",
+      "meta_og_title": "Google starts bringing AI to chrome.",
+      "meta_og_description": "Guess what’s latest on Chrome? Easy, it’s AI. With the new Chrome release (M121), Google’s stepping up its game with some fresh AI-powered features.",
+      "meta_twitter_title": "Google starts bringing AI to chrome.",
+      "meta_twitter_description": "Guess what’s latest on Chrome? Easy, it’s AI. With the new Chrome release (M121), Google’s stepping up its game with some fresh AI-powered features.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-24T11:15:45Z",
+      "updated_at": "2024-01-24T11:38:01Z",
+      "url": "https://bensbites.beehiiv.com/p/google-starts-bringing-ai-chrome"
+    },
+    {
+      "id": "5dfeb884-b7a8-4f19-bfe9-315302abe801",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI staff from Google are now betting on their own startup.",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-24T11:05:42.025Z",
+      "slug": "ai-staff-google-now-betting-startup",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5af98962-9ed0-45ac-b9e5-0134342aee04/image.png?t=1706094191",
+      "meta_default_title": "AI staff from Google are now betting on their own startup.",
+      "meta_default_description": "Millions in funding, big ideas and internal red taping maybe the core drivers.",
+      "meta_og_title": "AI staff from Google are now betting on their own startup.",
+      "meta_og_description": "Millions in funding, big ideas and internal red taping maybe the core drivers.",
+      "meta_twitter_title": "AI staff from Google are now betting on their own startup.",
+      "meta_twitter_description": "Millions in funding, big ideas and internal red taping maybe the core drivers.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-24T10:41:24Z",
+      "updated_at": "2024-01-24T12:33:01Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-staff-google-now-betting-startup"
+    },
+    {
+      "id": "e427192a-0908-4d1e-acc7-18ab6a2281dc",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Microsoft makes new AI team for small models",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-01-24T10:35:16.493Z",
+      "slug": "microsoft-makes-new-ai-team-small-models",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f8223192-267b-4812-a73f-0149da4a7c5c/image.png?t=1706092502",
+      "meta_default_title": "Microsoft makes new AI team for small models",
+      "meta_default_description": "Microsoft is focusing on small language models (SLMs) to cut down costs and computing power.",
+      "meta_og_title": "Microsoft makes new AI team for small models",
+      "meta_og_description": "Microsoft is focusing on small language models (SLMs) to cut down costs and computing power.",
+      "meta_twitter_title": "Microsoft makes new AI team for small models",
+      "meta_twitter_description": "Microsoft is focusing on small language models (SLMs) to cut down costs and computing power.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-01-24T10:16:24Z",
+      "updated_at": "2024-01-24T10:36:47Z",
+      "url": "https://bensbites.beehiiv.com/p/microsoft-makes-new-ai-team-small-models"
+    },
+    {
+      "id": "7c8da2ee-4201-4a74-a690-79a83846165b",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Take a deep breath",
+      "web_subtitle": "and welcome more AI",
+      "status": "published",
+      "override_scheduled_at": "2024-01-23T14:00:00.000Z",
+      "slug": "daily-digest-take-deep-breath",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/29df3114-3ecd-41f1-b011-2afb2e15a8c7/Purple_Level_1.png?t=1706014240",
+      "meta_default_title": "Daily Digest: Take a deep breath",
+      "meta_default_description": "and welcome more AI",
+      "meta_og_title": "Daily Digest: Take a deep breath",
+      "meta_og_description": "and welcome more AI",
+      "meta_twitter_title": "Daily Digest: Take a deep breath",
+      "meta_twitter_description": "and welcome more AI",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-01-23T11:04:44Z",
+      "updated_at": "2024-01-23T14:00:05Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-take-deep-breath"
+    },
     {
       "id": "9295ba65-13e1-4e8e-8a55-5d020d856278",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
