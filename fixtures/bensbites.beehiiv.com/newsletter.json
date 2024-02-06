@@ -306,6 +306,108 @@
   },
   "posts": [
     {
+      "id": "57023080-0203-4527-b2e9-5f7cf79920c2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Daily Digest: Going out with AI",
+      "web_subtitle": "PLUS: New Trends and Rebrands.",
+      "status": "published",
+      "override_scheduled_at": "2024-02-05T14:00:00.000Z",
+      "slug": "daily-digest-going-ai",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/bce0e037-52b6-440e-af72-154c01af1dc0/Red_Level_1.png?t=1707124215",
+      "meta_default_title": "Daily Digest: Going out with AI",
+      "meta_default_description": "PLUS: New Trends and Rebrands.",
+      "meta_og_title": "Daily Digest: Going out with AI",
+      "meta_og_description": "PLUS: New Trends and Rebrands.",
+      "meta_twitter_title": "Daily Digest: Going out with AI",
+      "meta_twitter_description": "PLUS: New Trends and Rebrands.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "64ea972c-91c5-406a-a512-1d6152696293",
+          "display": "📬 Daily Digest"
+        }
+      ],
+      "created_at": "2024-02-05T08:00:33Z",
+      "updated_at": "2024-02-05T14:00:12Z",
+      "url": "https://bensbites.beehiiv.com/p/daily-digest-going-ai"
+    },
+    {
+      "id": "a2d92ebd-1604-4c0e-b460-d3c287d222a2",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "AI hiring is changing",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-02-05T10:17:13.128Z",
+      "slug": "ai-hiring-changing",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fffd938f-9c43-498c-9a0e-acd8774f2e4d/image.png?t=1707128216",
+      "meta_default_title": "AI hiring is changing",
+      "meta_default_description": "Not just PhDs anymore. ",
+      "meta_og_title": "AI hiring is changing",
+      "meta_og_description": "Not just PhDs anymore. ",
+      "meta_twitter_title": "AI hiring is changing",
+      "meta_twitter_description": "Not just PhDs anymore. ",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-02-05T09:45:14Z",
+      "updated_at": "2024-02-05T10:20:00Z",
+      "url": "https://bensbites.beehiiv.com/p/ai-hiring-changing"
+    },
+    {
+      "id": "1d0abe1c-6139-4a79-8c87-e3b0f710d86a",
+      "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
+      "web_title": "Google Maps start generative AI pilot with Local Guides",
+      "web_subtitle": null,
+      "status": "published",
+      "override_scheduled_at": "2024-02-05T09:41:46.613Z",
+      "slug": "google-maps-start-generative-ai-pilot-local-guides",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1cf5b142-f81b-4d52-be1f-dbaae9943c14/image.png?t=1707126052",
+      "meta_default_title": "Google Maps start generative AI pilot with Local Guides",
+      "meta_default_description": "Google's rolling out AI magic in Maps to suggest places based on your vibe or needs, starting with a select group of Local Guides in the U.S.",
+      "meta_og_title": "Google Maps start generative AI pilot with Local Guides",
+      "meta_og_description": "Google's rolling out AI magic in Maps to suggest places based on your vibe or needs, starting with a select group of Local Guides in the U.S.",
+      "meta_twitter_title": "Google Maps start generative AI pilot with Local Guides",
+      "meta_twitter_description": "Google's rolling out AI magic in Maps to suggest places based on your vibe or needs, starting with a select group of Local Guides in the U.S.",
+      "audience": "free",
+      "comments_enabled": true,
+      "comments_state": "default",
+      "enforce_gated_content": false,
+      "enable_popup_on_scroll": true,
+      "email_capture_title": "Discover more from Ben's Bites",
+      "email_capture_message": "Learn about AI.  Curated news and product launches, daily.  Deep dives on business use cases, weekly. Over 100,000 subscribers",
+      "email_capture_cta": "Subscribe",
+      "authors": [],
+      "content_tags": [
+        {
+          "id": "4b4f44ed-2510-4e0e-b4d5-74f57e40d0f1",
+          "display": "🍿 Quick Bites"
+        }
+      ],
+      "created_at": "2024-02-05T09:17:00Z",
+      "updated_at": "2024-02-05T09:42:01Z",
+      "url": "https://bensbites.beehiiv.com/p/google-maps-start-generative-ai-pilot-local-guides"
+    },
+    {
       "id": "82c2dc46-b541-4688-aaee-2f67000cfb1c",
       "publication_id": "447f6e60-e36a-4642-b6f8-46beb19045ec",
       "web_title": "Daily Digest: Draw me a bard",
